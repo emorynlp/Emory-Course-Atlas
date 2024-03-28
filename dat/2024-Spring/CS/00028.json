@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 572",
+    "course_title": "Information Retrieval",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 14",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "This course will cover fundamental techniques for text-based information systems: text indexing; Boolean, vector space, and probabilistic retrieval models; structured and semi-structured search; evaluation, feedback and interface issues. Web search including algorithmic and system issues for crawling, link-based algorithms, web usage mining, and Web metadata. The goal of the course is to be exposed to current issues and trends in information retrieval and web search and to understand the fundamental algorithms behind modern web search engines.",
+    "prerequisites": null,
+    "instructors": "Eugene Agichtein - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in Math & Science Center - W301",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_572_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3154, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: E. Agichtein, Status: Open",
+    "date_accessed": "2023-10-31"
+}

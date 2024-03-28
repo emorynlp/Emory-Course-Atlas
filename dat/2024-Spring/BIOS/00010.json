@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 532",
+    "course_title": "Statistical Computing",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 11",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-16 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Prerequisite: BIOS 506, BIOS 510, and BIOS 531 or permission of instructor. Programming style and efficiency, data management and data structures, hardware and software, maximum likelihood estimation, matrix methods and least squares, Monte Carlo simulation, pseudo-random number generation, bootstrap, and UNIX-based computing and graphical methods.",
+    "prerequisites": null,
+    "instructors": "George A Cotsonis - Primary Instructor",
+    "schedule_location": "T 10am-11:50am",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BIOS_532_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1052, Section #: 1, Type: LEC, Campus: ATL, Meets: T 10-11:50a, Instructor: G. Cotsonis, Status: Open",
+    "date_accessed": "2023-10-31"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM_OX 110",
+    "course_title": "Introduction to Scientific Methods",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "This course is designed to introduce students to the style of analytical thinking required for research and the concepts and procedures used in the conduct of empirical research. Students will be introduced to the basic toolkit of researchers which includes sampling, hypothesis testing, Bayesian inference, regression, experiments, instrumental variables, differences in differences, and regression discontinuity.",
+    "prerequisites": null,
+    "instructors": "Zachary Binney - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4302, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: Z. Binney, Status: Open\nClass Nbr: 4303, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: Z. Binney, Status: Open",
+    "date_accessed": "2023-10-31"
+}

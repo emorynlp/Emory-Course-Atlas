@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 320",
+    "course_title": "Econometrics",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Introduction to construction and testing of econometric models; analysis and critique of general linear regression model; simultaneous equations models; computer program for regression analysis; applications.",
+    "prerequisites": "(ECON 101 or ECON_OX 101 or BUS 201) and (ECON 112 or ECON_OX 112)  and (ECON 220 or MATH 207 or MATH_OX 207 or MATH 361 or MATH 362)  or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3248, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: S. Hoderlein, Status: Open\nClass Nbr: 3250, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: P. Sant'Anna, Status: Open\nClass Nbr: This section is full 3390, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: S. O'Connell, Status: Open\nClass Nbr: 3249, Section #: LAB1, Type: LAB, Campus: ATL, Meets: F 9-9:50a, Instructor: P. Lopez de mesa Moyano, Status: Open\nClass Nbr: 3251, Section #: LAB2, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: P. Lopez de mesa Moyano, Status: Open\nClass Nbr: 3810, Section #: LAB3, Type: LAB, Campus: ATL, Meets: F 2:30-3:20p, Instructor: P. Lopez de mesa Moyano, Status: Open",
+    "date_accessed": "2023-10-31"
+}

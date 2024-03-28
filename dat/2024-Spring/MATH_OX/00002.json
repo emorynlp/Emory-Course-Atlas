@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 111",
+    "course_title": "Calculus I",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "This sequence includes differential and integral calculus of algebraic and transcendental functions of one variable, with applications and infinite series, including power series.",
+    "prerequisites": null,
+    "instructors": "Tien Chih - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4450, Section #: 1, Type: LEC, Campus: OXF, Meets: TThF 1-1:50p, Instructor: T. Chih, Status: Open\nClass Nbr: 4451, Section #: 2, Type: LEC, Campus: OXF, Meets: TThF 2:30-3:20p, Instructor: T. Chih, Status: Open",
+    "date_accessed": "2023-10-31"
+}

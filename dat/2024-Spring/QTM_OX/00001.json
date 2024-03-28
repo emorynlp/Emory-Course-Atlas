@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM_OX 100",
+    "course_title": "Introduction to Statistical Inference with Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "Varies by section",
+    "course_description": "This course provides an introduction to descriptive and inferential statistics. It is designed as a gateway course, with emphasis on practice and implementation. The course introduces probability, sampling distributions, interval estimation, hypothesis testing, ANOVA, and regression. The class consists of lectures and a weekly lab session. The lectures introduce statistical concepts and theory and the lab session applies those lessons using the statistical software.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4270, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: J. McGee, Status: Open\nClass Nbr: 4271, Section #: 10, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: S. Riner, Status: Open\nClass Nbr: 4272, Section #: 11, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: S. Riner, Status: Open\nClass Nbr: 4273, Section #: 12, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: S. Riner, Status: Open\nClass Nbr: 4274, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: T. Dixon, Status: Open\nClass Nbr: 4275, Section #: 3, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: J. McGee, Status: Open\nClass Nbr: 4276, Section #: 4, Type: LEC, Campus: OXF, Meets: MW 4-5:15p, Instructor: S. Riner, Status: Open\nClass Nbr: 4277, Section #: 5, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: S. Riner, Status: Open\nClass Nbr: 4278, Section #: 6, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: S. Riner, Status: Open\nClass Nbr: 4279, Section #: 7, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: J. McGee, Status: Open\nClass Nbr: 4280, Section #: 8, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: T. Dixon, Status: Open\nClass Nbr: 4281, Section #: 9, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: J. McGee, Status: Open",
+    "date_accessed": "2023-10-31"
+}

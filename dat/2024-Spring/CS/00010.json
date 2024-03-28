@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 329",
+    "course_title": "Computational Linguistics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 0Waitlist Total: 20",
+    "waitlist_total": ": 20",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Wait List",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "Natural Language Processing (NLP) is a field in Artificial Intelligence that creates computational models to understand, interpret, and generate human language. NLP technology has become deeply ingrained in our daily lives, evolving at an unprecedented pace.\nThis course focuses on establishing a solid foundation in the core principles for grasping contemporary NLP techniques. We begin with language models, enabling computational systems to learn human language, and delve into vector space models that transform human language into machine-understandable vector spaces. Next, we introduce distributional semantics for creating word representations based on their distributions and explore contextual representations that capture subtle language nuances through context. Finally, we discuss modern topics such as sequence-to-sequence models, which facilitate text generation, and large language models that underpin cutting-edge NLP applications.\n\n\nStudents will engage in team projects later in the course and construct practical NLP applications by leveraging existing models and APIs. These projects will culminate in public presentations featuring live demonstrations. Several homework assignments will further deepen our understanding of the concepts and the practice of NLP modeling through Python programming. There are no exams in this course.\nBy the end of the term, students can expect to possess the knowledge and skills necessary to navigate the swiftly evolving landscape of NLP.",
+    "course_description": "This course will focus on the analysis of syntactic and semantic structures, ontologies and taxonomies, distributional semantics and discourse, as well as their applications in computational linguistics. Assignments will include advanced programming implementations.",
+    "prerequisites": "This course requires CS 171 or  CS 171Z or CS_OX 171 or equivalent transfer credit as a prerequisite.",
+    "instructors": "Jinho Choi - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in White Hall 102",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_329_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 3138, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: J. Choi, Status: Wait List",
+    "date_accessed": "2023-10-31"
+}

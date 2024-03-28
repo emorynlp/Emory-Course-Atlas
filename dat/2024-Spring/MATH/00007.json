@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 221",
+    "course_title": "Linear Algebra",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Systems of linear equations, matrices, determinants, linear transformations, eigenvalues and eigenvectors, least-squares.",
+    "prerequisites": "MATH 111 or MATH_OX 111 or MATH 112 or MATH_OX 112 or MATH 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3090, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 10-10:50a, Instructor: Mayo/Buser, Status: Open\nClass Nbr: 3092, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 11:30a-12:20p, Instructor: Mayo/Buser, Status: Open\nClass Nbr: 3093, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 1-1:50p, Instructor: Verma/Longbrake, Status: Open\nClass Nbr: 3094, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 2:30-3:20p, Instructor: Verma/Longbrake, Status: Open\nClass Nbr: 3096, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 11:30a-12:20p, Instructor: Nurbekyan/Johnston, Status: Open\nClass Nbr: 3100, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 1-1:50p, Instructor: Nurbekyan/Johnston, Status: Open",
+    "date_accessed": "2023-10-31"
+}

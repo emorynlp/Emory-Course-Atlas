@@ -1,0 +1,22 @@
+{
+    "course_code": "BUS 390A",
+    "course_title": "TechTool: Getting Started with Python",
+    "credit_hours": "0.5",
+    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Satisfactory/Unsatisfactory",
+    "enrollment_status": "Closed",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "This course invites students into the world of Python, a highly regarded programming language with extensive applications in data analysis, automation, and machine learning within diverse business contexts. Requiring no previous programming knowledge, the course is designed to impart a beginner level understanding of Python, its syntax, its setup and navigation protocols, and its significance in the business landscape. It enables students to engage with Python scripts, interpret the output, and grasp the structure and syntax of straightforward Python scripts. Upon course completion, students will gain the ability to enact simple yet significant modifications to existing scripts, enhancing their ability to leverage Python in their business studies and careers.",
+    "prerequisites": "This section is reserved for students in the BBA program.",
+    "instructors": "Wen Gu - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BUS_390A_1101_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 5537, Section #: 1101, Type: LEC, Campus: ONLIN, Meets: Meets Online, Instructor: W. Gu, Status: Closed",
+    "date_accessed": "2023-10-31"
+}

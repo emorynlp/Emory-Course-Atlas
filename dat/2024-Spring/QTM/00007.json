@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 185",
+    "course_title": "Applied Topics in QTM: Data/Decision Making Business",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Irregularly",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "Data, Decision Making, and Generative AI in Business\nData is the foundation upon which modern companies, spanning all industries, are built. Daily, an overwhelming volume of data is produced and growing at an unprecedented pace. This data is vast, often fragmented, and unstructured which poses a challenge for delivering meaningful insights. Such challenges underscore the demand for skilled data analysts and data scientists proficient in the latest analytical tools, capable of distilling real-time insights from immense data sets.\n \nThis course delves into the common data, analytics, and insights challenges confronting leaders from various sectors emphasizing the pivotal role of data, analytics, and cutting-edge tools in data-driven decision-making processes. New this semester is the exploration of Generative AI, with tools like ChatGPT and Claude2, and their increasing adoption in driving insights in the business arena.\n\n\nUpon completion of the course, students will:\n1. Understand the common data and analytics obstacles faced by leaders across industries;\n2. See through guest lectures and practical applications how instrumental the role of data, analytics, and modern tools in facilitating data-driven decisions;\n3. Apply knowledge acquired from foundational QTM courses in a one-hour, team-oriented, hands-on data project; and \n4. Recognize the future workforce's demand for data professionals adept at leveraging the latest analytical tools to glean insights that inform business strategies and enable better decision-making.",
+    "course_description": "Topics course intended for early-career students. Topics allow students to explore the foundations, theory, and methods of data science, and examine the ways in which data driven solutions power industry, government, and the non-profit sector in an applied setting.",
+    "prerequisites": null,
+    "instructors": "Renee Ducre - Primary Instructor",
+    "schedule_location": "Th 6pm-8pm in Math & Science Center - N304",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_185_3_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 2201, Section #: 3, Type: SEM, Campus: ATL, Meets: Th 6-8p, Instructor: R. Ducre, Status: Closed",
+    "date_accessed": "2023-10-31"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "CS_OX 171",
+    "course_title": "Introduction to Computer Science II",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "This course is a continuation of CS 170. Emphasis is on the use and implementation of data structures, fundamental algorithms with introductory algorithm analysis, and object oriented design and programming with Java.",
+    "prerequisites": "CS 170 or CS_OX 170 or equivalent transfer credit as prerequisite.",
+    "instructors": "Paul Oser - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4468, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: P. Oser, Status: Open\nClass Nbr: 4469, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: P. Oser, Status: Open",
+    "date_accessed": "2023-10-31"
+}

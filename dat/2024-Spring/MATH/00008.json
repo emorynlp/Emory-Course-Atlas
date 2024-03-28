@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 250",
+    "course_title": "Foundations of Mathematics",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "An introduction to theoretical mathematics. Logic and proofs, operations on sets, induction, relations, functions.",
+    "prerequisites": "This course requires MATH 111 as prerequisite AND MATH 112 or MATH_OX112 or MATH 112Z or MATH_OX112Z or equivalent transfer credit.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3059, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: J. Villeta-García, Status: Open\nClass Nbr: 3063, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: J. Villeta-García, Status: Open\nClass Nbr: 3075, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: R. Roth Jr., Status: Open\nClass Nbr: 3079, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: A. Polianskii, Status: Open\nClass Nbr: 3082, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: N. Gupta, Status: Open\nClass Nbr: 3614, Section #: 6, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: M. Girotti, Status: Open",
+    "date_accessed": "2023-10-31"
+}

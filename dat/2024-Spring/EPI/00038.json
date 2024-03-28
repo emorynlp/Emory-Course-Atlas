@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 760",
+    "course_title": "Causal Inference",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "EPI PHD students only. Prerequisites: EPI 530, EPI 545, EPI 550, EPI 560 (concurrent), and BIOS 500, 591P, and BIOS 510 or EPI 710).",
+    "course_description": "This course provides a survey of modern topics in causal inference. Fundamental concepts in causal inference will be covered including: counterfactual random variables, assessing identifiability of causal effects, graphical frameworks, Gcomputation, inverse probability of treatment weighting, methods for efficient, doubly (multiply) robust estimation of causal effects, and causal mediation. Where possible, the course emphasizes the use of modern regression (e.g., machine learning) in causal effect estimation and provides an applied introduction to this area is provided as well.",
+    "prerequisites": null,
+    "instructors": "David Benkeser - Primary Instructor",
+    "schedule_location": "TTh 3pm-4:50pm",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_EPI_760_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1134, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 3-4:50p, Instructor: D. Benkeser, Status: Open",
+    "date_accessed": "2023-10-31"
+}

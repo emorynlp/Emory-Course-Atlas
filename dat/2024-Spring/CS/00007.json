@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 323",
+    "course_title": "Machine Learning Applications",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 12Waitlist Total: 18",
+    "waitlist_total": ": 18",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "PLEASE NOTE: This class only counts towards the AI minor and cannot be used as a requirement for any CS major/minor.",
+    "course_description": "Machine learning techniques and their use in solving problems from multiple real-world domains. Topics covered include data analytics, regression, classification, clustering, decision trees, and neural networks using Python libraries. Focuses on applications and use rather than algorithms or theory.",
+    "prerequisites": null,
+    "instructors": "Nirmalya Thakur - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in White Hall 103",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_323_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3135, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: N. Thakur, Status: Open",
+    "date_accessed": "2023-10-31"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 560",
+    "course_title": "Epidemiologic Methods IV",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Varies by section",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-16 through 2024-04-29",
+    "class_notes": "Varies by section",
+    "course_description": "EPI 530, 545, and 550 and/or instructor permission. \nThis course covers epidemiologic concepts in further depth than previous methods courses and provides an overview of advanced topics in the analysis of epidemiologic data. The course reviews basic concepts behind cohort studies, and introduces students to fundamental survival analysis concepts, including risk and survival, hazards, competing risks, cause-specific and sub-distribution risk, risk difference, and risk ratio estimators. Generalized linear models for conditionally and marginally adjusted risk differences and ratios, as well as methods for correct variance estimation. Concepts of time-dependent confoundinng, and methods that can be used to analyze complex longitudinal data (IP weighting, marginal standardization). This is a required course for students in the MSPH and PhD Epidemiology program.",
+    "prerequisites": null,
+    "instructors": "Ashley Naimi - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1113, Section #: 1, Type: LEC, Campus: ATL, Meets: T 10-11:20a; F 8:30-9:50a, Instructor: A. Naimi, Status: Open\nClass Nbr: This section is full 1114, Section #: L1, Type: LAB, Campus: ATL, Meets: W 10-11:20a, Instructor: A. Naimi, Status: Closed\nClass Nbr: This section is full 1115, Section #: L2, Type: LAB, Campus: ATL, Meets: W 10-11:20a, Instructor: A. Naimi, Status: Closed",
+    "date_accessed": "2023-10-31"
+}

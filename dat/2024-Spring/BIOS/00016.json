@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 591P",
+    "course_title": "Biostatistics Methods II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 165 / Seats Avail: 41",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-16 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Prerequisites: BIOS 500 or permission of instructor. For EPI students Only taken in the spring semester of their first year. The course covers fundamental concepts in applied simple and multiple linear regression analyses, one- and two-way analysis of variance and binary logistic regression. Concepts in survival analysis will also be introduced. Students will learn when and how to apply these methods. The emphasis will be on practical data analysis skills rather than statistical theory; however, wherever possible and feasible, mathematical details of regression models will be presented. In-class data analysis examples will employ SAS and R software. Homework assignments, quizzes and exams will include data analyses using SAS and R, as well as other questions designed to reinforce concepts and assess foundational competencies. Teaching assistant office hours will consist of organized review/recitation sessions, and will also include opportunities for student questions.",
+    "prerequisites": "BIOS 500 or permission of instructor required prior to enrollment.",
+    "instructors": "Azhar Nizam - Primary Instructor",
+    "schedule_location": "TTh 3pm-4:20pm",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BIOS_591P_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1055, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 3-4:20p, Instructor: A. Nizam, Status: Open",
+    "date_accessed": "2023-10-31"
+}

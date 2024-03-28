@@ -1,0 +1,22 @@
+{
+    "course_code": "AEPI 534D",
+    "course_title": "Applied Epidemiology II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 8",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-01-12 through 2024-04-14",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership. Additional meeting times in January Saturday,  4:30-6:00 pm, and Sunday, 12:00-1:30 pm.  EMPH Opening Weekend is January 12-14  and Closing Weekend is April 12-14.",
+    "course_description": "Pre-Requisites: AEPI 530D and BIOS 516D as prerequisites or by special permission to enroll. Continuing from Applied Epidemiology I, further insight into confounding is explored as well as effect modification. Methods of hypothesis formulation and analysis of 2x2 tables (point estimation and confidence levels) are described in detail as well as sample size calculations. Different approaches to control for extraneous variables in the design of studies are presented, such as randomization, matching, and restriction. The use of stratification for assessing effect modification and confounding is provided followed by an introduction to mathematical modeling. Different issues in the use of matching in case- control studies are presented. Statistical packages such as SAS and OpenEpi are used.",
+    "prerequisites": "AEPI 530D and BIOS 516D as prerequisites or by special permission to enroll.",
+    "instructors": "Jeremy Grey - Primary Instructor",
+    "schedule_location": "F 12:30pm-3:30pm in ONLINE\nSa 1pm-4pm in ONLINE\nSa 4:30pm-6pm in ONLINE\nSu 12pm-1:30pm in ONLINE",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_AEPI_534D_901_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1239, Section #: 901, Type: LEC, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p; Sa 4:30-6p; Su 12-1:30p, Instructor: J. Grey, Status: Open",
+    "date_accessed": "2023-10-30"
+}

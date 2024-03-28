@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 507",
+    "course_title": "Applied Regression Analysis",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 6",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-16 through 2024-04-29",
+    "class_notes": "Non-BIOS Students must get permission of Instructor or BIOS ADAP required.",
+    "course_description": "This is the first regression analysis course in applied statistics designed for BIOS MPH students. Both theoretical and applied aspects of linear regression and generalized linear regression modeling will be covered in this course. The emphasis will be on applications. The first part of the course covers the following topics: simple linear regression, multiple linear regression, confounding and interaction, residual and influence diagnostics, variable transformations, multicollinearity, model selection and validation. The second part of the course includes: generalized linear models, including logistic regression, nominal and ordinal logistic regression, and Poisson regression. Scientific interpretation of results will be emphasized throughout the course.  Students are expected to use R (or SAS if preferred), when necessary, for homework assignments and projects. Prerequisites: Coursework in statistics up to and including an introduction to simple linear regression (BIOS 506 or equivalent). Familiarity with basic concepts of probability, statistical inference, and linear algebra (e.g., matrix calculation) is needed for successful completion of the course.",
+    "prerequisites": null,
+    "instructors": "Joshua Lukemire - Primary Instructor",
+    "schedule_location": "MW 10am-11:50am",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BIOS_507_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1051, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:50a, Instructor: J. Lukemire, Status: Open",
+    "date_accessed": "2023-10-31"
+}

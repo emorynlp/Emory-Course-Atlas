@@ -1,0 +1,22 @@
+{
+    "course_code": "FIN 669",
+    "course_title": "FinTech Innovation 1:  Traditional and Platform-based Businesses",
+    "credit_hours": "1.5",
+    "seats": "Seats: Maximum Enrollment: 36 / Seats Avail: 36",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-03-10",
+    "class_notes": "Add/Drop/Swap ends January 21 at 11:59pm",
+    "course_description": "This is an analytical course on financial technology (FinTech) for MAF students. The course exposes students to the methodologies, use cases, and hands-on experiences with FinTech in financial intermediation (e.g., banking, credit, payments). The topics include big data, machine learning, automation, digital payments, peer-to-peer (P2P) lending, and equity crowdfunding. In addition to learning about the foundations of these technologies, students will write scripts for collecting and processing big data, learn how to build classification trees, and use machine-learning techniques for predictive modeling of FinTech loan defaults. The course is delivered through interactive lecturettes, in-class activities, and group projects. The course is most relevant for consulting, investment banking, private equity, entrepreneurship, and corporate finance roles",
+    "prerequisites": "This section is reserved for students in the MAF program.",
+    "instructors": "Tetyana Balyuk - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in Goizueta Business School 400",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_FIN_669_4201_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5031, Section #: 4201, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: T. Balyuk, Status: Open",
+    "date_accessed": "2023-10-31"
+}

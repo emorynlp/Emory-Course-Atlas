@@ -1,0 +1,22 @@
+{
+    "course_code": "BMI 562",
+    "course_title": "Cancer Single Cell Analytics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 18",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "Permission required for course. Please write directly to the course instructor and, if approved, forward to the CS Graduate Coordinator for a permission code.",
+    "course_description": "Introduction to analytical techniques for single-cell RNA-sequencing data in cancer, including experimental protocols, data processing, computational analyses.",
+    "prerequisites": null,
+    "instructors": "Manoj Bhasin - Primary Instructor",
+    "schedule_location": "MW 8:30am-9:45am in Woodruff Memorial Bldg. 4004",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BMI_562_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3362, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: M. Bhasin, Status: Open",
+    "date_accessed": "2023-10-31"
+}

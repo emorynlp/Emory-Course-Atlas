@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 171",
+    "course_title": "Introduction to Computer Science II",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "A second course in Computer Science, focusing on intermediate programming. Emphasis is on proficiency in the use and implementation of data structures, algorithms for classical programming paradigms, and object oriented design and\nprogramming with Java.",
+    "prerequisites": "This course requires CS 170 OR CS_OX 170  or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3121, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: N. El-Sayed, Status: Open\nClass Nbr: 3124, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: J. Epstein, Status: Open",
+    "date_accessed": "2023-10-31"
+}

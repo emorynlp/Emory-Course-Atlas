@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOL 450",
+    "course_title": "Computational Neuroscience",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 0Waitlist Total: 1",
+    "waitlist_total": ": 1",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Intro to computational neuroscience with an emphasis on biophysical neuronal modeling of single neurons and small networks. Other topics include spike train analysis, dynamical systems analysis, and dimensionality reductions methods. Some Matlab and general programming skills are required.",
+    "prerequisites": "This course requires BIOL 360 or NBB 301 or IBS 514 or equivalent transfer credit as a prerequisite.",
+    "instructors": "Gordon Berman - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in 1462 Clifton Rd 109",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BIOL_450_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 1880, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: G. Berman, Status: Wait List",
+    "date_accessed": "2023-10-31"
+}

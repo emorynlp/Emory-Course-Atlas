@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 498R",
+    "course_title": "Quantitative Sciences Capstone",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "Varies by section",
+    "course_description": "The capstone course provides an opportunity for students to apply their knowledge of the foundations, theory and methods of data science, along with their substantive expertise to address data driven practical problems in industry, government, and the non-profit sector.",
+    "prerequisites": "QTM 220 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2242, Section #: 1, Type: RSC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: Cuttner/Carrubba, Status: Open\nClass Nbr: 2245, Section #: 2, Type: RSC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: Staff, Status: Open\nClass Nbr: 2375, Section #: 3, Type: RSC, Campus: ATL, Meets: T 4-6:45p, Instructor: Staff, Status: Open\nClass Nbr: 3572, Section #: 4, Type: RSC, Campus: ATL, Meets: MW 4-5:15p, Instructor: K. McAlister, Status: Open",
+    "date_accessed": "2023-10-31"
+}

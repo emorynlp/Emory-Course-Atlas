@@ -1,0 +1,22 @@
+{
+    "course_code": "BMI 534",
+    "course_title": "Introduction to Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "Permission required for course. Please write directly to the course instructor and, if approved, forward to the CS Graduate Coordinator for a permission code.",
+    "course_description": "Fundamental machine learning theory and techniques.",
+    "prerequisites": null,
+    "instructors": "Hyeok Kwon - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in Woodruff Memorial Bldg. 4004",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BMI_534_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3864, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: H. Kwon, Status: Open",
+    "date_accessed": "2023-10-31"
+}

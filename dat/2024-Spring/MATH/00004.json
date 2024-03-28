@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 210",
+    "course_title": "Advanced Calculus for Data Sciences",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "This course is a short treatment of MATH 112 and 211 with a lab component. It is not appropriate for students who have taken MATH 211. Topics include: advanced integration, Taylor series; and multivariable differentiation, optimization and integration; and applications to statistics and science.",
+    "prerequisites": "MATH 111 or MATH 111L or MATH_OX 111 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3112, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: M. Carr, Status: Open\nClass Nbr: 3114, Section #: 2, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Carr/Molnar, Status: Open\nClass Nbr: 3115, Section #: 3, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Carr/Molnar, Status: Open\nClass Nbr: 3117, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Kobin, Status: Open\nClass Nbr: 3118, Section #: 5, Type: LAB, Campus: ATL, Meets: F 8:30-9:20a, Instructor: Kobin/Brarda, Status: Open\nClass Nbr: 3120, Section #: 6, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Kobin/Brarda, Status: Open",
+    "date_accessed": "2023-10-31"
+}

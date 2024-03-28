@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 347",
+    "course_title": "Machine Learning I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 0Waitlist Total: 19",
+    "waitlist_total": ": 19",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "This course is designed to introduce students to the field of machine learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance to marketing to astrophysics in the past twenty years.  This class will present a number of important modeling and prediction techniques that are staples in the fields of machine learning, artificial intelligence, and data science (more broadly).  In addition, this course will cover the statistical underpinnings of common methods.",
+    "course_description": "Introduces students to the field of machine learning, an essential toolset for making sense of the vast and complex data sets that have emerged in the past 20 years. Presents modeling/prediction techniques that are staples in the fields of machine learning, artificial intelligence, and data science.",
+    "prerequisites": "(QTM 220 or ECON 320) and (QTM 110 or QTM_OX 110) and (QTM 150 or QTM_OX 150) and (QTM 210 or QTM_OX 210 or ECON 220 or ECON_OX 220 or MATH 361) and (MATH 210 or MATH_OX 210 or MATH 211 or MATH_OX 211) and (MATH 211 or MATH_OX 211) or transfer credit.",
+    "instructors": "Ruoxuan Xiong - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Math & Science Center - N306",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_347_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 2207, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: R. Xiong, Status: Open",
+    "date_accessed": "2023-10-31"
+}

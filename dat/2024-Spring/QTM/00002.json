@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 110",
+    "course_title": "Introduction to Scientific Methods",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Introduces students to the style of analytic thinking required for research and concepts and procedures used in the conduct of empirical research: sampling, hypothesis testing, Bayesian inference, regression, experiments, instrumental variables, differences indifferences, regression discontinuity.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2344, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: A. Cuttner, Status: Open\nClass Nbr: 2345, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: Hadley/Cuttner, Status: Open",
+    "date_accessed": "2023-10-31"
+}

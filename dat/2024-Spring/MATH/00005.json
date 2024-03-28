@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 211",
+    "course_title": "Advanced Calculus (Multivariable)",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Vectors; multivariable functions; partial derivatives; multiple integrals; vector and scalar fields; Green's and Stokes' theorems; divergence theorem.",
+    "prerequisites": "MATH 112 or MATH 112Z or MATH_OX 112 or MATH_OX 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3057, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: J. Villeta-García, Status: Open\nClass Nbr: 3061, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: T. Xu, Status: Open\nClass Nbr: 3071, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: K. Kan, Status: Open\nClass Nbr: 5312, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: J. MARTIN TEMPESTTI, Status: Open",
+    "date_accessed": "2023-10-31"
+}

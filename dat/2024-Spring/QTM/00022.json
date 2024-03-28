@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 447",
+    "course_title": "Statistical Machine Learning 2",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Irregularly",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "A second course in the field of machine learning, an essential toolset for making sense of the vast and complex data sets that have emerged in the past 20 years. Extends modeling/prediction techniques covered in introductory machine learning courses and introduces concepts central to statistical learning theory.\n\n\nPrerequisite: QTM 347, or another Machine Learning course with permission of instructor",
+    "course_description": "Classical decision models rely on strong distributional assumptions about uncertain events; these topics are covered in QTM 347. QTM 447 covers advanced machine learning methods for modeling the of interplay between data, personalization, and decision optimization in the face of uncertainty.",
+    "prerequisites": "QTM 347 & (QTM 220 or ECON 320) & (QTM 110 or QTM_OX 110) & (QTM 151 or QTM_OX 151) & (QTM 120 or MATH 210 or MATH_OX 210 or MATH 211 or MATH_OX 211) & (QTM 210 or QTM_OX 210 or ECON 220 or ECON_OX 220 or [MATH 361 & 362]) & (MATH 221 or MATH_OX 221) req",
+    "instructors": "Kevin McAlister - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in New Psyc Bldg 220 (36 Eagle Ro",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_447_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2211, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. McAlister, Status: Open",
+    "date_accessed": "2023-10-31"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "MSCR 534",
+    "course_title": "Analytic Methods for Clinical and Translational Science II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 30",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Continuation from analytic epidemiology and data management courses in the first semester. Aids students in developing analytic skills necessary to model data collected from experimental and observational studies in order to assess the role of multiple risk factors in association with health outcomes. The focus is on linear regression, logistic regression, and survival analysis. The goal is to provide a foundation for understanding the multivariable nature of human health events and develop the critical reasoning to apply these skills towards an overall analytic approach",
+    "prerequisites": null,
+    "instructors": "Matthew Magee - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: 3829, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: M. Magee, Status: Open\nClass Nbr: 4075, Section #: LAB, Type: LAB, Campus: ATL, Meets: Does Not Meet, Instructor: M. Magee, Status: Open",
+    "date_accessed": "2023-10-31"
+}

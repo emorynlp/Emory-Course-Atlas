@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 421",
+    "course_title": "Microeconomic Data Analytics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 7Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "Various methodological extensions of the simple linear regression model are covered. These are geared to address discreteness, nonlinearities, heterogeneity, natural experiments, and repeated sampling usually found in microeconomic data.",
+    "prerequisites": "ECON 320 or equivalent transfer credit as prerequisite.",
+    "instructors": "Esfandiar Maasoumi - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Bowden Hall 118",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ECON_421_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3324, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: E. Maasoumi, Status: Open",
+    "date_accessed": "2023-10-31"
+}

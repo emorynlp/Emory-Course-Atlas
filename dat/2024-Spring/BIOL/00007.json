@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOL 212",
+    "course_title": "Computational Modeling for Scientists and Engineers",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Varies by section",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "Varies by section",
+    "course_description": "Computation is one of the pillars of modern science, in addition to experiment and theory. In this course, various computational modeling methods will be introduced to study specific examples derived from physical, biological, chemical and social systems.",
+    "prerequisites": "(PHYS 151 or PHYS_OX 151) or [(PHYS 141 or PHYS_OX 141) and (MATH 112 or MATH 112Z or MATH_OX 112 or MATH_OX 112Z0] or [(PHYS 141 or PHYS_OX 141) and MATH 116)] or equivalent transfer credit as prerequisite.",
+    "instructors": "Jennifer Rieser - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4642, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: J. Rieser, Status: Open\nClass Nbr: 4645, Section #: 3, Type: LAB, Campus: ATL, Meets: Th 11:30a-2:15p, Instructor: J. Rieser, Status: Open\nClass Nbr: 4646, Section #: 4, Type: LAB, Campus: ATL, Meets: F 2:30-5:15p, Instructor: J. Rieser, Status: Open",
+    "date_accessed": "2023-10-31"
+}

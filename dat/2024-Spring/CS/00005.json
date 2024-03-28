@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 253",
+    "course_title": "Data Structures and Algorithms",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": null,
+    "course_description": "A third course in Computer Science, focusing on advanced programming. Emphasis is on mastery in the use and implementation of data structures and algorithms for classical programming paradigms, using the Java programming language and object oriented\ndesign.",
+    "prerequisites": "CS 171 or 171Z or CS_OX 171 or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3139, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: S. La Fleur, Status: Open\nClass Nbr: 3131, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Zhao, Status: Open\nClass Nbr: This section is full 3862, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. La Fleur, Status: Closed",
+    "date_accessed": "2023-10-31"
+}

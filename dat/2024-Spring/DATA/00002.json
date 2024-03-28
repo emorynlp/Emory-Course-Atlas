@@ -1,0 +1,22 @@
+{
+    "course_code": "DATA 530",
+    "course_title": "Introduction to Geographical Information Systems",
+    "credit_hours": "2",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Varies by section",
+    "enrollment_status": "Open",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-16 through 2024-03-04",
+    "class_notes": "Varies by section",
+    "course_description": "The course introduces the use of geographic information systems (GIS) in the analysis of public health data. We develop GIS skills through homework, quizzes, and a case study. Specific skills include map layouts, visualization, and basic GIS operations such as buffering, layering, summarizing, geocoding, digitizing and spatial queries.",
+    "prerequisites": null,
+    "instructors": "Johnathan Edwards - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1261, Section #: 1, Type: LEC, Campus: ATL, Meets: M 10-11:50a, Instructor: J. Edwards, Status: Open\nClass Nbr: 1263, Section #: 2, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: J. Edwards, Status: Open\nClass Nbr: 1266, Section #: L1, Type: LAB, Campus: ATL, Meets: W 10-11:50a, Instructor: J. Edwards, Status: Open\nClass Nbr: 1264, Section #: L2, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: J. Edwards, Status: Open",
+    "date_accessed": "2023-10-31"
+}
