@@ -1,0 +1,22 @@
+{
+    "course_code": "CHEM 335LW",
+    "course_title": "Quantum Chemistry Lab",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 20Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Science, Nature, & Technology Lab with Writing",
+    "permission": "Department Consent Required",
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Introduction to the foundational and practical aspects of modeling chemical reactions with modern computational chemistry techniques. Students will learn how to run quantum chemistry computations to predict thermodynamic properties, simulate spectra, and model the mechanisms of simple reactions.",
+    "prerequisites": "(CHEM 205 or CHEM_OX 205) and (CHEM 205L or CHEM_OX 205L) or equivalent transfer credit as prerequisite.",
+    "instructors": "Francesco Evangelista - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Math & Science Center - N301",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CHEM_335LW_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3518, Section #: 1, Type: LAB, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: F. Evangelista, Status: Open",
+    "date_accessed": "2024-03-28"
+}

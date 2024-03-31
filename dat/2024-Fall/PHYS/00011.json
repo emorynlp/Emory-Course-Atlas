@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 361",
+    "course_title": "Classical Mechanics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 40",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Science, Nature, Technology",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Newton's laws, energy, momentum, angular momentum, conservation laws, many-particle systems, oscillations, planetary motion and Kepler's laws, Lagrange's and Hamiltonian formalisms, non-inertial reference frames, rotation and tensor of inertia, non-linear dynamics and chaos.",
+    "prerequisites": "(PHYS 142 or PHYS_OX 142 or PHYS 152 or PHYS_OX 152) as prerequisite and (PHYS 220 or MATH 212 or MATH_OX 212) as co-requisite or equivalent transfer credit.",
+    "instructors": "Jennifer Rieser - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Registrar Room Pool",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PHYS_361_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1951, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: J. Rieser, Status: Open",
+    "date_accessed": "2024-03-29"
+}

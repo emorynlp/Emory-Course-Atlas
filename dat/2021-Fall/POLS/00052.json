@@ -1,0 +1,22 @@
+{
+    "course_code": "POLS 585",
+    "course_title": "Variable Topics Seminar: Texts as Data",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "This survey course focuses on the use of text as data, from qualitative approaches to an overview of the computer science subdiscipline of natural language processing. Because machine learning and natural language processing are often inductive methods, we spend the early portion of the course detailing qualitative research sensibilities (e.g. reflexivity, abduction, and interpretivism) as well as qualitative coding practices. We consider their stand-alone value and how to integrate these with computer science approaches.  As we move into the quantitative portion of the course, we will overview practical skills for working with text data (e.g. collection, cleaning, organization) and survey a range of approaches to analyzing text, including: bag of words and dictionary methods, word vector approaches, supervised and unsupervised machine learning, topic models, and an overview of the emerging BERT/RoBERTA paradigm. To register for this course, you must have completed your first-year methods sequence and have a basic familiarity with python (suggest registering for the free software carpentry workshop at Emory this summer if you have never used python; contact Dr. Gade for instructions re: how to apply for that workshop). Finally, this course will be most useful to you if you have a specific text-based project in mind, and ideally, your own text copra.",
+    "course_description": null,
+    "prerequisites": null,
+    "instructors": "Emily Gade - Primary Instructor",
+    "schedule_location": "TTh 5:30pm-6:45pm in Tarbutton Hall 120A",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 1871, Section #: 5, Type: SEM, Campus: ATL, Meets: TTh 5:30-6:45p, Instructor: E. Gade, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

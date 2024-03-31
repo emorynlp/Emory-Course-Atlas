@@ -1,8 +1,8 @@
 {
-    "course_code": "MDP 505",
-    "course_title": "Monitoring and Evaluation",
+    "course_code": "MDP 507",
+    "course_title": "Interdisciplinary Field Seminar I",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 24",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 13",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "This module introduces participants a variety of evaluation approaches appropriate to public sector and nongovernmental organizations engaged in social change, poverty alleviation, education, health and development work. Key issues include: uses of evaluation; alternative evaluation methodologies; evaluation as the process of testing hypotheses about linkages and causality; stakeholder engagement and participation in evaluation; evaluation ethics; and, \"engendered\" evaluation. Module participants review and critique evaluations of development assistance projects sponsored by bilateral, multilateral, and nongovernmental organizations. Additionally, they develop original evaluation designs that allow them to apply critical course concepts to a real-life project.",
+    "course_description": "This seminar prepares MDP's aspiring development professionals for their summer field practicum, during which they work as \"embedded practitioners\" with ongoing projects at organizations like CARE, UNICEF, TNC, FAO, etc. Through this course, students prepare by examining several case studies of major development interventions and the very different kinds of impacts the same intervention may have according to the context in which it is implemented. Through extensive use of case studies, this course exposes students to broad-ranging discussion and debate about the effectiveness of the most important forms of development intervention that are and have been employed around the world by major development organizations. The examination of distinct cases brings out the importance of issues of scale, both spatial and temporal, in understanding the impact of development interventions. A primary goal of the course is to provide students with conceptual frameworks that allow them to identify the context-specific factors that affect the on-the-ground implementation of general development plans and strategies. The focus on context, scale, and on the factors that shape both, compels students to school themselves in the broad, interdisciplinary approach to development upon which the MDP program is based.",
     "prerequisites": null,
-    "instructors": "Amanda Woomer - Primary Instructor",
-    "schedule_location": "F 10am-1pm in New Psyc Bldg 250 (36 Eagle Ro",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MDP_505_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2378, Section #: 1, Type: LEC, Campus: ATL, Meets: F 10a-1p, Instructor: A. Woomer, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Hilary King - Primary Instructor",
+    "schedule_location": "T 2:30pm-5:30pm in North Decatur Building 109",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MDP_507_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2379, Section #: 1, Type: SEM, Campus: ATL, Meets: T 2:30-5:30p, Instructor: H. King, Status: Open",
+    "date_accessed": "2024-03-30"
 }

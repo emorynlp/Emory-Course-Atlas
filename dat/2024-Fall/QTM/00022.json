@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 446W",
+    "course_title": "Big/Small Data and Visualization",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "History, Society, Cultures with Writing",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "(SAME AS LING 446W & SOC 446W)\n\n\nThe course deals with new tools of analysis and visualization of text data. It is a 4-credits course, fulfilling the writing requirement with extensive weekly writing. The course does NOT require any prerequisites or prior knowledge of computational tools. Freshmen are not allowed to register. Text corpora will be assigned for analysis but students are welcome to use their own texts (e,g., newspaper articles, books, blogs). The course is based on a set of specialized Natural Language Processing tools (NLP), written in Python, designed for the analysis of small/large corpora of text. The tools come with an easy-to-use Graphical User Interface (GUI). From sentence splitter, to tokenizer, lemmatizer, parser with its Part-of-Speech tags (POSTAG), Dependency Relations (DEPREL), Named Entity Recognition (NER), semantic trees, sentence complexity and text readability, noun and verb analysis, n-grams viewer, sentiment analysis, topic modelling, extraction of SVOs (Subject-Verb-Object), and shape of stories, word embeddings (Word2Vec) you will learn the language of Natural Language Processing (NLP). The course also embeds tools of data visualization as word clouds, Excel-type charts, network graphs, and Geographic Information System (GIS) maps. The course uses freeware software exclusively. The course has no required books.",
+    "course_description": "An interdisciplinary exploration of digital tools for analyzing and visualizing data in the humanities and social sciences.",
+    "prerequisites": null,
+    "instructors": "Roberto Franzosi - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in White Hall 101",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_446W_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4108, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: R. Franzosi, Status: Open",
+    "date_accessed": "2024-03-29"
+}

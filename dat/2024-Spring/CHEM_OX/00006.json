@@ -2,7 +2,7 @@
     "course_code": "CHEM_OX 203Q",
     "course_title": "Advanced Reactivity",
     "credit_hours": "3",
-    "seats": "Seats: Varies by section",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 1",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 4507, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: A. Neuman, Status: Open\nClass Nbr: 4508, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: A. Neuman, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 424",
+    "course_title": "Theory of Computing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 6Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "Theory underlying computing concepts, including regular languages, pushdown automata, Turing machines, decidability of problems, time and space complexity and notions of P vs NP and NP-completeness.",
+    "prerequisites": "CS 326 or equivalent transfer credit as prerequisite.",
+    "instructors": "Michelangelo Grigni - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1462, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: M. Grigni, Status: Open",
+    "date_accessed": "2024-03-30"
+}

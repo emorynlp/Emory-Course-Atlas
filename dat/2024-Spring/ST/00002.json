@@ -2,7 +2,7 @@
     "course_code": "ST 602",
     "course_title": "Systematic Theology II",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 27 / Seats Avail: 27",
+    "seats": "Seats: Maximum Enrollment: 27 / Seats Avail: 21",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -15,8 +15,8 @@
     "course_description": "This second course of a two-semester ST sequence offers an introduction into the second part of the course of Christian doctrines, including soteriology, ecclesiology, and eschatology. Prerequisite ST 501.",
     "prerequisites": "ST 501 or equivalent transfer credit as prerequisite.",
     "instructors": "Steffen Loesel - Primary Instructor",
-    "schedule_location": "TTh 9:30am-10:50am in Rita Anne Rollins Building_401",
+    "schedule_location": "TTh 9:30am-10:50am in Rita Anne Rollins Building_421",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ST_602_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 5476, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 9:30-10:50a, Instructor: S. Loesel, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

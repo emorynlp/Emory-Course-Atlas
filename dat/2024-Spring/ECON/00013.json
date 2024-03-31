@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Varies by section",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Mathematics and Quantitative Reasoning",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3248, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: S. Hoderlein, Status: Open\nClass Nbr: 3250, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: P. Sant'Anna, Status: Open\nClass Nbr: This section is full 3390, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: S. O'Connell, Status: Open\nClass Nbr: 3249, Section #: LAB1, Type: LAB, Campus: ATL, Meets: F 9-9:50a, Instructor: P. Lopez de mesa Moyano, Status: Open\nClass Nbr: 3251, Section #: LAB2, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: P. Lopez de mesa Moyano, Status: Open\nClass Nbr: 3810, Section #: LAB3, Type: LAB, Campus: ATL, Meets: F 2:30-3:20p, Instructor: P. Lopez de mesa Moyano, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3248, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: S. Hoderlein, Status: Open\nClass Nbr: 3250, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: P. Sant'Anna, Status: Open\nClass Nbr: 3390, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: S. O'Connell, Status: Open\nClass Nbr: 3249, Section #: LAB1, Type: LAB, Campus: ATL, Meets: F 9-9:50a, Instructor: P. Lopez de mesa Moyano, Status: Open\nClass Nbr: 3251, Section #: LAB2, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: P. Lopez de mesa Moyano, Status: Open\nClass Nbr: 3810, Section #: LAB3, Type: LAB, Campus: ATL, Meets: F 2:30-3:20p, Instructor: P. Lopez de mesa Moyano, Status: Open",
+    "date_accessed": "2024-03-30"
 }

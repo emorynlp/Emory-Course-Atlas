@@ -2,7 +2,7 @@
     "course_code": "GER 375",
     "course_title": "Spec. Topics in German Studies: Wien und Freiburg 2024",
     "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 18",
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 9",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": null,
+    "class_notes": "This course is required for all students who will participate in the 2024 Summer Study Abroad Program in Vienna & Freiburg.\n \nThis course meets bi-weekly on Friday afternoons from 3:00-4:30 on the following days:\nJanuary 19\nFebruary 2, 16\nMarch 1, 22\nApril 5, 19",
     "course_description": "Taught in English. An interdisciplinary course intended to provide in-depth study of formative elements, influences, and movements in German-speaking culture(s). May be repeated for credit when topic varies.",
     "prerequisites": null,
     "instructors": "Peter Höyng - Primary Instructor",
     "schedule_location": "F 3pm-4:30pm in Modern Language 201",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_GER_375_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 4082, Section #: 1, Type: SEM, Campus: ATL, Meets: F 3-4:30p, Instructor: Ruck/Höyng, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

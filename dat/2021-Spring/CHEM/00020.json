@@ -1,0 +1,22 @@
+{
+    "course_code": "CHEM 470",
+    "course_title": "Special Topics in Chemistry: Machine Learning in Chemistry",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 16Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "Machine Learning has become widely used in many branches of Chemistry.  This capstone course will survey these, following an introduction to the basic ideas behind Machine Learning as contained in a book such as 'An Introduction to Statistical Learning'.  Students will present projects based on the recent chemical literature.  Some familiarity with software such as Mathematica, Matlab, Python, etc. will be very helpful.",
+    "course_description": "A seminar for advanced students on topics of current interest in chemistry.",
+    "prerequisites": null,
+    "instructors": "Joel M Bowman - Primary Instructor",
+    "schedule_location": "TTh 9:40am-10:55am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 2899, Section #: 2, Type: SEM, Campus: ATL, Meets: TTh 9:40-10:55a, Instructor: J. Bowman, Status: Open",
+    "date_accessed": "2024-03-30"
+}

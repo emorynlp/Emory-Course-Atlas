@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 570",
+    "course_title": "Data Mining",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 4",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "This course offers an introduction to data mining concepts and techniques. The goal is for the students to have a solid foundation in data mining that allows them to apply data mining techniques to real-world problems and to conduct research and development in new data mining methods. Topics include data processing, design and implementation of data warehouse and OLAP systems, data mining algorithms and methods including association analysis, classification, cluster analysis, as well as emerging applications and trends in data mining.",
+    "prerequisites": null,
+    "instructors": "Li Xiong - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1900, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Xiong, Status: Open",
+    "date_accessed": "2024-03-30"
+}

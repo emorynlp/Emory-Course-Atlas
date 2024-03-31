@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 524",
+    "course_title": "Theory Of Computing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 10",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "This course gives mathematical methods to classify the complexity of computational problems. Topics include regular languages, grammars, decidability, NP-completeness, and corresponding models of computation.",
+    "prerequisites": null,
+    "instructors": "Michelangelo Grigni - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 2665, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: M. Grigni, Status: Open",
+    "date_accessed": "2024-03-30"
+}

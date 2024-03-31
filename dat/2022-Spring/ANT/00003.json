@@ -1,0 +1,22 @@
+{
+    "course_code": "ANT 190",
+    "course_title": "Freshman Seminar:Anthropology: Anthro in the World of Data",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "First-Year Seminar",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": "Anthropological theory and method in the 21st century: A practice based approach\nOur aim in this class is to simultaneously learn about anthropological theories and explore these by interacting with real world data. To interact with the web and its millions of pages and data sources, we will learn (and practice) a tool kit of computational skills that includes text mining, web scraping, data visualization, and basic statistical analyses. Our approach will be to focus on a specific theory, discuss it, and then explore it through data. We will aim to 'scrape' or collect the data by programming our computers to interact with the web. For example, we will explore theories about cultural evolution and then look to see how well those predict patterns in the Twitter-sphere. We will learn about theories relating geography to body shape, and then collect body size data from around the web to test how well these theories predict what we observe in the real world. After some introductory classes, we will focus on a different substantive topic each week. We will rely on the statistical program R but NO PROGRAMMING OR STATISTICS KNOWLEDGE OR EXPERIENCE IS NEEDED, just a willingness to learn something new.",
+    "course_description": "Seminar on various anthropological topics. Satisfies general education Freshman Seminar.",
+    "prerequisites": null,
+    "instructors": "Craig Hadley - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in Anthropology Building 107",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2183, Section #: 2, Type: SEM, Campus: ATL, Meets: MW 10-11:15a, Instructor: C. Hadley, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

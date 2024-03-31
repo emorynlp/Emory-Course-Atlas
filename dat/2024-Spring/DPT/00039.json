@@ -1,8 +1,8 @@
 {
-    "course_code": "DPT 986",
-    "course_title": "Vestibular Rehabilitation",
+    "course_code": "DPT 982",
+    "course_title": "Fundamentals of Strength and Conditioning",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 12",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 35",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": "Lisa Heusel-Gillig - Primary Instructor",
+    "instructors": "Marie A Johanson - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_986_0_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1539, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Johanson/Heusel-Gillig, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_982_0_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1537, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Rogozinski/Johanson, Status: Open",
+    "date_accessed": "2024-03-30"
 }

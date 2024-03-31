@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 170",
+    "course_title": "Introduction To Computer Science I",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Enrollment is tiered for this course. Waitlists will be added after the incoming first year preregistration.",
+    "course_description": "An introduction to Computer Science for students expecting to utilize serious computing in coursework, research, or employment. Emphasis is on computing concepts, programming principles, algorithm development and basic data structures, using the Java programming language and Unix operating system.",
+    "prerequisites": null,
+    "instructors": "Jeff Epstein - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2927, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 8-8:50a, Instructor: J. Epstein, Status: Open\nClass Nbr: 2932, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 9-9:50a, Instructor: J. Epstein, Status: Open\nClass Nbr: 2934, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 1-1:50p, Instructor: J. Epstein, Status: Open\nClass Nbr: 2940, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 11-11:50a, Instructor: J. Epstein, Status: Open\nClass Nbr: 2943, Section #: 5, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 3-3:50p, Instructor: J. Epstein, Status: Open\nClass Nbr: 2948, Section #: 6, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 4-4:50p, Instructor: J. Epstein, Status: Open",
+    "date_accessed": "2024-03-30"
+}

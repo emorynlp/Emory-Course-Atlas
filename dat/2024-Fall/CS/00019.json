@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 485",
+    "course_title": "Topics in Computer Science: Physical Computing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Prerequisite: CS 253\n\n\nDepartment permission required, please email bnflood@emory.edu\n\n\nPhysical computing moves interaction off the desktop into the environment. With this shift, user interaction leaves the familiar interaction techniques like mouse and keyboard input behind. Instead, design for user interaction encounters new questions on how interacting with computationally enhanced artifacts manage attention, shape expectations, and mediate communication. As the creators of user interfaces, designers need way to think through these challenges and iterate on their ideas. This class will cover central topics in designing for embodied interaction in the physical environment through physical prototyping. We will cover low tech techniques for thinking through a design such as sketching and modelling, basic electronics using widely available opensource hardware platforms, and fabrication techniques enabled through laser cutting and 3d printing. Along the way, we will consider how the open source hardware movement has enabled new ways of customizing computing to address matters of public concern like accessibility, environmental sensing, and democratizing science.",
+    "course_description": "May be repeated for credit when topic varies. Pre/co-requisites vary with topic.",
+    "prerequisites": null,
+    "instructors": "Kristin Williams - Primary Instructor",
+    "schedule_location": "MW 4pm-5:15pm in Math & Science Center - N304",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_485_3_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3088, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: K. Williams, Status: Open",
+    "date_accessed": "2024-03-28"
+}

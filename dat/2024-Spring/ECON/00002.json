@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": "Social Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 2178, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: T. Zha, Status: Open\nClass Nbr: 2617, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: Y. Wang, Status: Open\nClass Nbr: 2618, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: M. Ayar, Status: Open\nClass Nbr: 2619, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: N. Lind, Status: Open\nClass Nbr: 2620, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: P. Estrada, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2178, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: T. Zha, Status: Open\nClass Nbr: 2617, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: Y. Wang, Status: Wait List\nClass Nbr: 2618, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: M. Ayar, Status: Open\nClass Nbr: 2619, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: N. Lind, Status: Open\nClass Nbr: 2620, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: P. Estrada, Status: Open",
+    "date_accessed": "2024-03-30"
 }

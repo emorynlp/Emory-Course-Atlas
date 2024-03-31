@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 675",
+    "course_title": "Data Visualization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Masters Non-MBA",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Data Visualization will introduce students to the techniques and tools used to create effective visualizations that clearly and efficiently communicate relationships within data. The field of data visualization combines the art of graphic design with the science of data analytics. Students will learn how to perform exploratory analysis through visualization, how to create professional looking visualizations for use in business reports and presentations, and how to design interactive visualizations and dashboards that include time series, rankings, proportions, deviations, frequencies and distributions, correlations, categorical comparisons, and geospatial plots. Students will analyze real data sets and utilize R, Python, Tableau, and other tools to design and prototype their visualizations. \nThis course is for MSBA students only.",
+    "prerequisites": "This section is reserved for students in the MSBA program.",
+    "instructors": "Prasanna Parasurama - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4815, Section #: 4101, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: P. Parasurama, Status: Closed\nClass Nbr: This section is full 4816, Section #: 4102, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: P. Parasurama, Status: Closed\nClass Nbr: This section is full 6161, Section #: 4103, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: P. Parasurama, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

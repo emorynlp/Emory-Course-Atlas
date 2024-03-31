@@ -1,0 +1,22 @@
+{
+    "course_code": "ENGRD 302W",
+    "course_title": "Technical Writing",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 3 / Seats Avail: 0Waitlist Total: 0, Auto-Enroll",
+    "waitlist_total": ": 0, Auto-Enroll",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Wait List",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": "Continuing Communication(*)",
+    "permission": null,
+    "dates": "2024-07-01 through 2024-08-07",
+    "class_notes": "(Same as QTM 302W 1)\nTopic: Technical Writing for Data Science\n\n\nIn this writing-intensive course, we will practice the effective and ethical communication of specialized technical knowledge and quantitative information. We will introduce rhetorical analysis as a method for understanding how quantitative information can be interpreted and conveyed for a variety of audiences, from professional researchers to the lay public. Guided by this knowledge, you will exercise strategies for communicating via text, speech, and visuals that are integral to preparing genres like research reports, informative and persuasive infographics, technical instructions, translations, and user-selected or user-generated data sets. While adapting these genres and their conventions for our goals, we will emphasize what methodological questions to ask when analyzing and writing about data, in addition to how and where to ask them. As you gain comfort with thinking of writing and analysis as intertwined exploratory pursuits, we will develop your facility with practices that center collaboration, transparency, and reproducibility. We will focus especially on how data are rhetorical and how these practices shape the impacts of our data-driven narratives.\n\n\nThis is an online course. Emory College Online summer courses have required synchronous/live sessions every week. Students must be available to sign into and virtually attend the course online during those times (noted as the course meeting times- all times listed are local to Atlanta). Each course will also involve significant asynchronous material that you access on your own time in addition to standard amounts of readings and course assignments. Students should plan to spend 15-20 hours/week on this course. Please also be aware that faculty will begin corresponding with students during Week Zero of the course (one week before the official start date of the course), and that some interaction with the course may be required at that time. Students should begin checking the Canvas course site regularly one week prior to the official start of the term.",
+    "course_description": "This writing-intensive course provides students with practice developing rhetorically effective and ethically sensitive communication in genres that characterize professional activity across and outside the university. No prior technical knowledge required.",
+    "prerequisites": null,
+    "instructors": "Greg Palermo - Primary Instructor",
+    "schedule_location": "TTh 11:30am-1pm in ONLINE",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENGRD_302W_1_A24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 1620, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-1p, Instructor: G. Palermo, Status: Wait List",
+    "date_accessed": "2024-03-29"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "SOC 190",
+    "course_title": "Fresh Sem: Sociology: Data Science for Beginners",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 7 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Wait List",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "First-Year Seminar",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "(Same as LING 190 1 and QTM 190 1)\n(Freshmen Seminar - Limited to First Year Students Only)\n\n\nThe course deals with new tools for the automatic analysis and visualization of words. Sounds scary? Just wait until you see what these computational tools can do! That's scary! But the rest is surprisingly easy. You start with a bag of words, and at the press of a button you can automatically display on a map any location mentioned in that bag. That same bag of words can be displayed automatically in a wordcloud where more frequent words appear in bigger fonts, in beautiful colors. You could even display these words on a picture of your pretty face. That same bag of words is full of sentences. And unless you dropped the bag and scrambled all the words, a computer can figure out which words are nouns, verbs, or adjectives; which are locations or dates. It can tell whether a sentence is active or passive, well written or not. It can visualize information about subjects, verbs, and objects in beautiful graphs. Indeed, there is a lot a computer can do with words. And you yourself do not have to do much, except pressing a button on a computer and wait for the magic to happen. So, don't be scared and dive into the course, armed with a bag of words, a computer, and some buttons, but no other prerequisites. The course is meant as an easy introduction to the range of things you can do automatically with words (e.g., tweets, blogs, novels, newspaper articles) in the humanities, social sciences, business, or medicine.",
+    "course_description": "A small class on topics of sociological concern that fosters a highly interactive and mutually collaborative learning environment among students and between students and teachers.",
+    "prerequisites": null,
+    "instructors": "Roberto Franzosi - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Tarbutton Hall 106",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3455, Section #: 2, Type: SEM, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: R. Franzosi, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

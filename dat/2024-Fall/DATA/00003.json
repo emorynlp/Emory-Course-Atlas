@@ -1,0 +1,22 @@
+{
+    "course_code": "DATA 532",
+    "course_title": "Advanced Geographical Information Systems",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-10-23 through 2024-12-10",
+    "class_notes": "****2nd Half of the Semester Course**",
+    "course_description": "Prerequisites: INFO 530 or permission of the instructor. The course continues the use of geographic information systems (GIS) in the analysis of public health data and adds more advanced features. We develop GIS skills through homework, quizzes and a final project, and particularly build upon the skills learned in INFO 530 such as map layouts, visualization, basic spatial statistics, and basic GIS operations such as buffering, layering, summarizing, geocoding, digitizing and spatial queries. We add new topics such as raster analysis open source GIS, (qgis), geo databases, story maps, and making maps in R.",
+    "prerequisites": null,
+    "instructors": "Johnathan Edwards - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DATA_532_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 2187, Section #: 1, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: Edwards/Peterson, Status: Closed",
+    "date_accessed": "2024-03-28"
+}

@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": "Science, Nature and Technology with Lab",
@@ -17,6 +17,6 @@
     "instructors": "Douglas Mulford - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3010, Section #: 1, Type: LAB, Campus: ATL, Meets: W 11:30a-12:45p; W 12:45-2:50p, Instructor: D. Mulford, Status: Open\nClass Nbr: 3011, Section #: 2, Type: LAB, Campus: ATL, Meets: W 4-5:15p; W 5:15-7:20p, Instructor: D. Mulford, Status: Open\nClass Nbr: 3012, Section #: 3, Type: LAB, Campus: ATL, Meets: Th 11:30a-12:45p; Th 12:45-2:50p, Instructor: D. Mulford, Status: Open\nClass Nbr: 3013, Section #: 4, Type: LAB, Campus: ATL, Meets: Th 4-5:15p; Th 5:15-7:20p, Instructor: D. Mulford, Status: Open\nClass Nbr: 3014, Section #: 5, Type: LAB, Campus: ATL, Meets: F 8:30-9:45a; F 9:45-11:50a, Instructor: D. Mulford, Status: Open\nClass Nbr: 3015, Section #: 6, Type: LAB, Campus: ATL, Meets: F 1-2:15p; F 2:15-4:20p, Instructor: D. Mulford, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3010, Section #: 1, Type: LAB, Campus: ATL, Meets: W 11:30a-12:45p; W 12:45-2:50p, Instructor: D. Mulford, Status: Open\nClass Nbr: 3011, Section #: 2, Type: LAB, Campus: ATL, Meets: W 4-5:15p; W 5:15-7:20p, Instructor: D. Mulford, Status: Wait List\nClass Nbr: 3012, Section #: 3, Type: LAB, Campus: ATL, Meets: Th 11:30a-12:45p; Th 12:45-2:50p, Instructor: D. Mulford, Status: Wait List\nClass Nbr: 3013, Section #: 4, Type: LAB, Campus: ATL, Meets: Th 4-5:15p; Th 5:15-7:20p, Instructor: D. Mulford, Status: Open\nClass Nbr: 3014, Section #: 5, Type: LAB, Campus: ATL, Meets: F 8:30-9:45a; F 9:45-11:50a, Instructor: D. Mulford, Status: Open\nClass Nbr: 3015, Section #: 6, Type: LAB, Campus: ATL, Meets: F 1-2:15p; F 2:15-4:20p, Instructor: D. Mulford, Status: Open",
+    "date_accessed": "2024-03-30"
 }

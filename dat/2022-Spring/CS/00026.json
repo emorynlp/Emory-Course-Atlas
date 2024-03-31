@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 580",
+    "course_title": "Operating Systems",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 8",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "The structure and organization of computer operating systems. Process, memory, and I/O management; device drivers, inter-machine communication, introduction to multiprocessor systems. An important portion of the course is a course long programming project that implements a simple operating system in stages. Each stage takes about three weeks, and is used as a basis for the next stage.",
+    "prerequisites": null,
+    "instructors": "Kenneth I Mandelberg - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in Math & Science Center - W301",
+    "course_resources": null,
+    "sections": "Class Nbr: 2700, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. Mandelberg, Status: Open",
+    "date_accessed": "2024-03-30"
+}

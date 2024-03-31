@@ -2,7 +2,7 @@
     "course_code": "MI 427",
     "course_title": "Evaluation and Measurement",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 50",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": null,
     "course_resources": null,
     "sections": "Class Nbr: 1557, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: T. Brzinski, Status: Open\nClass Nbr: 1569, Section #: 001, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: K. Cross, Status: Open\nClass Nbr: 1570, Section #: 002, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: S. Strickler, Status: Open\nClass Nbr: 1571, Section #: 003, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: T. Brzinski, Status: Open\nClass Nbr: 1572, Section #: 004, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: K. Cross, Status: Open\nClass Nbr: 1616, Section #: 005, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: T. Brzinski, Status: Open\nClass Nbr: 1617, Section #: 006, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: A. Bullock, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

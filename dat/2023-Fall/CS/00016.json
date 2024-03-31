@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 441",
+    "course_title": "Information Visualization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "This class is now a permanent listing and is replacing the topics class, CS 485-2.\n\n\nThis is course is in the Arts and Social Justice Fellows program for the Fall 2023 semester. Students will have the opportunity to work with an Atlanta artist and explore social justice issues relevant to the course topic.",
+    "course_description": "In this course, students 1) will become acquainted with fundamental theories in perceptual psychology that drive visualization design, 2) will be introduced to basic principles of HCI which inform evaluation of interactive visualizations, and 3) will use D3 to develop interactive visualizations.",
+    "prerequisites": "CS 253 or CS_OX 253 or equivalent transfer credit as prerequisite.",
+    "instructors": "Emily Wall - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Math & Science Center - W303",
+    "course_resources": null,
+    "sections": "Class Nbr: 6109, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: E. Wall, Status: Open",
+    "date_accessed": "2024-03-30"
+}

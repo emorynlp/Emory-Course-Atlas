@@ -1,0 +1,22 @@
+{
+    "course_code": "BUS 350",
+    "course_title": "Data and Decision Analytics",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "BUS 350 requires statistical competency as a prerequisite. This may be fulfilled by equivalent test or transfer credit for statistics posted on the transcript, credit for QTM/QTM_OX 100, Math_OX 117, or Econ/ECON_OX 220, or demonstrated statistical competency via an exam that is accessible by enrolling in the non-credit, non tuition-bearing BUS 150 Statistics Bootcamp.",
+    "course_description": "Teaches students to deal with, manipulate, and gain insight from data to solve problems in the 21st-century business context. Students will analyze business data and perform predictive analytics by working with real-world data across a variety of industries and business contexts to engage in applied problem-solving. The class will familiarize students with a set of increasingly sophisticated tools and techniques (models and methodologies) for data-based business decision making. Students will additionally be exposed to a variety of technological tools commonly used in business analytics.",
+    "prerequisites": "MATH_OX 117 or ECON 220 or ECON_OX 220 or QTM 100 or QTM_OX 100 or QTM 110 or QTM_OX 110 or QTM 999XFR or QTM_OX ELEC or transfer credit as prerequisite. SPECSTUBUS students can enroll. Students enrolled or who took ISOM 350 cannot enroll in BUS 350.This section is reserved for students in the Emory College Liberal Arts and Sciences program.",
+    "instructors": "Wen Gu - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4437, Section #: 1401, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: W. Gu, Status: Open\nClass Nbr: 4438, Section #: 1402, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: W. Gu, Status: Open\nClass Nbr: 4439, Section #: 1403, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: W. Gu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

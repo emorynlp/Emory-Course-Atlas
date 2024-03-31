@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 722",
+    "course_title": "Advanced Survival Analysis",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 15",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Irregularly",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "In-depth coverage of theory and methods of survival analysis, including censoring patterns and theory of competing risks, nonparametric inference, estimating cumulative hazard functions, Nelson estimator, parametric models and likelihood methods, special distributions, two sample nonparametric tests for censored data, power considerations and optimal weights, sample size calculations for design purposes, proportional hazards model, partial likelihood, parameter estimation with censored data, time-dependent covariates, stratified Cox model, accelerated failure time regression models, grouped survival analysis, multivariate survival analysis, and frailty models. Prerequisite: BIOS 510, BIOS 511, BIOS 522.",
+    "prerequisites": null,
+    "instructors": "Eugene Huang - Primary Instructor",
+    "schedule_location": "Th 1pm-2:50pm in Grace Crum Rollins P41",
+    "course_resources": null,
+    "sections": "Class Nbr: 4710, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 1-2:50p, Instructor: E. Huang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

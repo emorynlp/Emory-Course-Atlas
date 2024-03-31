@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 490R",
+    "course_title": "Advanced Seminar: Humanities Data and Archives",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Enrollment Instructions: To obtain permission to enroll in the course, please email lauren.klein@emory.edu with a short paragraph explaining your interest in the course and any relevant experience. Experience in Python and/or NLP is recommended but not required.\n\n\nHow can natural language processing and other machine learning techniques be applied to humanities data? What new knowledge can they reveal? What are their limits? This course, paired with a humanities graduate seminar, will explore these questions in theory and practice. We will read scholarship about historical archives and then work as a class to produce quantitative analyses of the textual data of the National Archives. This work will inform a series on the 250th anniversary of the United States being produced by Alabama Public Television.\n\n\nThis course meets with ENG 790.",
+    "course_description": "Selected advanced topics in quantitative sciences. Open only to junior and senior majors; others by permission of instructor.",
+    "prerequisites": null,
+    "instructors": "Lauren Klein - Primary Instructor",
+    "schedule_location": "Th 10am-12:45pm in Registrar Room Pool",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_490R_3_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2143, Section #: 3, Type: SEM, Campus: ATL, Meets: Th 10a-12:45p, Instructor: Klein/Salter, Status: Open",
+    "date_accessed": "2024-03-29"
+}

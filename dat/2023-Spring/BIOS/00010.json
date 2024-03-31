@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 534",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": "Prerequisites: Multivariate Calculus (Calculus III), Linear Algebra, and Python or permission of instructor.",
+    "course_description": "Prerequisites: Multivariate Calculus (Calculus III), Linear Algebra, and Python programming. This course covers fundamental machine learning theory and techniques. The topics include basic theory, classification methods, model generalization, clustering, and dimension reduction. The material will be conveyed by a series of lectures, homeworks, and projects.",
+    "prerequisites": null,
+    "instructors": "Steve Pittard - Primary Instructor",
+    "schedule_location": "TTh 3pm-4:20pm in R. Randall Rollins Bldg. R226",
+    "course_resources": null,
+    "sections": "Class Nbr: 2767, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 3-4:20p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

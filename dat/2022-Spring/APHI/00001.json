@@ -1,0 +1,22 @@
+{
+    "course_code": "APHI 540D",
+    "course_title": "Data Management & Data Systems Architecture",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 6",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-07 through 2022-04-10",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership. Additional required computer session - January  from 4:30 - 5:30pm. EMPH Opening Weekend is 1/7-1/9 and Closing Weekend is 4/8-4/10.",
+    "course_description": "The purpose of this course is to provide students with key data terminology, concepts, and model derivation principles for data management, and to provide an understanding of data systems architecture design within the context of public health. Students will learn to apply data design methodologies that are driven by effective requirements capture and public health program outcomes. The students will utilize standard requirements derivation methods to discover and extract data attributes and the data relationships that support a public health intent, outcome, or knowledge purpose. They will also learn to aggregate, normalize, and integrate data from multiple health and public health sources into relational model structures. Finally, students will learn best practices and methodologies that are used to architect interoperable public health data systems based on use of standard systems architectures.",
+    "prerequisites": null,
+    "instructors": "Denise Kenson - Primary Instructor",
+    "schedule_location": "F 12:30pm-3:30pm in Grace Crum Rollins 119\nSa 1pm-4pm in Grace Crum Rollins 119\nSa 4:30pm-5:30pm in Grace Crum Rollins 119",
+    "course_resources": null,
+    "sections": "Class Nbr: 3314, Section #: 901, Type: SEM, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p; Sa 4:30-5:30p, Instructor: Kenson/Tufon, Status: Open",
+    "date_accessed": "2024-03-30"
+}

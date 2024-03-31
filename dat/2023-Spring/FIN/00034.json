@@ -1,0 +1,22 @@
+{
+    "course_code": "FIN 624",
+    "course_title": "Derivatives",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "This is a course dealing with the valuation and use of derivative financial assets. Initially we will study option contracts. We will consider relative pricing requirements for these contracts enforced by arbitrage. Extension of this technique will lead to the derivation of exact valuation models. During the second portion of the course we will study futures contracts. The focus again will be on relative pricing requirements enforced by arbitrage. The overall objective of the class is to give students skills to assess the values and risks of derivative assets and to develop trading and hedging strategies based on their analyses.",
+    "prerequisites": "Varies by section",
+    "instructors": "Nicholas Valerio III - Primary Instructor",
+    "schedule_location": "T 6:30pm-9:30pm in Goizueta Business School 231",
+    "course_resources": null,
+    "sections": "Class Nbr: 1159, Section #: 2155, Type: LEC, Campus: ATL, Meets: T 6:30-9:30p, Instructor: N. Valerio III, Status: Open\nClass Nbr: 1160, Section #: 3255, Type: LEC, Campus: ATL, Meets: T 6:30-9:30p, Instructor: N. Valerio III, Status: Open\nClass Nbr: 1605, Section #: 6255, Type: LEC, Campus: ATL, Meets: T 6:30-9:30p, Instructor: N. Valerio III, Status: Open",
+    "date_accessed": "2024-03-30"
+}

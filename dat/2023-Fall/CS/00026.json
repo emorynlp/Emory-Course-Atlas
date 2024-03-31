@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 571",
+    "course_title": "Natural Language Processing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "This course introduces the fundamental concepts and ideas in natural language processing (NLP). It develops an understanding of algorithms for processing linguistic information and the underlying computational properties of text. The focus is on modern quantitative techniques in NLP. Advanced topics will include introduction to information retrieval, text mining and knowledge discovery from text data, as well as applications of NLP to bioinformatics and medical informatics.",
+    "prerequisites": null,
+    "instructors": "Fei Liu - Primary Instructor",
+    "schedule_location": "MW 5:30pm-6:45pm in Math & Science Center - W301",
+    "course_resources": null,
+    "sections": "Class Nbr: 2879, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p, Instructor: F. Liu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "History, Society, Cultures with Writing",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3760, Section #: 1, Type: LEC, Campus: ATL, Meets: M 10-11:15a, Instructor: S. Marvel, Status: Open\nClass Nbr: This section is full 3762, Section #: 2, Type: DIS, Campus: ATL, Meets: W 10-11:15a, Instructor: S. Mandal, Status: Open\nClass Nbr: This section is full 3763, Section #: 3, Type: DIS, Campus: ATL, Meets: F 10-11:15a, Instructor: M. Sahay, Status: Open\nClass Nbr: 3764, Section #: 4, Type: DIS, Campus: ATL, Meets: F 11:30a-12:45p, Instructor: S. devuono-powell, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3760, Section #: 1, Type: LEC, Campus: ATL, Meets: M 10-11:15a, Instructor: Sheth/Wrisley, Status: Open\nClass Nbr: 3762, Section #: 2, Type: DIS, Campus: ATL, Meets: W 10-11:15a, Instructor: Team, Status: Wait List\nClass Nbr: 3763, Section #: 3, Type: DIS, Campus: ATL, Meets: F 10-11:15a, Instructor: Team, Status: Open\nClass Nbr: 3764, Section #: 4, Type: DIS, Campus: ATL, Meets: F 11:30a-12:45p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-31"
 }

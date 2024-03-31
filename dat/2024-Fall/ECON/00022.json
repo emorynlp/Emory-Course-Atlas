@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 422W",
+    "course_title": "Economic Forecasting",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 20Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics & Quantitative Reasoning with Writing",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "An introduction to Economics Forecasting and Time Series Analysis. The course will cover specifications and estimation of ARMA models, seasonality, non-stationarity, unit roots and forecast evaluations. Empirical applications are used throughout the course.",
+    "prerequisites": "ECON 320 or equivalent transfer credit as prerequisite.",
+    "instructors": "Kaushik Mukhopadhaya - Primary Instructor",
+    "schedule_location": "MWF 10am-10:50am in Registrar Room Pool",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ECON_422W_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4501, Section #: 1, Type: LEC, Campus: ATL, Meets: MWF 10-10:50a, Instructor: K. Mukhopadhaya, Status: Open",
+    "date_accessed": "2024-03-28"
+}

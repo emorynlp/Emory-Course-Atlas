@@ -2,10 +2,10 @@
     "course_code": "PSYC 330",
     "course_title": "Personality Theories",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 48 / Seats Avail: 1",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "History, Society, Cultures",
@@ -17,6 +17,6 @@
     "instructors": "Jessica Barber - Primary Instructor",
     "schedule_location": "MW 1pm-2:15pm in New Psyc Bldg 230 (36 Eagle Ro",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PSYC_330_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3626, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: J. Barber, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3626, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: J. Barber, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

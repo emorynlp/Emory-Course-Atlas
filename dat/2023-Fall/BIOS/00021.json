@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 585",
+    "course_title": "Python Programming",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 3",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Varies by section",
+    "course_description": "This course will provide a pragmatic and hands-on introduction to the Python programming language, with a focus on practical applications and projects, rather than theoretical topics. We cover data types, control flow, object-oriented programming, and graphical user interface-driven applications. Students will learn to work with packages, data structures, and tools for data science and cybersecurity. The examples and problems used in this course are drawn from diverse areas such as text processing, simple graphics creation and image manipulation, HTML and web programming, and genomics.",
+    "prerequisites": null,
+    "instructors": "Rameshbabu Manyam - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1742, Section #: 1, Type: LEC, Campus: ATL, Meets: F 10-11:50a, Instructor: Manyam/Ran, Status: Open\nClass Nbr: 5615, Section #: L1, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: Manyam/Ran, Status: Open",
+    "date_accessed": "2024-03-30"
+}

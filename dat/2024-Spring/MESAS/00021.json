@@ -1,9 +1,9 @@
 {
     "course_code": "MESAS 370",
-    "course_title": "Special Topics MESAS-300 Level: Digital Methods to Study Past",
+    "course_title": "Special Topics MESAS-300 Level: Econ Develop.Africa/Mid.East",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 12",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -11,12 +11,12 @@
     "requirement_designation": "History, Society, Cultures",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "(Same as ANT 385 3 and HIST 396 2)\n(CompleteTopic: Digital Methods to Study the Past)",
+    "class_notes": "(Same as AFS 389 4 and ECON 385 2)\n(Complete Topic: Discover the Realities of Economic Development in Africa & the Middle East)\n(Explore the issues that shape economic development, from the aftermath of events like the Arab Spring to the Syrian, Sudanese, Afghan and Ukrainian refugee crises. Understand the impact of worldwide economic crises, the intricacies of geopolitics, and the dynamics of coups in sub-Saharan Africa. Delve into the complexities of attracting foreign aid and non-governmental assistance in a rapidly changing world.\nThis course will dissect development theories, policies, and practices, offering a comprehensive examination of the economic landscape. We'll question conventional wisdom and explore new paths towards sustainable economic development. By analyzing social, political, and cultural factors that influence economic behavior, you'll gain a deeper understanding of the underlying dynamics.\nOur course doesn't stop at theory; we bring real-world practitioners into the classroom. You'll have the opportunity to engage with key figures in the field of development and attend optional master classes on topics like financial stability and development standards.)",
     "course_description": "Special topics in Middle Eastern and South Asian Studies, at the 300 level; may be repeated when content varies.",
     "prerequisites": null,
-    "instructors": "Petra Creamer - Primary Instructor",
-    "schedule_location": "TTh 2:30pm-3:45pm in Math & Science Center - E301A",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MESAS_370_5_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3047, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: P. Creamer, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Sam Cherribi - Primary Instructor",
+    "schedule_location": "Th 4pm-6:45pm in Anthropology Building 303",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MESAS_370_4_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1786, Section #: 4, Type: LEC, Campus: ATL, Meets: Th 4-6:45p, Instructor: S. Cherribi, Status: Open",
+    "date_accessed": "2024-03-31"
 }

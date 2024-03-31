@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 116",
+    "course_title": "Life Sciences Calculus II",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Integration, differential equations, multivariable calculus, and discrete probability and statistics, with an emphasis on applications to biology.",
+    "prerequisites": "MATH 111 or MATH 111L or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3460, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: K. Cook-Powell, Status: Open\nClass Nbr: 3463, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: K. Cook-Powell, Status: Open\nClass Nbr: 3471, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: K. Cook-Powell, Status: Open\nClass Nbr: 3472, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: K. Cook-Powell, Status: Open\nClass Nbr: 3977, Section #: 5, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Cook-Powell/LEE, Status: Open\nClass Nbr: 3979, Section #: 6, Type: LAB, Campus: ATL, Meets: F 1-1:50p, Instructor: Cook-Powell/LEE, Status: Open\nClass Nbr: 3980, Section #: 7, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Cook-Powell/Itkyal, Status: Open\nClass Nbr: 3981, Section #: 8, Type: LAB, Campus: ATL, Meets: F 1-1:50p, Instructor: Cook-Powell/Itkyal, Status: Open",
+    "date_accessed": "2024-03-30"
+}

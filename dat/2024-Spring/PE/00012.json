@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Physical Education(*)",
@@ -17,6 +17,6 @@
     "instructors": "Patton D White - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 5288, Section #: 1, Type: PE, Campus: ATL, Meets: TTh 4-5:15p, Instructor: P. White, Status: Open\nClass Nbr: 5289, Section #: 2, Type: PE, Campus: ATL, Meets: MW 4-5:15p, Instructor: P. White, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5288, Section #: 1, Type: PE, Campus: ATL, Meets: TTh 4-5:15p, Instructor: White/Ridgway, Status: Wait List\nClass Nbr: 5289, Section #: 2, Type: PE, Campus: ATL, Meets: MW 4-5:15p, Instructor: White/Ridgway, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

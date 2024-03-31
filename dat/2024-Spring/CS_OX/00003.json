@@ -2,7 +2,7 @@
     "course_code": "CS_OX 224",
     "course_title": "Foundations of Computer Science",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 19Waitlist Total: 0 of 6",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 8Waitlist Total: 0 of 6",
     "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "This course introduces elementary mathematics necessary for the computer science curriculum. Topics include proof-writing, sets, functions, logic, quantifiers, graphs, automata, languages, and asymptotic notation.",
     "prerequisites": "(CS 170 or CS_OX 170) and (MATH 111 or MATH_OX 111) or equivalent transfer credit as prerequisites.",
-    "instructors": "Jonathan Hulgan - Primary Instructor",
+    "instructors": "Julie Hulgan - Primary Instructor",
     "schedule_location": "MW 2:30pm-3:45pm in Pierce Hall 140",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_CS_OX_224_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 4470, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: J. Hulgan, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

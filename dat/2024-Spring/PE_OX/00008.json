@@ -2,10 +2,10 @@
     "course_code": "PE_OX 128",
     "course_title": "Yoga",
     "credit_hours": "1",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 0Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Physical Education(*)",
@@ -17,6 +17,6 @@
     "instructors": "Sara Bradley - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4164, Section #: 1, Type: PE, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: S. Bradley, Status: Open\nClass Nbr: 4165, Section #: 2, Type: PE, Campus: OXF, Meets: TTh 10-11:15a, Instructor: S. Bradley, Status: Open\nClass Nbr: 4166, Section #: 3, Type: PE, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: S. Bradley, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4164, Section #: 1, Type: PE, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: S. Bradley, Status: Wait List\nClass Nbr: 4165, Section #: 2, Type: PE, Campus: OXF, Meets: TTh 10-11:15a, Instructor: S. Bradley, Status: Wait List\nClass Nbr: 4166, Section #: 3, Type: PE, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: S. Bradley, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 534",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 1 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "This course is currently x-listed with BIOS 534-1 (2767).   Closed section.",
+    "course_description": "This course covers fundamental machine learning theory and techniques. The topics include basic theory, classification methods, model generalization, clustering, and dimension reduction. The material will be conveyed by a series of lectures, homeworks, and projects.",
+    "prerequisites": null,
+    "instructors": "Steve Pittard - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 6104, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Qin/Pittard, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

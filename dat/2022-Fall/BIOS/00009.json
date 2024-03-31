@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 516D",
+    "course_title": "Applied Biostatistics I",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 19 / Seats Avail: 2",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-08-26 through 2022-11-20",
+    "class_notes": "Permission Only - Program Approval to Take Courses Required.",
+    "course_description": "This course covers fundamental concepts and methods used in data analysis. These include techniques in graphical and numerical descriptive statistics, elementary probability calculation using the normal distribution, point and confidence interval estimation and hypothesis testing for population means and proportions, differences between means and between proportions, and contingency table analyses (including risk ratio and odds ratio). Students will use SAS to perform the statistical analysis. Requirements include weekly homework, weekly quizzes, Midterm and Final Exams, and data analysis project.",
+    "prerequisites": "Prereq. for AEPI Students: AEPI 530D, AEPI 534D, AEPI 536D, AEPI 538D, BIOS 516D, BIOS 517D, BIOS 518D, or by special permission to enroll.\nPrereq. for PRS Students: PRS 505D, PRS 535D, PRS 542D, as prerequisites or by special permission to enroll.",
+    "instructors": "Jose Binongo - Primary Instructor",
+    "schedule_location": "F 12:30pm-3:30pm in Grace Crum Rollins P53\nSa 1pm-4pm in Grace Crum Rollins P53",
+    "course_resources": null,
+    "sections": "Class Nbr: 3130, Section #: 901, Type: LEC, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p, Instructor: Binongo/Genias, Status: Open",
+    "date_accessed": "2024-03-30"
+}

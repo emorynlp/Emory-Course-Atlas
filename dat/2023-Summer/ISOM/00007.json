@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 663A",
+    "course_title": "Problem Solving Bootcamp",
+    "credit_hours": "0",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Satisfactory/Unsatisfactory",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-07-10 through 2023-08-04",
+    "class_notes": null,
+    "course_description": "This course runs throughout the length of the program. Students are provided the basis to abstract a business problem into a data-based problem and provided a methodology commonly adopted by consulting firms.  The course then combines the consulting method with the CRISP-DM framework commonly used in data science projects.  This course provides the foundation for managing projects in the capstone course.",
+    "prerequisites": "Varies by section",
+    "instructors": "Patrick S. Noonan - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: 1872, Section #: 4101, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: P. Noonan, Status: Open\nClass Nbr: 2153, Section #: 4102, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: P. Noonan, Status: Open\nClass Nbr: 2603, Section #: 4103, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: P. Noonan, Status: Open",
+    "date_accessed": "2024-03-30"
+}

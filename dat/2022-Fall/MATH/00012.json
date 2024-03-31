@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 315",
+    "course_title": "Numerical Analysis",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Solution of linear and nonlinear systems of equations, interpolation, least-squares approximation, numerical integration, and differentiation.",
+    "prerequisites": "(MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) and (CS 170 or CS_OX 170) or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3764, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 2:30-3:20p, Instructor: Mayo/Molinari, Status: Open\nClass Nbr: 5199, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p; F 11:30a-12:20p, Instructor: Chung/Molinari, Status: Open",
+    "date_accessed": "2024-03-30"
+}

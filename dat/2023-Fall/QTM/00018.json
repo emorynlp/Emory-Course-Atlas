@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 365",
+    "course_title": "Parametric Statistics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 24Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "This class is to introduce fundamental ideas in statistical inference. It includes probability theory, and traditional parametric statistical inference, estimation, and hypothesis testing.",
+    "course_description": "Understanding the limits of what we can learn from our data and how to reach those limits. Knowing this allows us to run the smallest experiment large enough to give us the precision we need and can keep us from wasting time trying to wring an unattainable level of precision from data.",
+    "prerequisites": "(QTM 220 or ECON 320) & (QTM 110 or QTM_OX 110) & (QTM 150 or QTM_OX 150) & (QTM 210 or QTM_OX 210 or ECON 220 or ECON_OX 220 or MATH 361) & (MATH 210 or MATH_OX 210 or MATH 211 or MATH_OX 211) & (MATH 221 or MATH_OX 221) or equiv.transfer credit prereq.",
+    "instructors": "Alejandro Sanchez Becerra - Primary Instructor",
+    "schedule_location": "MW 8:30am-9:45am in Math & Science Center - N302",
+    "course_resources": null,
+    "sections": "Class Nbr: 3589, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: A. Sanchez Becerra, Status: Open",
+    "date_accessed": "2024-03-30"
+}

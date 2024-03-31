@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 572",
+    "course_title": "Numerical Partial Differential Equations",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Students will be introduced to Finite Difference method, Finite Element and Spectral methods (Galerkin methods), Finite Volume method with a specific focus on concepts like accuracy, stability and efficiency. These are, in fact, the aspects to consider in practical problems to identify the most appropriate method. The mathematical roots of each method will be discussed and compared in view of their practical use.",
+    "prerequisites": null,
+    "instructors": "Talea L. Mayo - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Math & Science Center - W303",
+    "course_resources": null,
+    "sections": "Class Nbr: 3844, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: T. Mayo, Status: Open",
+    "date_accessed": "2024-03-30"
+}

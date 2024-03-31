@@ -2,7 +2,7 @@
     "course_code": "BIOS 517D",
     "course_title": "Applied Biostatistics II",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 8",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 9",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership. EMPH Opening Weekend is January 12-14 and Closing Weekend is April 12-14",
     "course_description": "Pre-Requisites: BIOS 516D as prerequisite or special permission required to enroll. BIOS 517D is the follow-up course to BIOS 516D. BIOS 516D ended with procedures for two independent samples (two sample t-test and chi-square test). Students then begin their study of linear regression, starting with one-predictor models and then moving on to multiple-predictor models. In addition, the course will cover ANOVA, ANCOVA, and non-independent hypothesis testing for paired and time-varying data.\n.",
     "prerequisites": "BIOS 516D as prerequisite or special permission required to enroll.",
-    "instructors": null,
+    "instructors": "Alexander Taurone - Primary Instructor",
     "schedule_location": "FSa 8:30am-11:30am in ONLINE",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BIOS_517D_901_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1046, Section #: 901, Type: LEC, Campus: ATL, Meets: FSa 8:30-11:30a, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1046, Section #: 901, Type: LEC, Campus: ATL, Meets: FSa 8:30-11:30a, Instructor: A. Taurone, Status: Open",
+    "date_accessed": "2024-03-30"
 }

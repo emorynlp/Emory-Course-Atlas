@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 536",
+    "course_title": "Applied Data Analysis",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 45 / Seats Avail: 14",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Prerequisites: EPI 504 or EPI 530 or BIOS 500.",
+    "course_description": "Prerequisites: EPI 530, BIOS 500, and EPI 534 or BIOS 501. The purpose of this course is to prepare the student for analysis of epidemiologic data from various study designs including cross-sectional, case-control, and follow-up studies. The student will have the opportunity to apply the methods taught in the epidemiology methods sequence to actual data sets. After completion of the course, the student will be prepared to do the data analysis for their thesis. The course will use the statistical program, Stata, for all analyses and therefore some time will be spent in learning the fundamentals of Stata. We will analyze multiple data sets and apply epidemiologic and statistical methods such as exact tests for 2x2 tables, stratified analysis, logistic regression, and survival techniques appropriate for epidemiologists. The course will be applied and will emphasize the use of Stata to solve various epidemiologic problems using a wide range of data sets.",
+    "prerequisites": null,
+    "instructors": "Laura Plantinga - Primary Instructor",
+    "schedule_location": "M 3pm-4:50pm in Grace Crum Rollins P45",
+    "course_resources": null,
+    "sections": "Class Nbr: 3156, Section #: 1, Type: LEC, Campus: ATL, Meets: M 3-4:50p, Instructor: Plantinga/Valenzuela Lara, Status: Open",
+    "date_accessed": "2024-03-30"
+}

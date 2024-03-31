@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 5043, Section #: 1401, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: A. Errore, Status: Open\nClass Nbr: 5044, Section #: 1402, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: A. Errore, Status: Open\nClass Nbr: 5045, Section #: 1403, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: Staff, Status: Open\nClass Nbr: 5046, Section #: 1404, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: P. Adamopoulos, Status: Open\nClass Nbr: 5047, Section #: 1405, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: P. Adamopoulos, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5043, Section #: 1401, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: A. Errore, Status: Wait List\nClass Nbr: 5044, Section #: 1402, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: A. Errore, Status: Open\nClass Nbr: 5045, Section #: 1403, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: H. Huynh, Status: Open\nClass Nbr: 5046, Section #: 1404, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: H. Huynh, Status: Open\nClass Nbr: 5047, Section #: 1405, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: H. Huynh, Status: Open\nClass Nbr: 6194, Section #: 1406, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: H. Huynh, Status: Open",
+    "date_accessed": "2024-03-30"
 }

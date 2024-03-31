@@ -1,0 +1,22 @@
+{
+    "course_code": "EH 587",
+    "course_title": "Intro.to Satellite Remote Sensing of the Environment and its Applications in PH",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-05",
+    "class_notes": "May enroll in optional lab EH 587L.",
+    "course_description": "Prerequisites: at least one GIS class (INFO 530) or equivalent.  Geospatial information collected from satellite remote sensing has become a powerful tool in environmental and public health science and policy making. However, public health researchers usually lack training to benefit from this rapidly evolving technology. This computer lab-based course provides students with the theoretical basis and refined understanding of satellite remote sensing technologies, and tools for geospatial data analysis. Students will learn (1) the history, terminology and data structure of both land and atmospheric remote sensing such as those from MODIS and Landsat, and (2) the strategies and techniques to analyze geospatial data in advanced software packages. Various case studies and lab exercises help students overcome the initial hurdle to the effective use of satellite data in land use change and air pollution characterization, climate change and other areas related to public health. The final project allows the students to apply satellite data together with other information to solve a problem of their interest.",
+    "prerequisites": null,
+    "instructors": "Yang Liu - Primary Instructor",
+    "schedule_location": "T 1pm-2:50pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4511, Section #: 1, Type: LEC, Campus: ATL, Meets: T 1-2:50p, Instructor: Liu/Shi, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,11 +1,11 @@
 {
     "course_code": "QTM 151",
     "course_title": "Introduction to Statistical Computing II",
-    "credit_hours": "1-2",
-    "seats": "Seats: Maximum Enrollment: 120 / Seats Avail: 41Waitlist Total: 0",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 120 / Seats Avail: 0Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Alejandro Sanchez Becerra - Primary Instructor",
     "schedule_location": "MW 8:30am-9:20am in Math & Science Center - E208",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_151_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2348, Section #: 1, Type: LAB, Campus: ATL, Meets: MW 8:30-9:20a, Instructor: A. Sanchez Becerra, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2348, Section #: 1, Type: LAB, Campus: ATL, Meets: MW 8:30-9:20a, Instructor: A. Sanchez Becerra, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

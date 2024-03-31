@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 760",
+    "course_title": "Causal Inference",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Varies by section",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "Varies by section",
+    "course_description": "This course provides a survey of modern topics in causal inference. Fundamental concepts in causal inference will be covered including: counterfactual random variables, assessing identifiability of causal effects, graphical frameworks, Gcomputation, inverse probability of treatment weighting, methods for efficient, doubly (multiply) robust estimation of causal effects, and causal mediation. Where possible, the course emphasizes the use of modern regression (e.g., machine learning) in causal effect estimation and provides an applied introduction to this area is provided as well.",
+    "prerequisites": null,
+    "instructors": "David Benkeser - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4691, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 3:15-5:05p, Instructor: Team, Status: Open\nClass Nbr: 4692, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 3:15-5:05p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -2,10 +2,10 @@
     "course_code": "DATA 550",
     "course_title": "Data Science Toolkit",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 75 / Seats Avail: 0",
+    "seats": "Seats: Maximum Enrollment: 75 / Seats Avail: 18",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Fall",
     "requirement_designation": null,
@@ -15,8 +15,8 @@
     "course_description": "Prerequisites: BIOS 544 or BIOS 545, R programming experience needed or permission of the instructor. This course is an elective for Masters and PhD students interested in learning some fundamental tools used in modern data science. Together, the tools covered in the course will provide the ability to develop fully reproducible pipelines for data analysis, from data processing and cleaning to analysis to result tables and summaries. By the end of the course students will have learned the tools necessary to: develop reproducible workflows collaboratively (using version control based on Git/GitHub), execute these workflows on a local computer (using command line operations, RMarkdown, and GNU Makefiles), execute the workflows in a containerized environment allowing end-to-end reproducibility (using Docker), and execute the workflow in a cloud environment (using Amazon Web Services EC2 and S3 services). Along the way, we will cover a few other tools for data science including best coding practices, basic python, software unit testing, and continuous integration services.",
     "prerequisites": null,
     "instructors": "David Benkeser - Primary Instructor",
-    "schedule_location": "M 8am-9:50am in Grace Crum Rollins TBA",
+    "schedule_location": "M 8am-9:50am in R. Randall Rollins Bldg. RL 40",
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DATA_550_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 2155, Section #: 1, Type: LEC, Campus: ATL, Meets: M 8-9:50a, Instructor: D. Benkeser, Status: Closed",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2155, Section #: 1, Type: LEC, Campus: ATL, Meets: M 8-9:50a, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
 }

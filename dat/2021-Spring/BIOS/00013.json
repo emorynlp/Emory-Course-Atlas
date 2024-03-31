@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 550",
+    "course_title": "Sampling Applications",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 39",
+    "waitlist_total": null,
+    "grading_mode": "Satisfactory/Unsatisfactory",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-05",
+    "class_notes": null,
+    "course_description": "Prerequisites: BIOS 500, BIOS 501 or BIOS 506 or permission of the instructor. How to select probability samples and analyze data using simple random sampling, stratified random sampling, cluster sampling and multistage sampling. The software package PC-SUDAAN is used for data analysis.",
+    "prerequisites": null,
+    "instructors": "Paul Weiss - Primary Instructor",
+    "schedule_location": "Th 10:15am-12:05pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4431, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 10:15a-12:05p, Instructor: P. Weiss, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 455",
+    "course_title": "Superforecasting Tools for Building Predictive Systems",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 33 / Seats Avail: 7Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Hands-on, gentle introduction to the tools that data scientists use to forecast the future. Emphasis is on applying these tools to build predictive systems for examples ranging from sales forecasting to algorithmic trading to preventing employee churn. Through this course, students gain experience with R, an in-demand software platform. Prior coding exposure is not necessary.\nMethods surveyed: Linear regression re-examined from the angle of predictive analytics; AI/ML techniques for prediction & classification; time series methods; time-to-event prediction tools developed by GBS faculty.",
+    "prerequisites": "ISOM 350 or MATH_OX 117 or QTM 999XFR or QTM_OX ELEC or SPECSTUBUS students or equivalent transfer credit as prerequisite.This section is reserved for students in the BBA program.",
+    "instructors": "Donald Lee - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Goizueta Foundation Ctr W300",
+    "course_resources": null,
+    "sections": "Class Nbr: 1198, Section #: 1165, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: D. Lee, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 210",
+    "course_title": "Advanced Calculus for Data Sciences",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "This course is a short treatment of MATH 112 and 211 with a lab component. It is not appropriate for students who have taken MATH 211. Topics include: advanced integration, Taylor series; and multivariable differentiation, optimization and integration; and applications to statistics and science.",
+    "prerequisites": "MATH 111 or MATH 111L or MATH_OX 111 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3475, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: A. Kobin, Status: Open\nClass Nbr: 3476, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: A. Kobin, Status: Open\nClass Nbr: 3983, Section #: 3, Type: LAB, Campus: ATL, Meets: F 1-1:50p, Instructor: Kobin/Liang, Status: Open\nClass Nbr: 3984, Section #: 4, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Kobin/Liang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

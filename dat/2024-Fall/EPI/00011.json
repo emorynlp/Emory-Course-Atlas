@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 550",
+    "course_title": "Epidemiologic Methods III",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Varies by section",
+    "course_description": "Prerequisites: EPI 530, 533/534, 539/540/545, BIOS 500, and 591P.  Covers concepts, methods, and application of key mathematical modeling approaches used to evaluate multivariable data from epidemiologic studies: logistic regression, Cox regression, collinearity, modeling strategy for determining a best model, goodness of fit, and ROC curves. The course also teaches a broader philosophy and approach for constructing the appropriate models for answering the question under study.",
+    "prerequisites": null,
+    "instructors": "Lauren Christiansen-Lindquist - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1447, Section #: 1, Type: LEC, Campus: ATL, Meets: T 1-2:20p; F 10-11:20a, Instructor: L. Christiansen-Lindquist, Status: Open\nClass Nbr: 1448, Section #: L1, Type: LAB, Campus: ATL, Meets: W 8:30-9:50a, Instructor: L. Christiansen-Lindquist, Status: Open\nClass Nbr: 1449, Section #: L2, Type: LAB, Campus: ATL, Meets: W 8:30-9:50a, Instructor: L. Christiansen-Lindquist, Status: Open\nClass Nbr: 1450, Section #: L3, Type: LAB, Campus: ATL, Meets: W 8:30-9:50a, Instructor: L. Christiansen-Lindquist, Status: Open\nClass Nbr: This section is full 1452, Section #: L4, Type: LAB, Campus: ATL, Meets: W 3-4:20p, Instructor: L. Christiansen-Lindquist, Status: Closed\nClass Nbr: 1455, Section #: L5, Type: LAB, Campus: ATL, Meets: W 3-4:20p, Instructor: L. Christiansen-Lindquist, Status: Open\nClass Nbr: 1457, Section #: L6, Type: LAB, Campus: ATL, Meets: W 3-4:20p, Instructor: L. Christiansen-Lindquist, Status: Open\nClass Nbr: 1459, Section #: L7, Type: LAB, Campus: ATL, Meets: W 3-4:20p, Instructor: L. Christiansen-Lindquist, Status: Open",
+    "date_accessed": "2024-03-28"
+}

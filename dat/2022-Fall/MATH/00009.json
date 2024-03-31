@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 221",
+    "course_title": "Linear Algebra",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Systems of linear equations, matrices, determinants, linear transformations, eigenvalues and eigenvectors, least-squares.",
+    "prerequisites": "MATH 111 or MATH_OX 111 or MATH 112 or MATH_OX 112 or MATH 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3708, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a; F 10-10:50a, Instructor: Yepremyan/Basu, Status: Open\nClass Nbr: 3715, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 10-11:15a; F 11:30a-12:20p, Instructor: Yepremyan/Basu, Status: Open\nClass Nbr: 3720, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a; F 10-10:50a, Instructor: Verma/Zhao, Status: Open\nClass Nbr: This section is full 3725, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a; F 8:30-9:20a, Instructor: Verma/Zhao, Status: Wait List\nClass Nbr: 4727, Section #: 5, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p; F 1-1:50p, Instructor: Ahsani/Rosso, Status: Open\nClass Nbr: This section is full 4728, Section #: 6, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p; F 2:30-3:20p, Instructor: Ahsani/Rosso, Status: Wait List\nClass Nbr: 4729, Section #: 7, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 2:30-3:20p, Instructor: Ahsani/Yellin, Status: Open\nClass Nbr: 4730, Section #: 8, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 1-1:50p, Instructor: Ahsani/Yellin, Status: Open\nClass Nbr: This section is full 6626, Section #: 9000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

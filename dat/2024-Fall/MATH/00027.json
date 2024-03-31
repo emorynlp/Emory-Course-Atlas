@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 515",
+    "course_title": "Numerical Analysis I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 19 / Seats Avail: 14",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Course will cover fundamental parts of numerical linear algebra including matrix factorizations, solution of linear systems and least-squares problems, the calculation of eigenvalues and eigenvectors, and basic notions on iterative methods for large-scale matrix problems. Issues pertaining to conditioning and numerical stability will be thoroughly analyzed. We will also point out and use links to other mathematical and computer science disciplines such as mathematical modelling, computer architectures and parallel computing.",
+    "prerequisites": null,
+    "instructors": "Elizabeth Newman - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Emerson Chemistry Bldg. E363",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MATH_515_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2995, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: E. Newman, Status: Open",
+    "date_accessed": "2024-03-29"
+}

@@ -2,10 +2,10 @@
     "course_code": "DSC_OX 101",
     "course_title": "Discovery Seminar: Why We Believe Weird Things",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 4",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Kenneth E Carter - Primary Instructor",
     "schedule_location": "MW 11:30am-12:45pm in Pierce Hall 239",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_DSC_OX_101_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4193, Section #: 1, Type: SEM, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: K. Carter, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 4193, Section #: 1, Type: SEM, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: K. Carter, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 110",
+    "course_title": "Computer Science Fundamentals",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 14Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "A general introduction to computer science including an overview of hardware systems, programming essentials, algorithm design, data handling, and networking. Not intended for students needing a programming background for further work in computer science.",
+    "prerequisites": null,
+    "instructors": "Steven La Fleur - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in White Hall 103",
+    "course_resources": null,
+    "sections": "Class Nbr: 3695, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. La Fleur, Status: Open",
+    "date_accessed": "2024-03-30"
+}

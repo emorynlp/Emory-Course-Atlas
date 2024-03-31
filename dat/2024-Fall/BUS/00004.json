@@ -1,0 +1,22 @@
+{
+    "course_code": "BUS 350",
+    "course_title": "Data and Decision Analytics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 63 / Seats Avail: 63Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Teaches students to deal with, manipulate, and gain insight from data to solve problems in the 21st-century business context. Students will analyze business data and perform predictive analytics by working with real-world data across a variety of industries and business contexts to engage in applied problem-solving. The class will familiarize students with a set of increasingly sophisticated tools and techniques (models and methodologies) for data-based business decision making. Students will additionally be exposed to a variety of technological tools commonly used in business analytics.",
+    "prerequisites": "MATH_OX 117 or MATH 207/MATH_OX 207 or MATH 362 or ECON 220/ECON_OX 220 or QTM 100/QTM_OX 100 or QTM 110/QTM_OX 110 or SOC 275 or QTM 999XFR or QTM_OX ELEC as prereq. SPECSTUBUS stud.can enroll. Students enrolled or who took ISOM 350 can't take BUS 350.This section is reserved for students in the Emory College Liberal Arts and Sciences program.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4860, Section #: 1401, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: A. Errore, Status: Open\nClass Nbr: 4861, Section #: 1402, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: H. Huynh, Status: Open\nClass Nbr: 4862, Section #: 1403, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: H. Huynh, Status: Open\nClass Nbr: 4863, Section #: 1404, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: H. Huynh, Status: Open\nClass Nbr: 4864, Section #: 1405, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: H. Huynh, Status: Open",
+    "date_accessed": "2024-03-28"
+}

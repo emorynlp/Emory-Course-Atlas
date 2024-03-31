@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 354",
+    "course_title": "Strategic Modeling and Social Dynamics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 64 / Seats Avail: 48Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "The delivery format listed for this class is based on current university guidelines.  However, if there are further changes to the COVID19 guidelines for Fall 2021 or other acts beyond our control, the school reserves the right the modify the delivery method for this class.",
+    "course_description": "Simulation modeling is a valuable tool for business, public health, health care, marketing, and many other disciplines. In this course we will examine a unique and popular type: agent based systems (ABS). ABS fill a niche that other approaches cannot fill; therefore, they are often used in complement to other approaches. ABS often are used for modeling types of markets, pandemics, supply chains, strategies, policies, collaborations, and many other social-collective dynamic phenomena. This is a programming course that has no programming prerequisites. In this course you will learn the fundamentals of computational modeling, running ABS experiments, basic data analytics and visualization.",
+    "prerequisites": null,
+    "instructors": "Michael J Prietula - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Goizueta Business School 231",
+    "course_resources": null,
+    "sections": "Class Nbr: 2790, Section #: 1101, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: M. Prietula, Status: Open",
+    "date_accessed": "2024-03-30"
+}

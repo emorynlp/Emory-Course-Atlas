@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 485",
+    "course_title": "Topics in Computer Science: Spatial Computing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "(Prerequisite: CS 253 ) Permission of Bríd Flood (bnflood@emory.edu) required prior to enrollment.)\nSpatial data is ubiquitous in many applications, e.g., map applications, agriculture, health, and transportation, and in different scientific disciplines, e.g., geographic information sciences, environmental sciences, and behavioral sciences. This course covers the main concepts behind the existing technologies in spatial computing and explores future directions where spatial data is driving innovations. The course starts by introducing spatial computing and geometric algorithms to handle spatial data including points, lines, and polygons. Then, the course further covers solutions for indexing, querying, and mining spatial data. Finally, spatial network algorithms and trends and innovations in spatial computing will also be covered.",
+    "course_description": "May be repeated for credit when topic varies. Pre/co-requisites vary with topic.",
+    "prerequisites": null,
+    "instructors": "Andreas Zufle - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Math & Science Center - N306",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3353, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Zufle, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

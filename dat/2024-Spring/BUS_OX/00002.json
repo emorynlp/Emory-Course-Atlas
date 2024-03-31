@@ -2,7 +2,7 @@
     "course_code": "BUS_OX 350",
     "course_title": "Data and Decision Analytics",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 63",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 8",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -17,6 +17,6 @@
     "instructors": "Bill McKinnon - Primary Instructor",
     "schedule_location": "TTh 8:30am-9:45am in Humanities Hall 202",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_BUS_OX_350_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4220, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: B. McKinnon, Status: Open\nClass Nbr: 4221, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: B. McKinnon, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 4220, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: B. McKinnon, Status: Closed\nClass Nbr: 4221, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: B. McKinnon, Status: Open",
+    "date_accessed": "2024-03-30"
 }

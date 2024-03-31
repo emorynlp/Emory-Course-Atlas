@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM_OX 150",
+    "course_title": "Introduction to Statistical Computing I",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 0Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "Some synchronous class attendance is encouraged; time will be selected early in semester based off student schedules.",
+    "course_description": "This course provides an introduction to statistical computational tools for analyzing data. The material is selected to enable you to become proficient enough to actively implement the methods and tools in your scientific research. By the end of the course, students should be able to 1) deal with complex and messy real data, 2) use graphics to explore and understand data, 3) gain familiarity with basic data collections, storage, and manipulation, and 4) fluently reshape data into the most convenient form for analysis or reporting.",
+    "prerequisites": null,
+    "instructors": "Zachary Binney - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4244, Section #: 1, Type: LAB, Campus: OXF, Meets: Meets Online, Instructor: Z. Binney, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

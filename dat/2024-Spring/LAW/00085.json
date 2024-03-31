@@ -1,8 +1,8 @@
 {
-    "course_code": "LAW 720",
-    "course_title": "Entertainment Law",
+    "course_code": "LAW 709",
+    "course_title": "Conflict Of Laws",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 45 / Seats Avail: 45",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 26",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-08 through 2024-04-22",
-    "class_notes": "Final Assessment: Take-Home Final",
-    "course_description": null,
+    "class_notes": "Civil Procedure (preferred)\nThis course is eligible to be counted towards the requirements for the J.D. concentration in Civil Litigation and Dispute Resolution.",
+    "course_description": "The course deals with all problems that arise in cross-border cases (state to state, state-foreign country), such as cross-border contracts, torts, inheritance, family law issues like child custody. The three parts of the course discuss when a court has jurisdiction over out-of-state defendants, what law it applies (its own or another state's), and how out-of-state judgments are enforced. Differences between state and federal court proceedings will be emphasized.",
     "prerequisites": null,
-    "instructors": "Jasmine Johnson - Primary Instructor",
-    "schedule_location": "W 5:30pm-8:30pm",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_720_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5608, Section #: 001, Type: LEC, Campus: ATL, Meets: W 5:30-8:30p, Instructor: J. Johnson, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Peter Hay - Primary Instructor",
+    "schedule_location": "TTh 12:20pm-1:50pm in Gambrell Hall 5E",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_709_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2702, Section #: 001, Type: LEC, Campus: ATL, Meets: TTh 12:20-1:50p, Instructor: P. Hay, Status: Open",
+    "date_accessed": "2024-03-30"
 }

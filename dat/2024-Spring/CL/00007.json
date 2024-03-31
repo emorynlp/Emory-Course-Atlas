@@ -1,8 +1,8 @@
 {
-    "course_code": "CL 203",
-    "course_title": "Greeks & Romans By Hollywood",
+    "course_code": "CL 213",
+    "course_title": "Ancient Comedy",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 33",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 3",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": "Humanities and Arts(*)",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "The cultures of Greece and Rome had been interpreted and reinterpreted in art, architecture, literature for many hundreds of years by the time movies were invented in the late 19th century. Just as ancient Greeks commented upon contemporary 5th century Athenian politics by retelling stories from the Bronze Age, so have more than a century of directors, producers, actors, and others commented upon current societies by turning to the ancient world for inspiration. The influences of antiquity and its reinterpretations can be as obvious as the chariot races of Ben Hur or as subtle as Harry Potter's cloak of invisibility, but they are omnipresent. In the end, the influence of Greek and Roman culture on films and the film industry is a complex calculus of history (ancient through contemporary); society (and its various persistent ideals and mores); language(s); idioms; interpretations and misinterpretations (and translation and mistranslation in a variety of ways); fascination with mythology and ancient Gods; and individual perception that tell us as much about ourselves as the Greeks and Romans. Films vary and are partially based upon student input. See preliminary syllabus for some examples.",
-    "course_description": "Study of the influence of Greek and Roman culture on films and the film industry.",
+    "class_notes": null,
+    "course_description": "An introduction to the plays of Aristophanes, Menander, Plautus and Terence. Topics include the nature of humor and jokes, parody, and comedy's role in ancient societies.",
     "prerequisites": null,
-    "instructors": "Katrina Dickson - Primary Instructor",
-    "schedule_location": "MW 2:30pm-3:45pm in White Hall 101",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CL_203_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5258, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: K. Dickson, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Niall W Slater - Primary Instructor",
+    "schedule_location": "MWF 1pm-1:50pm in Callaway Center C203",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CL_213_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2273, Section #: 1, Type: LEC, Campus: ATL, Meets: MWF 1-1:50p, Instructor: N. Slater, Status: Open",
+    "date_accessed": "2024-03-30"
 }

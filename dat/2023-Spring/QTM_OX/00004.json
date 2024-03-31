@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM_OX 210",
+    "course_title": "Probability and Statistics",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 17Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "This course covers the structure of probability theory and provides many examples of the use of probabilistic reasoning. We discuss the most commonly encountered probability distributions, both discrete and continuous. The course considers random sampling from a population and the distributions of some sample statistics. We encounter the problem of estimation: the process of using data to learn about the value of unknown parameters of a model. Finally, we discuss hypothesis testing: the use of data to confirm or reject hypotheses formed about the results.",
+    "prerequisites": "MATH_OX 210 or MATH 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Francis Adams - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Seney Hall 208\nF 2:30pm-3:20pm in Seney Hall 208",
+    "course_resources": null,
+    "sections": "Class Nbr: 4434, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p; F 2:30-3:20p, Instructor: F. Adams, Status: Open",
+    "date_accessed": "2024-03-30"
+}

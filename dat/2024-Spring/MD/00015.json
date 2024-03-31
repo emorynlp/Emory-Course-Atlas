@@ -2,10 +2,10 @@
     "course_code": "MD 730",
     "course_title": "Application: Psychiatry",
     "credit_hours": "6",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Jeffrey Rakofsky - Primary Instructor",
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 1460, Section #: 01, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rakofsky, Status: Open\nClass Nbr: 1461, Section #: 02, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rakofsky, Status: Open\nClass Nbr: 1506, Section #: 03, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rakofsky, Status: Open\nClass Nbr: 1507, Section #: 04, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rakofsky, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 1460, Section #: 01, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rakofsky, Status: Closed\nClass Nbr: 1461, Section #: 02, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rakofsky, Status: Open\nClass Nbr: 1506, Section #: 03, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rakofsky, Status: Open\nClass Nbr: 1507, Section #: 04, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rakofsky, Status: Open",
+    "date_accessed": "2024-03-31"
 }

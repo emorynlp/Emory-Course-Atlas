@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 212",
+    "course_title": "Computational Modeling for Scientists and Engineers",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": "Varies by section",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "Varies by section",
+    "course_description": "Computation is one of the pillars of modern science, in addition to experiment and theory. In this course, various computational modeling methods will be introduced to study specific examples derived from physical, biological, chemical and social systems.",
+    "prerequisites": "(PHYS 151 or PHYS_OX 151) or [(PHYS 141 or PHYS_OX 141) and (MATH 112 or MATH 112Z or MATH_OX 112 or MATH_OX 112Z0] or [(PHYS 141 or PHYS_OX 141) and MATH 116)] or equivalent transfer credit as prerequisite.",
+    "instructors": "Justin C Burton - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3980, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:20a-12:35p, Instructor: J. Burton, Status: Open\nClass Nbr: 3981, Section #: 2, Type: LAB, Campus: ATL, Meets: Th 2:40-5:35p, Instructor: J. Burton, Status: Open\nClass Nbr: This section is full 3982, Section #: 3, Type: LAB, Campus: ATL, Meets: F 2:40-5:35p, Instructor: J. Burton, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 360",
+    "course_title": "Generalized Linear Models",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 14Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "This course will be offered fully ONLINE and will meet synchronously for both sessions.\nPermission code request form: http://bit.ly/QTM2021\nThis course is focusing on dependent variables for which models other than the linear regression model might be adequate. These include binary, polytomous nominal, categorical ordinal, counted, interval-valued, bounded continuous, censored, and truncated variables. This course discusses statistical methods for analyzing these dependent variables. The class will go through the models, interpretations, and testing for goodness-of-fit with examples so that students can choose the model and do the empirical analysis for various types of dependent variables that can appear in social science research.",
+    "course_description": "Covers models for qualitative (count, binary, ordinal, or nominal) data, testing for goodness-of-fit, analyzing contingency tables, regression models for count, binary, and multiple categorical response data, etc.The Generalized Linear Models provide a unifying framework for the course.",
+    "prerequisites": "QTM 220 or equivalent transfer credit as prerequisite.",
+    "instructors": "Seunghwa Rho - Primary Instructor",
+    "schedule_location": "MW 9:40am-10:55am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4054, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 9:40-10:55a, Instructor: S. Rho, Status: Open",
+    "date_accessed": "2024-03-30"
+}

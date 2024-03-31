@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 501",
+    "course_title": "Quantum Mechanics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 20",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "General formulation of quantum mechanics and applications to various types of problems including: matrix formulation, quantization of physical observables, time evolution of a system state, perturbation theory, theory of angular momentum, two level systems, magnetic dipole-dipole interactions, spin-orbit interactions, Zeeman effect, systems of identical particles, and atomic structures.",
+    "prerequisites": null,
+    "instructors": "Wladimir Benalcazar - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PHYS_501_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1899, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: W. Benalcazar, Status: Open",
+    "date_accessed": "2024-03-29"
+}

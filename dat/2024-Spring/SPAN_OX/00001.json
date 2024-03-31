@@ -2,8 +2,8 @@
     "course_code": "SPAN_OX 102",
     "course_title": "Elementary Spanish II",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 17Waitlist Total: 0 of 6",
-    "waitlist_total": ": 0 of 6",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "Blended/Hybrid",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 4340, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 4-5:15p; F 10-10:50a, Instructor: S. Raggio, Status: Open\nClass Nbr: 4341, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p; F 1-1:50p, Instructor: S. Raggio, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

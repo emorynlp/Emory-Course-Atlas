@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 326",
+    "course_title": "Analysis of Algorithms",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 50Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "This course explores the formal underpinnings of computational complexity, and studies how to mathematically characterize the efficiency and running times of different computer algorithms.",
+    "prerequisites": "(CS 170 or CS_OX 170) and (CS 171 or CS_OX 171) and (CS 224 or CS_OX 224) and CS 253, or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3092, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: M. Grigni, Status: Open\nClass Nbr: 3093, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: N. Thakur, Status: Open",
+    "date_accessed": "2024-03-28"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 517D",
+    "course_title": "Applied Biostatistics II",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 1",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-07 through 2022-04-10",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership. EMPH Opening Weekend is 1/7-1/9 and Closing Weekend is 4/8-4/10.",
+    "course_description": "BIOS 517D is the follow-up course to BIOS 516D. BIOS 516D ended with procedures for two independent samples (two sample t-test and chi-square test). This course starts with procedures for paired samples, nonparametric tests and power/size calculations. Students then begin their study of linear regression, starting with zero-predictor models, one-predictor models and then moving on to multiple-predictor models and ANOVA. \n.",
+    "prerequisites": null,
+    "instructors": "Johnathan Edwards - Primary Instructor",
+    "schedule_location": "FSa 8:30am-11:30am in Grace Crum Rollins 115",
+    "course_resources": null,
+    "sections": "Class Nbr: 3403, Section #: 901, Type: LEC, Campus: ATL, Meets: FSa 8:30-11:30a, Instructor: J. Edwards, Status: Open",
+    "date_accessed": "2024-03-30"
+}

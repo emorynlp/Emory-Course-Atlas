@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 2065, Section #: 1, Type: LEC, Campus: ATL, Meets: W 10-11:50a, Instructor: S. Argeseanu, Status: Open\nClass Nbr: 2309, Section #: L1, Type: LAB, Campus: ATL, Meets: Th 11-11:50a, Instructor: L. Vasudevan, Status: Open\nClass Nbr: This section is full 2310, Section #: L2, Type: LAB, Campus: ATL, Meets: W 1-1:50p, Instructor: J. Muir, Status: Open\nClass Nbr: 2311, Section #: L3, Type: LAB, Campus: ATL, Meets: W 3-3:50p, Instructor: J. Muir, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2065, Section #: 1, Type: LEC, Campus: ATL, Meets: W 10-11:50a, Instructor: Muir/Vasudevan, Status: Open\nClass Nbr: 2309, Section #: L1, Type: LAB, Campus: ATL, Meets: Th 11-11:50a, Instructor: Team, Status: Open\nClass Nbr: 2310, Section #: L2, Type: LAB, Campus: ATL, Meets: W 1-1:50p, Instructor: Team, Status: Open\nClass Nbr: 2311, Section #: L3, Type: LAB, Campus: ATL, Meets: W 3-3:50p, Instructor: Muir/Mwansa, Status: Open",
+    "date_accessed": "2024-03-30"
 }

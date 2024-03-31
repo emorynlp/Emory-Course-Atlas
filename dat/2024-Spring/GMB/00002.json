@@ -2,7 +2,7 @@
     "course_code": "GMB 570R",
     "course_title": "Introductory Graduate Seminar",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 2",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": null,
-    "schedule_location": null,
+    "instructors": "Charles Bou-Nader - Primary Instructor",
+    "schedule_location": "F 1pm-2pm in 1462 Clifton Rd 308",
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_GMB_570R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5495, Section #: 1, Type: SEM, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5495, Section #: 1, Type: SEM, Campus: ATL, Meets: F 1-2p, Instructor: Bou-Nader/Jiang, Status: Open",
+    "date_accessed": "2024-03-30"
 }

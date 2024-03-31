@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 568",
+    "course_title": "Applying Quantitative Bias Analysis to Epidemiologic Research",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 10",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "Pre-requisites: EPI 530, EPI 534 and EPI 540/545 or instructor permission.",
+    "course_description": "Pre-requisites: EPI 530, EPI 534 and EPI 540 or 545 or instructor permission.  Observational epidemiologic studies yield estimates of effect that differ from the true effect because of random error and systematic error. Epidemiologists design studies and analyses to minimize both sources of error. When presenting results, epidemiologists use statistics to quantify the impact of random error on estimates of effect, but often only qualitatively describe residual systematic error (uncontrolled bias). Bias analysis provides one method of quantifying residual systematic error. Students in this course will learn how to use simple, multidimensional, and probabilistic bias analyses to account for systematic error in their estimates of effect. Students should expect to gain new skills, as the emphasis of the course will be on the implementation and conduct of bias analysis, rather than statistical theory.",
+    "prerequisites": null,
+    "instructors": "Timothy Lash - Primary Instructor",
+    "schedule_location": "Th 1pm-2:50pm in Claudia Nance Rollins 1051",
+    "course_resources": null,
+    "sections": "Class Nbr: 5181, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 1-2:50p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,7 +1,7 @@
 {
     "course_code": "CHEM 392R",
     "course_title": "Peer-Led Learning",
-    "credit_hours": "Varies by section",
+    "credit_hours": "1-2",
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 3045, Section #: 1, Type: LEC, Campus: ATL, Meets: F 1-1:50p, Instructor: M. Weinschenk, Status: Open\nClass Nbr: 3046, Section #: 2, Type: LEC, Campus: ATL, Meets: F 1-1:50p, Instructor: T. McGill, Status: Open\nClass Nbr: 5649, Section #: 3, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: M. McCormick, Status: Open\nClass Nbr: 5650, Section #: 4, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: J. Soria, Status: Open\nClass Nbr: 5651, Section #: 5, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Mulford, Status: Open\nClass Nbr: 5652, Section #: 6, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: R. Ribeiro, Status: Open\nClass Nbr: 5653, Section #: 7, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: R. Himes, Status: Open\nClass Nbr: 5654, Section #: 8, Type: LEC, Campus: ATL, Meets: F 11-11:50a, Instructor: R. Himes, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

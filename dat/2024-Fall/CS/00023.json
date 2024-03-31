@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 534",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 29",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "All PhD students contact misty.brooks@emory.edu for permission code.\n\n\nAll MS students contact bnflood@emory.edu for permission code.",
+    "course_description": "This course covers fundamental machine learning theory and techniques. The topics include basic theory, classification methods, model generalization, clustering, and dimension reduction. The material will be conveyed by a series of lectures, homeworks, and projects.",
+    "prerequisites": null,
+    "instructors": "Eugene Agichtein - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in Math & Science Center - W303",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_534_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3035, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: E. Agichtein, Status: Open",
+    "date_accessed": "2024-03-28"
+}

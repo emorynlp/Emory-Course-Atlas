@@ -2,11 +2,11 @@
     "course_code": "PHIL 110",
     "course_title": "Introduction to Logic",
     "credit_hours": "4",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
-    "instruction_method": "In Person",
+    "enrollment_status": "Wait List",
+    "instruction_method": "Blended/Hybrid",
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": "Quantitative Reasoning(*)",
     "permission": null,
@@ -17,6 +17,6 @@
     "instructors": "Jessica Wahman - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 1938, Section #: 1, Type: LEC, Campus: ATL, Meets: MTWF 10-10:50a, Instructor: J. Wahman, Status: Open\nClass Nbr: 1775, Section #: 2, Type: LEC, Campus: ATL, Meets: MTWF 11:30a-12:20p, Instructor: J. Wahman, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1938, Section #: 1, Type: LEC, Campus: ATL, Meets: MTWF 10-10:50a, Instructor: J. Wahman, Status: Wait List\nClass Nbr: 1775, Section #: 2, Type: LEC, Campus: ATL, Meets: MTWF 11:30a-12:20p, Instructor: J. Wahman, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

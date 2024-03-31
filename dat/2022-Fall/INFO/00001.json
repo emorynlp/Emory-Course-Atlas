@@ -1,0 +1,22 @@
+{
+    "course_code": "INFO 521",
+    "course_title": "Databases Using SQL",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "**Student must bring laptop to class**",
+    "course_description": "Prerequisites: BIOS 500 or permission of instructor. In this course, you'll learn about the basic structure of relational databases and how to read and write simple and complex SQL statements and advanced data manipulation techniques. By the end of this course, you'll have a solid working knowledge of structured query language. You'll feel confident in your ability to write SQL queries to create tables; retrieve data from single or multiple tables; delete, insert, and update data in a database; and gather significant statistics from data stored in a database. This course will teach key concepts of Structured Query Language (SQL), and gain a solid working knowledge of this powerful and universal database programming language. This course provides a comprehensive introduction to the language of relational databases: Structured Query Language (SQL). Topics covered include: Entity-Relationship modeling, the Relational Model, the SQL language: data retrieval statements, data manipulation and data definition statements. Homework will be done using databases running in MySQL which students install on their machines and proc SQL in SAS. Students develop a real-world database project using MySQL during the course.",
+    "prerequisites": null,
+    "instructors": "Rameshbabu Manyam - Primary Instructor",
+    "schedule_location": "F 1pm-2:50pm in Claudia Nance Rollins 1055",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3019, Section #: 1, Type: LEC, Campus: ATL, Meets: F 1-2:50p, Instructor: Manyam/Ran, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

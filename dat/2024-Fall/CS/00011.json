@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 334",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 50Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "This course will cover the underpinnings, algorithms, and practices that enable a computer to learn. Emphasis will be on fundamental theory and algorithms in statistical machine learning, and approaches to applying machine learning in a variety of domains.",
+    "prerequisites": "(CS224 or CS_OX 224) and (CS 253 or CS_OX 253) and (MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3048, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: F. Liu, Status: Open\nClass Nbr: 3107, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: Staff, Status: Open",
+    "date_accessed": "2024-03-28"
+}

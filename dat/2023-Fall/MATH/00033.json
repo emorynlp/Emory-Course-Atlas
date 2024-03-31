@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 571",
+    "course_title": "Numerical Optimization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 1",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Please contact Terry Ingram (terry.ingram@emory.edu) for permission.",
+    "course_description": "This course will provide students with an overview of state of the art numerical methods for solving unconstrained, large-scale optimization problems. Algorithm development will be emphasized, including efficient and robust implementations. In addition, students will be exposed to state of the art software that can be used to solve optimization problems.",
+    "prerequisites": null,
+    "instructors": "Matthias Chung - Primary Instructor",
+    "schedule_location": "TTh 8:30am-9:45am in Math & Science Center - E408",
+    "course_resources": null,
+    "sections": "Class Nbr: 1936, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: M. Chung, Status: Open",
+    "date_accessed": "2024-03-30"
+}

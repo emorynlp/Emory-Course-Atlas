@@ -2,10 +2,10 @@
     "course_code": "CS 452",
     "course_title": "Operating Systems",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 0Waitlist Total: 3",
-    "waitlist_total": ": 3",
+    "seats": "Seats: Maximum Enrollment: 7 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": "Mathematics and Quantitative Reasoning",
@@ -15,8 +15,8 @@
     "course_description": "The structure and organization of computer operating systems. Process, memory, and I/O management; device drivers, exception handling, and interprocess communication. Students write an operating system as a course-long project.",
     "prerequisites": "CS 350 or equivalent transfer credit as prerequisite.",
     "instructors": "Kenneth I Mandelberg - Primary Instructor",
-    "schedule_location": "TTh 1pm-2:15pm in Math & Science Center - E406",
+    "schedule_location": "TTh 1pm-2:15pm in Math & Science Center - E408",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_452_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 3155, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: K. Mandelberg, Status: Wait List",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3155, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: K. Mandelberg, Status: Open",
+    "date_accessed": "2024-03-30"
 }

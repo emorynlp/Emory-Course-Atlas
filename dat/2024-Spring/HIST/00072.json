@@ -1,12 +1,12 @@
 {
-    "course_code": "HIST 799R",
-    "course_title": "Advanced Research",
-    "credit_hours": "1-9",
-    "seats": "Seats: Varies by section",
+    "course_code": "HIST 790B",
+    "course_title": "Professionalization Seminars",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 7",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
-    "instruction_method": "In Person",
+    "instruction_method": "Distance Learning",
     "typically_offered": null,
     "requirement_designation": null,
     "permission": "Department Consent Required",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": null,
-    "schedule_location": null,
-    "course_resources": null,
-    "sections": "Class Nbr: 5555, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: T. Andrade, Status: Open\nClass Nbr: 5645, Section #: 10, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: C. Crais, Status: Open\nClass Nbr: 5646, Section #: 11, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Crespino/Tullos, Status: Open\nClass Nbr: 5637, Section #: 2, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: A. Eckert, Status: Open\nClass Nbr: 5638, Section #: 3, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: J. Evans-Grubbs, Status: Open\nClass Nbr: 5639, Section #: 4, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Evans-Grubbs/Master, Status: Open\nClass Nbr: 5640, Section #: 5, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: D. LaChance, Status: Open\nClass Nbr: 5641, Section #: 6, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: M. Lowery, Status: Open\nClass Nbr: 5642, Section #: 7, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Miller/Sasson, Status: Open\nClass Nbr: 5643, Section #: 8, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Tullos/Ward, Status: Open\nClass Nbr: 5644, Section #: 9, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Y. Yannakakis, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Jason Ward - Primary Instructor",
+    "schedule_location": "Th 12pm-2pm in ONLINE",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_HIST_790B_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3757, Section #: 1, Type: SEM, Campus: ONLIN, Meets: Th 12-2p, Instructor: J. Ward, Status: Open",
+    "date_accessed": "2024-03-30"
 }

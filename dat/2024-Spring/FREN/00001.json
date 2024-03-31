@@ -2,10 +2,10 @@
     "course_code": "FREN 101",
     "course_title": "Elementary French I",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 0",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": "Intercultural Communication(*)",
@@ -17,6 +17,6 @@
     "instructors": "Perrine Gaudry - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: This section is full 2381, Section #: 1, Type: LEC, Campus: ATL, Meets: TThF 10-11:15a, Instructor: P. Gaudry, Status: Open\nClass Nbr: This section is full 2382, Section #: 2, Type: LEC, Campus: ATL, Meets: TThF 11:30a-12:45p, Instructor: P. Gaudry, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2381, Section #: 1, Type: LEC, Campus: ATL, Meets: TThF 10-11:15a, Instructor: P. Gaudry, Status: Open\nClass Nbr: 2382, Section #: 2, Type: LEC, Campus: ATL, Meets: TThF 11:30a-12:45p, Instructor: P. Gaudry, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "FIN 555C",
+    "course_title": "Technology Bootcamp",
+    "credit_hours": "0",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 66",
+    "waitlist_total": null,
+    "grading_mode": "Satisfactory/Unsatisfactory",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "In this course, students will review essential concepts of the Python (v.3) language, focusing on data science and financial analytics. Topics will include variables; classes & data structures; functions & methods; control flow; statistics; and simple interaction with SQL databases. Students will practice operations such as regressions, statistical analysis, and interactions with financial data systems (e.g., WRDS). Some topics may be condensed in winter offerings in lieu of adding basic visualization; decision algorithms (clustering, k-means, decision trees, etc.); and other topics.",
+    "prerequisites": null,
+    "instructors": "Bill McKinnon - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_FIN_555C_4201_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4881, Section #: 4201, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: B. McKinnon, Status: Open",
+    "date_accessed": "2024-03-28"
+}

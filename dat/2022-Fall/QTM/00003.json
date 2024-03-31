@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 150",
+    "course_title": "Introduction to Statistical Computing I",
+    "credit_hours": "2",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "This course is an introduction to the R programming language. It will cover the programming basics of R: data types, controlling flow using loops/conditionals, and writing functions. In addition to these basics, this course will emphasize skills that are relevant for data analysis.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4636, Section #: 1, Type: LAB, Campus: ATL, Meets: TTh 10-10:50a, Instructor: Z. Gong, Status: Open\nClass Nbr: 4637, Section #: 2, Type: LAB, Campus: ATL, Meets: TTh 11:30a-12:20p, Instructor: Z. Gong, Status: Open\nClass Nbr: This section is full 5981, Section #: 4, Type: LAB, Campus: ATL, Meets: TTh 4-4:50p, Instructor: H. Kim, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

@@ -2,10 +2,10 @@
     "course_code": "ITAL 110",
     "course_title": "Intensive Elementary Italian",
     "credit_hours": "8",
-    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 10Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 0Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "Blended/Hybrid",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Intercultural Communication w. Race & Ethnicity(*)",
@@ -17,6 +17,6 @@
     "instructors": "Simona Muratore - Primary Instructor",
     "schedule_location": "MTWTh 11:30am-12:45pm in Ignatius Few Building_129\nF 12pm-12:50pm in Ignatius Few Building_129",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ITAL_110_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2966, Section #: 1, Type: LEC, Campus: ATL, Meets: MTWTh 11:30a-12:45p; F 12-12:50p, Instructor: Muratore/Maranzana, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2966, Section #: 1, Type: LEC, Campus: ATL, Meets: MTWTh 11:30a-12:45p; F 12-12:50p, Instructor: Muratore/Maranzana, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

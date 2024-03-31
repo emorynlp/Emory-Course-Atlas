@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 152",
+    "course_title": "Physics for Scientists and Engineers II w/Lab",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Varies by section",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Electric and magnetic fields and forces, Gauss's law, electrical properties of materials, electromagnetic induction, electromagnetic waves, and optical phenomena.",
+    "prerequisites": "(PHYS 141 or PHYS_OX 141 or PHYS 151 or PHYS_OX 151) and (MATH 112 or MATH_OX 112 or MATH 116 or MATH 210) or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 1350, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: S. Shekhar, Status: Closed\nClass Nbr: 1351, Section #: LAB1, Type: LAB, Campus: ATL, Meets: F 10a-12:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 1352, Section #: LAB2, Type: LAB, Campus: ATL, Meets: T 5:30-8:15p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: This section is full 1353, Section #: LAB3, Type: LAB, Campus: ATL, Meets: W 1-3:45p, Instructor: Donofrio/Bing, Status: Closed\nClass Nbr: This section is full 1356, Section #: LAB6, Type: LAB, Campus: ATL, Meets: F 1-3:45p, Instructor: Donofrio/Bing, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

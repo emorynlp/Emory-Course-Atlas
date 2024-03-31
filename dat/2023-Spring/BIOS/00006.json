@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 513",
+    "course_title": "Statistical Inference I",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 1",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": "Non-BIOS Students must get permission of Instructor or BIOS ADAP required.",
+    "course_description": "Prerequisites: BIOS 512 or permission of instructor. Introduces the theory of parameter estimation, interval estimation, and tests of hypotheses. In this course, we emphasize the classical \"frequentist\" (i.e., Neyman-Pearson-Wald) approach to inference. As time permits, we briefly explore alternative paradigms of inference such as neo-Fisherian, Bayesian, and statistical decision theory.",
+    "prerequisites": null,
+    "instructors": "John Hanfelt - Primary Instructor",
+    "schedule_location": "MW 1pm-2:50pm in R. Randall Rollins Bldg. R226",
+    "course_resources": null,
+    "sections": "Class Nbr: 2769, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:50p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

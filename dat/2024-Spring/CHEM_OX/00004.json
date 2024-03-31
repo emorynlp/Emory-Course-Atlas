@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": "Natural Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4497, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 8:30-9:45a, Instructor: S. Nkomo, Status: Open\nClass Nbr: 4498, Section #: 3, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: A. Scharf, Status: Open\nClass Nbr: 4499, Section #: 4, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: A. Scharf, Status: Open\nClass Nbr: 4500, Section #: 5, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: A. Scharf, Status: Open\nClass Nbr: 4501, Section #: 6, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: N. Powell, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 4497, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 8:30-9:45a, Instructor: S. Nkomo, Status: Closed\nClass Nbr: 4498, Section #: 3, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: A. Scharf, Status: Open\nClass Nbr: 4499, Section #: 4, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: N. Powell, Status: Open\nClass Nbr: This section is full 4500, Section #: 5, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: A. Scharf, Status: Closed\nClass Nbr: This section is full 4501, Section #: 6, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: A. Scharf, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

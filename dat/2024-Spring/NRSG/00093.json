@@ -1,8 +1,8 @@
 {
-    "course_code": "NRSG 609D",
-    "course_title": "Neonatal Nurse Practitioner Clinical Practicum I",
+    "course_code": "NRSG 616D",
+    "course_title": "Pediatric Acute Care Nurse Practitioner Clinical Practicum I",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 18",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 18",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-16 through 2024-04-29",
     "class_notes": null,
-    "course_description": "This course will provide a clinical practice preceptorship with faculty oversight to develop skills in health assessment and physical exam, differential diagnosis, diagnostic reasoning and plan of care for neonates and infants/toddlers in low to moderate risk settings (Level II-III).",
-    "prerequisites": "NRSG 636D or equivalent transfer credit as prerequisite.",
-    "instructors": null,
+    "course_description": "This course will provide a clinical practice preceptorship with faculty oversight to develop skills in health assessment and physical exam, differential diagnosis, diagnostic reasoning and plan of care for individual episodic and chronic conditions.",
+    "prerequisites": "NRSG 567D prerequisite and NRSG 568D co-requisite or equivalent transfer credit.Students must enrollin NRSG 568D first.",
+    "instructors": "Michelle Goreth - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_609D_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2501, Section #: 1, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_616D_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2417, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: M. Goreth, Status: Open",
+    "date_accessed": "2024-03-31"
 }

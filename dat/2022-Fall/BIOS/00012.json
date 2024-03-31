@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 525",
+    "course_title": "Longitudinal and Multilevel Data Analysis",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Permission of Instructor or BIOS ADAP required",
+    "course_description": "Prerequisites: BIOS 507 or permission of instructor. This course introduces students to regression techniques commonly used in analyzing longitudinal and multilevel data that are frequently encountered in biomedical and public health research. This course draws motivating examples from environmental and social epidemiology, health services research, clinical studies, and behavioral sciences. The course focuses on data analysis and interpretation. Students will gain practical experience using R for statistical computing.",
+    "prerequisites": null,
+    "instructors": "Howard Chang - Primary Instructor",
+    "schedule_location": "M 1pm-2:50pm in Grace Crum Rollins P53",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3030, Section #: 1, Type: LEC, Campus: ATL, Meets: M 1-2:50p, Instructor: Chang/Englert, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

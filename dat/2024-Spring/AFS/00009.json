@@ -2,13 +2,13 @@
     "course_code": "AFS 389",
     "course_title": "Special Topics:African Studies: Econ Develop.Africa/Mid.East",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 6",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
-    "requirement_designation": null,
+    "requirement_designation": "History, Society, Cultures",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": "(Same as MESAS 370 4 and ECON 385 2)\n(Complete Topic: Discover the Realities of Economic Development in Africa & the Middle East)\n(Explore the issues that shape economic development, from the aftermath of events like the Arab Spring to the Syrian, Sudanese, Afghan and Ukrainian refugee crises. Understand the impact of worldwide economic crises, the intricacies of geopolitics, and the dynamics of coups in sub-Saharan Africa. Delve into the complexities of attracting foreign aid and non-governmental assistance in a rapidly changing world.\nThis course will dissect development theories, policies, and practices, offering a comprehensive examination of the economic landscape. We'll question conventional wisdom and explore new paths towards sustainable economic development. By analyzing social, political, and cultural factors that influence economic behavior, you'll gain a deeper understanding of the underlying dynamics.\nOur course doesn't stop at theory; we bring real-world practitioners into the classroom. You'll have the opportunity to engage with key figures in the field of development and attend optional master classes on topics like financial stability and development standards.)",
@@ -17,6 +17,6 @@
     "instructors": "Sam Cherribi - Primary Instructor",
     "schedule_location": "Th 4pm-6:45pm in Anthropology Building 303",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_AFS_389_4_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4647, Section #: 4, Type: LEC, Campus: ATL, Meets: Th 4-6:45p, Instructor: S. Cherribi, Status: Open",
-    "date_accessed": "2023-10-30"
+    "sections": "Class Nbr: 4647, Section #: 4, Type: LEC, Campus: ATL, Meets: Th 4-6:45p, Instructor: S. Cherribi, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

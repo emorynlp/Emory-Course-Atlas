@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 540",
+    "course_title": "Introduction to Bioinformatics",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 20",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-10-19 through 2022-12-06",
+    "class_notes": "**2nd Half of the Semester: Oct. 19th - Dec. 6th",
+    "course_description": "Prerequisites: BIOS 500, BIOS 501, or BIOS 506 or permission of the instructor. This course is an introduction to the field of Bioinformatics for students with a quantitative background. The course covers biological sequence analysis, introductions to genomics, transcriptomics, proteomics and metabolomics, as well as some basic data analysis methods associated with the high-throughput data. In addition, the course introduces concepts such as curse of dimensionality, multiple testing and false discovery rate, and basic concepts of networks.",
+    "prerequisites": null,
+    "instructors": "Zhaohui Qin - Primary Instructor",
+    "schedule_location": "MW 3pm-4:50pm in Grace Crum Rollins 105",
+    "course_resources": null,
+    "sections": "Class Nbr: 3133, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 3-4:50p, Instructor: Qin/Yu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "AEPI 534D",
+    "course_title": "Applied Epidemiology II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 1",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Blended/Hybrid",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-01-13 through 2023-04-16",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership. Additional meeting times in January Saturday,  4:30-6:00 pm, and Sunday, 12:00-1:30 pm.  EMPH Opening Weekend is January 13-15  and Closing Weekend is April 14-16.",
+    "course_description": "Continuing from Applied Epidemiology I, further insight into confounding is explored as well as effect modification. Methods of hypothesis formulation and analysis of 2x2 tables (point estimation and confidence levels) are described in detail as well as sample size calculations. Different approaches to control for extraneous variables in the design of studies are presented, such as randomization, matching, and restriction. The use of stratification for assessing effect modification and confounding is provided followed by an introduction to mathematical modeling. Different issues in the use of matching in case- control studies are presented. Statistical packages such as SAS and OpenEpi are used.",
+    "prerequisites": "AEPI 530D and BIOS 516D as prerequisites or by special permission to enroll.",
+    "instructors": "Jeremy Grey - Primary Instructor",
+    "schedule_location": "F 12:30pm-3:30pm in Grace Crum Rollins 115\nSa 1pm-4pm in Grace Crum Rollins 115\nSa 4:30pm-6pm in Grace Crum Rollins 115\nSu 12pm-1:30pm in Grace Crum Rollins 115",
+    "course_resources": null,
+    "sections": "Class Nbr: 2867, Section #: 901, Type: LEC, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p; Sa 4:30-6p; Su 12-1:30p, Instructor: J. Grey, Status: Open",
+    "date_accessed": "2024-03-30"
+}

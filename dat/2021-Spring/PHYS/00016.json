@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 461",
+    "course_title": "Quantum Mechanics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 22",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": "Science, Nature, Technology",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "Introductory quantum theory, including the Schrödinger equation, simple soluble problems, hydrogen atom, operator formalism, approximation methods, and perturbation theory.",
+    "prerequisites": "PHYS 220 and (PHYS 253 or PHYS_OX 253) and PHYS 361 and (MATH 212 or MATH_OX 212) or equivalent transfer credit as prerequisite.",
+    "instructors": "Kurt Warncke - Primary Instructor",
+    "schedule_location": "MW 4:20pm-5:35pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 3459, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 4:20-5:35p, Instructor: K. Warncke, Status: Open",
+    "date_accessed": "2024-03-30"
+}

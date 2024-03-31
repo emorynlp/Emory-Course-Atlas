@@ -1,8 +1,8 @@
 {
-    "course_code": "LAW 659F",
-    "course_title": "Doing Deals: General Counsel",
+    "course_code": "LAW 659D",
+    "course_title": "Doing Deals: Private Equity",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 12Waitlist Total: 0 of 3",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 5Waitlist Total: 0 of 3",
     "waitlist_total": ": 0 of 3",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-08 through 2024-04-22",
     "class_notes": "Registration for this class is only for students in the Transactional Certificate Program. Non-certificate students can try to enroll during Open Enrollment, if there are open seats.",
-    "course_description": "In this course, students will develop transactional skills, with emphasis on possible differences in roles of in-house counsel and outside counsel in the context of a hypothetical transaction that will be the focal point of the entire semester. The class will be divided between the lawyers representing the buyer and the lawyers representing the seller. Students will interview the Professor (client) throughout the semester and develop goals, strategies, and documents that will meet the needs of the client. The semester will include the drafting and negotiation of a confidentiality agreement, a letter of intent, an employment agreement, a Master Services Agreement, and a Stock Purchase Agreement.",
-    "prerequisites": "Transactional Law Student ONLYYou do not meet the pre- or co-reqs as determined by the Transactional Law Program to register for this class at this time. Please contact Kelli.Pittman@emory.edu with all inquiries.",
-    "instructors": "Gregg Notte - Primary Instructor",
-    "schedule_location": "M 6pm-9pm",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_659F_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2792, Section #: 001, Type: LEC, Campus: ATL, Meets: M 6-9p, Instructor: G. Notte, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_description": "\"The course is designed as a workshop in which law students and business students work together to structure and negotiate varying aspects of a private equity deal, from the initial term sheet stages, through execution of the purchase agreement, to completion of the financing and closing. Private equity deals that are economically justified sometimes fail in the transaction negotiation and documentation phase.\nThis course will seek to provide students with the tools necessary to understand and resolve difficult issues and complete successful transactions. Students will be divided into teams consisting of both lawyers and business people to review, consider and negotiate actual transaction documents. Issues presented will include often- contested key economic and legal deal terms, as well as common ethical dilemmas. To reinforce the key legal and financial points of an LBO transaction, there will be a short midterm and a final exam.\"",
+    "prerequisites": null,
+    "instructors": "Kevin Crowley - Primary Instructor",
+    "schedule_location": "Th 6:30pm-9:30pm in Goizueta Foundation Ctr W330",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_659D_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2833, Section #: 001, Type: LEC, Campus: ATL, Meets: Th 6:30-9:30p, Instructor: K. Crowley, Status: Open",
+    "date_accessed": "2024-03-30"
 }

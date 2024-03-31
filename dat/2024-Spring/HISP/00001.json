@@ -1,11 +1,11 @@
 {
-    "course_code": "HISP 599R",
-    "course_title": "Individualized Research",
+    "course_code": "HISP 597R",
+    "course_title": "Directed Reading",
     "credit_hours": "1-9",
-    "seats": "Seats: Varies by section",
+    "seats": "Seats: Maximum Enrollment: 2 / Seats Avail: 0",
     "waitlist_total": null,
-    "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Open",
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": null,
+    "instructors": "Ana Catarina Teixeira - Primary Instructor",
     "schedule_location": null,
-    "course_resources": null,
-    "sections": "Class Nbr: 4073, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: X. Marsilli-Vargas, Status: Open\nClass Nbr: 4076, Section #: 2, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_HISP_597R_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 6209, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: A. Teixeira, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

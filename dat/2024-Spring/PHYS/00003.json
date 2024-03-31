@@ -2,7 +2,7 @@
     "course_code": "PHYS 125",
     "course_title": "The Science of Climate Change",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 85 / Seats Avail: 78",
+    "seats": "Seats: Maximum Enrollment: 85 / Seats Avail: 29",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "MW 4pm-5:15pm in White Hall 101",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PHYS_125_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 1968, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: J. Burton, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

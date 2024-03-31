@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 500L",
+    "course_title": "Statistical Methods I (Laboratory)",
+    "credit_hours": "1",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Varies by section",
+    "course_description": "The lab portion of BIOS 500 is designed with two purposes in mind: 1) to illustrate concepts and methods presented in the lectures using hands-on demonstrations and 2) to introduce SAS, a widely used statistical software package, as a data analysis tool. By the end of the semester, you should be able to produce and interpret statistical output for methods learned in BIOS 500 lecture.",
+    "prerequisites": "Varies by section",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1723, Section #: 1, Type: LAB, Campus: ATL, Meets: W 5-6:50p, Instructor: Williams/Tomar, Status: Open\nClass Nbr: 1725, Section #: 11, Type: LAB, Campus: ATL, Meets: T 8-9:50a, Instructor: Robichaux/Arias, Status: Open\nClass Nbr: 1727, Section #: 13, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: Aiello/Yu, Status: Open\nClass Nbr: 1728, Section #: 14, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: Cotsonis/Hinz, Status: Open\nClass Nbr: 1642, Section #: 2, Type: LAB, Campus: ATL, Meets: T 3-4:50p, Instructor: Taurone/Wu, Status: Open\nClass Nbr: This section is full 1644, Section #: 3, Type: LAB, Campus: ATL, Meets: T 5-6:50p, Instructor: Cotsonis/Goetgeluck, Status: Closed\nClass Nbr: 1731, Section #: 5, Type: LAB, Campus: ATL, Meets: W 8-9:50a, Instructor: Cotsonis/Liu, Status: Open\nClass Nbr: This section is full 1732, Section #: 6, Type: LAB, Campus: ATL, Meets: W 3-4:50p, Instructor: Mejia/Chew, Status: Closed\nClass Nbr: This section is full 1733, Section #: 7, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: Gerig/Chen, Status: Closed\nClass Nbr: 1734, Section #: 8, Type: LAB, Campus: ATL, Meets: Th 3-4:50p, Instructor: Robichaux/Bian, Status: Open",
+    "date_accessed": "2024-03-30"
+}

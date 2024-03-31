@@ -1,8 +1,8 @@
 {
-    "course_code": "DPT 984",
-    "course_title": "Advanced Pediatrics",
+    "course_code": "DPT 980",
+    "course_title": "Advanced Extremities",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 16",
+    "seats": "Seats: Maximum Enrollment: 28 / Seats Avail: 28",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -16,7 +16,7 @@
     "prerequisites": null,
     "instructors": "Marie A Johanson - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_984_0_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1538, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Shah/Johanson, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_980_0_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1536, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Johanson/Zych, Status: Open",
+    "date_accessed": "2024-03-30"
 }

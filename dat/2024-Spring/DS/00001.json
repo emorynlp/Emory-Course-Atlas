@@ -2,10 +2,10 @@
     "course_code": "DS 501",
     "course_title": "Methodist History and Doctrine",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "Varies by section",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Thomas Elliott - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 5460, Section #: 1, Type: LEC, Campus: ATL, Meets: T 2:30-5:30p, Instructor: T. Elliott, Status: Open\nClass Nbr: 5461, Section #: 2, Type: LEC, Campus: ATL, Meets: T 2:30-5:30p, Instructor: T. Elliott, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5460, Section #: 1, Type: LEC, Campus: ATL, Meets: T 2:30-5:30p, Instructor: T. Elliott, Status: Open\nClass Nbr: This section is full 5461, Section #: 2, Type: LEC, Campus: ATL, Meets: T 2:30-5:30p, Instructor: T. Elliott, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

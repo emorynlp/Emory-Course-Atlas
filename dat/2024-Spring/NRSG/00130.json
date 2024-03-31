@@ -2,10 +2,10 @@
     "course_code": "NRSG 781",
     "course_title": "General Principles of Nurse Anesthesia",
     "credit_hours": "5",
-    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": null,
@@ -14,9 +14,9 @@
     "class_notes": "Simulation Tues 8a-4p.",
     "course_description": "This course introduces general and regional anesthesia, and monitored anesthesia care. Preoperative evaluation, planning, and anesthetic management for surgical patients will be integrated.  Students examine risk management and management of critical incidents in anesthesia.",
     "prerequisites": null,
-    "instructors": null,
+    "instructors": "Kelly Wiltse Nicely - Primary Instructor",
     "schedule_location": "M 8am-12:30pm in Nursing School - 117D\nT 8am-4pm in Nursing School - 117D",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_781_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2547, Section #: 1, Type: LEC, Campus: ATL, Meets: M 8a-12:30p; T 8a-4p, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 2547, Section #: 1, Type: LEC, Campus: ATL, Meets: M 8a-12:30p; T 8a-4p, Instructor: K. Wiltse Nicely, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

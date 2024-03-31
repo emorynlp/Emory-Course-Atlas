@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 511",
+    "course_title": "Analysis I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "An introduction to fundamental analytic concepts including: The complex number system, geometry and topology of the complex plane, analytic functions, conformal mappings, complex integration, and singularities.",
+    "prerequisites": null,
+    "instructors": "Shanshuang Yang - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Math & Science Center - E406",
+    "course_resources": null,
+    "sections": "Class Nbr: 1302, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. Yang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

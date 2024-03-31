@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 737",
+    "course_title": "Spatial Analysis Of Public Health Data",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 1",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Irregularly",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "This course will familiarize students with statistical methods and underlying theory for the spatial analysis of georeferenced public health data. Topics covered include kriging and spatial point processes. In addition, review recent computational advances for applying these methods. Prerequisites: BIOS 506, BIOS 507, BIOS 510, BIOS 511.",
+    "prerequisites": null,
+    "instructors": "Howard Chang - Primary Instructor",
+    "schedule_location": "T 3pm-4:50pm in R. Randall Rollins Bldg. R226",
+    "course_resources": null,
+    "sections": "Class Nbr: 2501, Section #: 1, Type: LEC, Campus: ATL, Meets: T 3-4:50p, Instructor: H. Chang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

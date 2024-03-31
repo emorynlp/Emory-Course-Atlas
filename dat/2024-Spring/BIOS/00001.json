@@ -2,11 +2,11 @@
     "course_code": "BIOS 501",
     "course_title": "Statistical Methods II with Laboratory",
     "credit_hours": "4",
-    "seats": "Seats: Varies by section",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 30",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
-    "instruction_method": "Varies by section",
+    "instruction_method": "Distance Learning",
     "typically_offered": "Spring",
     "requirement_designation": null,
     "permission": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 1047, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:50a, Instructor: G. Cotsonis, Status: Open\nClass Nbr: 1056, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 5:30-6:50p, Instructor: J. Edwards, Status: Open\nClass Nbr: 1048, Section #: L1, Type: LAB, Campus: ATL, Meets: T 5-6:50p, Instructor: C. Robichaux, Status: Open\nClass Nbr: 1049, Section #: L2, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: J. Edwards, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1056, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 5:30-6:50p, Instructor: J. Edwards, Status: Open\nClass Nbr: 1049, Section #: L2, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: Robichaux/Ramakrishna, Status: Open",
+    "date_accessed": "2024-03-30"
 }

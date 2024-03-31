@@ -1,0 +1,22 @@
+{
+    "course_code": "POLS 570",
+    "course_title": "Empirical Methods 2",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "This course provides an introduction to large-sample casual inference using standard techniques: regression (parametric and non-parametric), matching, weighting and doubly robust techniques, instrumental variables, fixed effects and difference-in-differences. The course also covers methods of statistical estimation used for these approaches.",
+    "prerequisites": "POLS 508 and POLS 509 or equivalent transfer credit as prerequisites.",
+    "instructors": "Zachary Peskowitz - Primary Instructor",
+    "schedule_location": "W 8am-11am in Tarbutton Hall 120A",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 1878, Section #: 1, Type: LEC, Campus: ATL, Meets: W 8-11a, Instructor: Z. Peskowitz, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

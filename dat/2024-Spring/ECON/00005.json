@@ -1,8 +1,8 @@
 {
     "course_code": "ECON 190",
-    "course_title": "Freshman Seminar:Economics",
+    "course_title": "Freshman Seminar:Economics: Money, Markets, and Manias",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Closed",
@@ -11,12 +11,12 @@
     "requirement_designation": "First Year Seminar",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": null,
+    "class_notes": "Money, Markets, and Manias: A History of Bubbles and Crashes in the 20th Century: This course examines how money and markets have been driven by irrational exuberance and collective madness in the 20th century, leading to spectacular booms and busts in various sectors of the economy. It explores the historical origins, psychological mechanisms, and economic consequences of financial bubbles and crashes, such as the Roaring Twenties, the Great Depression, the Dot-com Bubble, and the Global Financial Crisis of 2008. It also analyzes the role of financial innovation, regulation, and social media in creating and bursting these bubbles. The course draws on historical sources, economic theory, and empirical evidence to provide students with a comprehensive and critical understanding of the history of money, markets, and manias in the 20th century.",
     "course_description": "Open only to students with freshman standing. Topics and prerequisites vary; consult the Course Atlas.",
     "prerequisites": null,
     "instructors": "Caroline Fohlin - Primary Instructor",
-    "schedule_location": "TTh 8:30am-9:45am in Candler Library 121",
+    "schedule_location": "TTh 8:30am-9:45am in Rich Building 211",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ECON_190_3_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: This section is full 2642, Section #: 3, Type: SEM, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: C. Fohlin, Status: Closed",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

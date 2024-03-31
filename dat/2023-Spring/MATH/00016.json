@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 347",
+    "course_title": "Non-Linear Optimization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 5Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Nonlinear optimization problems arise in a wide range of applications, for example, in economics, physics, engineering, imaging. This introductory course covers a wide range of examples and both theory and practice of unconstrained and constrained optimization.",
+    "prerequisites": "(MATH 211 or PHYS 211 or MATH_OX 211 or MATH 276) and (MATH 221 or MATH_OX 221 or MATH 321) and (MATH 250 or MATH_OX 250 or MATH 276) or equivalent transfer credit as prerequisite.",
+    "instructors": "Lars Ruthotto - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Emerson Chemistry Bldg. E102",
+    "course_resources": null,
+    "sections": "Class Nbr: 5032, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: L. Ruthotto, Status: Open",
+    "date_accessed": "2024-03-30"
+}

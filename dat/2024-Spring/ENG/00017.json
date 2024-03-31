@@ -1,8 +1,8 @@
 {
-    "course_code": "ENG 317W",
-    "course_title": "Milton",
+    "course_code": "ENG 321W",
+    "course_title": "Later 18th Century Lit:1740-1798",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 4Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 8Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": "Humanities, Arts, Performance with Writing",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "This course will provide a comprehensive overview of the writings of the seventeenth-century English poet John Milton, including his early lyric poetry, prose writings, and late major works. Much of the course will be devoted to a complete reading of Milton¿s masterpiece, the Biblical epic Paradise Lost. We will address his writing within its historical context, paying special attention to Milton's role in the English Civil War during which he served as Latin secretary for the revolutionary Commonwealth government and his relation to the changing gender roles of his time. We will also consider the major philosophical and religious themes of his writing, such as free will, the nature of divine providence, and the relation between liberty and obedience.",
-    "course_description": "Selected major works (poetry and prose) with particular emphasis on the early lyric verse, Comus, Paradise Lost, and Samson Agonistes.",
+    "class_notes": "The towering figure of Samuel Johnson, poet, essayist, dramatist, dictionary maker, novelist, critic, biographer, and unparalleled conversationalist, dominates English literature of the middle and later eighteenth century. This course surveys this period through the writings of Johnson and through his life as portrayed by James Boswell, the first and greatest of literary biographers, and by Hester Lynch Piozzi's Anecdotes. Because Johnson, Boswell, and Piozzi refused to separate literature from everyday life and practical concerns and were deeply involved in the great events and issues of their times, this course provides a general overview of social and cultural life in England during the period from 1740 to 1798, including its history, politics, art, and mores.  \nRequirements: Active & informed class participation; midterm test; short paper; longer paper; final exam.",
+    "course_description": "Selected works of later eighteenth-century authors such as Johnson, Boswell, Burke, Burns, Blake, and Wollstonecraft.",
     "prerequisites": null,
-    "instructors": "Ross Knecht - Primary Instructor",
-    "schedule_location": "MW 4pm-5:15pm in Callaway Center S105",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_317W_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2119, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: R. Knecht, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Martine W Brownley - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Tarbutton Hall 111",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_321W_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2106, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: M. Brownley, Status: Open",
+    "date_accessed": "2024-03-30"
 }

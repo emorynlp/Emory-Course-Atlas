@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 330",
+    "course_title": "Intro To Combinatorics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 26Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "Math 250 prerequisite is waived for Spring 2023. Please contact Taylr Tuggle in Math (tatuggl@emory.edu) if you need a permission code.",
+    "course_description": "Combinations and permutations, counting techniques, recurrence relations, and generating functions. Block designs, finite planes, and coding theory. Introduction to graph theory.",
+    "prerequisites": "(MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) and (MATH 250 or MATH_OX 250 or MATH 276) or equivalent transfer credit as prerequisite.",
+    "instructors": "Robert Roth Jr. - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in Math & Science Center - W301",
+    "course_resources": null,
+    "sections": "Class Nbr: 3440, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: R. Roth Jr., Status: Open",
+    "date_accessed": "2024-03-30"
+}

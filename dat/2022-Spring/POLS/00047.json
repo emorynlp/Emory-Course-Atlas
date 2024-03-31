@@ -1,0 +1,22 @@
+{
+    "course_code": "POLS 509",
+    "course_title": "Empirical Methods 1",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": "This course provides an introduction to statistics for Political Science PhD students. Will cover the foundations of probability theory, properties of random variables, asymptotic approximations, methods for developing and evaluating statistical estimators, and hypothesis testing. The second half of the course will develop the linear regression model with a focus on its assumptions, statistical properties, inference, and diagnostics. An additional goal of the course is to improve students' statistical computing skills through in-class exercises and problem sets.\n\n\nRegistration Restrictions\nPOLS 508 or equivalent transfer credit as prerequisite.",
+    "course_description": "This course provides an introduction to statistics for Political Science PhD students. Will cover the foundations of probability theory, properties of random variables, asymptotic approximations, methods for developing and evaluating statistical estimators, and hypothesis testing. The second half of the course will develop the linear regression model with a focus on its assumptions, statistical properties, inference, and diagnostics. An additional goal of the course is to improve students' statistical computing skills through in-class exercises and problem sets.",
+    "prerequisites": "POLS 508 or equivalent transfer credit as prerequisite.",
+    "instructors": "Miguel Rueda Robayo - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Tarbutton Hall 111",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 1449, Section #: 1, Type: SEM, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: M. Rueda Robayo, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

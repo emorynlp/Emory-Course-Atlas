@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 211",
+    "course_title": "Advanced Calculus (Multivariable)",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Vectors; multivariable functions; partial derivatives; multiple integrals; vector and scalar fields; Green's and Stokes' theorems; divergence theorem.",
+    "prerequisites": "MATH 112 or MATH 112Z or MATH_OX 112 or MATH_OX 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3690, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: M. Carr, Status: Open\nClass Nbr: 3691, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: A. Kobin, Status: Open",
+    "date_accessed": "2024-03-30"
+}

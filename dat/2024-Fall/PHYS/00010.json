@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 253",
+    "course_title": "Modern Physics With Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Varies by section",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Special theory of relativity, wave and particle properties of electromagnetic radiation and matter, introduction to quantum mechanics, Schrodinger equation, atomic models, and simple molecules.",
+    "prerequisites": "This course requires PHYS 142 OR PHYS_OX142 OR PHYS 152 OR PHYS_OX152 AND MATH 112, MATH 112Z, OR MATH_OX112 or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1950, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: E. Bonning, Status: Open\nClass Nbr: 3587, Section #: LAB1, Type: LAB, Campus: ATL, Meets: F 2:30-5:15p, Instructor: Donofrio/Bonning, Status: Open\nClass Nbr: 3588, Section #: LAB2, Type: LAB, Campus: ATL, Meets: Th 4-6:45p, Instructor: Donofrio/Bonning, Status: Open\nClass Nbr: 3589, Section #: LAB3, Type: LAB, Campus: ATL, Meets: W 2:30-5:15p, Instructor: Donofrio/Bonning, Status: Open",
+    "date_accessed": "2024-03-29"
+}

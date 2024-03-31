@@ -1,0 +1,22 @@
+{
+    "course_code": "INFO 534",
+    "course_title": "Applied Machine Learning",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 8",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "**Student must bring laptop to class**",
+    "course_description": "Prerequisites: BIOS 500 and (BIOS 544 or BIOS 545 or EPI 534) or permission of instructor. The elective course gives an introduction to machine learning techniques and theory, with a focus on its use in practical applications. The Applied Machine Learning course teaches you a wide-ranging set of techniques of supervised and unsupervised machine learning approaches using R as the programming language.",
+    "prerequisites": "BIOS 500 and (BIOS 544 or BIOS 545 or EPI 534) or permission of instructor required prior to enrollment.",
+    "instructors": "Max Lau - Primary Instructor",
+    "schedule_location": "T 10am-11:50am in Claudia Nance Rollins 1055",
+    "course_resources": null,
+    "sections": "Class Nbr: 3023, Section #: 1, Type: LEC, Campus: ATL, Meets: T 10-11:50a, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

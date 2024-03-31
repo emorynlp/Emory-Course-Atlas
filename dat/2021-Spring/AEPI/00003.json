@@ -1,0 +1,22 @@
+{
+    "course_code": "AEPI 565D",
+    "course_title": "Advanced Modeling",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-08 through 2021-04-11",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership. An additional session will be held on Saturday, January 9, from 4:30-6:30pm",
+    "course_description": "Advanced Modeling will cover multivariate methods for analyzing epidemiologic data that involve examining associations between exposures and outcomes for which the outcome data are the time to an event, event rates, or a count of events. The course covers survival analysis and Poisson regression.",
+    "prerequisites": null,
+    "instructors": "Jose Binongo - Primary Instructor",
+    "schedule_location": "F 12:30pm-3:30pm in ONLINE\nSa 1pm-4pm in ONLINE\nSa 4:30pm-6:30pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4631, Section #: 901, Type: LEC, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p; Sa 4:30-6:30p, Instructor: Binongo/Ceretto-Clark, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

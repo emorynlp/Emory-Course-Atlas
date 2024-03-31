@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM_OX 150",
+    "course_title": "Introduction to Statistical Computing I",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 25Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "This course is an introduction to the R programming language. It will cover the programming basics of R: data types, controlling flow using loops/conditionals, and writing functions. In addition to these basics, this course will emphasize skills that are relevant for data analysis.",
+    "prerequisites": null,
+    "instructors": "Francis Adams - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3858, Section #: 1, Type: LAB, Campus: OXF, Meets: MW 10-11:15a, Instructor: F. Adams, Status: Open\nClass Nbr: 3950, Section #: 2, Type: LAB, Campus: OXF, Meets: MW 8:30-9:45a, Instructor: F. Adams, Status: Open",
+    "date_accessed": "2024-03-29"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Elements of Data Sci: Python",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "(Permission Required Prior to Enrollment)\n(Prerequisite: QTM 220 or ECON 320 and all QTM core classes\nThis course will be offered fully ONLINE. This class will advance the skills required for the student for successful data analytics. We will cover Python from elementary to advanced programming skills and data wrangling in the first half. In the second half, we will introduce relational databases, provide an overview of SQL (Structured Query Language), and discuss advanced topics in R, such as data scraping and data wrangling. This class's successful completion will qualify the students to solve complex programming and data processing problems, getting their data ready for advanced machine learning.)\n(Permission code request form: http://bit.ly/QTM2021)",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Umberto Mignozzetti - Primary Instructor",
+    "schedule_location": "MW 4:20pm-5:35pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 3511, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 4:20-5:35p, Instructor: U. Mignozzetti, Status: Open",
+    "date_accessed": "2024-03-30"
+}

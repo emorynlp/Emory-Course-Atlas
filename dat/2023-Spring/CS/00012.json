@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 350",
+    "course_title": "Systems Programming",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "System programming topics are illustrated by the POSIX API to the Linux operating system. Topics include: file i/o, the TTY driver, window systems, processes, shared memory, message passing, semaphores, signals, and interrupt handlers.",
+    "prerequisites": "CS 253 and CS 255 or equivalent transfer credit as prerequisites.",
+    "instructors": "Steven La Fleur - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3278, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: S. La Fleur, Status: Open\nClass Nbr: 3280, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. La Fleur, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Advanced Network Analysis",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 23 / Seats Avail: 14Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "(Permission Required Prior to Enrollment)\nPrerequisites: [QTM 220 or ECON 320], QTM 110, QTM 150, [QTM 210 or ECON 220 or MATH 362], [MATH 210 or MATH 211], and MATH 221)\nInterest in network analysis has EXPLODED in the past few years, partly due to the latest advancements in statistical modeling and the rapid availability of network data and partly due to the recognition that many analytical problems can be re-cast as a network problem. Aiming to examine social connections and interactions quantitatively, network analysis has become an essential method and tool for studying a variety of issues in social and natural sciences. This course covers the major methods to collect, represent, and analyze network data. Selected topics include centrality analysis, positional analysis, clustering analysis, the exponential random graph model for modeling network formations, the stochastic actor-oriented model for dynamic network analysis, meta network analysis, weighted network analysis, text network analysis, causal analysis of network effects, and social network-based predictions and interventions. Examples are drawn from a wide range of disciplines including business, economics, education, political science, public health, and sociology. Students will learn hands-on skills to conduct their own research by using mainstream network packages in R such as 'statnet' and 'RSiena'. This course requires a basic knowledge of logistic regression and basic programming skills in R.",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Weihua An - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Atwood Chemistry Bldg. 316",
+    "course_resources": null,
+    "sections": "Class Nbr: 4666, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: W. An, Status: Open",
+    "date_accessed": "2024-03-30"
+}

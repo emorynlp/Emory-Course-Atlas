@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 347",
+    "course_title": "Non-Linear Optimization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "(CS 170 is a required prerequisite for Math 347.)\n(Permission of Angela Sudu - angela.sudu@emory.edu - is required for enrollment.)",
+    "course_description": "Nonlinear optimization problems arise in a wide range of applications, for example, in economics, physics, engineering, imaging. This introductory course covers a wide range of examples and both theory and practice of unconstrained and constrained optimization.",
+    "prerequisites": "(MATH 211 or PHYS 211 or MATH_OX 211 or MATH 276) and (MATH 221 or MATH_OX 221 or MATH 321) and (MATH 250 or MATH_OX 250 or MATH 276) or equivalent transfer credit as prerequisite.",
+    "instructors": "Elizabeth Newman - Primary Instructor",
+    "schedule_location": "W 9:40am-10:55am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1953, Section #: 1, Type: LEC, Campus: ATL, Meets: W 9:40-10:55a, Instructor: E. Newman, Status: Open",
+    "date_accessed": "2024-03-30"
+}

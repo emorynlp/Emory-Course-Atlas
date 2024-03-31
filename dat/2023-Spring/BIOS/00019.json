@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 709",
+    "course_title": "Generalized Linear Models",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 15",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Studies analysis of data using generalized linear models, as well as models with generalized variance structure. Parametric models include exponential families such as normal, binomial, Poisson, and gamma. Iterative reweighted least squares and quasi-likelihood methods are used for estimation of parameters. Methods for examining model assumptions are studied. Generalized estimating equations (GEE) and quadratic estimating equations are introduced for problems where no distributional assumptions are made about the errors except for the structure of the first two moments. Illustrations with data from various basic science, medicine, and public health settings. Prerequisite: BIOS 511 and BIOS 707",
+    "prerequisites": null,
+    "instructors": "Yijuan Hu - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:50pm in Grace Crum Rollins P41",
+    "course_resources": null,
+    "sections": "Class Nbr: 4885, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:50p, Instructor: Hu/He, Status: Open",
+    "date_accessed": "2024-03-30"
+}

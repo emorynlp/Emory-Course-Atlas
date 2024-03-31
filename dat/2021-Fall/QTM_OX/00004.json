@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM_OX 151",
+    "course_title": "Introduction to Statistical Computing II",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 11Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "Asynchronous assessments",
+    "course_description": "This course provides a practicum of skills for data science and an introduction to how to do data science with R. The material is selected to enable you to get data into the most useful structure, transform it, visualize it, and model it. By the end of the course, students should be able to (1) deal with complex and messy real data (2) use graphics to explore and understand data (3) gain familiarity with basic data manipulatin, (4) fluently reshape data into the most convenient form for analysis, and (5) automate cleaning and analysis.",
+    "prerequisites": "QTM_OX 150 or QTM 150 or equivalent transfer credit as prerequisite.",
+    "instructors": "Zachary Binney - Primary Instructor",
+    "schedule_location": "F 1pm-1:50pm in Pierce Hall 237",
+    "course_resources": null,
+    "sections": "Class Nbr: 3223, Section #: 1, Type: LAB, Campus: OXF, Meets: F 1-1:50p, Instructor: Z. Binney, Status: Open",
+    "date_accessed": "2024-03-30"
+}

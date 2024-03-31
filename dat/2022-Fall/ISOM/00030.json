@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 672",
+    "course_title": "Introduction to Business Analytics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 11",
+    "waitlist_total": null,
+    "grading_mode": "Masters Non-MBA",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-10-18",
+    "class_notes": null,
+    "course_description": "We will study the fundamental principles and techniques of data mining in order to extract useful information and knowledge from data. We will improve our ability to approach problems \"data-analytically\", examine real-world examples that place data mining in context, and apply data-mining techniques while working hands-on with data mining projects. The course will provide an understanding of the general framework for building and evaluating predictive models, both for classification and numeric prediction data mining tasks. The course will cover supervised predictive modeling techniques, as well as unsupervised predictive modeling techniques.",
+    "prerequisites": "This section is reserved for students in the MSBA program.",
+    "instructors": "Vilma Todri - Primary Instructor",
+    "schedule_location": "MW 8am-11:15am in Goizueta Business School 208",
+    "course_resources": null,
+    "sections": "Class Nbr: 2142, Section #: 4101, Type: LEC, Campus: ATL, Meets: MW 8-11:15a, Instructor: V. Todri, Status: Open",
+    "date_accessed": "2024-03-30"
+}

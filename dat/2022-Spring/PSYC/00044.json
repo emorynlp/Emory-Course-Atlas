@@ -1,0 +1,22 @@
+{
+    "course_code": "PSYC 563",
+    "course_title": "Statistics II: Predictive Modeling",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": "(Permission Required Prior to Enrollment)\n\n\nLetter grade only. For S/U or pass/fail option, please ask the instructor's permission.",
+    "course_description": "This course is designed to introduce students to the concepts currently relevant to predictive modeling in the field of psychology. The content of the class will be buttressed by an introduction to statistical modeling using methods involving Python, R, and SPSS.",
+    "prerequisites": null,
+    "instructors": "Philip Kragel - Primary Instructor",
+    "schedule_location": "Th 8:30am-11:15am in Math & Science Center - E301A",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 1830, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 8:30-11:15a, Instructor: P. Kragel, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

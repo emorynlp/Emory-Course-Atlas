@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Kathleen Campbell - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 1698, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: K. Campbell, Status: Open\nClass Nbr: This section is full 1699, Section #: 2, Type: DIS, Campus: ATL, Meets: M 6-6:50p, Instructor: K. Campbell, Status: Wait List\nClass Nbr: This section is full 1700, Section #: 3, Type: DIS, Campus: ATL, Meets: T 6-6:50p, Instructor: K. Campbell, Status: Wait List\nClass Nbr: 1701, Section #: 4, Type: DIS, Campus: ATL, Meets: W 6-6:50p, Instructor: K. Campbell, Status: Open\nClass Nbr: 1702, Section #: 5, Type: DIS, Campus: ATL, Meets: Th 6-6:50p, Instructor: K. Campbell, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1698, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: K. Campbell, Status: Open\nClass Nbr: 1699, Section #: 2, Type: DIS, Campus: ATL, Meets: M 6-6:50p, Instructor: K. Campbell, Status: Open\nClass Nbr: 1700, Section #: 3, Type: DIS, Campus: ATL, Meets: T 6-6:50p, Instructor: K. Campbell, Status: Open\nClass Nbr: 1701, Section #: 4, Type: DIS, Campus: ATL, Meets: W 6-6:50p, Instructor: K. Campbell, Status: Open\nClass Nbr: 1702, Section #: 5, Type: DIS, Campus: ATL, Meets: Th 6-6:50p, Instructor: K. Campbell, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

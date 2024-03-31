@@ -2,7 +2,7 @@
     "course_code": "THEA 130",
     "course_title": "Stagecraft",
     "credit_hours": "3-4",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 9Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 1Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 3878, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: B. Glenn, Status: Open\nClass Nbr: 3879, Section #: 2, Type: LAB, Campus: ATL, Meets: Does Not Meet, Instructor: B. Glenn, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

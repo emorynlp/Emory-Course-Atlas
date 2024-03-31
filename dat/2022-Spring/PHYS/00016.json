@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 463",
+    "course_title": "Quantum Computing and Information",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Science, Nature, Technology",
+    "permission": "Department Consent Required",
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": "(Same as CS 485 2)\nPrereq of PHYS220 or MATH221 required",
+    "course_description": "An introduction to qubits, quantum gates, quantum circuits, quantum key distribution, quantum teleportation, quantum dense coding, Grover's search algorithm, Shor's factoring algorithm, quantum entanglement and Bell's theorem, and quantum error correction.",
+    "prerequisites": "PHYS 220 or MATH 221 or MATH_OX 221 or equivalent transfer credit as prerequisite.",
+    "instructors": "Jed Brody - Primary Instructor",
+    "schedule_location": "MW 5:30pm-6:45pm in Math & Science Center - N302",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 5621, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p, Instructor: J. Brody, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

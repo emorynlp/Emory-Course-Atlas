@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Irregularly",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 4249, Section #: 1, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: R. Thompson, Status: Open\nClass Nbr: 4250, Section #: 2, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: L. Eghbalzad, Status: Open\nClass Nbr: 4251, Section #: 3, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: J. McGee, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4249, Section #: 1, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: R. Thompson, Status: Open\nClass Nbr: This section is full 4250, Section #: 2, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: L. Eghbalzad, Status: Closed\nClass Nbr: This section is full 4251, Section #: 3, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: J. McGee, Status: Closed\nClass Nbr: This section is full 6553, Section #: 4, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: S. Garner, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "AEPI 538D",
+    "course_title": "Applied Data Analysis",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 8",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Blended/Hybrid",
+    "typically_offered": "Summer",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-05-12 through 2023-07-30",
+    "class_notes": "Permission Only - Program Approval to Take Courses Required.",
+    "course_description": "The purpose of this course is to prepare the student for actual analysis of epidemiologic data from case-control or cohort studies. It demonstrates, and gives the student an opportunity to explore, the methods taught in the epidemiology methods sequence. The student will develop a hypothesis, and test it using an epidemiologic database with stratified analysis and logistic regression techniques. The student also will use conditional logistic regression. It is expected that this course will help prepare Executive MPH students for analyzing their thesis data.",
+    "prerequisites": "AEPI 530D and AEPI 534D and AEPI 536D and AEPI 537D and BIOS 516D and BIOS 517D and BIOS 518D as prerequisites or special permission required to enroll.",
+    "instructors": "Drew Voetsch - Primary Instructor",
+    "schedule_location": "F 4pm-7pm in R. Randall Rollins Bldg. R102\nSu 8:30am-11:30am in R. Randall Rollins Bldg. R102",
+    "course_resources": null,
+    "sections": "Class Nbr: 1049, Section #: 901, Type: SEM, Campus: ATL, Meets: F 4-7p; Su 8:30-11:30a, Instructor: D. Voetsch, Status: Open",
+    "date_accessed": "2024-03-30"
+}

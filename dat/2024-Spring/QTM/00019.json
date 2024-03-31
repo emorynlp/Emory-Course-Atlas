@@ -2,7 +2,7 @@
     "course_code": "QTM 350",
     "course_title": "Data Science Computing",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 21Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 1Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "TTh 4pm-5:15pm in New Psyc Bldg 290 (36 Eagle Ro",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_350_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 2209, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: D. Cordeiro Moreira, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

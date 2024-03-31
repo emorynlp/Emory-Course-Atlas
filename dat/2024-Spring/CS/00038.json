@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 584",
+    "course_title": "Topics In Computer Science: Information Security",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-01-17 through 2024-04-29",
+    "class_notes": "This course will cover topics on information security including authentication, access control, cryptography, vulnerability detection, threats to security, and control mechanisms to address such threats. Students will also learn principles of information assurance at the policy, procedural, and technical levels.",
+    "course_description": null,
+    "prerequisites": null,
+    "instructors": "Amin Pouriyeh - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - W301",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_584_5_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 6051, Section #: 5, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: A. Pouriyeh, Status: Open",
+    "date_accessed": "2024-03-30"
+}

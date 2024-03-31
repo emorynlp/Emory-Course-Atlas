@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 361",
+    "course_title": "Mathematical Statistics I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-05-12 through 2023-06-21",
+    "class_notes": null,
+    "course_description": "Finite and continuous probability theory, distribution models (binomial, geometric, uniform, normal, Poisson, and exponential), the Chebyshev inequality, expectation and variance, moment generating functions, the central limit theorem, and applications.",
+    "prerequisites": "MATH 210 or MATH_OX 210 or MATH 211 or PHYS 211 or MATH_OX 211 or MATH 276 or equivalent transfer credit as prerequisite.",
+    "instructors": "Bree Ettinger - Primary Instructor",
+    "schedule_location": "TTh 9:45am-11:15am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1344, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 9:45-11:15a, Instructor: B. Ettinger, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 500L",
+    "course_title": "Statistical Methods I (Laboratory)",
+    "credit_hours": "1",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Varies by section",
+    "course_description": "The lab portion of BIOS 500 is designed with two purposes in mind: 1) to illustrate concepts and methods presented in the lectures using hands-on demonstrations and 2) to introduce SAS, a widely used statistical software package, as a data analysis tool. By the end of the semester, you should be able to produce and interpret statistical output for methods learned in BIOS 500 lecture.",
+    "prerequisites": "Varies by section",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3117, Section #: 1, Type: LAB, Campus: ATL, Meets: W 5-6:50p, Instructor: Mejia/Gerig, Status: Open\nClass Nbr: 3118, Section #: 10, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: Cotsonis/Mei, Status: Open\nClass Nbr: 3119, Section #: 11, Type: LAB, Campus: ATL, Meets: T 8-9:50a, Instructor: Robichaux/Shen, Status: Open\nClass Nbr: 3120, Section #: 12, Type: LAB, Campus: ATL, Meets: W 5-6:50p, Instructor: Williams/Wang, Status: Open\nClass Nbr: 3121, Section #: 13, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: Mohanty/Ojeda, Status: Open\nClass Nbr: 3122, Section #: 14, Type: LAB, Campus: ATL, Meets: T 5-6:50p, Instructor: Aiello/Wang, Status: Open\nClass Nbr: 3123, Section #: 15, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: Edwards/Powers, Status: Open\nClass Nbr: 3013, Section #: 2, Type: LAB, Campus: ATL, Meets: T 3-4:50p, Instructor: Williams/Huang, Status: Open\nClass Nbr: This section is full 3017, Section #: 3, Type: LAB, Campus: ATL, Meets: T 5-6:50p, Instructor: Cotsonis/Yang, Status: Closed\nClass Nbr: 3124, Section #: 4, Type: LAB, Campus: ATL, Meets: T 5-6:50p, Instructor: Kennerley/Liu, Status: Open\nClass Nbr: This section is full 3125, Section #: 5, Type: LAB, Campus: ATL, Meets: W 8-9:50a, Instructor: Cotsonis/Hu, Status: Closed\nClass Nbr: This section is full 3126, Section #: 6, Type: LAB, Campus: ATL, Meets: W 3-4:50p, Instructor: Mejia/Chew, Status: Closed\nClass Nbr: This section is full 3127, Section #: 7, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: Derado/Chen, Status: Closed\nClass Nbr: This section is full 3128, Section #: 8, Type: LAB, Campus: ATL, Meets: Th 3-4:50p, Instructor: Robichaux/Talley, Status: Closed\nClass Nbr: 3129, Section #: 9, Type: LAB, Campus: ATL, Meets: Th 7-8:50p, Instructor: Taurone/Situ, Status: Open",
+    "date_accessed": "2024-03-30"
+}

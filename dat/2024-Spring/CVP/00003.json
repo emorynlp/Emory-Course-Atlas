@@ -2,7 +2,7 @@
     "course_code": "CVP 585",
     "course_title": "Perfusion Technology & Techniques I",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 1",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "This course focuses on the application of principles and techniques to practice extracorporeal circulation and selective perfusion techniques for special populations. Students will be expected to demonstrate competencies in simulation to transition to a participatory role in the operating room.",
     "prerequisites": "CVP 566 prerequisite and CVP 583 co-requisite or equivalent transfer credit. Student must enroll in CVP 583 first.",
-    "instructors": null,
+    "instructors": "Erick McNair - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 2555, Section #: 1, Type: LEC, Campus: ATL, Meets: M 10-11:50a; W 2-3:50p, Instructor: Staff, Status: Open\nClass Nbr: 4041, Section #: SIM, Type: SIM, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2555, Section #: 1, Type: LEC, Campus: ATL, Meets: M 10-11:50a; W 2-3:50p, Instructor: White/McNair, Status: Open\nClass Nbr: 4041, Section #: SIM, Type: SIM, Campus: ATL, Meets: Does Not Meet, Instructor: White/McNair, Status: Open",
+    "date_accessed": "2024-03-30"
 }

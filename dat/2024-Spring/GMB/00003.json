@@ -2,7 +2,7 @@
     "course_code": "GMB 597R",
     "course_title": "Laboratory Rotations",
     "credit_hours": "1-9",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 4",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": null,
+    "instructors": "Jie Jiang - Primary Instructor",
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_GMB_597R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5498, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5498, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: J. Jiang, Status: Open",
+    "date_accessed": "2024-03-30"
 }

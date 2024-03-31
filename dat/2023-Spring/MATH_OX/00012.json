@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 315",
+    "course_title": "Numerical Analysis",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 24Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "Varies by section",
+    "course_description": "Solution of linear and nonlinear systems of equations, interpolation, least-squares approximation, numerical integration, and differentiation. Significant components of the course material is based on linear algebra and computation. Has a one-hour lab.",
+    "prerequisites": "Math_OX 221 & CS_OX 170 as prerequisites",
+    "instructors": "Michael K Rogers - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4650, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: M. Rogers, Status: Open\nClass Nbr: 4616, Section #: 2, Type: LAB, Campus: OXF, Meets: F 1-1:50p, Instructor: M. Rogers, Status: Open",
+    "date_accessed": "2024-03-30"
+}

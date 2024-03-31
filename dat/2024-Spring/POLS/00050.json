@@ -1,8 +1,8 @@
 {
-    "course_code": "POLS 510",
-    "course_title": "World Politics",
+    "course_code": "POLS 509",
+    "course_title": "Empirical Methods 1",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 8",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 7",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": "All enrollment by permission only and must go through Debbie Allen in the Political Science Department.",
-    "course_description": null,
-    "prerequisites": null,
-    "instructors": "Dan Reiter - Primary Instructor",
-    "schedule_location": "T 2:30pm-5:30pm in Tarbutton Hall 120A",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_POLS_510_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2003, Section #: 1, Type: SEM, Campus: ATL, Meets: T 2:30-5:30p, Instructor: D. Reiter, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_description": "This course provides an introduction to statistics for Political Science PhD students. Will cover the foundations of probability theory, properties of random variables, asymptotic approximations, methods for developing and evaluating statistical estimators, and hypothesis testing. The second half of the course will develop the linear regression model with a focus on its assumptions, statistical properties, inference, and diagnostics. An additional goal of the course is to improve students' statistical computing skills through in-class exercises and problem sets.",
+    "prerequisites": "POLS 508 or equivalent transfer credit as prerequisite.",
+    "instructors": "Miguel R. Rueda - Primary Instructor",
+    "schedule_location": "F 2:30pm-5:30pm in Tarbutton Hall 120A",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_POLS_509_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2002, Section #: 1, Type: SEM, Campus: ATL, Meets: F 2:30-5:30p, Instructor: M. Rueda, Status: Open",
+    "date_accessed": "2024-03-31"
 }

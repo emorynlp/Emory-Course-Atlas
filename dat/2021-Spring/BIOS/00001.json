@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 501",
+    "course_title": "Statistical Methods II with Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-05",
+    "class_notes": "Varies by section",
+    "course_description": "Prerequisites: BIOS 500 or permission of instrcutor. This course is the follow-up to Biostatistical Methods I (BIOS 500).  Students will apply many of the concepts learned in BIOS 500 in a broader field of statistical analysis: model construction.  Topics covered include Linear Regression, Analysis of Variance, Logistic Regression and Survival Analysis.  Students who successfully complete this course will have a deep understanding of many analytical methods used by public health researchers in daily life. BIOS 501 Lab is a component of this course.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4420, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:50a, Instructor: P. Weiss, Status: Open\nClass Nbr: 4421, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 3:15-4:35p, Instructor: G. Cotsonis, Status: Open\nClass Nbr: This section is full 4422, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:50a, Instructor: P. Weiss, Status: Closed\nClass Nbr: 4423, Section #: L1, Type: LAB, Campus: ATL, Meets: T 5:30-7:20p, Instructor: Edwards/Parker, Status: Open\nClass Nbr: 4424, Section #: L2, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: Edwards/Ren, Status: Open\nClass Nbr: 4425, Section #: L3, Type: LAB, Campus: ATL, Meets: Th 5:30-7:20p, Instructor: Edwards/Chen, Status: Open\nClass Nbr: 4426, Section #: L4, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: Edwards/Zhang, Status: Open\nClass Nbr: 5799, Section #: L5, Type: LAB, Campus: ATL, Meets: T 5:30-7:20p, Instructor: Edwards/Yan, Status: Open\nClass Nbr: This section is full 5800, Section #: L6, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: J. Edwards, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

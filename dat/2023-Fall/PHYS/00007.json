@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 220",
+    "course_title": "Introduction to Mathematical Methods for Scientists and Engineers",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 22",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Natural Sciences(*)",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Linear algebra, determinants, linear vector spaces, eigenvalues and eigenfunctions, the div grad and curl operators, Gauss and Stokes theorems, orthogonal coordinate systems, infinite power series, complex number and variables, Fourier analysis, Laplace transforms, ODEs and PDEs.",
+    "prerequisites": "(PHYS 142 or PHYS_OX 142 or PHYS 152 or PHYS_OX 152) as prerequisite and (MATH 211 or MATH_OX 211) as co-requisite or equivalent transfer credit.",
+    "instructors": "Keith Berland - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in White Hall 103",
+    "course_resources": null,
+    "sections": "Class Nbr: 1975, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: K. Berland, Status: Open",
+    "date_accessed": "2024-03-30"
+}

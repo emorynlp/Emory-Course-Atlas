@@ -2,10 +2,10 @@
     "course_code": "PE_OX 130",
     "course_title": "Stress Management Activities",
     "credit_hours": "1",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 0Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Physical Education(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4167, Section #: 1, Type: PE, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: E. O'Kelley, Status: Open\nClass Nbr: 4168, Section #: 2, Type: PE, Campus: OXF, Meets: MW 4-5:15p, Instructor: E. O'Kelley, Status: Open\nClass Nbr: 4169, Section #: 3, Type: PE, Campus: OXF, Meets: MW 4-5:15p, Instructor: G. Yang, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4167, Section #: 1, Type: PE, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: E. O'Kelley, Status: Wait List\nClass Nbr: 4168, Section #: 2, Type: PE, Campus: OXF, Meets: MW 4-5:15p, Instructor: E. O'Kelley, Status: Wait List\nClass Nbr: 4169, Section #: 3, Type: PE, Campus: OXF, Meets: MW 4-5:15p, Instructor: G. Yang, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

@@ -2,10 +2,10 @@
     "course_code": "BUS 390B",
     "course_title": "TechTool: Introduction to R",
     "credit_hours": "0.5",
-    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 200 / Seats Avail: 32Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "Distance Learning",
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Tom Smith - Primary Instructor",
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BUS_390B_1101_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 5538, Section #: 1101, Type: LEC, Campus: ONLIN, Meets: Meets Online, Instructor: T. Smith, Status: Closed",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5538, Section #: 1101, Type: LEC, Campus: ONLIN, Meets: Meets Online, Instructor: T. Smith, Status: Open",
+    "date_accessed": "2024-03-30"
 }

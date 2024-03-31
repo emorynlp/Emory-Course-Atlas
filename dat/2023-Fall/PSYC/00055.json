@@ -1,0 +1,22 @@
+{
+    "course_code": "PSYC 770R",
+    "course_title": "Topic Seminars: Psych: Statistical Graphics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 11 / Seats Avail: 4",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "We live in a world that is becoming increasingly data-rich, thus demanding enhanced ability to analyze large and complex datasets and display those results. Despite advances in statistical methods and researchers' increasing familiarity with them, experience with advanced methods for effectively displaying data and statistical results remain rudimentary. We will explore principles and practices for displaying data and statistical results and intelligently integrating such displays with data analyses to create narratives that are both comprehensible and meaningful to the viewer. We will begin with a short \"art appreciation\" tour of Infographics, then investigate: 1. ways of distinguishing between bad and good graphic displays, 2. when it is best to use figures versus tables (and vice versa), and 3. some perceptual aspects that underlie effective (versus ineffective or misleading) displays of information. We will learn how to use various packages (e.g., ggplot2 in R) for creating statistical graphic displays of increasing complexity and sophistication. We will explore the use of such graphical displays in the published literature as well as in our own research. Students will complete a series of relevant assignments, including the application of these statistical graphic methods to their own data and research questions, ever mindful of the integration of statistical graphic and data analytic methods to achieve coherent and meaningful narratives",
+    "course_description": null,
+    "prerequisites": null,
+    "instructors": "Irwin Waldman - Primary Instructor",
+    "schedule_location": "T 10am-1pm in New Psyc Bldg 494 (36 Eagle Ro",
+    "course_resources": null,
+    "sections": "Class Nbr: 3545, Section #: 3, Type: SEM, Campus: ATL, Meets: T 10a-1p, Instructor: I. Waldman, Status: Open",
+    "date_accessed": "2024-03-30"
+}

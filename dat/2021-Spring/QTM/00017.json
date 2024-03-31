@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Intro.to Bayesian Statistics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 14Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "(Permission Required Prior to Enrollment)\n(This course will be offered fully ONLINE)\nPrerequisite: QTM 220 or ECON 320 and all QTM core courses\n(Permission code request form: http://bit.ly/QTM2021)\n\n\nThis course is designed to introduce students to Bayesian methods for data analysis. While this course is largely an applied course, it is intended to provide modeling and computational tools to its students so that they will be able to implement the methods presented and develop new models for analyzing original data. The course will consist of three parts:\n1) A review of probability theory and an introduction to the basic tools needed for Bayesian statistics including Bayes' theorem, maximum likelihood, prior elicitation, conjugacy, decision theory, model comparison, and other topics that form the basis of the recipe for Bayesian data analysis.\n2) An overview of modern computational approaches used to perform statistical inference for Bayesian models including Markov Chain Monte Carlo methods, Hamiltonian Monte Carlo, variational approximations, and other computational tools that are used for Bayesian inference.\n3) An introduction to modern problems in Bayesian statistics and the usage of Bayesian methods in machine learning. Topics discussed will include regression, regularization, latent variable estimation, and other important statistical domains where Bayesian methods provide solutions to long-standing problems.\nTo get the most out of this course, students are expected to have exposure to basic calculus and linear algebra. As computation is a large part of Bayesian data analysis, students are also expected to have experience programming in R and/or Python.",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Kevin McAlister - Primary Instructor",
+    "schedule_location": "MW 11:20am-12:35pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 3513, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 11:20a-12:35p, Instructor: K. McAlister, Status: Open",
+    "date_accessed": "2024-03-30"
+}

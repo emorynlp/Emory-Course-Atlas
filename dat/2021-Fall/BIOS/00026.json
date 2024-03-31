@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 726",
+    "course_title": "Applied Multivariate Analysis",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 3",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Irregularly",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "This course investigates multivariate techniques. The main subject areas covered are inferences about multivariate means, multivariate regression, multivariate analysis of variance (MANOVA) and covariance (MACOVA), principal components, factor analysis, discriminant analysis and classification, and cluster analysis. Appropriate programs such as SAS and S-PLUS will be demonstrated. Prerequisite: BIOS 507 and BIOS 511.",
+    "prerequisites": null,
+    "instructors": "Mary Kelley - Primary Instructor",
+    "schedule_location": "W 3:10pm-5pm in Claudia Nance Rollins 1034",
+    "course_resources": null,
+    "sections": "Class Nbr: 5222, Section #: 1, Type: LEC, Campus: ATL, Meets: W 3:10-5p, Instructor: M. Kelley, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -2,10 +2,10 @@
     "course_code": "AMST_OX 201QW",
     "course_title": "Introduction to American Studies",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 11Waitlist Total: 0 of 6",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 0Waitlist Total: 0 of 6",
     "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": "Humanities & Arts with C.Comm/Race & Ethnicity(*)",
@@ -17,6 +17,6 @@
     "instructors": "Eric Solomon - Primary Instructor",
     "schedule_location": "TTh 1pm-2:15pm in Seney Hall 310",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_AMST_OX_201QW_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4383, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: E. Solomon, Status: Open\nClass Nbr: 4384, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: E. Solomon, Status: Open",
-    "date_accessed": "2023-10-30"
+    "sections": "Class Nbr: 4383, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: E. Solomon, Status: Wait List\nClass Nbr: 4384, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: E. Solomon, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

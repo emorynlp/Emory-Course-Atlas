@@ -2,7 +2,7 @@
     "course_code": "FILM 499R",
     "course_title": "Directed Research",
     "credit_hours": "1-5",
-    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 5",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "A supervised project in an area of study to be determined by the instructor and student in the semester preceding the independent study. Requires faculty approval prior to registration. Only four credit hours can be applied toward fulfillment of the requirement of the major.",
     "prerequisites": null,
-    "instructors": "James Pellerito - Primary Instructor",
-    "schedule_location": "W 4pm-6:30pm in Candler Library 124",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_FILM_499R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3930, Section #: 1, Type: SUP, Campus: ATL, Meets: W 4-6:30p, Instructor: J. Pellerito, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3930, Section #: 1, Type: SUP, Campus: ATL, Meets: W 4-6:30p, Instructor: J. Pellerito, Status: Open\nClass Nbr: 6469, Section #: 2, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: D. Barba, Status: Open\nClass Nbr: 6544, Section #: 3, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: J. Francisco, Status: Open",
+    "date_accessed": "2024-03-30"
 }

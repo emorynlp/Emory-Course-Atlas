@@ -2,10 +2,10 @@
     "course_code": "LING 201",
     "course_title": "Foundations of Linguistics",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 36 / Seats Avail: 33Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 36 / Seats Avail: 0Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": "Social Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": "Erica Britt - Primary Instructor",
     "schedule_location": "TTh 10am-11:15am in White Hall 102",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LING_201_3_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4416, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: E. Britt, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4416, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: E. Britt, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 221",
+    "course_title": "Linear Algebra",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Systems of linear equations, matrices, determinants, linear transformations, eigenvalues and eigenvectors, least-squares.",
+    "prerequisites": "MATH 111 or MATH_OX 111 or MATH 112 or MATH_OX 112 or MATH 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3467, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a; F 8:30-9:20a, Instructor: Verma/Basu, Status: Wait List\nClass Nbr: This section is full 3468, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 10-11:15a; F 11:30a-12:20p, Instructor: Verma/Basu, Status: Wait List\nClass Nbr: 3486, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a; F 8:30-9:20a, Instructor: MARTIN TEMPESTTI/Bahl, Status: Open\nClass Nbr: 3487, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a; F 11:30a-12:20p, Instructor: MARTIN TEMPESTTI/Bahl, Status: Open\nClass Nbr: 3492, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 8:30-9:20a, Instructor: Roth Jr./Zhao, Status: Open\nClass Nbr: 3493, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 10-10:50a, Instructor: Roth Jr./Zhao, Status: Open\nClass Nbr: This section is full 3494, Section #: 7, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 1-1:50p, Instructor: Onisk/Yellin, Status: Wait List\nClass Nbr: This section is full 3495, Section #: 8, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 2:30-3:20p, Instructor: Onisk/Yellin, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

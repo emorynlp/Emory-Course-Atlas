@@ -2,7 +2,7 @@
     "course_code": "BAPS 501",
     "course_title": "Baptist Studies Colloquy",
     "credit_hours": "0-1",
-    "seats": "Seats: Maximum Enrollment: 999 / Seats Avail: 999",
+    "seats": "Seats: Maximum Enrollment: 999 / Seats Avail: 995",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BAPS_501_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 5405, Section #: 1, Type: SEM, Campus: ATL, Meets: Does Not Meet, Instructor: Williams/Williams, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

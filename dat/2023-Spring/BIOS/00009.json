@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 532",
+    "course_title": "Statistical Computing",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 11",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Prerequisite: BIOS 506, BIOS 510, and BIOS 531 or permission of instructor. Programming style and efficiency, data management and data structures, hardware and software, maximum likelihood estimation, matrix methods and least squares, Monte Carlo simulation, pseudo-random number generation, bootstrap, and UNIX-based computing and graphical methods.",
+    "prerequisites": null,
+    "instructors": "George A Cotsonis - Primary Instructor",
+    "schedule_location": "T 10am-11:50am in Grace Crum Rollins P41",
+    "course_resources": null,
+    "sections": "Class Nbr: 2670, Section #: 1, Type: LEC, Campus: ATL, Meets: T 10-11:50a, Instructor: Cotsonis/Wu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

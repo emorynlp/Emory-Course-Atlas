@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Quantitative Reasoning(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3090, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 10-10:50a, Instructor: Mayo/Buser, Status: Open\nClass Nbr: 3092, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 11:30a-12:20p, Instructor: Mayo/Buser, Status: Open\nClass Nbr: 3093, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 1-1:50p, Instructor: Verma/Longbrake, Status: Open\nClass Nbr: 3094, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 2:30-3:20p, Instructor: Verma/Longbrake, Status: Open\nClass Nbr: 3096, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 11:30a-12:20p, Instructor: Nurbekyan/Johnston, Status: Open\nClass Nbr: 3100, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 1-1:50p, Instructor: Nurbekyan/Johnston, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3090, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 10-10:50a, Instructor: Roth Jr./Buser, Status: Open\nClass Nbr: 3092, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 11:30a-12:20p, Instructor: Roth Jr./Buser, Status: Open\nClass Nbr: 3093, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 1-1:50p, Instructor: Mayo/Longbrake, Status: Wait List\nClass Nbr: 3094, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 2:30-3:20p, Instructor: Mayo/Longbrake, Status: Open\nClass Nbr: 3096, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 11:30a-12:20p, Instructor: Verma/Johnston, Status: Wait List\nClass Nbr: 3100, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p; F 1-1:50p, Instructor: Verma/Johnston, Status: Wait List\nClass Nbr: 6293, Section #: 7, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 11:30a-12:20p, Instructor: J. Mayfield, Status: Open",
+    "date_accessed": "2024-03-31"
 }

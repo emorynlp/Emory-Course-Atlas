@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 554",
+    "course_title": "Database Systems",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 15",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "Database implementation as well as advanced database concepts and emerging database applications will be covered. Topics include: data storage and indexing, database recovery, transaction concurrency control, distributed databases, web data management, and database security and privacy.",
+    "prerequisites": null,
+    "instructors": "James Lu - Primary Instructor",
+    "schedule_location": "MW 11:20am-12:35pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1898, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:20a-12:35p, Instructor: J. Lu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

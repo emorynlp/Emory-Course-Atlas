@@ -1,8 +1,8 @@
 {
-    "course_code": "PBEE 699R",
-    "course_title": "Advanced Graduate Research",
+    "course_code": "PBEE 599R",
+    "course_title": "Thesis Research (Master Level)",
     "credit_hours": "1-9",
-    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 50",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 30",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "Advanced Graduate Research",
+    "course_description": "Students are conducting research towards a masters thesis.",
     "prerequisites": null,
     "instructors": "David Civitello - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PBEE_699R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5572, Section #: 1, Type: RSC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Civitello, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PBEE_599R_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5867, Section #: 1, Type: THE, Campus: ATL, Meets: Does Not Meet, Instructor: D. Civitello, Status: Open",
+    "date_accessed": "2024-03-31"
 }

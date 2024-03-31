@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 677",
+    "course_title": "Decision Analytics and Optimization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 13Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Masters Non-MBA",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Optimization and simulation are powerful techniques used, in general, to allow managers to make better decisions and, specifically, in data analytics.  This course will introduce students to these techniques, in particular linear, integer and non-linear programming and monte carlo and discrete event simulation, and discuss their application to problems in business and data analytics.  Models will be built using spreadsheets, an algebraic modelling system and specialized simulation software but focus will be on practical applications of the models and their use in solving real problems rather than on their mathematical properties.",
+    "prerequisites": "This section is reserved for students in the MSBA program.",
+    "instructors": "Jeff Rummel - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Goizueta Business School 201",
+    "course_resources": null,
+    "sections": "Class Nbr: 1256, Section #: 4101, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: J. Rummel, Status: Open",
+    "date_accessed": "2024-03-30"
+}

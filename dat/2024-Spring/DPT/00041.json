@@ -1,8 +1,8 @@
 {
-    "course_code": "DPT 990",
-    "course_title": "Sports Physical Therapy",
+    "course_code": "DPT 986",
+    "course_title": "Vestibular Rehabilitation",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 100 / Seats Avail: 100",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 4",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": "Melissa Baudo - Primary Instructor",
+    "instructors": "Lisa Heusel-Gillig - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_990_0_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1627, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Baudo/Johanson, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_986_0_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1539, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Johanson/Heusel-Gillig, Status: Open",
+    "date_accessed": "2024-03-30"
 }

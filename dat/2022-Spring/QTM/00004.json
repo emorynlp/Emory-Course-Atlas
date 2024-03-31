@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 151",
+    "course_title": "Introduction to Statistical Computing II",
+    "credit_hours": "1",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "This course provides a practicum of skills for data science and an introduction to how to do data science with R. Material is selected to enable you to get data into the most useful structure, transform it, visualize it, and model it. This will require you to practice the material outside of class.",
+    "prerequisites": "QTM 150 or QTM_OX 150 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2080, Section #: 1, Type: LAB, Campus: ATL, Meets: F 2:30-3:20p, Instructor: Z. Gong, Status: Open\nClass Nbr: 2081, Section #: 2, Type: LAB, Campus: ATL, Meets: F 4-4:50p, Instructor: Z. Gong, Status: Open\nClass Nbr: This section is full 2082, Section #: 3, Type: LAB, Campus: ATL, Meets: F 5:30-6:20p, Instructor: U. Mignozzetti, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

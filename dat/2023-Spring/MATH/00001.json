@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 111",
+    "course_title": "Calculus I",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Limits, continuity, derivatives, antiderivatives, the definite integral.",
+    "prerequisites": "Students completing MATH 119 or equivalent cannot enroll for MATH 111. For concerns, please contact the Mathematics department.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3379, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: J. Camero, Status: Open\nClass Nbr: 3380, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: A. Brown, Status: Open\nClass Nbr: 3389, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: B. Frederickson, Status: Open\nClass Nbr: 3391, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: R. Hernandez, Status: Open\nClass Nbr: 3427, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: D. Cai, Status: Open\nClass Nbr: 6140, Section #: 7, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: A. Dunbar, Status: Open",
+    "date_accessed": "2024-03-30"
+}

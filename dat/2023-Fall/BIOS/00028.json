@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 736",
+    "course_title": "Stats Analy W/Missing &Mismeasured",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 9",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Irregularly",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "The goal of the course is to introduce the concepts and methods of analysis for missing data. Topics will include methods for distinguishing ignorable and non-ignorable missing data mechanisms, single and multiple imputation, hot-deck imputation. Computer intensive methods will be used. Prerequisites: BIOS 511 and PhD Biostatistics student.",
+    "prerequisites": null,
+    "instructors": "Eugene Huang - Primary Instructor",
+    "schedule_location": "Th 3pm-4:50pm in Grace Crum Rollins 115",
+    "course_resources": null,
+    "sections": "Class Nbr: 4663, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 3-4:50p, Instructor: Huang/Lyles, Status: Open",
+    "date_accessed": "2024-03-30"
+}

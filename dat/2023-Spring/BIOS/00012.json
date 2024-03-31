@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 545",
+    "course_title": "R Programming (BIOS Students Only)",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 45 / Seats Avail: 13",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": "BIOS Students Only.",
+    "course_description": "For BIOS Students Only. This course covers the basic contents of R programming with applications on statistical data analysis. Topics include data types, language syntax, graphics packages, debugging, the tidy verse, efficient programming and package creation.",
+    "prerequisites": "This class is for students enrolled in BIOSMPH or BIOSMSPH or BIOSTATPHD plans only.",
+    "instructors": "Steve Pittard - Primary Instructor",
+    "schedule_location": "M 3pm-4:50pm in Grace Crum Rollins L35",
+    "course_resources": null,
+    "sections": "Class Nbr: 2766, Section #: 1, Type: LEC, Campus: ATL, Meets: M 3-4:50p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

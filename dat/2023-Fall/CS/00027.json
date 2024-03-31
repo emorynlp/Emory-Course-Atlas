@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 584",
+    "course_title": "Topics In Computer Science: Human AI Interaction",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 3",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "The goal of this course is to introduce students to ways of thinking about how Artificial Intelligence will and has impacted humans, and how we can design interactive intelligent systems that are usable and beneficial to humans, and that respect human values. As students in this course, you will build a number of different interactive technologies powered by AI. Among other topics, we will learn how Large-Language Models (such as those behind ChatGPT), and other generative models (such as Stable Diffusion, which creates new images based on their description), can serve as a foundation for new interactive AI applications.\nThrough building these applications, you will gain practical experience with how different decisions impact their usability for humans and understand the various ways in which human involvement is critical in systems driven by machine learning.  Above all, you will learn to think both optimistically and critically of what AI systems can do and how they can and should be integrated into society.\nThere is no Final Exam for this course, but the course is strongly project-oriented, with small deliverables roughly every two weeks. Graduate students should additionally expect a substantial coding and usability project.",
+    "course_description": null,
+    "prerequisites": null,
+    "instructors": "Chinmay Kulkarni - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in Math & Science Center - W303",
+    "course_resources": null,
+    "sections": "Class Nbr: 2902, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: C. Kulkarni, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 485",
+    "course_title": "Topics in Mathematics: Convex Optimization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 6Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "This course lays the theoretical and algorithmic foundations of convex optimization problems. We provide a fairly general understanding of a wide class of problems, including linear programming, quadratic programming, and geometric programming. Problems of this kind are abundant and arise in a wide range of applications such as economics, physics, engineering, machine learning, and image processing. In the first part of the course, we build the theoretical and algorithmic foundation for solving these problems. In the second part of the course, students put their knowledge into action by solving a capstone project.\nPrerequisites: Linear Algebra (e.g., Math 221/275/321), Calculus (e.g., Math 111, 112/112Z, 211),  some knowledge of foundations of mathematics (e.g., Math 250), and programming (CS 170).\nPlease contact the undergraduate coordinator for Mathematics, Ms. Taylr Tuggle, to request permission.",
+    "course_description": "Rotating topics in mathematics. May be repeated for credit when the topic varies. Pre and co requisites depend on the topic offered.",
+    "prerequisites": null,
+    "instructors": "Deepanshu Verma - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in Math & Science Center - E408",
+    "course_resources": null,
+    "sections": "Class Nbr: 2913, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: D. Verma, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 711",
+    "course_title": "Statistical Inference II",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 13",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-11 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Examines the fundamental role of the likelihood function in statistical inference, ancillary and sufficient statistics, estimating functions, and asymptotic theory. This course presents conditional, profile and other approximate likelihoods; various ancillary concepts; generalizations of Fisher information in the presence of nuisance parameters; optimality results for estimating functions; and consistency/asymptotic normality of maximum likelihood and estimation function-based estimators. It briefly discusses alternative approaches to inference including Bayesian, Likelihood Principle, and decision theory. Prerequisite: BIOS 710.",
+    "prerequisites": null,
+    "instructors": "Eugene Huang - Primary Instructor",
+    "schedule_location": "MW 1pm-2:50pm in Grace Crum Rollins L45",
+    "course_resources": null,
+    "sections": "Class Nbr: 4886, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:50p, Instructor: Huang/YANG, Status: Open",
+    "date_accessed": "2024-03-30"
+}

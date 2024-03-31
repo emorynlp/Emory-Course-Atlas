@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 151",
+    "course_title": "Physics for Scientists and Engineers I W/Lab",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Varies by section",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "Varies by section",
+    "course_description": "Introductory classical mechanics and thermodynamics. Physics 151 and 152 are primarily for students who are strongly motivated in science and mathematics.",
+    "prerequisites": "(MATH 111 or MATH_OX 111) as prerequisites and (MATH 112 or MATH_OX 112 or MATH 112Z or MATH 210 or MATH_OX 210) as co-requisites, or equivalent transfer credit.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1429, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: L. Santos, Status: Open\nClass Nbr: 1430, Section #: LAB1, Type: LAB, Campus: ATL, Meets: T 1-3:45p, Instructor: Donofrio/Santos, Status: Open\nClass Nbr: 1431, Section #: LAB2, Type: LAB, Campus: ATL, Meets: T 5:30-8:15p, Instructor: Donofrio/Santos, Status: Open\nClass Nbr: 1432, Section #: LAB3, Type: LAB, Campus: ATL, Meets: W 5:30-8:15p, Instructor: Donofrio/Santos, Status: Open\nClass Nbr: 1433, Section #: LAB4, Type: LAB, Campus: ATL, Meets: Th 1-3:45p, Instructor: Donofrio/Santos, Status: Open\nClass Nbr: 1434, Section #: LAB5, Type: LAB, Campus: ATL, Meets: Th 5:30-8:15p, Instructor: Donofrio/Santos, Status: Open\nClass Nbr: 1435, Section #: LAB6, Type: LAB, Campus: ATL, Meets: F 1-3:45p, Instructor: Donofrio/Santos, Status: Open",
+    "date_accessed": "2024-03-30"
+}

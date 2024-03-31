@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 111",
+    "course_title": "Calculus I",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "This sequence includes differential and integral calculus of algebraic and transcendental functions of one variable, with applications and infinite series, including power series. Students receiving credit for Math 111 cannot take Math 119, Business Calculus for credit.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3295, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 5:30-6:45p, Instructor: T. Dunn, Status: Wait List\nClass Nbr: 3427, Section #: 3, Type: LEC, Campus: OXF, Meets: TTh 4-5:15p, Instructor: T. Dunn, Status: Open\nClass Nbr: 3428, Section #: 4, Type: LEC, Campus: OXF, Meets: MW 4-5:15p, Instructor: M. Rogers, Status: Open\nClass Nbr: 3299, Section #: 5, Type: LEC, Campus: OXF, Meets: MW 1-2:15p, Instructor: M. Rogers, Status: Open\nClass Nbr: This section is full 5897, Section #: 6, Type: LEC, Campus: OXF, Meets: MW 1-2:15p, Instructor: L. Sparaco, Status: Wait List\nClass Nbr: 5898, Section #: 7, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: L. Sparaco, Status: Open",
+    "date_accessed": "2024-03-30"
+}

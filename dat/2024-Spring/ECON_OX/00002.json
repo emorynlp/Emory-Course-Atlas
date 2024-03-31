@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": "Social Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4232, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: D. Ludwinski, Status: Open\nClass Nbr: 4233, Section #: 3, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: J. Ninkovic, Status: Open\nClass Nbr: 4234, Section #: 4, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: J. Ninkovic, Status: Open\nClass Nbr: 4235, Section #: 5, Type: LEC, Campus: OXF, Meets: MW 8:30-9:45a, Instructor: J. Ninkovic, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4232, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: D. Ludwinski, Status: Wait List\nClass Nbr: 4233, Section #: 3, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: J. Ninkovic, Status: Open\nClass Nbr: 4234, Section #: 4, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: J. Ninkovic, Status: Open\nClass Nbr: 4235, Section #: 5, Type: LEC, Campus: OXF, Meets: MW 8:30-9:45a, Instructor: J. Ninkovic, Status: Open",
+    "date_accessed": "2024-03-30"
 }

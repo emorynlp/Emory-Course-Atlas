@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 500",
+    "course_title": "Statistical Methods I",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Varies by section",
+    "course_description": "This course is designed to teach students the fundamentals of applied statistical data analysis. Students successfully completing this course will be able to: choose appropriate statistical analyses for a variety of data types; perform exploratory data analyses; implement commonly used one and two-sample hypothesis testing and confidence interval methods for continuous variables; perform tests of association for categorical variables; conduct correlation and simple linear regression analyses; produce meaningful reports of statistical analyses and provide sound interpretations of analysis results. Students will be able to implement the statistical methods learned using SAS and JMP software on personal computers.",
+    "prerequisites": "Varies by section",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1613, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:50a, Instructor: Nizam/Hess, Status: Open\nClass Nbr: 1719, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 3-4:20p, Instructor: Binongo/Nguyen, Status: Open\nClass Nbr: 1616, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 8:30-9:50a, Instructor: Murden/Schmidt, Status: Open\nClass Nbr: 1618, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 3-4:20p, Instructor: Horný/Diao, Status: Open",
+    "date_accessed": "2024-03-30"
+}

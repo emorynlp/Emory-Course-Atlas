@@ -1,9 +1,9 @@
 {
-    "course_code": "LAW 851",
-    "course_title": "Advanced Legal Writing: Blogging & Social Media",
+    "course_code": "LAW 833",
+    "course_title": "SEM: Law & Vulnerability",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 18",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 9Waitlist Total: 0 of 3",
+    "waitlist_total": ": 0 of 3",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-08 through 2024-04-22",
-    "class_notes": "Final Assessment: Take-Home Final\nPrerequisites: ILARC/ILA for JDs and ALWAR for LLMs.\nPunctuality at this morning class is part of attendance & participation.",
-    "course_description": "Advanced Legal Writing: Blogging and Social Media is a small class where you will learn public legal writing and introductory blog design (no coding required). The course involves interim assignments throughout the semester, some guest speakers, and designing a final capstone WordPress blog on a topic of your choice, with approximately 4500 words of blog posts (collectively) in your final blog. The final capstone blog is 50 percent of the grade. Interim assignments are 30 percent of the grade. The course also involves several group projects with assigned groups of 2-4, where you will be graded collectively for 20 percent of the grade. \nAttendance and participation are crucial. All assignments must be completed to pass the course. This course is graded on a recommended curve of 3.3.",
+    "class_notes": "Final Assessment: Paper/Project\nCross-listed with WGS 585\nStudents must complete the Preselection form to be considered for this class.",
+    "course_description": "This seminar presents vulnerability theory as an alternative to a human rights paradigm for thinking about state responsibility. The seminar explores the relationship between law and the theoretical concept of vulnerability, from both an abstract and a practical perspective. The course is anchored in the understanding that fundamental to our shared humanity is our shared vulnerability, which is universal and constant and inherent in the human condition. It will offer students an opportunity to engage with multiple perspectives on vulnerability, with an emphasis on law, justice, state policy, and legislative ethics. While vulnerability can never be eliminated, society through its institutions confers certain \"assets\" or resources, such as wealth, health, education, family relationships, and marketable skills on individuals and groups. These assets give individuals \"resilience\" in the face of their vulnerability. This seminar will explore how as society now is structured, however, certain individuals and groups operate from positions of entrenched advantage or privilege, while others are disadvantaged in ways that seem to be invisible as we engage in law and policy discussions. This seminar offers new ways to conceptualize and argue for reform in the interest of achieving social justice.",
     "prerequisites": null,
-    "instructors": "Jennifer Romig - Primary Instructor",
-    "schedule_location": "TTh 8:30am-10am",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_851_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2798, Section #: 001, Type: LEC, Campus: ATL, Meets: TTh 8:30-10a, Instructor: J. Romig, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Martha Fineman - Primary Instructor",
+    "schedule_location": "T 1pm-3pm in Gambrell Hall 5G",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_833_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2722, Section #: 001, Type: SEM, Campus: ATL, Meets: T 1-3p, Instructor: M. Fineman, Status: Open",
+    "date_accessed": "2024-03-30"
 }

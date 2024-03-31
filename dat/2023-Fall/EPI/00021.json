@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 590R",
+    "course_title": "EPI Seminar: R Bootcamp for Epidemiology",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 100 / Seats Avail: 22",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-14 through 2023-08-18",
+    "class_notes": "R Bootcamp: Pre-requisite: EPI 534, BIOS 544, or similar R course.  This course introduces best practices for conducting reproducible epidemiologic analyses in R. Topics include the R project and package management system, reproducible tables and statistical output, writing reports or manuscripts in quarto, developing a workflow using the targets package, and version control using Git/GitHub. This fast-paced course will intersperse short lectures with activities in R, building up to a full-blown reproducible project. This is a pre-term class that will meet August 14th and 15th, 9am-5pm.",
+    "course_description": "Various topics by Epi faculty. Check OPUS/Atlas for current topics and descriptions.",
+    "prerequisites": null,
+    "instructors": "Noni Afia Bourne - Secondary Instructor",
+    "schedule_location": "MT 8am-5pm in R. Randall Rollins Bldg. RL20",
+    "course_resources": null,
+    "sections": "Class Nbr: 6612, Section #: 3, Type: SEM, Campus: ATL, Meets: MT 8a-5p, Instructor: Christiansen-Lindquist/Bourne, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,8 +1,8 @@
 {
-    "course_code": "NRSG 354D",
-    "course_title": "Pathophysiology/Pharmacology for Nurses I",
-    "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 33 / Seats Avail: 30",
+    "course_code": "NRSG 353D",
+    "course_title": "Introduction to Pathophysiology/Pharmacology for Nurses",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 33 / Seats Avail: 12",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -10,13 +10,13 @@
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": null,
     "permission": null,
-    "dates": "2024-03-18 through 2024-05-08",
+    "dates": "2024-01-16 through 2024-03-06",
     "class_notes": "This class is for D-ABSN semester 1 students only. Exam on Fridays. Online with synchronous sessions via zoom.",
-    "course_description": "This course reviews the pathophysiology and therapeutics associated with multiple disease conditions. Students will translate understanding of pathophysiology, pharmacokinetics and pharmacodynamics to clinical decision making for health promotion, risk reduction and disease management.",
+    "course_description": "This course introduces students to the foundational principles of pathophysiology and pharmacology in nursing and will be the basis for the development of knowledge regarding human conditions and therapeutics associated with multiple disease conditions.",
     "prerequisites": null,
     "instructors": "Wanda Csaky - Primary Instructor",
-    "schedule_location": "TTh 9am-12pm in ONLINE",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_354D_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2507, Section #: 1, Type: LEC, Campus: ONLIN, Meets: TTh 9a-12p, Instructor: Csaky/Haynes Ferere, Status: Open",
-    "date_accessed": "2023-10-31"
+    "schedule_location": "W 11am-1:30pm in ONLINE",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_353D_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2506, Section #: 1, Type: LEC, Campus: ONLIN, Meets: W 11a-1:30p, Instructor: Csaky/Haynes Ferere, Status: Open",
+    "date_accessed": "2024-03-31"
 }

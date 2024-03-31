@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 670",
+    "course_title": "Business Statistics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 11",
+    "waitlist_total": null,
+    "grading_mode": "Masters Non-MBA",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-08 through 2022-08-23",
+    "class_notes": null,
+    "course_description": "This course is a refresher and a new look at how statistical methods begin the process of understanding and describing data.   We will use r/rstudio to review basic data exploration and statistical methods.  The course will be very hands on and practical, working with real world data.   We will cover topics from simple descriptive statistics like (mean/variance) up though hypothesis testing and modeling.   The tools and techniques in the class will be fundamental to all following classes.",
+    "prerequisites": "This section is reserved for students in the MSBA program.",
+    "instructors": "Alvin Lim - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: 2140, Section #: 4101, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: A. Lim, Status: Open",
+    "date_accessed": "2024-03-30"
+}

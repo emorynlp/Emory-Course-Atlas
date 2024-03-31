@@ -2,10 +2,10 @@
     "course_code": "PHIL_OX 120",
     "course_title": "Introduction to Social and Political Philosophy",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 28 / Seats Avail: 24Waitlist Total: 0 of 6",
+    "seats": "Seats: Maximum Enrollment: 28 / Seats Avail: 0Waitlist Total: 0 of 6",
     "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": "Humanities and Arts(*)",
@@ -17,6 +17,6 @@
     "instructors": "Joshua Mousie - Primary Instructor",
     "schedule_location": "TTh 11:30am-12:45pm in Pierce Hall 237",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_PHIL_OX_120_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4382, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: J. Mousie, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4382, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: J. Mousie, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

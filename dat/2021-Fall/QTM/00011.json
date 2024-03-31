@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 345",
+    "course_title": "Advanced Statistics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 10Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "Prerequisites: QTM 220 or ECON 320 and QTM 110, QTM 150, [QTM 210 or ECON 220 or MATH 362], [MATH 210 or MATH 211], MATH 221 \nPermission code request form (same for all QTM courses): http://bit.ly/Fall2021-QTM\n\n\nThis course is designed to introduce students to the multivariate linear regression model and the method for dealing with nonexperimental data. It will equip students with understanding of the workhorse in econometrics and statistics. The assumption violations in nonexperimental data and their solutions are also covered.",
+    "course_description": "Introduces students to multivariate linear regression model and method for dealing with non-experimental data. It will equip students with understanding of the workhorse in econometrics and statistics.",
+    "prerequisites": "QTM 220 or equivalent transfer credit as prerequisite.",
+    "instructors": "Zhongjian Lin - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1506, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: Z. Lin, Status: Open",
+    "date_accessed": "2024-03-30"
+}

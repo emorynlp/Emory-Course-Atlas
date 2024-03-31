@@ -2,7 +2,7 @@
     "course_code": "NRSG_OX 202",
     "course_title": "Hum. Anatomy & Physiology II W/Lab",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 22",
+    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 1",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 4428, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: C. Tower-Gilchrist, Status: Open\nClass Nbr: 4429, Section #: 2, Type: LAB, Campus: OXF, Meets: T 2:30-5:15p, Instructor: C. Tower-Gilchrist, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "BMI 585R",
+    "course_title": "Topics in Biomedical Informatics: Cancer Single Cell Analytics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 8",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": "This course introduces students to analytical techniques for single cell RNA-sequencing data in cancer, including experimental protocols, data processing, computational methods, and statistical analyses.\n\n\nMethods include Seurat and the instructor's recent methods in cancer. This course is project based, and prerequisites include prior scientific computing experience.\n\n\nWe will make special accommodations for online instruction for this course. Your instructor will communicate the mode of instruction before the start of classes.",
+    "course_description": "This is a special topics course in Biomedical Informatics.",
+    "prerequisites": null,
+    "instructors": "Manoj Bhasin - Primary Instructor",
+    "schedule_location": "TTh 4:30pm-5:45pm in Woodruff Memorial Bldg. 4004",
+    "course_resources": null,
+    "sections": "Class Nbr: 4749, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4:30-5:45p, Instructor: M. Bhasin, Status: Open",
+    "date_accessed": "2024-03-30"
+}

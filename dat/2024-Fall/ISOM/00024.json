@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 675",
+    "course_title": "Data Visualization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 66Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Masters Non-MBA",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Data Visualization will introduce students to the techniques and tools used to create effective visualizations that clearly and efficiently communicate relationships within data. The field of data visualization combines the art of graphic design with the science of data analytics. Students will learn how to perform exploratory analysis through visualization, how to create professional looking visualizations for use in business reports and presentations, and how to design interactive visualizations and dashboards that include time series, rankings, proportions, deviations, frequencies and distributions, correlations, categorical comparisons, and geospatial plots. Students will analyze real data sets and utilize R, Python, Tableau, and other tools to design and prototype their visualizations. \nThis course is for MSBA students only.",
+    "prerequisites": null,
+    "instructors": "Prasanna Parasurama - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4805, Section #: 4101, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: P. Parasurama, Status: Open\nClass Nbr: 4806, Section #: 4102, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: P. Parasurama, Status: Open",
+    "date_accessed": "2024-03-29"
+}

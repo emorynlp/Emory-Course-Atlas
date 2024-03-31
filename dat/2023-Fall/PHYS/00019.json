@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 502",
+    "course_title": "Mathematical Methods I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 8",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Essential mathematical tools for graduate physics, with an emphasis on fluency and intuition over formal rigor. Topics include complex analysis, linear algebra, basic differential equations, Fourier analysis, and variational calculus.",
+    "course_description": "Essential mathematical tools for graduate physics, with an emphasis on fluency and intuition over formal rigor. Topics include complex analysis, linear algebra, basic differential equations, Fourier analysis, and variational calculus.",
+    "prerequisites": null,
+    "instructors": "Daniel Weissman - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Math & Science Center - N215",
+    "course_resources": null,
+    "sections": "Class Nbr: 2009, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: D. Weissman, Status: Open",
+    "date_accessed": "2024-03-30"
+}

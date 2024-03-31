@@ -1,8 +1,8 @@
 {
-    "course_code": "MATH_OX 315",
-    "course_title": "Numerical Analysis",
-    "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 24Waitlist Total: 0 of 6",
+    "course_code": "MATH_OX 346",
+    "course_title": "Linear Optimization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 21Waitlist Total: 0 of 6",
     "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": "Mathematics and Quantitative Reasoning",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "Varies by section",
-    "course_description": "Solution of linear and nonlinear systems of equations, interpolation, least-squares approximation, numerical integration, and differentiation. Significant components of the course material is based on linear algebra and computation. Has a one-hour lab.",
-    "prerequisites": "Math_OX 221 & CS_OX 170 as prerequisites",
-    "instructors": "Christina Lee - Primary Instructor",
-    "schedule_location": "Varies by section",
-    "course_resources": null,
-    "sections": "Class Nbr: 4488, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: C. Lee, Status: Open\nClass Nbr: 5080, Section #: LAB, Type: LAB, Campus: OXF, Meets: F 10-10:50a, Instructor: C. Lee, Status: Open",
-    "date_accessed": "2023-10-31"
+    "class_notes": "Contact Dr. Chih for permission to waive the CS 170 requirement.",
+    "course_description": "Theory of linear programming, duality, optimal flows in networks, and mathematical programming.",
+    "prerequisites": "(MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) and (CS 170 or CS_OX 170) or equivalent transfer credits as prerequisites.",
+    "instructors": "Tien Chih - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Seney Hall 208",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_MATH_OX_346_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4526, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: T. Chih, Status: Open",
+    "date_accessed": "2024-03-31"
 }

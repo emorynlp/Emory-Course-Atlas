@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 655",
+    "course_title": "Superforecasting Tools for Building Predictive Systems",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Hands-on, gentle introduction to the tools that data scientists use to forecast the future. Emphasis is on applying these tools to build predictive systems for examples ranging from sales forecasting to algorithmic trading to preventing employee churn. Through this course, students gain experience with R, an in-demand software platform. Prior coding exposure is not necessary.\nMethods surveyed: Linear regression re-examined from the angle of predictive analytics; AI/ML techniques for prediction & classification; time series methods; time-to-event prediction tools developed by GBS faculty.",
+    "prerequisites": "Varies by section",
+    "instructors": "Donald Lee - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1377, Section #: 2169, Type: LEC, Campus: ATL, Meets: M 6:30-9:30p, Instructor: D. Lee, Status: Open\nClass Nbr: 1188, Section #: 3265, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: D. Lee, Status: Open\nClass Nbr: 1378, Section #: 3269, Type: LEC, Campus: ATL, Meets: M 6:30-9:30p, Instructor: D. Lee, Status: Open\nClass Nbr: 1610, Section #: 6269, Type: LEC, Campus: ATL, Meets: M 6:30-9:30p, Instructor: D. Lee, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 345",
+    "course_title": "Mathematical Modeling",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Principles of mathematical modeling; case studies using nonlinear ordinary differential equations, difference equations, and partial differential equations.",
+    "prerequisites": "This course requires MATH 212 OR MATH_OX212 AND CS 170 CS_OX170 or equivalent transfer credit as a prerequisite.",
+    "instructors": "Alessandro Veneziani - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Math & Science Center - W303",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2669, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Veneziani, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

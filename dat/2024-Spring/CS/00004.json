@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Quantitative Reasoning(*)",
@@ -17,6 +17,6 @@
     "instructors": "Amin Pouriyeh - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3128, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: A. Pouriyeh, Status: Open\nClass Nbr: 3129, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Pouriyeh, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3128, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: A. Pouriyeh, Status: Open\nClass Nbr: 3129, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Pouriyeh, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

@@ -1,8 +1,8 @@
 {
-    "course_code": "ARTHIST 775R",
-    "course_title": "Seminar: Mod/Contemp Art/Arch: Decoloniz.Soviet Built Environ",
+    "course_code": "ARTHIST 749R",
+    "course_title": "Seminar:Renaissance Art/Archit",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 9 / Seats Avail: 8",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 8",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "(Same as HIST 585 5)\n(Complete Topic: Decolonizing Histories of the Soviet Built Environment)\n(How do we approach histories of Soviet architecture and city-building in light of the current Russian war of aggression on Ukraine? The current conflict which began in 2014 and escalated in 2022'has its roots in both Russian imperial and Soviet territorial expansion. In this seminar we will investigate collectively how to harness decolonizing theory and practice to approach Soviet spatial scholarship in new ways. Through primary texts, scholarly writings, excerpts from works of literature, and period films, we will immerse ourselves in a series of socialist urban environments. Topics include theoretical alternatives to Russo-centrism and center/periphery binaries; planning/architectural case studies in myriad Soviet republics; and current resonances of the expansionist mindset, each of which will elucidate the mechanisms of Soviet territorial control.)",
-    "course_description": null,
+    "class_notes": "\"Books of the Art\"This course will consider the special category of books known as artist's manuals. Materials discussed will range from the book of the Benedictine monk Theophilus Presbyter, to Cennino Cennini's, Book of the Art; from the so-called technical prefaces of Giorgio Vasari's Lives of the Painters, Sculptors and Architects to Nicholas Hilliard's Art of Limning, and beyond to modern contributions to the genre by artists like Salvador Dali. The goal will be to understand the relation between making and meaning, as it is represented in these treatises. The themes to be discussed include the trope of secrecy and its use within the knowledge cultures of the late medieval and early modern Europe; the values associated with imitative practice within this tradition; the functions of representing artisanal knowledge within different settings (monastery, court, city), and the relation between artisanal epistemologies and the evolving scientific cultures of late medieval and early modern Europe. This seminar is designed to introduce graduate students to broadly applicable techniques of reading primary textual sources.",
+    "course_description": "Advanced seminar on Renaissance art and/or architecture with emphasis on critical texts, methods, and techniques of art historical investigation. For art history majors; open to others with permission from the instructor.",
     "prerequisites": null,
-    "instructors": "Christina Crawford - Primary Instructor",
-    "schedule_location": "W 8:30am-11:15am in Registrar Room Pool",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ARTHIST_775R_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3895, Section #: 2, Type: SEM, Campus: ATL, Meets: W 8:30-11:15a, Instructor: C. Crawford, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "C Jean Campbell - Primary Instructor",
+    "schedule_location": "M 1pm-3:45pm in Carlos Hall Conference",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ARTHIST_749R_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3487, Section #: 1, Type: SEM, Campus: ATL, Meets: M 1-3:45p, Instructor: C. Campbell, Status: Open",
+    "date_accessed": "2024-03-30"
 }

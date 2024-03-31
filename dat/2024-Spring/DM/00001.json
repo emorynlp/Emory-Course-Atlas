@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "Distance Learning",
     "typically_offered": "Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "M 12:30pm-1:30pm in ONLINE",
     "course_resources": null,
-    "sections": "Class Nbr: 5445, Section #: 1, Type: DIS, Campus: ATL, Meets: M 12:30-1:30p, Instructor: E. Bounds, Status: Open\nClass Nbr: 5446, Section #: 2, Type: DIS, Campus: ATL, Meets: M 12:30-1:30p, Instructor: I. McFarland, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 5445, Section #: 1, Type: DIS, Campus: ATL, Meets: M 12:30-1:30p, Instructor: E. Bounds, Status: Closed\nClass Nbr: This section is full 5446, Section #: 2, Type: DIS, Campus: ATL, Meets: M 12:30-1:30p, Instructor: I. McFarland, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "CS_OX 170Q",
+    "course_title": "Introduction To Computer Science I w/Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": "Varies by section",
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": "Varies by section",
+    "course_description": "An introduction to computer science for the student who needs to be able to program for course work or research. Topics include: fundamental computing concepts, general programming principles, and the Java programming language. Emphasis will be on algorithm development with examples highlighting topics in data structures. Required for beginning computer science majors. Needed for mathematics majors and pre-engineering majors in the 3-2 program with Georgia Tech. Has a one-hour lab.",
+    "prerequisites": null,
+    "instructors": "Ting Li - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3547, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: T. Li, Status: Wait List\nClass Nbr: This section is full 3548, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: T. Li, Status: Wait List\nClass Nbr: This section is full 3712, Section #: 3, Type: LAB, Campus: OXF, Meets: F 8:30-9:20a, Instructor: T. Li, Status: Wait List\nClass Nbr: This section is full 3799, Section #: 4, Type: LAB, Campus: OXF, Meets: F 10-10:50a, Instructor: T. Li, Status: Wait List\nClass Nbr: 5686, Section #: 5, Type: LEC, Campus: OXF, Meets: Does Not Meet, Instructor: T. Li, Status: Open\nClass Nbr: 5687, Section #: 6, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: T. Li, Status: Open",
+    "date_accessed": "2024-03-30"
+}

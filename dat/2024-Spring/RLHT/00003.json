@@ -1,10 +1,10 @@
 {
-    "course_code": "RLHT 799R",
-    "course_title": "Dissertation Research",
+    "course_code": "RLHT 797R",
+    "course_title": "Directed Study: Topics in Ancient Philosophy",
     "credit_hours": "1-12",
-    "seats": "Seats: Maximum Enrollment: 99 / Seats Avail: 99",
+    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 4",
     "waitlist_total": null,
-    "grading_mode": "Satisfactory/Unsatisfactory",
+    "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": "Ellen Ott Marshall - Primary Instructor",
+    "instructors": "Anthony Briggman - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_RLHT_799R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2188, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: E. Marshall, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_RLHT_797R_5_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 6585, Section #: 5, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: A. Briggman, Status: Open",
+    "date_accessed": "2024-03-30"
 }

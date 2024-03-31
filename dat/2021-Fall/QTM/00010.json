@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 340",
+    "course_title": "Approaches to Data Sci.w/Text",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 1Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "Prerequisites: QTM 210, or ECON 220 and [MATH 210 or MATH 211], or MATH 361, or CS 171 or CS 171Z or CS_OX 171\nPermission code request form (same for all QTM courses): http://bit.ly/Fall2021-QTM\n\n\nThis course teaches theories and techniques commonly used in the practice of data science. The primary focus is on text analysis covering text parsing, language models, sequence estimation, vector space models and distributional semantics, as well as statistical approaches including cluster analysis and supervised learning. Modern topics such as cloud computing, big data analysis, and data visualization are also discussed.\nIntroductory courses on computer programming and probabilities & statistics are recommended as prerequisites for this course. All exercises assume Python programming. Students are expected to present their work on the final project in groups towards the end of the term.",
+    "course_description": "Teaches common theories & techniques in data science using Python. Focus is text analysis (e.g., text parsing, language models, sequence estimation, vector space models & distributional semantics, cluster analysis, supervised learning). Cloud computing, big data, & data visualization are discussed.",
+    "prerequisites": "QTM 210 or CS 171 or CS 171Z or CS_OX 171 or equivalent transfer credit as prerequisite.",
+    "instructors": "Lauren Klein - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Rich Building 211",
+    "course_resources": null,
+    "sections": "Class Nbr: 1519, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: L. Klein, Status: Open",
+    "date_accessed": "2024-03-30"
+}

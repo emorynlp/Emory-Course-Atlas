@@ -1,8 +1,8 @@
 {
-    "course_code": "PSYC 563",
-    "course_title": "Statistics II: Predictive Modeling",
+    "course_code": "PSYC 554",
+    "course_title": "Foundations of Human Cognition",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 12",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 3",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": "(Permission Required Prior to Enrollment)",
-    "course_description": "This course is designed to introduce students to the concepts currently relevant to predictive modeling in the field of psychology. The content of the class will be buttressed by an introduction to statistical modeling using methods involving Python, R, and SPSS.",
+    "course_description": "Offered to students in the Cognitive and Computational Sciences concentration, and provides foundational knowledge to graduate students in this area.\nThe goal of this core course is to cover classic and current issues and basic controversies regarding theories, empirical phenomena and methods on the topic of human cognition with a particular focus on historical background from multiple perspectives, as well as - whenever relevant ¿ from a neuroscience perspective.",
     "prerequisites": null,
-    "instructors": "Philip Kragel - Primary Instructor",
-    "schedule_location": "MW 10am-11:15am in New Psyc Bldg 493 (36 Eagle Ro",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PSYC_563_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3777, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: P. Kragel, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Daniel D Dilks - Primary Instructor",
+    "schedule_location": "W 2:30pm-5pm in New Psyc Bldg 280 (36 Eagle Ro",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PSYC_554_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3774, Section #: 1, Type: LEC, Campus: ATL, Meets: W 2:30-5p, Instructor: Dilks/Kragel, Status: Open",
+    "date_accessed": "2024-03-31"
 }

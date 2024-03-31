@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 530",
+    "course_title": "Applied and Advanced Statistics in Observational Studies",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "This class is designed to cover the concepts and implementations of up-to-date analytic methodologies and strategies in observational studies, and to equip the students with the mindset and essential tools to handle data from observational research either for prediction (statistical learning) or causal inference. Propensity score methods, establishing/validating prediction models, risk stratification, the guidance of Good Research Practice, etc. will be illustrated along with real-life projects and backed up by the recent literatures.",
+    "prerequisites": "BIOS 500 or BIOS 506 or equivalent transfer credit as prerequisite.",
+    "instructors": "Yuan Liu - Primary Instructor",
+    "schedule_location": "Th 1pm-2:50pm in Claudia Nance Rollins AUD",
+    "course_resources": null,
+    "sections": "Class Nbr: 3414, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 1-2:50p, Instructor: Liu/Guan, Status: Open",
+    "date_accessed": "2024-03-30"
+}

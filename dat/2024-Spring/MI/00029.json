@@ -2,7 +2,7 @@
     "course_code": "MI 496R",
     "course_title": "Independent Study",
     "credit_hours": "2-6",
-    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 50",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": null,
     "course_resources": null,
     "sections": "Class Nbr: 1558, Section #: 000, Type: LEC, Campus: ONLIN, Meets: Meets Online, Instructor: T. Brzinski, Status: Open\nClass Nbr: 1568, Section #: 001, Type: LEC, Campus: ONLIN, Meets: Meets Online, Instructor: T. Brzinski, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

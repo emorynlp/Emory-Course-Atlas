@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Intro ML, Forecasting, & Optim",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 14Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "(Permission Required Prior to Enrollment)\n\n\nPrerequisites: QTM 100 or (QTM 110 and QTM 150 and QTM 151 and QTM 210)\nQTM permission code form (same for all QTM classes): https://forms.office.com/r/bq8grdpG25\nFull topic: Machine Learning, Forecasting, and Optimization - A Hands-on Introduction\nThis course will proceed through a series of hands-on projects introduced by lectures and applied tutorials. Through those projects, students will learn the basics of automated computer functionalities most commonly implemented in the industry. These projects will cover simple Machine Learning tasks, more advanced ones such as basic computer vision, as well as introductions to forecasting and optimization. Computational methods to solve each project will be introduced in class and through tutorials. The language used will be either R or Python. Student will have to code and deliver their own projects in one of these two programming languages.",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Martin Van der Linden - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in White Hall 102",
+    "course_resources": null,
+    "sections": "Class Nbr: 1494, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: M. Van der Linden, Status: Open",
+    "date_accessed": "2024-03-30"
+}

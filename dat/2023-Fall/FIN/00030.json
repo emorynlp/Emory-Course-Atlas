@@ -1,0 +1,22 @@
+{
+    "course_code": "FIN 657",
+    "course_title": "Financial Econometrics",
+    "credit_hours": "1.5",
+    "seats": "Seats: Maximum Enrollment: 55 / Seats Avail: 21Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-10-11 through 2023-12-16",
+    "class_notes": null,
+    "course_description": "This course provides statistical tools for modeling and forecasting financial data. Topics include: Evidence on the predictability of stock and bond indexes. Forecasting equity returns with dividend yields and other standard variables. Factor models for the cross-section of equity returns, and factor selection techniques. Simulating and estimating affine models of the term structure. Time series analysis with applications to volatility modeling.",
+    "prerequisites": "This section is reserved for students in the MAF program.",
+    "instructors": "William Mann - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in Goizueta Foundation Ctr W320",
+    "course_resources": null,
+    "sections": "Class Nbr: 4862, Section #: 4201, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: W. Mann, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -2,7 +2,7 @@
     "course_code": "PRS 530D",
     "course_title": "Quantitative Analysis",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 22 / Seats Avail: 15",
+    "seats": "Seats: Maximum Enrollment: 22 / Seats Avail: 13",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -15,8 +15,8 @@
     "course_description": "Pre-Requisites: BIOS 503D and PRS 535D as prerequisites or special permission required to enroll. Provides students with an introduction to measurement methods and basic knowledge of quantitative applications using SAS Enterprise software. Content will stress specific skills and knowledge of working with data sets using basic SAS functions to analyze research questions and hypotheses, perform appropriate data analysis procedures, and interpret data outputs.",
     "prerequisites": "BIOS 503D and PRS 535D as prerequisites or special permission required to enroll.",
     "instructors": "Emmanuel Njeuhmeli - Primary Instructor",
-    "schedule_location": "F 12:30pm-3:30pm in Grace Crum Rollins TBA\nSa 1pm-4pm in Grace Crum Rollins TBA\nF 12:30pm-3:30pm\nSa 1pm-4pm",
+    "schedule_location": "F 12:30pm-3:30pm in R. Randall Rollins Bldg. R201\nSa 1pm-4pm in R. Randall Rollins Bldg. R201",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PRS_530D_901_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 1242, Section #: 901, Type: SEM, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p, Instructor: E. Njeuhmeli, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

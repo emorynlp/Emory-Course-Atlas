@@ -1,0 +1,22 @@
+{
+    "course_code": "CS_OX 253",
+    "course_title": "Data Structures and Algorithms",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 15Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "CS 171 or equivalent transfer credit as the pre-requisites. Synchronous class attendance required , Timed, asynchronous assessments , Technology required: webcam and microphone , Technology required: ability to scan written work",
+    "course_description": "A third course in Computer Science, focusing on advanced programming. Emphasis is on mastery in the use and implementation of data structures and algorithms for classical programming paradigms, using the Java programming language and object oriented design.",
+    "prerequisites": "CS 171 or 171Z or CS_OX 171 or equivalent transfer credit as a prerequisite.",
+    "instructors": "Ting Li - Primary Instructor",
+    "schedule_location": "MW 9:40am-10:55am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4273, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 9:40-10:55a, Instructor: T. Li, Status: Open",
+    "date_accessed": "2024-03-30"
+}

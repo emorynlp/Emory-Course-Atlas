@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM_OX 100",
+    "course_title": "Introduction to Statistical Inference with Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "Varies by section",
+    "course_description": "QTM100 provides an introduction to descriptive and inferential statistics. It is designed as a gateway course, with emphasis on practice and implementation. The course introduces probability, sampling distributions, interval estimation, hypothesis testing, ANOVA, regression, and nonparametric tests. The class consists of lectures and a weekly lab session. The lectures introduce statistical concepts and theory, and the lab session applies those lessons using the statistical software R.The following departments require QTM100 as a part of their major coursework: neuroscience and behavioral biology, psychology, anthropology, educational studies, human health, and sociology.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4201, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 4:20-5:35p, Instructor: J. Hardy, Status: Open\nClass Nbr: This section is full 5526, Section #: 11, Type: LAB, Campus: OXF, Meets: Meets Online, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 5527, Section #: 12, Type: LAB, Campus: OXF, Meets: Meets Online, Instructor: J. McGee, Status: Wait List\nClass Nbr: This section is full 5528, Section #: 13, Type: LAB, Campus: OXF, Meets: Meets Online, Instructor: J. McGee, Status: Wait List\nClass Nbr: This section is full 4203, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 2:40-3:55p, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 4345, Section #: 3, Type: LEC, Campus: OXF, Meets: MW 1-2:15p, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 4346, Section #: 4, Type: LEC, Campus: OXF, Meets: MW 11:20a-12:35p, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 4347, Section #: 5, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: J. McGee, Status: Wait List\nClass Nbr: This section is full 4348, Section #: 6, Type: LEC, Campus: OXF, Meets: TTh 9:40-10:55a, Instructor: J. McGee, Status: Wait List\nClass Nbr: 4821, Section #: 7, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: J. Hardy, Status: Open\nClass Nbr: This section is full 4822, Section #: 8, Type: LAB, Campus: OXF, Meets: Meets Online, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 4853, Section #: 9, Type: LAB, Campus: OXF, Meets: Meets Online, Instructor: S. Riner, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

@@ -2,7 +2,7 @@
     "course_code": "PE_OX 168R",
     "course_title": "Varsity Sports - Men's Golf",
     "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 7",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 2",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_PE_OX_168R_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 4181, Section #: 1, Type: PE, Campus: OXF, Meets: Does Not Meet, Instructor: M. McNamara, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

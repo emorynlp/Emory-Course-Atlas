@@ -1,8 +1,8 @@
 {
-    "course_code": "TATT 605ENG",
+    "course_code": "TATT 605CB",
     "course_title": "Teaching Assistantship",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 99 / Seats Avail: 98",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 8",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "The nature of a teaching assistantship varies from department to department. The defining characteristic of this position across all departments and programs is a controlled, carefully monitored initial teaching opportunity. A teaching assistant may be responsible for 10 to 12 hours per week of discussion or laboratory supervision.",
     "prerequisites": "TATT 600 or equivalent transfer credit as prerequisite.",
-    "instructors": "Nathan Suhr-Sytsma - Primary Instructor",
+    "instructors": "Nicole Marie Gerardo - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_TATT_605ENG_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3048, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: N. Suhr-Sytsma, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_TATT_605CB_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5662, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: N. Gerardo, Status: Open",
+    "date_accessed": "2024-03-31"
 }

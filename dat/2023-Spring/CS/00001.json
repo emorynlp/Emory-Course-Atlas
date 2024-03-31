@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 110",
+    "course_title": "Computer Science Fundamentals",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 15Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "This class is for freshman students only.",
+    "course_description": "A general introduction to computer science including an overview of hardware systems, programming essentials, algorithm design, data handling, and networking. Not intended for students needing a programming background for further work in computer science.",
+    "prerequisites": null,
+    "instructors": "Vaidyalingam Sunderam - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in White Hall 103",
+    "course_resources": null,
+    "sections": "Class Nbr: 3800, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: V. Sunderam, Status: Open",
+    "date_accessed": "2024-03-30"
+}

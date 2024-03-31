@@ -1,10 +1,10 @@
 {
-    "course_code": "PHYS 796",
-    "course_title": "Qualifier Proposal",
+    "course_code": "PHYS 751R",
+    "course_title": "Special Topics In Solid State Physics: Nanophotonics",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 999 / Seats Avail: 999",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 7",
     "waitlist_total": null,
-    "grading_mode": "Satisfactory/Unsatisfactory",
+    "grading_mode": "Graded",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
@@ -12,11 +12,11 @@
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "This course is for 2nd-year graduate students and involves a written and oral defense of the Physics Graduate Program qualifier proposal. It is taken in the spring.",
+    "course_description": null,
     "prerequisites": null,
-    "instructors": null,
-    "schedule_location": null,
-    "course_resources": null,
-    "sections": "Class Nbr: 1917, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: H. Harutyunyan, Status: Open\nClass Nbr: 1918, Section #: 10, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: L. Santos, Status: Open\nClass Nbr: 1919, Section #: 11, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: S. Boettcher, Status: Open\nClass Nbr: 1920, Section #: 12, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: K. Davis, Status: Open\nClass Nbr: 1921, Section #: 13, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: C. Roth, Status: Open\nClass Nbr: 1922, Section #: 14, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: S. Urazhdin, Status: Open\nClass Nbr: 1923, Section #: 15, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: S. Shekhar, Status: Open\nClass Nbr: 1924, Section #: 16, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: W. Benalcazar, Status: Open\nClass Nbr: 1925, Section #: 17, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: T. Lian, Status: Open\nClass Nbr: 1926, Section #: 18, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: R. Ribeiro, Status: Open\nClass Nbr: 1927, Section #: 19, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: I. Nemenman, Status: Open\nClass Nbr: 1928, Section #: 2, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: J. Burton, Status: Open\nClass Nbr: 1929, Section #: 20, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: J. Rieser, Status: Open\nClass Nbr: 1930, Section #: 21, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: K. Warncke, Status: Open\nClass Nbr: 2033, Section #: 22, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: E. Weeks, Status: Open\nClass Nbr: 1932, Section #: 23, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Weissman, Status: Open\nClass Nbr: 1933, Section #: 3, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: A. Srivastava, Status: Open\nClass Nbr: 1934, Section #: 4, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: N. Vega, Status: Open\nClass Nbr: 1935, Section #: 5, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: G. Berman, Status: Open\nClass Nbr: 2034, Section #: 6, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Sussman, Status: Open\nClass Nbr: 2035, Section #: 7, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: K. Salaita, Status: Open\nClass Nbr: 1940, Section #: 8, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: L. Finzi, Status: Open\nClass Nbr: 2036, Section #: 9, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: M. Kim, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Hayk Harutyunyan - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Emerson Chemistry Bldg. E363",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PHYS_751R_2_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1916, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: H. Harutyunyan, Status: Open",
+    "date_accessed": "2024-03-31"
 }

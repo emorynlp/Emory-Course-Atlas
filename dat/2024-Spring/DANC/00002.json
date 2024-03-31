@@ -2,10 +2,10 @@
     "course_code": "DANC 123R",
     "course_title": "Contemporary Modern Dance I (Introduction)",
     "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 0",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Physical Education(*)",
@@ -15,8 +15,8 @@
     "course_description": "This course is designed for students with no or minimal dance experience. It introduces dance technique and contemporary modern dance vocabulary. Emphasis will be placed on dynamic alignment, sensing and activating weight, developing coordination, and discovering body connections. Movement explorations take place on the floor, standing, and in sequences locomoting through space. Creative expression and musicality are integrated into class content. May be taken up to three times for credit. Students are required to take this course three times before progressing to the next level and should secure the permission of the instructor before doing so.",
     "prerequisites": null,
     "instructors": "Kristin O'Neal - Primary Instructor",
-    "schedule_location": "MW 11:30am-12:45pm in Woodruff PE - Dance",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DANC_123R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 3405, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: K. O'Neal, Status: Closed",
-    "date_accessed": "2023-10-31"
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3405, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: K. O'Neal, Status: Open\nClass Nbr: 6119, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. O'Neal, Status: Open",
+    "date_accessed": "2024-03-30"
 }

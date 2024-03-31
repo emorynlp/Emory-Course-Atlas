@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 190",
+    "course_title": "First-Year Seminar in QTM: Data Science for Beginners",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "First Year Seminar",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "(SAME AS SOC 190 1 & LING 190 2)\n\n\nThe course deals with new tools for the automatic analysis and visualization of words. Sounds scary? Just wait until you see what these computational tools can do! That's scary! But the rest is surprisingly easy. You start with a bag of words, and at the press of a button you can automatically display on a map any location mentioned in that bag. That same bag of words can be displayed automatically in a word-cloud where more frequent words appear in bigger fonts, in beautiful colors. You could even display these words on a picture of your pretty face. That same bag of words is full of sentences. And unless you dropped the bag and scrambled all the words' a computer can figure out which words are nouns, verbs, or adjectives; which are locations or dates. It can tell whether a sentence is active or passive, well written or not. It can visualize information about subjects, verbs, and objects in beautiful graphs. Indeed, there is a lot a computer can do with words. The course has no prerequisites. But if you are not at ease with computers you will find the course challenging and you will struggle. There will be weekly readings that allow you to understand the tools, and homework and presentations throughout the semester.",
+    "course_description": "Variable first-year seminar topics within QTM which may aim to provide an introduction to quantitative theory, practical applications of quantitative methods, introductory coding or statistics, or introduce other topics pertinent to quantitative fields.",
+    "prerequisites": null,
+    "instructors": "Roberto Franzosi - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Emerson Chemistry Bldg. E103",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_190_2_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: This section is full 4110, Section #: 2, Type: SEM, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: R. Franzosi, Status: Closed",
+    "date_accessed": "2024-03-29"
+}

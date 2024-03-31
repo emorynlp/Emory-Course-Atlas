@@ -1,9 +1,9 @@
 {
     "course_code": "REL 370",
-    "course_title": "Special Topics in Religion: Gender in Africana Religions",
+    "course_title": "Special Topics in Religion: Magic and Mysteries",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 5Waitlist Total: 0",
-    "waitlist_total": ": 0",
+    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 1",
+    "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -11,12 +11,12 @@
     "requirement_designation": "History, Society, Cultures",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "(Same as WGS 385 1, AAS 385 10)\n\"This course explores themes of gender and sexuality within African diasporic religions, such as Cuban Lucumí, Nigerian Ifá, Haitian Vodou, and African American Hoodoo. We will examine women¿s presence and power in African diasporic religious communities, feminine deities like Osun and Yemoja in the Ifá/Orisa tradition, and women¿s resistance to male-dominated religious spaces. Students will also explore how the gender binary is disrupted through rituals like possession, where the gender expression of the deity transforms the gender of the mounted person. Additionally, they will learn about gods known as queer, trans, or patrons of LGBTQI+ individuals. Course texts include academic studies of African diaspora religions as well as books written by religious practitioners. There will also be opportunities to attend community events and speak with local practitioners.\"",
+    "class_notes": "(Same as CL 329R 1, ANT 385 4)",
     "course_description": "Variety of subjects pertaining to religion. Content will vary in successive offerings. May be repeated for credit when topic varies.",
     "prerequisites": null,
-    "instructors": "Marcelitte Failla - Primary Instructor",
-    "schedule_location": "MW 4pm-5:15pm in Anthropology Building 105",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_REL_370_4_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5247, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: M. Failla, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Sandra Blakely - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Anthropology Building 105",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_REL_370_3_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5218, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: S. Blakely, Status: Open",
+    "date_accessed": "2024-03-31"
 }

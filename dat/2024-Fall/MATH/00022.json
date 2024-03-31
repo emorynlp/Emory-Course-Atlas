@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 385",
+    "course_title": "Topics in Mathematics: Math. Foundations Data Science",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 35Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Topic:  Mathematical Foundations of Data Science\nThe goal of this class is to provide the necessary mathematical foundations for modern data science.  Topics include numerical linear algebra, image compression, clustering, classification, regression, numerical methods for least-squares problems, large-scale numerical optimization, nonlinear regression, and unsupervised and supervised learning techniques.  The course introduces students to theory and methods for data science, and students get hands-on experience working on examples from a variety of applications.\nPrerequisites: MATH 221 (Linear Algebra) and MATH 211 (Advanced Calculus) or MATH 210 (Advanced Calculus for Data Sciences), some experience with MATLAB, Python, or a similar package will be helpful. \nPlease contact undergraduate coordinator Taylr Tuggle (taylr.annece.tuggle@emory.edu) to request permission.",
+    "course_description": "Rotating topics in mathematics. May be repeated for credit when the topic varies. Pre and co requisites depend on the topic offered.",
+    "prerequisites": null,
+    "instructors": "Julianne Chung - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Math & Science Center - W301",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MATH_385_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2968, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: J. Chung, Status: Open",
+    "date_accessed": "2024-03-29"
+}

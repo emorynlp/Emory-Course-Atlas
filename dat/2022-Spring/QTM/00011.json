@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 250",
+    "course_title": "Applied Computing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "This course teaches students how to think like data scientists. In combination with tools such as spreadsheets, SQL, and Python, students learn data analysis and applications of machine learning using real-world datasets.",
+    "prerequisites": "QTM 100 or QTM_OX 100 or equivalent transfer credit as prerequisite.",
+    "instructors": "Jeremy Jacobson - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4513, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: J. Jacobson, Status: Open",
+    "date_accessed": "2024-03-30"
+}

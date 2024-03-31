@@ -1,8 +1,8 @@
 {
-    "course_code": "PAE 8000",
-    "course_title": "Core Courses",
-    "credit_hours": "15",
-    "seats": "Seats: Maximum Enrollment: 1000 / Seats Avail: 1000",
+    "course_code": "PAE 8100",
+    "course_title": "Independent Study",
+    "credit_hours": "1-15",
+    "seats": "Seats: Maximum Enrollment: 1 / Seats Avail: 1",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": "Alexander Kendall - Primary Instructor",
+    "instructors": "Veketa Smith - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PAE_8000_0_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1543, Section #: 000, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PAE_8100_0_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1618, Section #: 000, Type: IND, Campus: ATL, Meets: Does Not Meet, Instructor: Smith/Valdes, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -2,8 +2,8 @@
     "course_code": "SPAN_OX 202",
     "course_title": "Intermediate Spanish II",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 18Waitlist Total: 0 of 6",
-    "waitlist_total": ": 0 of 6",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 4342, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: C. Tarazona, Status: Open\nClass Nbr: 4343, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: C. Tarazona, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

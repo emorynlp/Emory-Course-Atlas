@@ -2,10 +2,10 @@
     "course_code": "BSHES 590",
     "course_title": "Capstone Seminar: Health Equity",
     "credit_hours": "4",
-    "seats": "Seats: Varies by section",
+    "seats": "Seats: Maximum Enrollment: 13 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Varies by section",
+    "enrollment_status": "Closed",
     "instruction_method": "Varies by section",
     "typically_offered": "Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: This section is full 1016, Section #: 1, Type: SEM, Campus: ATL, Meets: T 1-3:50p, Instructor: C. Talley, Status: Closed\nClass Nbr: 1017, Section #: 2, Type: SEM, Campus: ATL, Meets: M 1-3:50p, Instructor: M. Winkler, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 1016, Section #: 1, Type: SEM, Campus: ATL, Meets: T 1-3:50p, Instructor: C. Talley, Status: Closed\nClass Nbr: This section is full 1017, Section #: 2, Type: SEM, Campus: ATL, Meets: M 1-3:50p, Instructor: M. Winkler, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

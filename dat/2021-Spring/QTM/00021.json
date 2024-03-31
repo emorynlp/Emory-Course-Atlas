@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 490RW",
+    "course_title": "Advanced Seminar: Natural Language Processing",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 4 / Seats Avail: 1Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": "Continuing Writing Requirement",
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "(Same as SOC 489W 1 and LING 485W 1)\n(The seminar is a sequel to Soc/Ling/QTM 446WR and Soc 585 (Big/Small Data & Visualization). It aims to bring to a co-authored journal submission the work carried out by students in 446WR/585 on different text corpora. Using a range of NLP tools, students will strive to provide a coherent picture of NLP analytics as these apply to their specific corpus.\nCo-authorship. Co-authors for journal submissions include professor, undergraduate team members, and computer-science students who have helped develop the NLP tools. Graduate students are free to work alone on their corpus with no obligation of shared co-authorship.\nTeamwork and workload. Students will work in teams, one team per corpus. Teams will be expected to present their work, as a team, every two weeks throughout the semester and present four co-authored drafts of their ongoing work at regular intervals. \nFinal paper and literature review. Since the final paper is expected to be submitted to a journal, the literature review part of the paper will engage both appropriate NLP literature and specific topic literature as appropriate for the corpus -thus, a corpus of country folktales will need to address the literature on folktales.\nGrading. Final grade will be based on presentations, paper drafts, and final paper.)",
+    "course_description": "Selected advanced topics in quantitative sciences. Open only to junior and senior majors; others by permission of instructor.",
+    "prerequisites": null,
+    "instructors": "Roberto Franzosi - Primary Instructor",
+    "schedule_location": "T 7pm-9:30pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 5942, Section #: 1, Type: SEM, Campus: ATL, Meets: T 7-9:30p, Instructor: R. Franzosi, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 117Q",
+    "course_title": "Introduction to Probability and Statistics with Inference",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "Varies by section",
+    "course_description": "Basic concepts in counting, probability, hypothesis testing, linear regression and correlation, ANOVA, plus several nonparametric models. Statistical analysis using both R and Excel will also be addressed. Calculator is required. The class consists of lectures and a weekly lab.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4406, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 9:40-10:55a, Instructor: K. Rogers, Status: Open\nClass Nbr: 4205, Section #: 2, Type: LAB, Campus: OXF, Meets: F 9:40-10:55a, Instructor: K. Rogers, Status: Open\nClass Nbr: 4207, Section #: 3, Type: LEC, Campus: OXF, Meets: MW 8-9:15a, Instructor: K. Rogers, Status: Open\nClass Nbr: 4209, Section #: 4, Type: LAB, Campus: OXF, Meets: F 8-9:15a, Instructor: K. Rogers, Status: Open\nClass Nbr: 4211, Section #: 5, Type: LEC, Campus: OXF, Meets: MW 11:20a-12:35p, Instructor: P. Oser, Status: Open\nClass Nbr: 4407, Section #: 6, Type: LAB, Campus: OXF, Meets: F 11:20a-12:35p, Instructor: P. Oser, Status: Open\nClass Nbr: This section is full 4214, Section #: 7, Type: LEC, Campus: OXF, Meets: MW 1-2:15p, Instructor: P. Oser, Status: Wait List\nClass Nbr: This section is full 4217, Section #: 8, Type: LAB, Campus: OXF, Meets: F 1-2:15p, Instructor: P. Oser, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

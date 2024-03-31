@@ -2,13 +2,13 @@
     "course_code": "PHIL 385",
     "course_title": "Special Topics in Philosophy: Black Mathematics",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 0",
+    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 1",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
-    "requirement_designation": "Humanities, Arts, Performance",
+    "requirement_designation": "HAP w/Race & Ethnicity Req.",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": "(Same as AAS 385 5)\n(This course examines black engagement with mathematical fields (such as statistics, calculus, set theory) and mathematical concepts (such as infinity, multiplicity, algorithms, and negation). Rather than focusing on calculation, we will read mathematics as a theoretical enterprise impacting black life. This course imagines what a \"black philosophy of mathematics\" might entail.)",
@@ -17,6 +17,6 @@
     "instructors": "Calvin Warren - Primary Instructor",
     "schedule_location": "TTh 4pm-5:15pm in Callaway Center S101",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PHIL_385_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 4544, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: C. Warren, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4544, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: C. Warren, Status: Open",
+    "date_accessed": "2024-03-31"
 }

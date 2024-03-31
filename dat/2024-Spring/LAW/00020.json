@@ -1,9 +1,9 @@
 {
-    "course_code": "LAW 601A",
-    "course_title": "First Amendment:Free Expression",
+    "course_code": "LAW 601B",
+    "course_title": "First Amendment: Religious Freedom",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 65 / Seats Avail: 65",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 125 / Seats Avail: 83Waitlist Total: 0 of 10",
+    "waitlist_total": ": 0 of 10",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-08 through 2024-04-22",
-    "class_notes": "Final Assessment: Scheduled In-Class Exam",
-    "course_description": "This course is a survey of the free expression clauses of the First Amendment. Doctrines are taught in large measure through problems from the Volokh casebook.",
+    "class_notes": "Final Assessment: Take-Home Final\n1L elective and upper level\nCrosslisted with Candler and undergrad Dept of Religion\nThis course is eligible to be counted towards the requirements for the J.D. concentration in Law and Religion.",
+    "course_description": "Religious liberty is one of the hallmarks of modern constitutional democracies, though it has come under considerable attack in recent years. This course analyzes the historical formation and current interpretation of the religious liberty guarantees of the First Amendment to the United States Constitution.",
     "prerequisites": null,
-    "instructors": "Matthew Cavedon - Primary Instructor",
-    "schedule_location": "W 4:15pm-7:15pm",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_601A_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5561, Section #: 001, Type: LEC, Campus: ATL, Meets: W 4:15-7:15p, Instructor: M. Cavedon, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "John Witte Jr. - Primary Instructor",
+    "schedule_location": "TTh 12pm-1:30pm in Gambrell Hall - 1C",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_601B_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2741, Section #: 001, Type: LEC, Campus: ATL, Meets: TTh 12-1:30p, Instructor: J. Witte Jr., Status: Open",
+    "date_accessed": "2024-03-30"
 }

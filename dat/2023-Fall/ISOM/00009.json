@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 475",
+    "course_title": "Data Visualization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 74 / Seats Avail: 11Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Data Visualization will introduce students to the techniques and tools used to create effective visualizations that clearly and efficiently communicate relationships within data. The field of data visualization combines the art of graphic design with the science of data analytics. Students will learn how to perform exploratory analysis through visualization, how to create professional looking visualizations for use in business reports and presentations, and how to design interactive visualizations and dashboards. The course  will cover the common quantitative messages users attempt to understand or communicate from a set of data and the associated visualizations used to help communicate each message. These include time series, rankings, proportions,deviations, frequencies and distributions, correlations, categorical comparisons, and geo-spatial plots. Students will analyze real data sets and utilize Tableau and other tools to design and prototype their visualizations.",
+    "prerequisites": "This section is reserved for students in the BBA program.",
+    "instructors": "Bill McKinnon - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Goizueta Foundation Ctr W330",
+    "course_resources": null,
+    "sections": "Class Nbr: 4857, Section #: 1101, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: B. McKinnon, Status: Open",
+    "date_accessed": "2024-03-30"
+}

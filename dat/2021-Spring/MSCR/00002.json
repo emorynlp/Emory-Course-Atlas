@@ -1,0 +1,22 @@
+{
+    "course_code": "MSCR 509",
+    "course_title": "Overview of High Dimensional Data Analysis",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 10",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "To introduce modern bioinformatics techniques to researchers and practitioners, including statistical and computational techniques for the analysis of high dimensional data. The course will emphasize the statistical and computational concepts behind these techniques, and illustrate their applications to the medical field. Often, these illustrations will take the form of reading and discussing results from recently published medical studies dealing with high dimensional data.",
+    "prerequisites": null,
+    "instructors": "Amita Manatunga - Primary Instructor",
+    "schedule_location": "M 1pm-2pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4814, Section #: 1, Type: LEC, Campus: ATL, Meets: M 1-2p, Instructor: A. Manatunga, Status: Open",
+    "date_accessed": "2024-03-30"
+}

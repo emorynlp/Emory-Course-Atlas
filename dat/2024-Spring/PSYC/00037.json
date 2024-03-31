@@ -1,8 +1,8 @@
 {
-    "course_code": "PSYC 554",
-    "course_title": "Foundations of Human Cognition",
+    "course_code": "PSYC 552",
+    "course_title": "Animal Behavior and Evolution",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 13",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 1",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": "(Permission Required Prior to Enrollment)",
-    "course_description": "Offered to students in the Cognitive and Computational Sciences concentration, and provides foundational knowledge to graduate students in this area.\nThe goal of this core course is to cover classic and current issues and basic controversies regarding theories, empirical phenomena and methods on the topic of human cognition with a particular focus on historical background from multiple perspectives, as well as - whenever relevant ¿ from a neuroscience perspective.",
+    "course_description": null,
     "prerequisites": null,
-    "instructors": "Daniel D Dilks - Primary Instructor",
-    "schedule_location": "W 2:30pm-5pm in New Psyc Bldg 280 (36 Eagle Ro",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PSYC_554_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3774, Section #: 1, Type: LEC, Campus: ATL, Meets: W 2:30-5p, Instructor: Dilks/Kragel, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Aubrey Kelly - Primary Instructor",
+    "schedule_location": "Th 1pm-3:30pm in New Psyc Bldg 493 (36 Eagle Ro",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PSYC_552_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3776, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 1-3:30p, Instructor: Kelly/Wilson, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "POLS 509",
+    "course_title": "Empirical Methods 1",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "This course will be taught entirely online and will meet synchronously both days.\n\n\nThis course is an introduction to statistics for Political Science PhD students. In the first half of the course we will cover the foundations of probability theory, properties of random variables, asymptotic approximations, methods for developing and evaluating statistical estimators, and hypothesis testing. The second half of the course will develop the linear regression model with a focus on its assumptions, statistical properties, inference, and diagnostics. POLS 508 is a prerequisite.",
+    "course_description": "This course provides an introduction to statistics for Political Science PhD students. Will cover the foundations of probability theory, properties of random variables, asymptotic approximations, methods for developing and evaluating statistical estimators, and hypothesis testing. The second half of the course will develop the linear regression model with a focus on its assumptions, statistical properties, inference, and diagnostics. An additional goal of the course is to improve students' statistical computing skills through in-class exercises and problem sets.",
+    "prerequisites": "POLS 508 or equivalent transfer credit as prerequisite.",
+    "instructors": "Miguel Rueda Robayo - Primary Instructor",
+    "schedule_location": "MW 9:40am-10:55am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3743, Section #: 1, Type: SEM, Campus: ATL, Meets: MW 9:40-10:55a, Instructor: Rueda Robayo/Cohen, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

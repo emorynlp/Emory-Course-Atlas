@@ -2,7 +2,7 @@
     "course_code": "PORT 110",
     "course_title": "Portuguese for Spanish Speakers",
     "credit_hours": "3",
-    "seats": "Seats: Varies by section",
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 11",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -17,6 +17,6 @@
     "instructors": "Ana Catarina Teixeira - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 1832, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Teixeira, Status: Open\nClass Nbr: 1834, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Teixeira, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1832, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: Team, Status: Open\nClass Nbr: 1834, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-31"
 }

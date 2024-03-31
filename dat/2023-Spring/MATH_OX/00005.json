@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 210",
+    "course_title": "Advanced Calculus for Data Science",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 8Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "Varies by section",
+    "course_description": "This course is a short treatment of Math 112 and 211 with a lab component. It is not appropriate for students who have taken Math 211. Topics include: advanced integration, Taylor series; and multivariable differentiation, optimization and integration; and applications to statistics and science.",
+    "prerequisites": "MATH_OX 111 or equivalent transfer credit as prerequisite.",
+    "instructors": "Francis Adams - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4388, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 4-5:15p, Instructor: F. Adams, Status: Open\nClass Nbr: 4593, Section #: 2, Type: LAB, Campus: OXF, Meets: F 10-10:50a, Instructor: F. Adams, Status: Open",
+    "date_accessed": "2024-03-30"
+}

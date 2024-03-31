@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 340",
+    "course_title": "Approaches to Data Sci.w/Text",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 8Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Teaches common theories & techniques in data science using Python. Focus is text analysis (e.g., text parsing, language models, sequence estimation, vector space models & distributional semantics, cluster analysis, supervised learning). Cloud computing, big data, & data visualization are discussed.",
+    "prerequisites": "QTM 210 or CS 171 or CS 171Z or CS_OX 171 or equivalent transfer credit as prerequisite.",
+    "instructors": "Sandeep Soni - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Rich Building 104",
+    "course_resources": null,
+    "sections": "Class Nbr: 6363, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: S. Soni, Status: Open",
+    "date_accessed": "2024-03-30"
+}

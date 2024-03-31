@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 544",
+    "course_title": "Introduction to R (Non-BIOS Student)",
+    "credit_hours": "2",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "*Laptop Required for class*\n*Non-BIOS Students Only*  Sections 1 and 2 meet together.",
+    "course_description": "For non-BIOS Students Only. The goal of the course is to will provide an introduction to R in organizing, analyzing, and visualizing data. Once you've completed this course you'll be able to enter, save, retrieve, summarize, display and analyze data.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "M 3pm-4:50pm in R. Randall Rollins Bldg. RL 40",
+    "course_resources": null,
+    "sections": "Class Nbr: 1739, Section #: 1, Type: LEC, Campus: ATL, Meets: M 3-4:50p, Instructor: Team, Status: Open\nClass Nbr: 1740, Section #: 2, Type: LEC, Campus: ATL, Meets: M 3-4:50p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

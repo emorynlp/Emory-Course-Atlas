@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 556",
+    "course_title": "Applied Genomic Epidemiology",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 9",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Pre-requisite: EPI 552 or instructor permission. Knowledge of R and laptop are required. GME Students only until March 28.",
+    "course_description": "Prerequisites: BIOS 500 and EPI 552 or instructor permission, Knowledge of R is recommended.  Genomic epidemiology is an increasingly important approach to studying disease risks in populations. This course will introduce the basic genetic principles as they apply to the identification of genetic variations associated with disease; illustrate the population and quantitative genetic concepts that are necessary to study the relationship between genetic variation and disease variation in populations; and provide hands-on experience to address the analytical needs for conducting genomic epidemiologic research. Studentswill gain experience with R and PLINK using high dimensional genetic data.",
+    "prerequisites": null,
+    "instructors": "Yan Sun - Primary Instructor",
+    "schedule_location": "Th 10am-11:50am in Grace Crum Rollins 119",
+    "course_resources": null,
+    "sections": "Class Nbr: 1686, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 10-11:50a, Instructor: Sun/Liu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -2,10 +2,10 @@
     "course_code": "PHYS_OX 152Q",
     "course_title": "Gen.Phys:Elect,Mag,&Optics W/L",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 14",
+    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": "Natural Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": "Effrosyni Seitaridou - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4465, Section #: 1, Type: LEC, Campus: OXF, Meets: MWF 8:30-9:20a, Instructor: E. Seitaridou, Status: Open\nClass Nbr: 4466, Section #: 2, Type: LAB, Campus: OXF, Meets: M 2:30-5:15p, Instructor: E. Seitaridou, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 4465, Section #: 1, Type: LEC, Campus: OXF, Meets: MWF 8:30-9:20a, Instructor: E. Seitaridou, Status: Closed\nClass Nbr: This section is full 4466, Section #: 2, Type: LAB, Campus: OXF, Meets: M 2:30-5:15p, Instructor: E. Seitaridou, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

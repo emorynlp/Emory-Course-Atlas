@@ -2,10 +2,10 @@
     "course_code": "ENG 190",
     "course_title": "Freshman Seminar:English: Gender/Sexuality-Shakespeare",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 14 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "First Year Seminar",
@@ -17,6 +17,6 @@
     "instructors": "Ross Knecht - Primary Instructor",
     "schedule_location": "TTh 4pm-5:15pm in Candler Library 123",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_190_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 2120, Section #: 2, Type: SEM, Campus: ATL, Meets: TTh 4-5:15p, Instructor: R. Knecht, Status: Closed",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2120, Section #: 2, Type: SEM, Campus: ATL, Meets: TTh 4-5:15p, Instructor: R. Knecht, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

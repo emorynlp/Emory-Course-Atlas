@@ -2,10 +2,10 @@
     "course_code": "INTER_OX 492RE",
     "course_title": "Disciplinary Internship",
     "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 2 / Seats Avail: 2",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -14,9 +14,9 @@
     "class_notes": "(Permission Required Prior to Enrollment)",
     "course_description": "Course offers students opportunity to earn one academic credit for on- or off-campus internship experience alongside disciplinary work with a faculty member. Application and course approval required.",
     "prerequisites": null,
-    "instructors": "Cristina Tarazona - Primary Instructor",
+    "instructors": null,
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_INTER_OX_492RE_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4219, Section #: 1, Type: IND, Campus: OXF, Meets: Does Not Meet, Instructor: C. Tarazona, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4219, Section #: 1, Type: IND, Campus: OXF, Meets: Does Not Meet, Instructor: C. Tarazona, Status: Closed\nClass Nbr: 5738, Section #: 2, Type: IND, Campus: OXF, Meets: Does Not Meet, Instructor: P. Sullivan, Status: Open",
+    "date_accessed": "2024-03-31"
 }

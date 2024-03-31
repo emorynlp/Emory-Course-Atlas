@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 422",
+    "course_title": "Abstract Algebra II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 12Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Ring Theory and Field Theory: polynomial rings, unique factorization, Euclidean domains, splitting fields of polynomials, elements of Galois theory, finite fields.",
+    "prerequisites": "This course requires MATH 421 or equivalent transfer credit as a prerequisite.",
+    "instructors": "Andrew Kobin - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Math & Science Center - E406",
+    "course_resources": null,
+    "sections": "Class Nbr: 3422, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Kobin, Status: Open",
+    "date_accessed": "2024-03-30"
+}

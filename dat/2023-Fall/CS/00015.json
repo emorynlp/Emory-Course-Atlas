@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 377",
+    "course_title": "Database Systems",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 70 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Wait List",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Introduction to storage hierarchies, database models, consistency, reliability, and security issues. Query languages and their implementations, efficiency considerations, and compression and encoding techniques.",
+    "prerequisites": "CS 253 or equivalent transfer credit as prerequisite.",
+    "instructors": "Andreas Zufle - Primary Instructor",
+    "schedule_location": "MW 4pm-5:15pm in Math & Science Center - W201",
+    "course_resources": null,
+    "sections": "Class Nbr: 2876, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: A. Zufle, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

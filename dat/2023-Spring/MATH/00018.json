@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 352",
+    "course_title": "PDE's in Action",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 23Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Partial Differential Equations (PDE's) are a formidable tool for describing real-life problems. In this course we use PDE's for cardiovascular problems and other real-life situations. Students will visit radiology labs and learn about image processing and numerical simulations in medicine.",
+    "prerequisites": "(MATH 211 or MATH_OX 211 or MATH 276) and (MATH 212 or MATH_OX 212) and (MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) or equivalent transfer credit as prerequisite.",
+    "instructors": "Alessandro Veneziani - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - W301",
+    "course_resources": null,
+    "sections": "Class Nbr: 3335, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: A. Veneziani, Status: Open",
+    "date_accessed": "2024-03-30"
+}

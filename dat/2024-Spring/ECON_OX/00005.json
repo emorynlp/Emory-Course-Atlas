@@ -1,8 +1,8 @@
 {
     "course_code": "ECON_OX 220",
-    "course_title": "Introduction to Statistical Methods",
+    "course_title": "Data Science for Economists",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 18",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 6",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 4285, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: T. Romano, Status: Open\nClass Nbr: 4286, Section #: 2, Type: LAB, Campus: OXF, Meets: F 1-1:50p, Instructor: C. Blake, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

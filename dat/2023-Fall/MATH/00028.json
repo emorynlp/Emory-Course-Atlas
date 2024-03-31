@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 515",
+    "course_title": "Numerical Analysis I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 4",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Course will cover fundamental parts of numerical linear algebra including matrix factorizations, solution of linear systems and least-squares problems, the calculation of eigenvalues and eigenvectors, and basic notions on iterative methods for large-scale matrix problems. Issues pertaining to conditioning and numerical stability will be thoroughly analyzed. We will also point out and use links to other mathematical and computer science disciplines such as mathematical modelling, computer architectures and parallel computing.",
+    "prerequisites": null,
+    "instructors": "Julianne Chung - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Math & Science Center - E408",
+    "course_resources": null,
+    "sections": "Class Nbr: 1922, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: J. Chung, Status: Open",
+    "date_accessed": "2024-03-30"
+}

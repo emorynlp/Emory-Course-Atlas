@@ -4,7 +4,7 @@
     "credit_hours": "3",
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
-    "grading_mode": "Graded",
+    "grading_mode": "Varies by section",
     "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4763, Section #: 1120, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: T. Chan, Status: Open\nClass Nbr: 4764, Section #: 1121, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: T. Chan, Status: Open\nClass Nbr: 4765, Section #: 1122, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Errore, Status: Open\nClass Nbr: This section is full 4766, Section #: 1123, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Errore, Status: Open\nClass Nbr: 4767, Section #: 1420, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: T. Chan, Status: Open\nClass Nbr: 4768, Section #: 1421, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: T. Chan, Status: Open\nClass Nbr: 4769, Section #: 1422, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Errore, Status: Open\nClass Nbr: This section is full 4770, Section #: 1423, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Errore, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 6617, Section #: 1109, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Clear, Status: Open\nClass Nbr: 4763, Section #: 1120, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: T. Chan, Status: Open\nClass Nbr: 4764, Section #: 1121, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: T. Chan, Status: Open\nClass Nbr: 4765, Section #: 1122, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Errore, Status: Wait List\nClass Nbr: 4766, Section #: 1123, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Errore, Status: Wait List\nClass Nbr: 5794, Section #: 1141, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: S. Walton, Status: Open\nClass Nbr: This section is full 4767, Section #: 1420, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: T. Chan, Status: Closed\nClass Nbr: This section is full 4768, Section #: 1421, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: T. Chan, Status: Closed\nClass Nbr: This section is full 4769, Section #: 1422, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Errore, Status: Closed\nClass Nbr: This section is full 4770, Section #: 1423, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Errore, Status: Closed\nClass Nbr: This section is full 5795, Section #: 1441, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: S. Walton, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

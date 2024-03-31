@@ -1,0 +1,22 @@
+{
+    "course_code": "CHEM 729R",
+    "course_title": "Special Topics in Chemistry: Machine Learning",
+    "credit_hours": "1-4",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 2",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "Machine learning (ML) is widely used in Chemistry. In this course, the first half of the semester will be devoted to  learning the basic architecture of ML as well as number of the most widely used ML methods. We will develop competence in computational software, ideally Python and Jupyter notebooks. Groups of 3-4 will form in the first week and weekly group assignments will be given.  Presentations of the assignments will be given generally on Thursdays.  In the second half of the course ML papers from the chemical literature will be the focus.   You will select one or two papers to master and prepared detailed presentations of them, including any background material.  \nThe course will make extensive use of on-line videos describing the methods used in ML as well as tutorials on using the extensive ML libraries in Python.  These videos will be made available asynchronously. Course sessions will be recorded.",
+    "course_description": "Different topics in Chemistry.",
+    "prerequisites": null,
+    "instructors": "Joel M Bowman - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in Emerson Chemistry Bldg. E363",
+    "course_resources": null,
+    "sections": "Class Nbr: 1764, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: J. Bowman, Status: Open",
+    "date_accessed": "2024-03-30"
+}

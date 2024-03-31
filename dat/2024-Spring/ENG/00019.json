@@ -1,8 +1,8 @@
 {
-    "course_code": "ENG 332W",
-    "course_title": "Victorian Literature",
+    "course_code": "ENG 342RW",
+    "course_title": "Modern Irish Literature",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 18Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 7Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": "Humanities, Arts, Performance with Writing",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "Course Topic: Deviant Creatures \nMany of today's most fraught social issues share at their core a central question: who counts as a full-fledged 'person,' with all the rights and privileges that accompany that status? Nineteenth-century British writers were intensely interested in this question at a time when the British Empire was engaged in a project of defining the ideal citizen and distinguishing that person from its other subjects. One critical medium for creating and challenging conceptions of the liberal subject was literature. \nIn this survey course, we will explore the tangled problem of who counts as a 'person,' then and now, by examining Victorian literature's encounters with all manner of deviant creatures: monsters, matriarchs, sex workers, and children; the enslaved, the laboring, and the queer; a Galapagos tortoise, a White Rabbit, a beloved wombat. We will intersperse poetry, non-fiction prose, and novels with (gentle) introductions to the critical and theoretical perspectives that will help us ask good questions of our readings: questions about race, empire, gender, sexuality, class, and ecology. Ultimately, we will return to our framing query: in what ways do we remain in the shadow of the nineteenth century's definition of personhood, and what are the consequences of this inheritance for us now? \nPlease note: If you wish to add this course after the first two classes have occurred, you must first contact the instructor to discuss missed work.",
-    "course_description": "Representative works from the Victorian period, including poets such as Tennyson, the Brownings, and the Rossettis, and prose writers such as Carlyle, Mill, Ruskin, and Cobbe.",
+    "class_notes": "Mad Ireland hurt you into poetry, said W.H. Auden in his elegy for W.B. Yeats. Beginning with Yeats, we will examine this relationship between conflict and creativity in Irish writing and end the semester with Seamus Heaney and the so-called Troubles in Northern Ireland. Focusing on the Irish literary collections held in the Rose Library, students will discuss the relationship between art and violence, poetry and politics, memory and commemoration. Expect frequent writing posts, two papers, presentations, and a final project. Students are required to attend at least 1 lecture, performance, or poetry reading by visiting speakers outside class.",
+    "course_description": "An interdisciplinary course which examines the trajectory of Irish writing from the 1890s to the present.",
     "prerequisites": null,
-    "instructors": "Emma Davenport - Primary Instructor",
-    "schedule_location": "TTh 8:30am-9:45am in Callaway Center S109",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_332W_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2111, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: E. Davenport, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Geraldine Higgins - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Candler Library 123",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_342RW_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2113, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: G. Higgins, Status: Open",
+    "date_accessed": "2024-03-30"
 }

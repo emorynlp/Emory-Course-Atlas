@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 731",
+    "course_title": "Advanced Statistical Computing",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 2",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-10-18",
+    "class_notes": "1st Half of the Semester: Aug. 24th - Oct. 18th",
+    "course_description": "This course covers the theories and applications of some common statistical computing methods. Topics include Markov chain Monte Carlo (MCMC), hidden Markov model (HMM), Expectation-Maximization (EM) and Minorization-Maximization (MM), and optimization algorithms such as linear and quadratic programming. The class has two main goals for students: (1) learn the general theory and algorithmic procedures of some widely used statistical models; (2) develop fluency in statistical programming skills. The class puts more emphasis on implementation instead of statistical theories. Students will gain computational skills and practical experiences on simulations and statistical modeling. This course requires significant amount of programming. Each set of homework involves the implementation of certain algorithms using high-level programming language (such as Matlab or R).",
+    "prerequisites": null,
+    "instructors": "Yijuan Hu - Primary Instructor",
+    "schedule_location": "TTh 3pm-4:50pm in Grace Crum Rollins 119",
+    "course_resources": null,
+    "sections": "Class Nbr: 4711, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 3-4:50p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 151",
+    "course_title": "Introduction to Statistical Computing II",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 120 / Seats Avail: 3Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "This course is taught in Python. QTM 150 is not required for this course.  \nThis course is an introduction to the Python programming language and SQL for students without prior programming experience. The purpose of this course is to prepare students for upper-level electives in data analysis related courses. \nIt will cover the programming basics of Python which include understanding data types, controlling flow using loops and conditional statements, and writing functions. In addition to these basics, this course will put emphasis on skills that are relevant for data analysis which include 1) data manipulation such as merging, appending, and reshaping using SQL and Python, and 2) making various plots for descriptive analysis using Python.",
+    "course_description": "The purpose of this course is to prepare students for upper-level, data analysis-related courses. This course emphasizes on skills that are relevant for data analysis which include 1) data manipulation such as merging, appending, and reshaping data, and 2) making plots for descriptive analysis.",
+    "prerequisites": null,
+    "instructors": "Juan Estrada - Primary Instructor",
+    "schedule_location": "MW 4pm-4:50pm in White Hall 207",
+    "course_resources": null,
+    "sections": "Class Nbr: 3718, Section #: 1, Type: LAB, Campus: ATL, Meets: MW 4-4:50p, Instructor: J. Estrada, Status: Open",
+    "date_accessed": "2024-03-30"
+}

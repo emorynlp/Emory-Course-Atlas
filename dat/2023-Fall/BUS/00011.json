@@ -1,0 +1,22 @@
+{
+    "course_code": "BUS 390B",
+    "course_title": "TechTool: Introduction to R",
+    "credit_hours": "0.5",
+    "seats": "Seats: Maximum Enrollment: 250 / Seats Avail: 203Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Satisfactory/Unsatisfactory",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "This course is an introduction to R, a statistical computing program, and R Studio, the platform and programming interface for R. These tools, R and R Studio, are designed to help analysts work with data to perform a range of statistical analyses. This tool works side-by-side with Excel -- R can import data from Excel, clean and subdivide the data, and then export it back to Excel. This toolkit helps students get a jumpstart in working with R and introduces them to data visualization packages such as ggplot, ggthemes, and Stargazer.",
+    "prerequisites": "This section is reserved for students in the BBA program.",
+    "instructors": "Tom Smith - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: 6732, Section #: 1101, Type: LEC, Campus: ONLIN, Meets: Meets Online, Instructor: T. Smith, Status: Open",
+    "date_accessed": "2024-03-30"
+}

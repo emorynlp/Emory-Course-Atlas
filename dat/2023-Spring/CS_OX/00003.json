@@ -1,0 +1,22 @@
+{
+    "course_code": "CS_OX 224",
+    "course_title": "Foundations of Computer Science",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 1Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "This course introduces elementary mathematics necessary for the computer science curriculum. Topics include proof-writing, sets, functions, logic, quantifiers, graphs, automata, languages, and asymptotic notation.",
+    "prerequisites": "(CS 170 or CS_OX 170) and (MATH 111 or MATH_OX 111) or equivalent transfer credit as prerequisites.",
+    "instructors": "Jonathan Hulgan - Primary Instructor",
+    "schedule_location": "MF 1pm-2:15pm in Pierce Hall 140",
+    "course_resources": null,
+    "sections": "Class Nbr: 4602, Section #: 1, Type: LEC, Campus: OXF, Meets: MF 1-2:15p, Instructor: J. Hulgan, Status: Open",
+    "date_accessed": "2024-03-30"
+}

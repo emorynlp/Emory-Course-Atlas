@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 211",
+    "course_title": "Multivariable Calculus",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 25Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Vectors, multivariable functions, partial derivatives, multiple integrals, vector and scalar fields, Green's and Stokes' theorems, and divergence theorem.",
+    "prerequisites": "Math_OX 112 or Math_OX 112Z or Math 112 as prerequisites",
+    "instructors": "Michael K Rogers - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4028, Section #: 1, Type: LEC, Campus: OXF, Meets: MWF 8:30-9:20a, Instructor: M. Rogers, Status: Open\nClass Nbr: 4029, Section #: 2, Type: LEC, Campus: OXF, Meets: MWF 10-10:50a, Instructor: M. Rogers, Status: Open",
+    "date_accessed": "2024-03-29"
+}

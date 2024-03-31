@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 170",
+    "course_title": "Introduction To Computer Science I",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "An introduction to Computer Science for students expecting to utilize serious computing in coursework, research, or employment. Emphasis is on computing concepts, programming principles, algorithm development and basic data structures, using the Java programming language and Unix operating system.",
+    "prerequisites": null,
+    "instructors": "Davide Fossati - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1458, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 9:40-10:55a; F 8-8:50a, Instructor: Fossati/Voghoei, Status: Open\nClass Nbr: 1905, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 9:40-10:55a; F 9:40-10:30a, Instructor: Fossati/Voghoei, Status: Open\nClass Nbr: 1906, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 9:40-10:55a; F 11:20a-12:10p, Instructor: Fossati/Voghoei, Status: Open\nClass Nbr: 1907, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 9:40-10:55a; F 1-1:50p, Instructor: Fossati/Voghoei, Status: Open",
+    "date_accessed": "2024-03-30"
+}

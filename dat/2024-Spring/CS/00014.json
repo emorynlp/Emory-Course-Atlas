@@ -2,10 +2,10 @@
     "course_code": "CS 370",
     "course_title": "Computer Science Practicum",
     "credit_hours": "3",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": null,
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "This course introduces basic concepts and techniques of software engineering, and applies these in the context of a semester-long group programming project.",
     "prerequisites": "CS 253 or equivalent transfer credit as prerequisite.",
-    "instructors": "Jeffrey Epstein - Primary Instructor",
+    "instructors": "Jeff Epstein - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: This section is full 3147, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: J. Epstein, Status: Open\nClass Nbr: This section is full 3148, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: J. Epstein, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3147, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: J. Epstein, Status: Open\nClass Nbr: 3148, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: J. Epstein, Status: Open",
+    "date_accessed": "2024-03-30"
 }

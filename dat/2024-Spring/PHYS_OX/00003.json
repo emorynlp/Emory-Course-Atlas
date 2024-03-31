@@ -2,7 +2,7 @@
     "course_code": "PHYS_OX 212",
     "course_title": "Computational Modeling for Scientist & Engineers with Laboratory",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 23",
+    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 13",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": "Varies by section",
     "course_description": "Computation is one of the pillars of modern science, in addition to experiment and theory. In this course, various computational modeling methods are introduced to study specific examples derived from physical, biological, chemical, and social systems. Four hours of lecture and one three-hour laboratory per week.",
     "prerequisites": "(MATH_OX 112 or MATH_OX 112Z) and (PHYS_OX 141 or PHYS_OX 151) or equivalent transfer credit as prerequisite.",
-    "instructors": "Alfred Farris - Primary Instructor",
+    "instructors": "Effrosyni Seitaridou - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4489, Section #: 1, Type: LEC, Campus: OXF, Meets: MWF 10-10:50a, Instructor: A. Farris, Status: Open\nClass Nbr: 4490, Section #: 2, Type: LAB, Campus: OXF, Meets: W 2:30-5:15p, Instructor: A. Farris, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4489, Section #: 1, Type: LEC, Campus: OXF, Meets: MWF 10-10:50a, Instructor: E. Seitaridou, Status: Open\nClass Nbr: 4490, Section #: 2, Type: LAB, Campus: OXF, Meets: W 2:30-5:15p, Instructor: E. Seitaridou, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -1,8 +1,8 @@
 {
-    "course_code": "LING 411W",
-    "course_title": "Translation Theory and Practice",
+    "course_code": "LING 405W",
+    "course_title": "Language and Discourse on the Web",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 1",
+    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 3",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": "Continuing Communication(*)",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "Same as SPAN 411W-1",
-    "course_description": "This course presents the history and multiple theories of translation, as well as basic methods/techniques and problems of translating between English and Spanish. A portion of class time will be devoted to translation practice and the comparison of multiple translations of a single text.",
+    "class_notes": "Same as SPAN 405W-1",
+    "course_description": "This course incorporates a general theoretical frame in linguistics, with a specific focus in discourse analysis and pragmatics, and applies it to electronic communications. Students will develop an intercultural research project by analyzing digital texts in a systematic way",
     "prerequisites": null,
-    "instructors": "Lisa Dillman - Primary Instructor",
-    "schedule_location": "TTh 10am-11:15am in Ignatius Few Building_131",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LING_411W_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4664, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 10-11:15a, Instructor: L. Dillman, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Jose Luis Boigues-Lopez - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in Ignatius Few Building_131",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LING_405W_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4663, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 4-5:15p, Instructor: J. Boigues-Lopez, Status: Open",
+    "date_accessed": "2024-03-30"
 }

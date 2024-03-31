@@ -1,7 +1,7 @@
 {
-    "course_code": "NRSG 606MN",
-    "course_title": "Pediatric Nursing",
-    "credit_hours": "3",
+    "course_code": "NRSG 608MN",
+    "course_title": "Public Health Nursing",
+    "credit_hours": "2",
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "Varies by section",
     "class_notes": "This class is for MN pathway to MSN semester 3 students only.",
-    "course_description": "Using a family centered approach; students address the unique responses of children and their families to acute and chronic illness. Emphasis is on health teaching, promotion, restoration and health maintenance needs of children and their families.",
+    "course_description": "Public health protects and improves the health of the public through assessment, assurance, and policy development. This course focuses on the nurse¿s role in applying the public health mission of protecting and improving the health of all people at the local, national, and global level.",
     "prerequisites": null,
-    "instructors": null,
-    "schedule_location": "MF 1pm-3:15pm in Nursing School - 201",
+    "instructors": "Rose Murphree - Primary Instructor",
+    "schedule_location": "MF 8am-9:50am",
     "course_resources": null,
-    "sections": "Class Nbr: 2480, Section #: 401, Type: LEC, Campus: ATL, Meets: MF 1-3:15p, Instructor: Staff, Status: Open\nClass Nbr: 2481, Section #: 402, Type: LEC, Campus: ATL, Meets: MF 1-3:15p, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2484, Section #: 401, Type: LEC, Campus: ATL, Meets: MF 8-9:50a, Instructor: R. Murphree, Status: Open\nClass Nbr: 2485, Section #: 402, Type: LEC, Campus: ATL, Meets: MF 8-9:50a, Instructor: R. Murphree, Status: Open",
+    "date_accessed": "2024-03-31"
 }

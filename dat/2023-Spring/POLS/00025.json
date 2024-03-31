@@ -1,0 +1,22 @@
+{
+    "course_code": "POLS 376",
+    "course_title": "Game Theory I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 13 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "History, Society, Cultures",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "(Same as QTM 315 2)\n(Game Theory is the mathematical study of how individuals interact with one another to achieve their goals. Games in the everyday sense, like tic-tac-toe, chess, and poker are examples of interactions that can be examined with Game Theory. However, the tools that we will learn in this course can be more broadly applied to many political and economic phenomena. Candidates competing for votes, arms races, public good provisions, and bargaining are some of the many applications that we will examine. Although this course has no formal prerequisites beyond high school algebra, we will be applying rigorous reasoning and logical or mathematical aptitude is a plus.)",
+    "course_description": "Introduction to game theory and strategic thinking. Foundational building blocks of non-cooperative games including normal and strategic form games, Nash equilibrium concept, various equilibrium concept refinements including backwards induction, sub-game perfection, and perfect Bayesian equilibrium.",
+    "prerequisites": null,
+    "instructors": "Miguel Rueda Robayo - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Tarbutton Hall 105",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4702, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: Rueda Robayo/Kim, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

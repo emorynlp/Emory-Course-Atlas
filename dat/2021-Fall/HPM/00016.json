@@ -1,0 +1,22 @@
+{
+    "course_code": "HPM 585",
+    "course_title": "Quantitative Methods Using SAS I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "HPM MSPH students only.",
+    "course_description": "The course is an introduction to SAS software with a focus on organizing and merging large databases for purposes applying statistical analysis. The course complements the introduction to SAS in the BIOS 500 lab. Enrollment is limited to students in the HPM MSPH program.",
+    "prerequisites": "This class is for HPMMSPH students only.",
+    "instructors": "Peter Joski - Primary Instructor",
+    "schedule_location": "W 8am-9:50am in Grace Crum Rollins 105\nT 1pm-1:50pm in Grace Crum Rollins 649",
+    "course_resources": null,
+    "sections": "Class Nbr: 5042, Section #: 1, Type: LEC, Campus: ATL, Meets: T 1-1:50p; W 8-9:50a, Instructor: P. Joski, Status: Open",
+    "date_accessed": "2024-03-30"
+}

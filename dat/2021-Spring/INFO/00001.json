@@ -1,0 +1,22 @@
+{
+    "course_code": "INFO 530",
+    "course_title": "Introduction to Geographical Information Systems",
+    "credit_hours": "2",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-03-10",
+    "class_notes": "Varies by section",
+    "course_description": "The course introduces the use of geographic information systems (GIS) in the analysis of public health data. We develop GIS skills through homework, quizzes, and a case study. Specific skills include map layouts, visualization, and basic GIS operations such as buffering, layering, summarizing, geocoding, digitizing and spatial queries.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4526, Section #: 1, Type: LEC, Campus: ATL, Meets: M 10:15a-12:05p, Instructor: Team, Status: Open\nClass Nbr: 5398, Section #: 2, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: Team, Status: Open\nClass Nbr: 4613, Section #: L1, Type: LAB, Campus: ATL, Meets: W 10:15a-12:05p, Instructor: Team, Status: Open\nClass Nbr: 5416, Section #: L2, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

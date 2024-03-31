@@ -2,10 +2,10 @@
     "course_code": "ST 501",
     "course_title": "Systematic Theology",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 32 / Seats Avail: 32",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "Varies by section",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 5370, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 9:30-10:50a, Instructor: J. McDougall, Status: Open\nClass Nbr: 5371, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 1-2:20p, Instructor: I. McFarland, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5370, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 9:30-10:50a, Instructor: J. McDougall, Status: Open\nClass Nbr: This section is full 5371, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 1-2:20p, Instructor: I. McFarland, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

@@ -2,10 +2,10 @@
     "course_code": "POLS 190",
     "course_title": "Fresh Sem: Poli Sci: Presidential Nomination Pol.",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "seats": "Seats: Maximum Enrollment: 14 / Seats Avail: 2",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "First Year Seminar",
@@ -17,6 +17,6 @@
     "instructors": "Alan Abramowitz - Primary Instructor",
     "schedule_location": "MW 2:30pm-3:45pm in MODERN LANGUAGE_219",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_POLS_190_3_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 1982, Section #: 3, Type: SEM, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: A. Abramowitz, Status: Closed",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1982, Section #: 3, Type: SEM, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: A. Abramowitz, Status: Open",
+    "date_accessed": "2024-03-31"
 }

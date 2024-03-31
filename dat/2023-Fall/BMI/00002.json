@@ -1,0 +1,22 @@
+{
+    "course_code": "BMI 550",
+    "course_title": "Applied Biomedical Natural Language",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Contact Dr. Sarker for permission\n\n\nWe will make special accommodations as needed for remote instruction.",
+    "course_description": "End-to-end natural language processing applications for biomedical texts.",
+    "prerequisites": null,
+    "instructors": "Abeed Sarker - Primary Instructor",
+    "schedule_location": "TTh 5:30pm-6:45pm in Woodruff Memorial Bldg. 4004",
+    "course_resources": null,
+    "sections": "Class Nbr: 5021, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 5:30-6:45p, Instructor: A. Sarker, Status: Open",
+    "date_accessed": "2024-03-30"
+}

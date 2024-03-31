@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 112",
+    "course_title": "Calculus II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 35Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Techniques of integration, exponential and logarithm functions, sequences and series, polar coordinates.",
+    "prerequisites": "This course requires MATH 111 OR MATH_OX111 OR MATH 115 OR MATH 119 OR MATH_OX119 or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2842, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: L. Onisk, Status: Open\nClass Nbr: 2962, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: M. Auerbach, Status: Open\nClass Nbr: 4157, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: S. MANDAL, Status: Open\nClass Nbr: 5085, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: A. Newton, Status: Open",
+    "date_accessed": "2024-03-29"
+}

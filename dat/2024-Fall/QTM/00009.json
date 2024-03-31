@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 220",
+    "course_title": "Regression Analysis",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 45 / Seats Avail: 45Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Varies by section",
+    "course_description": "Introduces students to widely used procedures for regression analysis, and provides intuitive, applied, and formal foundations for regression and more advanced methods treated later in the major course sequence.",
+    "prerequisites": "(QTM 110 or QTM_OX 110) & (QTM 150 or QTM_OX 150) & (QTM 120 or MATH 210 or MATH_OX 210 or MATH_211 or MATH_OX 211)  & [QTM 210 or QTM_OX 210 or ECON 220 or ECON_OX 220 or (MATH 361 and MATH 362)] & (MATH 221 or MATH_OX 221) or eq. transfer cred.as prer.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1977, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Cuttner, Status: Open\nClass Nbr: 1978, Section #: 2, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Staff, Status: Open\nClass Nbr: 1804, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: D. Hirshberg, Status: Open\nClass Nbr: 1979, Section #: 4, Type: LAB, Campus: ATL, Meets: F 2:30-3:20p, Instructor: Staff, Status: Open",
+    "date_accessed": "2024-03-29"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "MSCR 534",
+    "course_title": "Analytic Meth.-Clinical Res'rch II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 27 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Varies by section",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Varies by section",
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": "Varies by section",
+    "course_description": "Continuation from analytic epidemiology and data management courses in the first semester. Aids students in developing analytic skills necessary to model data collected from experimental and observational studies in order to assess the role of multiple risk factors in association with health outcomes. The focus is on linear regression, logistic regression, and survival analysis. The goal is to provide a foundation for understanding the multivariable nature of human health events and develop the critical reasoning to apply these skills towards an overall analytic approach",
+    "prerequisites": null,
+    "instructors": "Matthew Magee - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3090, Section #: 1, Type: LEC, Campus: ATL, Meets: T 1-2:50p, Instructor: M. Magee, Status: Open\nClass Nbr: 6008, Section #: 2, Type: LAB, Campus: ATL, Meets: W 1-2:50p, Instructor: M. Magee, Status: Open",
+    "date_accessed": "2024-03-30"
+}

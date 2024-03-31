@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Michal Arbilly - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 1678, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: M. Arbilly, Status: Open\nClass Nbr: This section is full 1680, Section #: 2, Type: DIS, Campus: ATL, Meets: M 9-9:50a, Instructor: M. Arbilly, Status: Open\nClass Nbr: 1681, Section #: 3, Type: DIS, Campus: ATL, Meets: M 10-10:50a, Instructor: M. Arbilly, Status: Open\nClass Nbr: 1682, Section #: 4, Type: DIS, Campus: ATL, Meets: M 11-11:50a, Instructor: M. Arbilly, Status: Open\nClass Nbr: 1684, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: M. Arbilly, Status: Open\nClass Nbr: This section is full 1685, Section #: 7, Type: DIS, Campus: ATL, Meets: M 1-1:50p, Instructor: M. Arbilly, Status: Open\nClass Nbr: 1686, Section #: 8, Type: DIS, Campus: ATL, Meets: M 2-2:50p, Instructor: M. Arbilly, Status: Open\nClass Nbr: This section is full 1687, Section #: 9, Type: DIS, Campus: ATL, Meets: M 3-3:50p, Instructor: M. Arbilly, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1678, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: M. Arbilly, Status: Wait List\nClass Nbr: 1680, Section #: 2, Type: DIS, Campus: ATL, Meets: M 9-9:50a, Instructor: M. Arbilly, Status: Wait List\nClass Nbr: 1681, Section #: 3, Type: DIS, Campus: ATL, Meets: M 10-10:50a, Instructor: M. Arbilly, Status: Wait List\nClass Nbr: 1682, Section #: 4, Type: DIS, Campus: ATL, Meets: M 11-11:50a, Instructor: M. Arbilly, Status: Wait List\nClass Nbr: 1684, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: M. Arbilly, Status: Wait List\nClass Nbr: 1685, Section #: 7, Type: DIS, Campus: ATL, Meets: M 1-1:50p, Instructor: M. Arbilly, Status: Wait List\nClass Nbr: 1686, Section #: 8, Type: DIS, Campus: ATL, Meets: M 2-2:50p, Instructor: M. Arbilly, Status: Open\nClass Nbr: 1687, Section #: 9, Type: DIS, Campus: ATL, Meets: M 3-3:50p, Instructor: M. Arbilly, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

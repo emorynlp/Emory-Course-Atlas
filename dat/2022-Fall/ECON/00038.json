@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 522",
+    "course_title": "Econometric Methods II",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "This is a continuation of the required course in the Econometrics core sequence.  Topics include: bootstrapping, limited dependent variables, panel data models, non-linear and generalized least squares, quantile regression, numerical optimization, measurement error models, asymptotic tests, linear systems of equations, and nonparametric regression.",
+    "prerequisites": "ECON 520 and ECON 521 or equivalent transfer credit as prerequisite.",
+    "instructors": "Zheng Fang - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in Rich Building 211",
+    "course_resources": null,
+    "sections": "Class Nbr: 4098, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: Z. Fang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

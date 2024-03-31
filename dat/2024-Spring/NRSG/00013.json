@@ -1,8 +1,8 @@
 {
-    "course_code": "NRSG 351D",
-    "course_title": "Foundations of Nursing Science",
-    "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 33 / Seats Avail: 33",
+    "course_code": "NRSG 350D",
+    "course_title": "Professional Series 1: Introduction to Professional Nursing Practice and Social Responsibility",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 33 / Seats Avail: 15",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-16 through 2024-03-06",
-    "class_notes": "This class is for D-ABSN semester 1 students only.  Exam on Fridays. Online with synchronous sessions via zoom.",
-    "course_description": "Students learn fundamental principles of nursing science. Students are introduced to the nursing process, evidence-based practice, communication, influences of social determinants of health on well-being, clinical reasoning, health promotion/disease prevention, informatics and patient- and family-centered care.",
+    "class_notes": "This class is for D-ABSN semester 1 students only. Exam on Fridays. Online with synchronous sessions via zoom.",
+    "course_description": "The course emphasizes the development of professional roles of a baccalaureate-prepared nurse incorporating knowledge of professional identity, professional and personal management, and the healthcare system/practice environment.",
     "prerequisites": null,
-    "instructors": "Ashley Coombe - Primary Instructor",
-    "schedule_location": "TTh 11am-2pm in ONLINE",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_351D_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2504, Section #: 1, Type: LEC, Campus: ONLIN, Meets: TTh 11a-2p, Instructor: Coombe/Haynes Ferere, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Angela Haynes Ferere - Primary Instructor",
+    "schedule_location": "W 8am-10:30am in ONLINE",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_350D_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2503, Section #: 1, Type: LEC, Campus: ONLIN, Meets: W 8-10:30a, Instructor: Zauche/Haynes Ferere, Status: Open",
+    "date_accessed": "2024-03-31"
 }

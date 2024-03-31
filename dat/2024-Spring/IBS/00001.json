@@ -1,7 +1,7 @@
 {
     "course_code": "IBS 500R",
     "course_title": "Current Topics In Bioscience",
-    "credit_hours": "1-12",
+    "credit_hours": "Varies by section",
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 5523, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 5:30-6:30p, Instructor: Team, Status: Open\nClass Nbr: 5524, Section #: 2, Type: LEC, Campus: ATL, Meets: T 3-4p, Instructor: Waller/De Roode, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

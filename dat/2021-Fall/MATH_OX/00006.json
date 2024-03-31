@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 211",
+    "course_title": "Multivariable Calculus",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "Vectors, multivariable functions, partial derivatives, multiple integrals, vector and scalar fields, Green's and Stokes' theorems, and divergence theorem.",
+    "prerequisites": "Math_OX 112 or Math_OX 112Z or Math 112 as prerequisites",
+    "instructors": "Yu-Chan Chang - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3429, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 5:30-6:45p, Instructor: Y. Chang, Status: Open\nClass Nbr: 3430, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 4-5:15p, Instructor: Y. Chang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

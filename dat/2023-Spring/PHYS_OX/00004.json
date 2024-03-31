@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS_OX 220",
+    "course_title": "Introduction to Mathematical Methods for Scientists and Engineers",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 19",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Science, Nature, Technology",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "PHYS_OX 142 or PHYS_OX 152) as prerequisite and (MATH_OX 211) as co-requisite or equivalent transfer",
+    "course_description": "Linear algebra, determinants, linear vector spaces, eigenvalues and eigenfunctions, the div grad and curl operators, Gauss and Stokes theorems, orthogonal coordinate systems, infinite power series, complex number and variables, Fourier analysis, Laplace transforms, ODEs and PDEs.",
+    "prerequisites": "(PHYS 142 or PHYS_OX 142 or PHYS 152 or PHYS_OX 152) as prerequisite and (MATH 211 or MATH_OX 211) as co-requisite or equivalent transfer credit.",
+    "instructors": "Effrosyni Seitaridou - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Oxford Science Bldg. 217",
+    "course_resources": null,
+    "sections": "Class Nbr: 4471, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: E. Seitaridou, Status: Open",
+    "date_accessed": "2024-03-30"
+}

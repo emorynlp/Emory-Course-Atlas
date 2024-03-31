@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 508",
+    "course_title": "Biostatistical Methods",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "**Permission of Instructor or BIOS ADAP required**",
+    "course_description": "Prerequisites: Multivariate Calculus (Calculus III) and Linear Algebra. This course provides a mathematically sophisticated introduction to the concepts and methods of biostatistical data analysis. It aims to provide the students the skills to collaborate with investigators and statistical colleagues in the analysis of data from biomedical and public health studies and to communicate the results of statistical analyses to a broad audience.  The topics include descriptive statistics; probability; detailed development of the binomial, Poisson and normal distributions and simulation of random variables from these distributions; sampling distributions; point and confidence interval estimation; simulation studies; hypothesis testing; power analysis and sample size calculations; a variety of one- and two-sample parametric and non-parametric methods for analyzing continuous or discrete data and resampling statistics. The course will also equip students with computer skills for implementing these statistical methods using standard statistical software SAS or R.",
+    "prerequisites": null,
+    "instructors": "Robert Krafty - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:50pm in Claudia Nance Rollins 1034",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3131, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:50p, Instructor: Team, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

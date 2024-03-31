@@ -1,0 +1,22 @@
+{
+    "course_code": "MSCR 533",
+    "course_title": "Data Management",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 18",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Provides an introduction to concepts in data management and analysis using SAS statistical software on personal computers. Topics covered include importing data, in-stream data entry, variable manipulation, subsetting, concatenating and merging data sets. The course is coordinated with MSCR 500, and SAS procedures used to implement the statistical methods from that course are also presented. After completing the course, students are expected to be able to independently manage small or moderately large data sets and to analyze the data using SAS.",
+    "prerequisites": null,
+    "instructors": "Azhar Nizam - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: 4721, Section #: 1, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: A. Nizam, Status: Open",
+    "date_accessed": "2024-03-30"
+}

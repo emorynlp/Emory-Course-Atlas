@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 523",
+    "course_title": "Commutative Algebra & Algebraic Geometry",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 4",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "This is an introductory course covering topics like affine and projective varieties, Hilbert's Nullstellensatz, morphism and rational maps of varieties, dimension, smoothness, algebraic curves, intersection multiplicity and Bezout's theorem. Topics from commutative algebra like integral extensions, Noether's normalisation lemma and primary decomposition will also be treated simultaneously.",
+    "prerequisites": null,
+    "instructors": "Brooke Ullery - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - E406",
+    "course_resources": null,
+    "sections": "Class Nbr: 2645, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: B. Ullery, Status: Open",
+    "date_accessed": "2024-03-30"
+}

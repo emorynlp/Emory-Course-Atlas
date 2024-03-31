@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 221",
+    "course_title": "Linear Algebra",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Systems of linear equations and matrices, determinants, linear transformations, vector spaces, and eigenvectors.",
+    "prerequisites": "Math_OX 112 or Math_OX 112Z or Math 112 as prerequisites",
+    "instructors": "Daniel Nash - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3526, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 8:30-9:45a; F 8:30-9:20a, Instructor: D. Nash, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

@@ -1,8 +1,8 @@
 {
-    "course_code": "PHYS 530",
-    "course_title": "Introduction to Biophysics",
+    "course_code": "PHYS 504",
+    "course_title": "Collective and Emergent Phenomena I",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 18",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 7",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "The course is designed as a broad introduction into the field of biophysics: molecular/cellular biophysics, biomechanics, evolution, and neuroscience.",
+    "course_description": "Statistical mechanics is a systematic approach to constructing probabilistic descriptions of large numbers of interacting microscopic degrees of freedom in order to understand the macroscopic behavior of equilibrium systems. Topics covered in this course include thermodynamics, probability theory, equilibrium properties of classical and quantum gases, interacting systems, phase transitions, and scaling near critical points.",
     "prerequisites": null,
-    "instructors": "Minsu Kim - Primary Instructor",
-    "schedule_location": "TTh 1pm-2:15pm in New Psyc Bldg 220 (36 Eagle Ro",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PHYS_530_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1972, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: M. Kim, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Daniel Sussman - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Emerson Chemistry Bldg. E363",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PHYS_504_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1973, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: D. Sussman, Status: Open",
+    "date_accessed": "2024-03-31"
 }

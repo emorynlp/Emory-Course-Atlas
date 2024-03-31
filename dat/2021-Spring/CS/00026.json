@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 584",
+    "course_title": "Topics In Computer Science: Adaptive Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 24",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "This course covers advanced machine learning topics involved in the development of robust and adaptive machine learning algorithms that incorporate topics including domain adaption, online learning: bandit/multi-bandits, and control theory for data-driven systems.",
+    "course_description": null,
+    "prerequisites": null,
+    "instructors": "Rishi Kamaleswaran - Primary Instructor",
+    "schedule_location": "TTh 4:20pm-5:35pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1903, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4:20-5:35p, Instructor: R. Kamaleswaran, Status: Open",
+    "date_accessed": "2024-03-30"
+}

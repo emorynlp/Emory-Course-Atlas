@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 517D",
+    "course_title": "Applied Biostatistics II",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 1",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-08 through 2021-04-11",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership.",
+    "course_description": "BIOS 517D is the follow-up course to BIOS 516D. BIOS 516D ended with procedures for two independent samples (two sample t-test and chi-square test). This course starts with procedures for paired samples (paired t-test and McNemar test), nonparametric tests and power and sample size calculations. Students then begin their study of linear regression, starting with one-predictor models and then moving on to multiple-predictor models. Interaction, confounding, multicollinearity, dummy variables and log transformation are also discussed. Like the previous course, BIOS 517D is focused on application of the statistical methods, and students are expected to show competence in evaluating a regression solution to address a particular research question. Students continue to use SAS to perform the data analysis. Requirements include weekly homework, weekly quizzes, Midterm and Final Exams, and a data analysis project\n.",
+    "prerequisites": null,
+    "instructors": "Johnathan Edwards - Primary Instructor",
+    "schedule_location": "FSa 8:30am-11:30am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4450, Section #: 901, Type: LEC, Campus: ATL, Meets: FSa 8:30-11:30a, Instructor: J. Edwards, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -2,10 +2,10 @@
     "course_code": "AFS 345",
     "course_title": "Gender Violence/Gender Justice",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 0",
+    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 1",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": "History, Society, Cultures",
@@ -17,6 +17,6 @@
     "instructors": "Pamela Scully - Primary Instructor",
     "schedule_location": "TTh 10am-11:15am in Candler Library 114",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_AFS_345_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 4110, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 10-11:15a, Instructor: P. Scully, Status: Open",
-    "date_accessed": "2023-10-30"
+    "sections": "Class Nbr: 4110, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 10-11:15a, Instructor: P. Scully, Status: Open",
+    "date_accessed": "2024-03-30"
 }

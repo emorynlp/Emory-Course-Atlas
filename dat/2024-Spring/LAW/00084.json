@@ -1,9 +1,9 @@
 {
-    "course_code": "LAW 719",
-    "course_title": "Trademark Law",
+    "course_code": "LAW 702",
+    "course_title": "Antitrust",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 30",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 50Waitlist Total: 0 of 10",
+    "waitlist_total": ": 0 of 10",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-08 through 2024-04-22",
-    "class_notes": "Final Assessment: Scheduled In-Class Exam",
-    "course_description": "This course will cover United States trademark and unfair competition law, exclusive of antitrust law. Participants will learn the prerequisites for trademark rights and for the registration of marks in the U.S. and Trademark Office. They also will learn the causes of action available to protect marks, as well as those for false advertising and related torts.",
+    "class_notes": "Final Assessment: Scheduled In-Class Exam\nThis course is eligible to be counted towards the requirements for the J.D. concentration in Health Law.",
+    "course_description": "This is a survey of United States competition law. It covers agreements among competitors, horizontal and vertical mergers, unilateral conduct by monopolists, exclusive dealing and tying arrangements imposed on buyers by sellers, and restrictions imposed by manufacturers on distributors.",
     "prerequisites": null,
-    "instructors": "Theodore Davis - Primary Instructor",
-    "schedule_location": "M 4:15pm-7:15pm",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_719_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2923, Section #: 001, Type: LEC, Campus: ATL, Meets: M 4:15-7:15p, Instructor: T. Davis, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Alexander (Sasha) Volokh - Primary Instructor",
+    "schedule_location": "TTh 10:15am-11:45am in Gambrell Hall 5B",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_702_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2697, Section #: 001, Type: LEC, Campus: ATL, Meets: TTh 10:15-11:45a, Instructor: A. Volokh, Status: Open",
+    "date_accessed": "2024-03-30"
 }

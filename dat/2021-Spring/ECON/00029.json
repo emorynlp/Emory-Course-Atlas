@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 485",
+    "course_title": "Advanced Topics in Economics: Empirical Methods&Machine",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 24Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "(Permission required prior to enrollment)\n(Complete Topic - Empirical Methods & Machine Learning)\n(Prerequisite: ECON 320 - Econometrics)\n(To enroll, please send an email to econungrad@emory.edu to receive a permission code) \n(This course introduces students to modern extensions of the linear regression model studied in depth in Econ 320: Econometrics. After reviewing important aspects of the linear model often not covered in Econ 320, natural extensions such Support Vector Regression, Decision Tree Regression, and Random Forest Regression will be covered and students will learn to implement them in the R statistical software using data sets relevant to Economics. At the end of the course, students should feel comfortable using Github, LaTeX, and R (various in-class tutorials will be provided, as well as self-training online mini-courses are expected to be completed by students).",
+    "course_description": "Advanced topics in Economics. May be repeated for credit when topic varies.",
+    "prerequisites": null,
+    "instructors": "David Jacho-Chavez - Primary Instructor",
+    "schedule_location": "MW 9:40am-10:55am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 2561, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 9:40-10:55a, Instructor: D. Jacho-Chavez, Status: Open",
+    "date_accessed": "2024-03-30"
+}

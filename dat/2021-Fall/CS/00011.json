@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 456",
+    "course_title": "Compiler Construction",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "Syntax, semantics and pragmatics of computer programming languages, lexical analysis and parsing, code generation, and optimization. Design and implementation of a semester-long compiler project for a simple imperative language.",
+    "prerequisites": "CS 326 or equivalent transfer credit as prerequisite.",
+    "instructors": "James Lu - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Math & Science Center - W301",
+    "course_resources": null,
+    "sections": "Class Nbr: 1240, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: J. Lu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

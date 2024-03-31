@@ -2,10 +2,10 @@
     "course_code": "THEA 230",
     "course_title": "Principles of Design",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 7Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 0Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Humanities and Arts(*)",
@@ -17,6 +17,6 @@
     "instructors": "Sara Culpepper - Primary Instructor",
     "schedule_location": "MW 10am-11:15am in Schwartz Center 311C",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_THEA_230_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3886, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: S. Culpepper, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3886, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: S. Culpepper, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

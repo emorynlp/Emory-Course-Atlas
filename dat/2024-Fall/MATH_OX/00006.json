@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 221",
+    "course_title": "Linear Algebra",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 25Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Systems of linear equations and matrices, determinants, linear transformations, vector spaces, and eigenvectors.",
+    "prerequisites": "MATH 111 or MATH_OX 111 or MATH 112 or MATH_OX 112 or MATH 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": "Julie Hulgan - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3863, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 10-11:15a; F 10-10:50a, Instructor: J. Hulgan, Status: Open\nClass Nbr: 4030, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p; F 11:30a-12:20p, Instructor: J. Hulgan, Status: Open",
+    "date_accessed": "2024-03-29"
+}

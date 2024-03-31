@@ -1,9 +1,9 @@
 {
     "course_code": "ENG 389W",
-    "course_title": "Special Topics:Literature: Youth Literature & WNDB",
+    "course_title": "Special Topics:Literature: Literary Theory",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 9Waitlist Total: 0",
-    "waitlist_total": ": 0",
+    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 1",
+    "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -11,12 +11,12 @@
     "requirement_designation": "Humanities, Arts, Performance with Writing",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "The long-running fight for increased diversity in children's literature entered a new chapter in 2014 with the emergence of We Need Diverse Books (WNDB). #WeNeedDiverseBooks launched as a social media campaign in response to an all-white BookCon panel of 30 youth literature authors. WNDB quickly developed into a non-profit organization and powerful social movement. In her highly influential 1990 work, Rudine Sims Bishop contends that children need books to serve as \"windows,\" \"mirrors,\" and \"sliding glass doors.\" Uma Krishnaswami adds \"prisms\" to that list. Christopher Myers adds \"maps.\" How do diverse children's and young adult books enable readers to see themselves, empathize with others, see their intersectional realities in a fresh light, and map the course of their futures? This question will guide our course. We will focus primarily on recent youth literature by US-based writers directly involved with WNDB. While we will read several literary titles together, students will have opportunities to select titles independently based on their own interests, too. We will also enter broader conversations about youth literature and diversity in literary/cultural studies scholarship, the publishing industry, public libraries, K-12 schools, and communities.",
+    "class_notes": "(Same as CPLT 302W 1, WGS 385W 1)\n\"The Power of Language and the Limits of the Human\" | This course explores how theoretical approaches to literature and language have altered the way we read and think. Working with foundational texts in modern French thought (by figures such as Saussure, Barthes, Derrida, Foucault, Cixous, Lacan, and Fanon) as well as some more contemporary texts (that may include writings by Judith Butler, Barbara Johnson, Hortense Spillers, Donna Haraway, and Cathy Caruth), we will examine how theoretical reflections about language challenge traditional models of subjectivity, the limits of the human, identity, sexual difference, race, power, technology, the law, and historical trauma. Throughout the course, we will look at selected short literary works alongside the theoretical texts to explore how literary theory helps us think critically about the many different kinds of texts that make up our world.\n\n\nRequired Reading:\nLonger works are available for purchase Emory Barnes & Noble bookstore. Most required readings are fairly short and will be made available through the Canvas course site and/or through on-line Electronic Reserves [ER]. Literary texts are usually very short.\n\n\nPrimary Theoretical Texts:\nAustin, J.L. \"Performative Utterances\" [Canvas]\nBarthes, Roland. \"The Death of the Author\"; \"From Work to Textt\"; \"The Myth, Today\" [Canvas]\nBarthes, Roland. Mythologies. ISBN: 9780809071944\nBenveniste, Emile. Problems in General Linguistics (chapters 20-22) [Canvas]\nButler, Judith. \"Burning Acts\" [Canvas]\nCaruth, Cathy. Trauma, Explorations in Memory [selections] [Canvas]\nCixous, Hélène. \"The Laugh of the Medusa\"; \"Castration or Decapitation\" [Canvas]\nDerrida, Jacques. \"Signature Event Context\" [Canvas]\nFanon, Frantz. Black Skin, White Masks. ISBN: 9780802143006\nFreud, Sigmund. The Interpretation of Dreams, VI [A&B] [Canvas]\nFoucault, Michel. \"What is an Author?\" [Canvas]\nFoucault, Michel. History of Sexuality, vol 1. ISBN:9780679724698**tentative\nHaraway, Donna. \"The Cyborg Manifesto.\" [Canvas]\nJohnson, Barbara. TBD\nLacan, Jacques. \"The Mirror Stage\"Spillers, Hortense. \"Mama's Baby, Papa's Maybe: An American Grammar Book\" [Canvas]",
     "course_description": "Literary topics vary. May be repeated for credit when topic varies.",
     "prerequisites": null,
-    "instructors": "Mandy Suhr-Sytsma - Primary Instructor",
-    "schedule_location": "TTh 1pm-2:15pm in Candler Library 114",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_389W_3_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2131, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: M. Suhr-Sytsma, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Elissa Marder - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Callaway Center C101",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_389W_5_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5071, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: E. Marder, Status: Open",
+    "date_accessed": "2024-03-30"
 }

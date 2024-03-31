@@ -1,0 +1,22 @@
+{
+    "course_code": "ACT 520",
+    "course_title": "Accounting Analytics: Insights for Actions",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "This course teaches students how to use analytics on financial data to make better, data informed decisions. This course is an overview course and is designed to expose students to the many different ways in which data analytic tools can be used in accounting settings. To teach students how to successfully combine their understanding of accounting concepts with data analytics skills and tools, this course focuses on:\n1. Reframing business issues that require the use of accounting knowledge into specific analytical questions\n2. Manipulating data and calculating answers to the above framed questions\n3. Communicating results with appropriate context in a meaningful and easy to understand manner\nBy the end of the course students will have intermediate Python coding skills and most importantly, an ability to apply those coding skills to analyze and solve business problems. No prior coding experience is needed.",
+    "course_description": "This course teaches students how to use analytics with financial data to make better, data informed decisions. This course is an overview course and is designed to expose students to the many different ways in which data analytic tools can be used in accounting settings. To teach students how to successfully combine their understanding of accounting concepts with data analytics skills and tools, this course focuses on:\n1. Reframing business issues that require the use of accounting knowledge into specific analytical questions\n2. Manipulating data and calculating answers to the above framed questions\n3. Communicating results with appropriate context in a meaningful and easy to understand manner",
+    "prerequisites": "Varies by section",
+    "instructors": "Allison Kays - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Goizueta Business School 421",
+    "course_resources": null,
+    "sections": "Class Nbr: 6314, Section #: 1260, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Kays, Status: Open\nClass Nbr: 6315, Section #: 3260, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Kays, Status: Open",
+    "date_accessed": "2024-03-30"
+}

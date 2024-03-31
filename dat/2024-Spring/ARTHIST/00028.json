@@ -1,8 +1,8 @@
 {
-    "course_code": "ARTHIST 749R",
-    "course_title": "Seminar:Renaissance Art/Archit",
+    "course_code": "ARTHIST 719R",
+    "course_title": "Seminar: Ancient Egypt Art/Arch: Anc.Egyptian Book of the Dead",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 11",
+    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 2",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "\"Books of the Art\"This course will consider the special category of books known as artist¿s manuals. Materials discussed will range from the book of the Benedictine monk Theophilus Presbyter, to Cennino Cennini¿s, Book of the Art; from the so-called technical prefaces of Giorgio Vasari¿s Lives of the Painters, Sculptors and Architects to Nicholas Hilliard¿s Art of Limning, and beyond to modern contributions to the genre by artists like Salvador Dali. The goal will be to understand the relation between making and meaning, as it is represented in these treatises. The themes to be discussed include the trope of secrecy and its use within the knowledge cultures of the late medieval and early modern Europe; the values associated with imitative practice within this tradition; the functions of representing artisanal knowledge within different settings (monastery, court, city), and the relation between artisanal epistemologies and the evolving scientific cultures of late medieval and early modern Europe. This seminar is designed to introduce graduate students to broadly applicable techniques of reading primary textual sources.",
-    "course_description": "Advanced seminar on Renaissance art and/or architecture with emphasis on critical texts, methods, and techniques of art historical investigation. For art history majors; open to others with permission from the instructor.",
+    "class_notes": "(Complete Topic: Art and Ritual in the Ancient Egyptian Book of the Dead)\n(The most famous ancient Egyptian text/image composition is without a doubt the one dubbed in modern times the Book of the Dead. In ancient Egypt it formed part of a long tradition of texts written specifically to accompany the dead in the tomb, distinguished especially by its rich use of images illustrating, complementing, or interpreting the textual contents. In modern times, in turn, this visual splendor seemingly confirmed the expectation that the Book described and depicted ancient Egyptian conceptions of the afterlife. This seminar explores different aspects of this important ancient Egyptian work, including the interplay between text and image, the deployment of its texts and imagery in different media, the possibility of reconstructing its original cultural contexts, and its reception in modern scholarship and popular culture.)",
+    "course_description": "Advanced seminar on the art and/or architecture of Ancient Egypt with emphasis on critical texts, methods, and techniques of art historical investigation. For art history majors; open to others with permission from the instructor.",
     "prerequisites": null,
-    "instructors": "C Jean Campbell - Primary Instructor",
-    "schedule_location": "M 1pm-3:45pm in Carlos Hall Conference",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ARTHIST_749R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3487, Section #: 1, Type: SEM, Campus: ATL, Meets: M 1-3:45p, Instructor: C. Campbell, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Rune Nyord - Primary Instructor",
+    "schedule_location": "F 10am-12:45pm in Carlos Hall Conference",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ARTHIST_719R_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3593, Section #: 1, Type: SEM, Campus: ATL, Meets: F 10a-12:45p, Instructor: R. Nyord, Status: Open",
+    "date_accessed": "2024-03-30"
 }

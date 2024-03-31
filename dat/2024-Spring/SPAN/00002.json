@@ -2,10 +2,10 @@
     "course_code": "SPAN 111",
     "course_title": "Intensive Spanish",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 7 / Seats Avail: 1",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "Blended/Hybrid",
     "typically_offered": "Spring",
     "requirement_designation": "Intercultural Communication(*)",
@@ -17,6 +17,6 @@
     "instructors": "Brian Gravely - Primary Instructor",
     "schedule_location": "MW 2:30pm-3:45pm in North Decatur Bldg 112\nF 2:30pm-3:20pm in ONLINE",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_SPAN_111_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4105, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p; F 2:30-3:20p, Instructor: B. Gravely, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4105, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p; F 2:30-3:20p, Instructor: B. Gravely, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

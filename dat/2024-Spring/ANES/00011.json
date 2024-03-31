@@ -1,11 +1,11 @@
 {
-    "course_code": "ANES 695R",
-    "course_title": "Individual Clinical Practicum",
-    "credit_hours": "1-12",
-    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "course_code": "ANES 660A",
+    "course_title": "Clinical Anesthesia IV",
+    "credit_hours": "12",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 12",
     "waitlist_total": null,
     "grading_mode": "Graded",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -16,7 +16,7 @@
     "prerequisites": null,
     "instructors": "James R Hall Jr. - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ANES_695R_0_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 1664, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Hall Jr./Dixon, Status: Closed",
-    "date_accessed": "2023-10-30"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ANES_660A_0_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1655, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Hall Jr./Dixon, Status: Open",
+    "date_accessed": "2024-03-30"
 }

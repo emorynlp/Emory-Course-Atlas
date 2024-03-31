@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM_OX 100",
+    "course_title": "Introduction to Statistical Inference with Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Varies by section",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Varies by section",
+    "course_description": "QTM100 provides an introduction to descriptive and inferential statistics. It is designed as a gateway course, with emphasis on practice and implementation. The course introduces probability, sampling distributions, interval estimation, hypothesis testing, ANOVA, regression, and nonparametric tests. The class consists of lectures and a weekly lab session. The lectures introduce statistical concepts and theory, and the lab session applies those lessons using the statistical software R.The following departments require QTM100 as a part of their major coursework: neuroscience and behavioral biology, psychology, anthropology, educational studies, human health, and sociology.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3774, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 5266, Section #: 15, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 5271, Section #: 16, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: T. Dixon, Status: Wait List\nClass Nbr: This section is full 5273, Section #: 17, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: B. Beal, Status: Wait List\nClass Nbr: 5276, Section #: 18, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: T. Dixon, Status: Open\nClass Nbr: This section is full 5278, Section #: 19, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: T. Dixon, Status: Wait List\nClass Nbr: This section is full 3775, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 6054, Section #: 20, Type: LEC, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: B. Beal, Status: Wait List\nClass Nbr: This section is full 6059, Section #: 21, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: B. Beal, Status: Closed\nClass Nbr: This section is full 3776, Section #: 3, Type: LEC, Campus: OXF, Meets: MW 1-2:15p, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 3777, Section #: 4, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: T. Dixon, Status: Wait List\nClass Nbr: This section is full 3778, Section #: 5, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: B. Beal, Status: Wait List\nClass Nbr: 3779, Section #: 6, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: T. Dixon, Status: Open\nClass Nbr: This section is full 3780, Section #: 7, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: T. Dixon, Status: Wait List\nClass Nbr: This section is full 4757, Section #: 8, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: S. Riner, Status: Wait List\nClass Nbr: This section is full 4758, Section #: 9, Type: LAB, Campus: OXF, Meets: Does Not Meet, Instructor: S. Riner, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

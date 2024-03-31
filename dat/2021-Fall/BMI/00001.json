@@ -1,0 +1,22 @@
+{
+    "course_code": "BMI 500",
+    "course_title": "Introduction to Biomedical Informatics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "We will make special accommodations for online instruction for this course. Your instructor will communicate the mode of instruction before the start of classes.\n\n\nIf you need to request permission to enroll, please contact:  study@dmbi.emory.edu",
+    "course_description": "The course covers data interoperability, integrity, confidentiality and HIPAA issues, clinical\ninformatics, EMR, clinical decision support and imaging systems, radiomics and pathomics.",
+    "prerequisites": null,
+    "instructors": "Gari Clifford - Primary Instructor",
+    "schedule_location": "W 9am-12pm in Woodruff Memorial Bldg. 4004",
+    "course_resources": null,
+    "sections": "Class Nbr: 5569, Section #: 1, Type: LEC, Campus: ATL, Meets: W 9a-12p, Instructor: G. Clifford, Status: Open",
+    "date_accessed": "2024-03-30"
+}

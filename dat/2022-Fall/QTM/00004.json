@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 151",
+    "course_title": "Introduction to Statistical Computing II",
+    "credit_hours": "Varies by section",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Varies by section",
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Varies by section",
+    "course_description": "The purpose of this course is to prepare students for upper-level, data analysis-related courses. This course emphasizes on skills that are relevant for data analysis which include 1) data manipulation such as merging, appending, and reshaping data, and 2) making plots for descriptive analysis.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4639, Section #: 1, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Z. Gong, Status: Open\nClass Nbr: 4640, Section #: 2, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Z. Gong, Status: Open\nClass Nbr: 4641, Section #: 3, Type: LAB, Campus: ATL, Meets: TTh 4-4:50p, Instructor: J. Estrada, Status: Open",
+    "date_accessed": "2024-03-30"
+}

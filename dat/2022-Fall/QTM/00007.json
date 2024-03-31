@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 210",
+    "course_title": "Probability and Statistics",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Covers the structure of probability theory. Discusses the commonly encountered probability distributions, both discrete and continuous. Considers random sampling from the population, and the distribution of some sample statistics. Discusses the problem of estimation, and hypothesis testing.",
+    "prerequisites": "QTM 120 or MATH 210 or MATH_OX 210 or MATH 211 or PHYS 211 or MATH_OX 211 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4648, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: M. Van der Linden, Status: Open\nClass Nbr: 4649, Section #: 2, Type: LAB, Campus: ATL, Meets: F 2:30-3:20p, Instructor: S. Yin, Status: Open\nClass Nbr: 6097, Section #: 5, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: W. Loh, Status: Open\nClass Nbr: 6106, Section #: 6, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Yin/Loh, Status: Open",
+    "date_accessed": "2024-03-30"
+}

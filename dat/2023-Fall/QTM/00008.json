@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 210",
+    "course_title": "Probability and Statistics",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 75 / Seats Avail: 6Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Varies by section",
+    "course_description": "Covers the structure of probability theory. Discusses the commonly encountered probability distributions, both discrete and continuous. Considers random sampling from the population, and the distribution of some sample statistics. Discusses the problem of estimation, and hypothesis testing.",
+    "prerequisites": "QTM 120 or MATH 210 or MATH_OX 210 or MATH 211 or PHYS 211 or MATH_OX 211 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3719, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: K. Quinn, Status: Open\nClass Nbr: 3720, Section #: 2, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: A. Luke, Status: Open",
+    "date_accessed": "2024-03-30"
+}

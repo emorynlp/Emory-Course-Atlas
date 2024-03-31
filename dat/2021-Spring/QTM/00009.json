@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 250",
+    "course_title": "Applied Computing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 7Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "This class will be offered fully ONLINE and will meet synchronously for both sessions.\nThis course is a requirement for the QSS minor and will not be counted towards any QTM major requirements.\nFoundations of data science using the programming language Python. It teaches critical skills and concepts in computer programming and inference, focusing on techniques for inference that are not found in introductory statistics courses (e.g. clustering and simple neural networks). Practice is gained via hands-on analysis of real-world data sets and projects with a creative focus: students are encouraged to explore their own domain of interest from the perspective of the new tools and methods introduced in this class.\nThe first half of the course focuses on foundational Python and data science concepts as implemented in Python. The second half on useful packages for data science, SQL, data science on the cloud using Google's cloud platform, and elementary neural networks.\nBy the end of the course, each student will 1) be able to competently discuss concepts in computing that were discussed in lecture; 2) become comfortable working from the command line and using the command line to automate workflow (e.g. write a bash command replacing all the semi-colons in a text file with commas); 3)learn basic syntax and concepts for languages such as Python, SQL, Bash and certain high-level machine learning libraries which make coding a neural network for a regression problem as simple as three or four commands; 4) creatively implement what they have been learning in projects.\n\n\nFoundations of data science using the programming language Python. It teaches critical skills and concepts in computer programming and inference, focusing on techniques for inference that are not found in introductory statistics courses (e.g. clustering and simple neural networks). Practice is gained via hands-on analysis of real-world data sets and projects with a creative focus: students are encouraged to explore their own domain of interest from the perspective of the new tools and methods introduced in this class.\nThe first half of the course focuses on foundational Python and data science concepts as implemented in Python. The second half on useful packages for data science, SQL, data science on the cloud using Google's cloud platform, and elementary neural networks.\nBy the end of the course, each student will 1) be able to competently discuss concepts in computing that were discussed in lecture; 2) become comfortable working from the command line and using the command line to automate workflow (e.g. write a bash command replacing all the semi-colons in a text file with commas); 3)learn basic syntax and concepts for languages such as Python, SQL, Bash and certain high-level machine learning libraries which make coding a neural network for a regression problem as simple as three or four commands; 4) creatively implement what they have been learning in projects.",
+    "course_description": "This course teaches students how to think like data scientists. In combination with tools such as spreadsheets, SQL, and Python, students learn data analysis and applications of machine learning using real-world datasets.",
+    "prerequisites": "QTM 100 or QTM_OX 100 or equivalent transfer credit as prerequisite.",
+    "instructors": "Jeremy Jacobson - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4053, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: J. Jacobson, Status: Open",
+    "date_accessed": "2024-03-30"
+}

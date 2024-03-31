@@ -2,8 +2,8 @@
     "course_code": "AMST 201W",
     "course_title": "Introduction to American Studies",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 12",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 19 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -18,5 +18,5 @@
     "schedule_location": "TTh 2:30pm-3:45pm in New Psyc Bldg 235 (36 Eagle Ro",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_AMST_201W_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 4123, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: M. Adams, Status: Open",
-    "date_accessed": "2023-10-30"
+    "date_accessed": "2024-03-30"
 }

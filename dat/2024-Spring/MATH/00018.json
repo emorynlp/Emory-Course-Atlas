@@ -1,8 +1,8 @@
 {
-    "course_code": "MATH 422",
-    "course_title": "Abstract Algebra II",
+    "course_code": "MATH 412",
+    "course_title": "Real Analysis II",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 13Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 22Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "Ring Theory and Field Theory: polynomial rings, unique factorization, Euclidean domains, splitting fields of polynomials, elements of Galois theory, finite fields.",
-    "prerequisites": "This course requires MATH 421 or equivalent transfer credit as a prerequisite.",
-    "instructors": "Suresh Venapally - Primary Instructor",
-    "schedule_location": "TTh 11:30am-12:45pm in Math & Science Center - W307C",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MATH_422_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3076, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: S. Venapally, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_description": "This course is a continuation of Math 411 which focuses on integration and uniform convergence in n-space.  Topics include: Stoke's theorem, Fubini's theorem, Taylor's theorem, the Stone-Weierstrass theorem, and Sard's theorem.",
+    "prerequisites": "This course requires MATH 411 or equivalent transfer credit as a prerequisite.",
+    "instructors": "Shanshuang Yang - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - W303",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MATH_412_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3062, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: S. Yang, Status: Open",
+    "date_accessed": "2024-03-31"
 }

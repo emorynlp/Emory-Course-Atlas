@@ -1,0 +1,22 @@
+{
+    "course_code": "SOC 585",
+    "course_title": "Advanced Topics in Sociological Research: Big/Small Data & Visualization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-01-11 through 2023-04-24",
+    "class_notes": "The course deals with new tools of data analysis and visualization, especially for text data (Natural Language Processing, NLP). It is a very demanding 4-credits course, fulfilling the writing requirement since it requires extensive weekly writing.\nThe course relies on the Stanford parser CoreNLP as the main NLP engine, but a number of other NLP tools will also be used: topic modeling with Mallet and Stanford Topic Modeling Toolbox, Word2Vec, vectors representations of words, shown to capture many linguistic regularities of a corpus, N-grams and word co-occurrences viewers, sentiment analysis. Through these tools, the course will show how to analyze small/large corpora of text. While we have a series of tools (in Java and Python) that can be run from command line, students would greatly benefit to use the freeware software PC-ACE. The software runs under Windows only. Mac users will have to install Windows and MS ACCESS (both free for Emory students) on their machines via Virtualbox (free for Emory students).\n\n\nThe course will also show how to use different tools of data visualization, especially network graphs dealing with relationships between objects (social actors, concepts, or just words), both static and dynamic (changing with time), and spatial maps dealing with objects in space (and time, dynamic maps) through Geographic Information System (GIS) tools. We will focus on freeware software, from Gephi to Cytoscape, Palladio, Google Earth Pro, QGIS, Carto, TimeMapper.\nStudents are required to come to the class with a corpus of textual data (e,g,, newspaper articles, books, blogs, websites) that they wish to analyze.",
+    "course_description": "Various topics in Sociology.",
+    "prerequisites": null,
+    "instructors": "Roberto Franzosi - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Tarbutton Hall 106",
+    "course_resources": null,
+    "sections": "Class Nbr: 3629, Section #: 1, Type: SEM, Campus: ATL, Meets: MW 1-2:15p, Instructor: R. Franzosi, Status: Open",
+    "date_accessed": "2024-03-30"
+}

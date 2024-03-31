@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 572",
+    "course_title": "Information Retrieval",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 3",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-11 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "This course will cover fundamental techniques for text-based information systems: text indexing; Boolean, vector space, and probabilistic retrieval models; structured and semi-structured search; evaluation, feedback and interface issues. Web search including algorithmic and system issues for crawling, link-based algorithms, web usage mining, and Web metadata. The goal of the course is to be exposed to current issues and trends in information retrieval and web search and to understand the fundamental algorithms behind modern web search engines.",
+    "prerequisites": null,
+    "instructors": "Eugene Agichtein - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Math & Science Center - W303",
+    "course_resources": null,
+    "sections": "Class Nbr: 3277, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: E. Agichtein, Status: Open",
+    "date_accessed": "2024-03-30"
+}

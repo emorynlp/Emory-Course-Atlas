@@ -2,8 +2,8 @@
     "course_code": "THEA 377W",
     "course_title": "Fieldwork into Performance",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 0Waitlist Total: 2",
-    "waitlist_total": ": 2",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Wait List",
     "instruction_method": "In Person",
@@ -15,8 +15,8 @@
     "course_description": "This course introduces students to ethnographic fieldwork methods and explores through both case study analysis and class-based ethnodrama processes how applied theater and performance (theater, dance, and spoken word) can be used\nto present anthropological insights and ethnographic material.",
     "prerequisites": null,
     "instructors": "Debra Vidali - Primary Instructor",
-    "schedule_location": "MW 2:30pm-3:45pm in Anthropology Building 107",
+    "schedule_location": "MW 2:30pm-3:45pm in Rich Building 205",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_THEA_377W_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 4547, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: D. Vidali, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4547, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: D. Vidali, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

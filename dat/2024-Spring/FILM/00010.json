@@ -2,10 +2,10 @@
     "course_code": "FILM 213",
     "course_title": "Cinematography and Lighting",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 0Waitlist Total: 1",
-    "waitlist_total": ": 1",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 1Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Tanju Ozdemir - Primary Instructor",
     "schedule_location": "F 10am-1:30pm in Visual Arts 145",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_FILM_213_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 3645, Section #: 1, Type: SEM, Campus: ATL, Meets: F 10a-1:30p, Instructor: T. Ozdemir, Status: Wait List",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3645, Section #: 1, Type: SEM, Campus: ATL, Meets: F 10a-1:30p, Instructor: T. Ozdemir, Status: Open",
+    "date_accessed": "2024-03-30"
 }

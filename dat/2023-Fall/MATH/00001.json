@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 111",
+    "course_title": "Calculus I",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Limits, continuity, derivatives, antiderivatives, the definite integral.",
+    "prerequisites": "Students completing MATH 119 or equivalent cannot enroll for MATH 111. For concerns, please contact the Mathematics department.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1900, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: N. Gupta, Status: Wait List\nClass Nbr: 3005, Section #: 11, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: B. Yellin, Status: Open\nClass Nbr: 5320, Section #: 12, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. Arango, Status: Open\nClass Nbr: 5448, Section #: 13, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: J. Camero, Status: Open\nClass Nbr: 6680, Section #: 14, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: T. Xu, Status: Open\nClass Nbr: 6887, Section #: 15, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: A. Newton, Status: Open\nClass Nbr: 2962, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: G. Liang, Status: Open\nClass Nbr: 2982, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: L. Molinari, Status: Open\nClass Nbr: 2986, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: N. Gupta, Status: Wait List\nClass Nbr: 2992, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: A. Basu, Status: Open\nClass Nbr: 3001, Section #: 8, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: S. Zhao, Status: Open",
+    "date_accessed": "2024-03-30"
+}

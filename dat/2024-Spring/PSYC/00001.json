@@ -5,18 +5,18 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Varies by section",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": "Natural Sciences(*)",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "(OPUS waitlist available at the beginning of add/drop/swap.) (\"This is one-half of a two-semester introduction to the field of contemporary psychology. The course has to do with the organization and operation of the nervous system as it pertains to behavior and its cognitive underpinnings. Topics receiving special attention include the development of sexual identity, sensation and perception, learning and memory, love, fear, and other emotions. The course fulfills one-half of the introductory course requirement for psychology majors. All students enrolled in the course are required to participate in psychology department human subject research studies.\")",
+    "class_notes": "Varies by section",
     "course_description": "Introduction to the biological basis of behavior and the experimental approach to cognition.",
     "prerequisites": null,
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 2634, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: T. Nicol, Status: Open\nClass Nbr: This section is full 2947, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: P. Moon, Status: Open\nClass Nbr: 2635, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: T. Nicol, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2634, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: T. Medina, Status: Open\nClass Nbr: 2947, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: P. Moon, Status: Open\nClass Nbr: 2635, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: T. Medina, Status: Open",
+    "date_accessed": "2024-03-31"
 }

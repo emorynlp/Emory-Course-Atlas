@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 541",
+    "course_title": "Information Visualization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 2",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "This course focuses on fundamentals of information visualization and visual analytics. The goal is to study techniques for creating effective visual representations of data based on principles from psychology, cognitive science, and design. In addition to designing and developing interactive information visualizations, students will also learn about the state of the art in information visualization research.\n\n\nThis is course is in the Arts and Social Justice Fellows program for the Fall 2023 semester. Students will have the opportunity to work with an Atlanta artist and explore social justice issues relevant to the course topic.",
+    "course_description": "Theories of visualization, basic principles of HCI to inform design and evaluation of visualizations, skills for interactive visualizations with D3 and Tableau.",
+    "prerequisites": null,
+    "instructors": "Emily Wall - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Math & Science Center - W303",
+    "course_resources": null,
+    "sections": "Class Nbr: 6464, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: E. Wall, Status: Open",
+    "date_accessed": "2024-03-30"
+}

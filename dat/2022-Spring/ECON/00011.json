@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 320",
+    "course_title": "Econometrics",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Introduction to construction and testing of econometric models; analysis and critique of general linear regression model; simultaneous equations models; computer program for regression analysis; applications.",
+    "prerequisites": "(ECON 101 or ECON_OX 101 or BUS 201) and (ECON 112 or ECON_OX 112)  and (ECON 220 or MATH 207 or MATH_OX 207 or MATH 361 or MATH 362)  or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2284, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: R. Liu, Status: Open\nClass Nbr: 2286, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: R. Liu, Status: Open\nClass Nbr: 2288, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p, Instructor: D. Waggoner, Status: Open\nClass Nbr: 2285, Section #: LAB1, Type: LAB, Campus: ATL, Meets: F 8:30-9:20a, Instructor: D. Rojas Baez, Status: Open\nClass Nbr: 2287, Section #: LAB2, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: D. Rojas Baez, Status: Open\nClass Nbr: 2290, Section #: LAB3, Type: LAB, Campus: ATL, Meets: F 2-2:50p, Instructor: D. Rojas Baez, Status: Open",
+    "date_accessed": "2024-03-30"
+}

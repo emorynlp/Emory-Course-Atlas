@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 310",
+    "course_title": "Introduction to Data Justice",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Irregularly",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": "(Permission Required Prior to Enrollment)\n\n\nPrerequisites: None\nPermission code request form (same for all QTM courses: https://forms.office.com/r/UhnG2BB437\n\n\nThis course, team-taught by faculty spanning the various areas represented in QTM, will introduce students to both theoretical and methodological issues related to data justice. This emerging field considers how questions about data, its collection, and its use, are connected to broader social and political concerns, and how data-driven systems can be designed more equitably. Such data is expansive and expanding, and serves as the basis for automated systems that range from resume screening to voting redistricting, predictive policing to cellphone autocomplete.\nA central theme of the course is that choices (and trade-offs) are ubiquitous when bringing data to bear on technical and policy decisions. Few, if any, meaningful measures are truly ``theory-free,'' in the sense that a measure is (perhaps implicitly) measuring something, and in many cases, this something is latent and not directly observable. Furthermore, even seemingly objective algorithmic systems may not be 'neutral' in their effects: many of these systems rely upon data or were designed to achieve goals that reflect existing biases and inequalities embedded in the world.\nUpon completing this course, students will be able to define and discuss the concepts of bias, fairness, discrimination, ethics, and justice, with respect to data science, and will gain familiarity, via case studies and labs, with how these concepts play out in data-driven inquiry.",
+    "course_description": "Upon completing this course, students will be able to define and discuss the concepts of bias, fairness, discrimination, ethics, and justice, with respect to data science, and will gain familiarity, via case studies and practical excercises, with how these concepts play out in data-driven inquiry.",
+    "prerequisites": null,
+    "instructors": "Michal Arbilly - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in White Hall 207",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4518, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: Team, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

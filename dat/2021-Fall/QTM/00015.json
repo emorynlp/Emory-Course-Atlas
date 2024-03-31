@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Causal Inference&Mach.Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 11Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "(Prerequisites: QTM 220 or ECON 320 and QTM 110, QTM 150, [QTM 210 or ECON 220 or MATH 362], [MATH 210 or MATH 211], MATH 221)\n(Permission Required Prior to Enrollment)\n(Permission code request form (same for all QTM courses): http://bit.ly/Fall2021-QTM)\n(This class introduces examples where machine learning (ML) algorithms complement traditional statistical methods for a causal analysis in social science. This class would not be covering models that are used in social science as comprehensive as a stand alone causal analysis class; nor would the class be covering models in ML as comprehensive as a stand alone ML class. The objective of this class is to understand the use-cases where ML algorithms effectively complement existing statistical methods, and to build abilities to combine the two different areas, methodologies (if required) to better answer the questions using the data.)",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Ruoxuan Xiong - Primary Instructor",
+    "schedule_location": "TTh 5:30pm-6:45pm in Rich Building 211",
+    "course_resources": null,
+    "sections": "Class Nbr: 1485, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 5:30-6:45p, Instructor: R. Xiong, Status: Open",
+    "date_accessed": "2024-03-30"
+}

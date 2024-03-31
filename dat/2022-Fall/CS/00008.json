@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 334",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 68 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "This course will cover the underpinnings, algorithms, and practices that enable a computer to learn. Emphasis will be on fundamental theory and algorithms in statistical machine learning, and approaches to applying machine learning in a variety of domains.",
+    "prerequisites": "(CS224 or CS_OX 224) and (CS 253 or CS_OX 253) and (MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) or equivalent transfer credit as prerequisite.",
+    "instructors": "Li Xiong - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - W201",
+    "course_resources": null,
+    "sections": "Class Nbr: 3331, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Xiong, Status: Open",
+    "date_accessed": "2024-03-30"
+}

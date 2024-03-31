@@ -2,7 +2,7 @@
     "course_code": "MD 920",
     "course_title": "Translation: Elective: General Diagnostic Radiology",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 50",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 33",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MD_920_NaN_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 1365, Section #: RA01, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Segovis/Kelly, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

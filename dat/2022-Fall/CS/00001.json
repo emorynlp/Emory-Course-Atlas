@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 170",
+    "course_title": "Introduction To Computer Science I",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Enrollment is tiered for this course. Waitlists will be added  after the incoming first year preregistration in August.",
+    "course_description": "An introduction to Computer Science for students expecting to utilize serious computing in coursework, research, or employment. Emphasis is on computing concepts, programming principles, algorithm development and basic data structures, using the Java programming language and Unix operating system.",
+    "prerequisites": null,
+    "instructors": "Davide Fossati - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4127, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p; F 8-8:50a, Instructor: D. Fossati, Status: Open\nClass Nbr: 4129, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p; F 9-9:50a, Instructor: D. Fossati, Status: Open\nClass Nbr: 4130, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p; F 10-10:50a, Instructor: D. Fossati, Status: Open\nClass Nbr: 4133, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p; F 11-11:50a, Instructor: D. Fossati, Status: Open\nClass Nbr: 4137, Section #: 5, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p; F 3-3:50p, Instructor: D. Fossati, Status: Open\nClass Nbr: 4139, Section #: 6, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p; F 4-4:50p, Instructor: D. Fossati, Status: Open\nClass Nbr: 4185, Section #: 7, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p; F 5-5:50p, Instructor: D. Fossati, Status: Open",
+    "date_accessed": "2024-03-30"
+}

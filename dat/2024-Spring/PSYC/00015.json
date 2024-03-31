@@ -2,10 +2,10 @@
     "course_code": "PSYC 322",
     "course_title": "Biological Basis/Learning & Memory",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 0Waitlist Total: 6",
-    "waitlist_total": ": 6",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Wait List",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Fall",
     "requirement_designation": "Science, Nature, Technology",
@@ -17,6 +17,6 @@
     "instructors": "Joseph Manns - Primary Instructor",
     "schedule_location": "TTh 2:30pm-3:45pm in New Psyc Bldg 290 (36 Eagle Ro",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_PSYC_322_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 3625, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: J. Manns, Status: Wait List",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3625, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: J. Manns, Status: Open",
+    "date_accessed": "2024-03-31"
 }

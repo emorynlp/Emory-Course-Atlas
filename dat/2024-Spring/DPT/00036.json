@@ -1,8 +1,8 @@
 {
-    "course_code": "DPT 980",
-    "course_title": "Advanced Extremities",
+    "course_code": "DPT 977",
+    "course_title": "From Clinic To Kitchen: Applied Nutrition for Physical Therapists",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 28 / Seats Avail: 28",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 12",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-02 through 2024-05-10",
     "class_notes": null,
-    "course_description": null,
+    "course_description": "A growing movement in healthcare embraces the paradigm that food is medicine and the integration of concepts of sustainability is supportive of wellness. This course, offered in conjunction with Emory College, Emory Student Health Services and Emory Campus Life, teaches students applied nutrition education in the context of a Physical Therapy practice. Students will learn how to identify nutrition related concerns which may be adversely affecting health.",
     "prerequisites": null,
     "instructors": "Marie A Johanson - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_980_0_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1536, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Johanson/Zych, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_977_0_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1630, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
 }

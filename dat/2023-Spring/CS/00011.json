@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 334",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 70 / Seats Avail: 10Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "This course will cover the underpinnings, algorithms, and practices that enable a computer to learn. Emphasis will be on fundamental theory and algorithms in statistical machine learning, and approaches to applying machine learning in a variety of domains.",
+    "prerequisites": "(CS224 or CS_OX 224) and (CS 253 or CS_OX 253) and (MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) or equivalent transfer credit as prerequisite.",
+    "instructors": "Amin Pouriyeh - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in White Hall 207",
+    "course_resources": null,
+    "sections": "Class Nbr: 3374, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Pouriyeh, Status: Open",
+    "date_accessed": "2024-03-30"
+}

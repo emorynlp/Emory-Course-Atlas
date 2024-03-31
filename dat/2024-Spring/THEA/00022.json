@@ -2,10 +2,10 @@
     "course_code": "THEA 385",
     "course_title": "Special Topics: Human Health &the Applied Arts",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 7Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 0Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -15,8 +15,8 @@
     "course_description": "Individual courses designed to introduce students to special topics in theater.",
     "prerequisites": null,
     "instructors": "Erica Craig - Primary Instructor",
-    "schedule_location": "MW 11:30am-12:45pm in Tarbutton Hall 105",
+    "schedule_location": "MW 11:30am-12:45pm in Rich Building 205",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_THEA_385_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4575, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: E. Craig, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4575, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: E. Craig, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

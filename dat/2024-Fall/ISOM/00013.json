@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 640",
+    "course_title": "Coding for Financial Insights",
+    "credit_hours": "1.5",
+    "seats": "Seats: Maximum Enrollment: 36 / Seats Avail: 36Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "This course introduces coding for financial analysis using Python. Python is the most popular programming language (globally) due to its simplicity, versatility, and community support and is widely used in computational finance. This course will give students, with little or no prior programming experience, working knowledge of programming in Python and in using the Python data analysis package Pandas to compute analytical solutions for financial insights. The course will also address using Python to obtain data both from databases and the web more generally. The goal is not only to learn about programming, but also to enhance students¿ analytical thinking and ability to frame and solve problems. To complement and apply the learning we will use business examples drawn from applications in finance.",
+    "prerequisites": null,
+    "instructors": "George Easton - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in Goizueta Business School 400",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ISOM_640_4201_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4848, Section #: 4201, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: G. Easton, Status: Open",
+    "date_accessed": "2024-03-29"
+}

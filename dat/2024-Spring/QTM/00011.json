@@ -2,8 +2,8 @@
     "course_code": "QTM 210",
     "course_title": "Probability and Statistics",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 75 / Seats Avail: 51Waitlist Total: 0",
-    "waitlist_total": ": 0",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 2354, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: D. Cordeiro Moreira, Status: Open\nClass Nbr: 2355, Section #: 2, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2354, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: D. Cordeiro Moreira, Status: Open\nClass Nbr: 2355, Section #: 2, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Cordeiro Moreira/Itkyal, Status: Open",
+    "date_accessed": "2024-03-31"
 }

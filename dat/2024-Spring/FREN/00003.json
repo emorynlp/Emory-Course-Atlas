@@ -2,10 +2,10 @@
     "course_code": "FREN 190",
     "course_title": "Freshman Seminar: French: What is African Cinema?",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 2",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "First Year Seminar",
@@ -15,8 +15,8 @@
     "course_description": "This freshman seminar will focus on themes in French culture from social history, the arts, and current information media. Cross-cultural comparisons provide a rich basis for discussion.",
     "prerequisites": null,
     "instructors": "Subha Xavier - Primary Instructor",
-    "schedule_location": "TTh 11:30am-12:45pm in Callaway Center N118",
+    "schedule_location": "TTh 11:30am-12:45pm in Callaway Center C202",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_FREN_190_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 4587, Section #: 2, Type: SEM, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: S. Xavier, Status: Closed",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4587, Section #: 2, Type: SEM, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: S. Xavier, Status: Open",
+    "date_accessed": "2024-03-30"
 }

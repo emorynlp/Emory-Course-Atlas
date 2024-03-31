@@ -1,8 +1,8 @@
 {
-    "course_code": "HPM 561",
-    "course_title": "Fundamentals Of Public Health Law",
-    "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 75 / Seats Avail: 39",
+    "course_code": "HPM 562",
+    "course_title": "Health Insurance Concepts",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 22",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-16 through 2024-04-29",
-    "class_notes": "HPM students only.",
-    "course_description": "Introduces students to the sources of American legal authority for public health actions, such as the United States Constitution, state and federal statutes and regulations, and the common law, as well as the division of legal authority between the federal government and the states and legal protections for individual rights. Addresses topics such as the philosophical underpinnings of American law, the structure and function of the Constitution, the regulation of health risks, public health governance, and the role of law in policy making. Through several case studies, explores the law of vaccination, communicable disease control, injury prevention, and other public health activities, while giving students an experience in legal thinking.",
-    "prerequisites": "This class is for HPMMPH or HPMMSPH students only.",
-    "instructors": null,
-    "schedule_location": "T 5pm-6:50pm in Grace Crum Rollins TBA",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_HPM_561_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1223, Section #: 1, Type: LEC, Campus: ATL, Meets: T 5-6:50p, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "class_notes": null,
+    "course_description": "Introduces the basic structure, pricing, and management of financial risks by private health insurance plans, and the estimation of future expenditures for public health insurance programs. Examines the operation of health insurance plans from both the buyer and the insurer perspectives; how health plans employ actuarial estimates to project the cost of their benefit packages and determine the premiums they charge; and methodology as it pertains to the projection of costs in public health insurance programs.",
+    "prerequisites": null,
+    "instructors": "Curtis S Florence II - Primary Instructor",
+    "schedule_location": "Th 4pm-6:50pm in R. Randall Rollins Bldg. R344",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_HPM_562_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1208, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 4-6:50p, Instructor: C. Florence II, Status: Open",
+    "date_accessed": "2024-03-30"
 }

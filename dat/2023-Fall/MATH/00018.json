@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 385",
+    "course_title": "Topics in Mathematics: Prog. for Math.of Data Science",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Wait List",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "This topics course introduces programming in Python, with an emphasis on the mathematical theory behind popular machine learning algorithms and the efficient computational methods and tools to implement these algorithms.\nPrerequisites: MATH 221, MATH 210/211 (can be taken concurrently), MA315 (recommended) and CS 170\nStudents with the appropriate perquisites will need a permission code to register. Please contact Taylr Tuggle (tatuggl@emory.edu) for permission.",
+    "course_description": "Rotating topics in mathematics. May be repeated for credit when the topic varies. Pre and co requisites depend on the topic offered.",
+    "prerequisites": null,
+    "instructors": "Yuanzhe Xi - Primary Instructor",
+    "schedule_location": "MW 8:30am-9:45am in Math & Science Center - W307C",
+    "course_resources": null,
+    "sections": "Class Nbr: 1938, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: Y. Xi, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

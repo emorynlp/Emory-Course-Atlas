@@ -2,7 +2,7 @@
     "course_code": "CHEM 340",
     "course_title": "Biochemistry",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 20Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 23Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "MW 8:30am-9:45am in Atwood Chemistry Bldg. 215",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CHEM_340_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 3033, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: M. Raj, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

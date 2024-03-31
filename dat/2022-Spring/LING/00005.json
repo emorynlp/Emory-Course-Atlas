@@ -1,0 +1,22 @@
+{
+    "course_code": "LING 214",
+    "course_title": "Meaning in Human Language",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 8",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": "Particulars: This class is NOT an introductory Linguistics course. It will be assumed that students are already familiar with the goals of linguistic inquiry and the methods of basic syntactic analysis (trees). If you have not taken Foundations of Linguistics, Spanish Linguistics, or an equivalent course, you will be required to do extra self-instructional work at the beginning of the semester.\n\n\nMuch of the language you hear over the course of a day consists of sentences you have never heard before, and yet you are able to understand them. How is this possible? The principle of compositionality states that the meaning of a sentence is determined by the meanings of its words and the way they are combined. In the first part of this course, students will learn a system for doing just this - combining phrase structure trees and computing the meanings that result, using the formal language of predicate logic to represent sentence meanings. Then, in the second part of the course, we'll focus on utterance meaning - aspects of meaning that go beyond what is shown in the predicate logic. For example, what enables us to understand a sentence like `There's ice cream on your shirt' as a simple informative description in some contexts, as an accusation in others, and as a warning in still others? We'll discuss speech acts, implicature, presupposition and other aspects of utterance meaning as we explore the close relationship between semantics and pragmatics.\n\n\nAll required readings will be made available online.",
+    "course_description": "The course focuses on the study of meaning in language, particularly from the perspectives of semantics (the study of how meaning is related to words and sentences) and pragmatics (the study of how meaning is realized during communication in specific contexts of use).",
+    "prerequisites": null,
+    "instructors": "Marjorie Pak - Primary Instructor",
+    "schedule_location": "TTh 8:30am-9:45am in Callaway Center C101",
+    "course_resources": null,
+    "sections": "Class Nbr: 1784, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: M. Pak, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 641",
+    "course_title": "Data Visualization for Finance",
+    "credit_hours": "1.5",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 32Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-10-17",
+    "class_notes": null,
+    "course_description": "In Financial Analysis and Visualization we explore the techniques and tools used to create effective visualizations that clearly and efficiently communicate relationships within financial data. The field of data visualization combines the art of graphic design with the science of data analytics. Students perform exploratory analysis through visualization, create professional and engaging visualizations for use in financial decision processes, and design interactive visualizations and dashboards. The course considers the common quantitative messages users attempt to understand or communicate from a set of data and the associated visualizations used to help communicate each message. These include time series, rankings, proportions, deviations, frequencies and distributions, correlations, categorical comparisons, and geospatial plots. Students analyze real data sets and utilize R, Power BI, and other tools to design and prototype their visualizations.",
+    "prerequisites": "This section is reserved for students in the MAF program.",
+    "instructors": "Bill McKinnon - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Goizueta Business School 400",
+    "course_resources": null,
+    "sections": "Class Nbr: 5103, Section #: 4201, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: B. McKinnon, Status: Open",
+    "date_accessed": "2024-03-30"
+}

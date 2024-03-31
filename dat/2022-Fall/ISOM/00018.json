@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 557",
+    "course_title": "Management Science in Spreadsheets",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-08 through 2022-08-23",
+    "class_notes": "August 13, 14, 20, 21:  9 AM - 5:30 PM\nAugust 16, 18: 6 - 9:30 PM",
+    "course_description": "This course covers traditional management science techniques such as linear programming, integer programming, and simulation. The emphasis of the course is on practical problem solving. All work is performed in Excel. However, little knowledge of Excel is necessary to begin the class. The particular problems of the course are slanted to attract those interested in finance and operations, but also include some marketing and HR problems. Finance oriented topics include asset allocation, arbitrage, short term cash flow planning, and balance sheet management, among others. Operations oriented topics include production planning, facility location, labor scheduling, blending, and others. The class is \"hands on.\" It will be necessary to have a computer with you in class.",
+    "prerequisites": "Varies by section",
+    "instructors": "Diwas KC - Primary Instructor",
+    "schedule_location": "SaSu 9am-5:30pm in Goizueta Business School 331\nTTh 6pm-9:30pm in Goizueta Business School 331",
+    "course_resources": null,
+    "sections": "Class Nbr: 2132, Section #: 2195, Type: LEC, Campus: ATL, Meets: TTh 6-9:30p; SaSu 9a-5:30p, Instructor: D. KC, Status: Open\nClass Nbr: 2133, Section #: 2295, Type: LEC, Campus: ATL, Meets: TTh 6-9:30p; SaSu 9a-5:30p, Instructor: D. KC, Status: Open\nClass Nbr: 2134, Section #: 3295, Type: LEC, Campus: ATL, Meets: TTh 6-9:30p; SaSu 9a-5:30p, Instructor: D. KC, Status: Open",
+    "date_accessed": "2024-03-30"
+}

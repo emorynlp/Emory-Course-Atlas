@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 421",
+    "course_title": "Abstract Algebra I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 9Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "Groups (definition and examples), cosets, Lagrange's Theorem, symmetric and alternating groups, Cayley's Theorem, isomorphisms, Cauchy's Theorem, quotient groups and homomorphisms, and the action of a group on a set. Additional topics may include the Sylow Theorems.",
+    "prerequisites": "(MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) and (MATH 250 or MATH_OX 250 or MATH 276) or equivalent transfer credit as prerequisite.",
+    "instructors": "Suresh Venapally - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Math & Science Center - E408",
+    "course_resources": null,
+    "sections": "Class Nbr: 1286, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: S. Venapally, Status: Open",
+    "date_accessed": "2024-03-30"
+}

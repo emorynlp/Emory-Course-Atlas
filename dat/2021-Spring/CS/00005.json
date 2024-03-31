@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 253",
+    "course_title": "Data Structures and Algorithms",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "A third course in Computer Science, focusing on advanced programming. Emphasis is on mastery in the use and implementation of data structures and algorithms for classical programming paradigms, using the Java programming language and object oriented\ndesign.",
+    "prerequisites": "CS 171 or 171Z or CS_OX 171 or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1459, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:40-3:55p, Instructor: C. Yang, Status: Open\nClass Nbr: 1893, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 9:40-10:55a, Instructor: M. Grigni, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,8 +1,8 @@
 {
     "course_code": "MDP 514R",
-    "course_title": "Applied Development Practice: Survey Design for Evaluation",
+    "course_title": "Applied Development Practice: Dev Finance & Impact Investing",
     "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 24",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 18",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -10,13 +10,13 @@
     "typically_offered": null,
     "requirement_designation": null,
     "permission": "Department Consent Required",
-    "dates": "2024-01-02 through 2024-01-14",
-    "class_notes": "This class will meet on Thursday 1/11 and Friday 1/12.\n\n\nCourse Description: This course provides a thorough exploration of survey principles and practical skills for program evaluation. It covers a wide range of topics, such as the significance of surveys, survey types, survey design, crafting effective survey questions based on evaluation objectives, data collection techniques, survey administration, data analysis, and dissemination considerations. Participants will actively engage in hands-on activities and assignments, applying their knowledge. This includes learning how to formulate precise evaluation questions, select appropriate survey criteria, create unbiased questions, and explore deployment strategies. The course emphasizes data quality assurance and strategies to reduce bias during data collection. It also focuses on the nuances of question construction and logic to avoid common survey pitfalls. Through practical case examples and collaborative breakouts, students will have the opportunity to peer review evaluation questions and surveys. The course deliverable will allow students to practice the design and planning for surveys, gaining practical experience in the field. Ultimately, this course equips students with the knowledge and skills necessary to conduct high-quality surveys for program evaluation, enabling them to produce valuable and dependable data for program monitoring and decision making.",
+    "dates": "2024-01-16 through 2024-03-04",
+    "class_notes": "This course will be held at 1599 Clifton Rd. room 5C.\n\n\nThis course will be on the following dates: Jan 22, Jan 29, Feb 5, Feb 12, Feb 19, Feb 26, Mar 4\n\n\nCourse Description: This course will start with a broad overview of development finance and look at its application internationally and domestically. The course will bring in guest speakers with focused disciplines that give insights into the opportunities and challenges of their space. An applied skill in class or homework exercise will be a part of each week.",
     "course_description": "Applied Development is a module-based course through which experts from leading global development agencies (CARE, Habitat, World Bank, etc.) present students with a practical approach to various components of global development. Topics of discussion may include microfinance, resettlement, housing, market inclusion, education, or health topics. Experts allow students increased access to development agencies, while offering a practical approach to lectures and in-class exercises. Many of these modules and activities will be tied to case-studies and hands-on learning activities.",
     "prerequisites": null,
-    "instructors": null,
-    "schedule_location": "ThF 9am-5pm in New Psyc Bldg 225 (36 Eagle Ro",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MDP_514R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3569, Section #: 1, Type: LEC, Campus: ATL, Meets: ThF 9a-5p, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Patrick Kelley - Primary Instructor",
+    "schedule_location": "M 9am-11am",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MDP_514R_2_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3636, Section #: 2, Type: LEC, Campus: ATL, Meets: M 9-11a, Instructor: P. Kelley, Status: Open",
+    "date_accessed": "2024-03-30"
 }

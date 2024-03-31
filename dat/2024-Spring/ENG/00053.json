@@ -1,8 +1,8 @@
 {
-    "course_code": "ENG 789",
-    "course_title": "Special Topics In Literature: The Work of Memory",
-    "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 4 / Seats Avail: 2",
+    "course_code": "ENG 799R",
+    "course_title": "Doctoral Dissertation",
+    "credit_hours": "1-12",
+    "seats": "Seats: Maximum Enrollment: 99 / Seats Avail: 83",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "(Same as CPLT 751R 2, ANT 585 7, HIST 585 4)\n\n\n\"The Work of Memory\" | This course will review some of the key texts and concepts in the emerging field of Memory Studies, with particular emphasis on the connections (and tensions) between history (what happened) and memory (what is remembered and how). In this context, we will explore some of the terms in which memory is talked about, including the distinctions between public, collective, social or cultural, memory, on the one hand, and private, personal, or autobiographical, memory, on the other hand. We will consider the political, ethical, social, aesthetic, and psychological dimensions of remembering \"and its counterpart, forgetting\" and consider some of the ways in which perspectives and approaches from the field of Memory Studies might offer useful analytical and hermeneutic tools for our work.\nWeekly responses to the readings and a semester project.",
-    "course_description": "Various topics, such as theoretical, generic, or cultural studies of literature.",
+    "class_notes": null,
+    "course_description": "Students who have reached candidacy and are working on dissertation completion are enrolled in this course and supervised by their advisor as they complete their degree requirements.",
     "prerequisites": null,
-    "instructors": "Angelika Bammer - Primary Instructor",
-    "schedule_location": "W 4pm-7pm in Woodruff Library 214",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_789_7_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5343, Section #: 7, Type: SEM, Campus: ATL, Meets: W 4-7p, Instructor: A. Bammer, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Nathan Suhr-Sytsma - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENG_799R_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2616, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: N. Suhr-Sytsma, Status: Open",
+    "date_accessed": "2024-03-30"
 }

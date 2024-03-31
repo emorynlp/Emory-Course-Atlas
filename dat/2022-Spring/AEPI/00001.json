@@ -1,0 +1,22 @@
+{
+    "course_code": "AEPI 534D",
+    "course_title": "Applied Epidemiology II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 2",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-07 through 2022-04-10",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership. Additional meeting times in January Saturday,  4:30-6:00 pm, and Sunday, 12:00-1:30 pm.  EMPH Opening Weekend is 1/7-1/9 and Closing Weekend is 4/8-4/10.",
+    "course_description": "Continuing from Applied Epidemiology I, further insight into confounding is explored as well as effect modification. Methods of hypothesis formulation and analysis of 2x2 tables (point estimation and confidence levels) are described in detail as well as sample size calculations. Different approaches to control for extraneous variables in the design of studies are presented, such as randomization, matching, and restriction. The use of stratification for assessing effect modification and confounding is provided followed by an introduction to mathematical modeling. Different issues in the use of matching in case- control studies are presented. Statistical packages such as SAS and OpenEpi are used.",
+    "prerequisites": "AEPI 530D and BIOS 516D as prerequisites or by special permission to enroll.",
+    "instructors": "Jeremy Grey - Primary Instructor",
+    "schedule_location": "F 12:30pm-3:30pm in Claudia Nance Rollins 1034\nSa 1pm-4pm in Claudia Nance Rollins 1034\nSa 4:30pm-6pm in Claudia Nance Rollins 1034\nSu 12pm-1:30pm in Claudia Nance Rollins 1034",
+    "course_resources": null,
+    "sections": "Class Nbr: 3297, Section #: 901, Type: LEC, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p; Sa 4:30-6p; Su 12-1:30p, Instructor: J. Grey, Status: Open",
+    "date_accessed": "2024-03-30"
+}

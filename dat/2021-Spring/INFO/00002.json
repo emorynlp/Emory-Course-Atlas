@@ -1,0 +1,22 @@
+{
+    "course_code": "INFO 532",
+    "course_title": "Advanced Geographical Information Systems",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 31",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-03-15 through 2021-05-05",
+    "class_notes": "Class meets second 1/2 of the semester.  This is an online synchronous class.",
+    "course_description": "The course continues the use of geographic information systems (GIS) in the analysis of public health data and adds more advanced features. We develop GIS skills through homework, quizzes and a final project, and particularly build upon the skills learned in INFO 530 such as map layouts, visualization, basic spatial statistics, and basic GIS operations such as buffering, layering, summarizing, geocoding, digitizing and spatial queries. We add new topics such as raster analysis open source GIS, (qgis), geo databases, story maps, and making maps in R..",
+    "prerequisites": null,
+    "instructors": "Megan Slemons - Primary Instructor",
+    "schedule_location": "MW 10:15am-12:05pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4529, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10:15a-12:05p, Instructor: Slemons/Rissier, Status: Open",
+    "date_accessed": "2024-03-30"
+}

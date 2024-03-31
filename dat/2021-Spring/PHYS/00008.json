@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 222",
+    "course_title": "Fundamentals of Engineering Design",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 13",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": "Science, Nature, Technology",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "This course builds on thebasics of the introductory science courses, including the basics of quantum mechanics in PHYS 253 Modern Physics (or its equivalent Physical Chemistry course), to understand the fundamental principles of how various engineering applications and devices work.",
+    "prerequisites": "(PHYS 142 or PHYS_OX 142 or PHYS 152 or PHYS_OX 152) and (MATH 112 or MATH_OX 112 or MATH 112Z or MATH 116) and (CHEM 205 or CHEM_OX 205 or CHEM 331 or PHYS 253 or PHYS_OX 253) or equivalent transfer credit as prerequisite.",
+    "instructors": "Connie Roth - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 3431, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: C. Roth, Status: Open",
+    "date_accessed": "2024-03-30"
+}

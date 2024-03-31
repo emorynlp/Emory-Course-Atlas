@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 569",
+    "course_title": "Concepts and Methods in ID Epidemiology",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 75 / Seats Avail: 12",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Prerequisites: EPI 530 or EPI 504 and R experience required.  EPI 534 or BIOS591P preferred and R Bootcamp highly recommended. Priority registration to enrolled ID Certificate 2nd year students until March 3/30. EPI/GLEPI/EH-EPI and ID Certificate students may enroll March 30 through April 2.  All others may register on or after April 3.",
+    "course_description": "Prerequisites: EPI 530, EPI 540, EPI 534, and experience using R. The course will provide an overview of the history, concepts and analytical methods that specifically apply to the study of infectious diseases. Topics covered include measures of frequency, burden and natural history; immune-epidemiology; vaccine epidemiology; methods for emerging infectious diseases; fundamentals of modeling and the application of classic epi methods to infectious diseases. This is a required course for the Infectious Disease Epidemiology certificate program.",
+    "prerequisites": null,
+    "instructors": "Ben Lopman - Primary Instructor",
+    "schedule_location": "T 9am-11:50am",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_EPI_569_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1474, Section #: 1, Type: LEC, Campus: ATL, Meets: T 9-11:50a, Instructor: Lopman/McQuade, Status: Open",
+    "date_accessed": "2024-03-28"
+}

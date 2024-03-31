@@ -2,10 +2,10 @@
     "course_code": "PSYC_OX 210",
     "course_title": "Adult Psychopathology",
     "credit_hours": "3",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 0Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall",
     "requirement_designation": "Natural Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": "Kenneth E Carter - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4247, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: K. Carter, Status: Open\nClass Nbr: 4248, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: K. Carter, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4247, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: K. Carter, Status: Wait List\nClass Nbr: 4248, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: K. Carter, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

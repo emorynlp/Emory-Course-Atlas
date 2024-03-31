@@ -2,10 +2,10 @@
     "course_code": "JPN 275",
     "course_title": "Nature and Culture in Japan",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 3",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Humanities and Arts(*)",
@@ -15,8 +15,8 @@
     "course_description": "We examine the interaction between the human and natural world in Japanese cultural and scientific history by looking at maps, literature, scriptures, visual media, and current journalism.",
     "prerequisites": null,
     "instructors": "Cheryl Crowley - Primary Instructor",
-    "schedule_location": "TTh 10am-11:15am in Ignatius Few Building_129",
+    "schedule_location": "TTh 10am-11:15am in Woodruff Library 773",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_JPN_275_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2260, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: C. Crowley, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 2260, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: C. Crowley, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

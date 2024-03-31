@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 224",
+    "course_title": "Foundations of Computer Science",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "An introductory course in the theory of Computer Science, focusing on analysis of discrete structures with applications. Emphasis is on developing familiarity with notation, computational acuity and creative problem solving skills.",
+    "prerequisites": "(CS 170 or CS_OX 170) and (MATH 111 or MATH_OX 111) or equivalent transfer credit as prerequisites.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3346, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: N. Thakur, Status: Open\nClass Nbr: 3348, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Pouriyeh, Status: Open",
+    "date_accessed": "2024-03-30"
+}

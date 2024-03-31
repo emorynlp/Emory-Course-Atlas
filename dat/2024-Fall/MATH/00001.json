@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 111",
+    "course_title": "Calculus I",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Limits, continuity, derivatives, antiderivatives, the definite integral.",
+    "prerequisites": "Students completing MATH 119 or equivalent cannot enroll for MATH 111. For concerns, please contact the Mathematics department.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3002, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: F. Brarda, Status: Open\nClass Nbr: 3036, Section #: 10, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: G. Johnston, Status: Open\nClass Nbr: 3038, Section #: 11, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: E. Hart, Status: Open\nClass Nbr: 3041, Section #: 12, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: L. Molinari, Status: Open\nClass Nbr: 3003, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: E. Buser, Status: Open\nClass Nbr: 3006, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: N. Gupta, Status: Open\nClass Nbr: 3007, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: R. Hernandez, Status: Open\nClass Nbr: 3008, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Molnar, Status: Open\nClass Nbr: 3019, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: R. Bahl, Status: Open\nClass Nbr: 3025, Section #: 7, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: S. Longbrake, Status: Open\nClass Nbr: 3026, Section #: 8, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: S. Chaudhury, Status: Open\nClass Nbr: 3034, Section #: 9, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: N. Gupta, Status: Open",
+    "date_accessed": "2024-03-29"
+}

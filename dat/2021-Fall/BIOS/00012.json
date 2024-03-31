@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 522",
+    "course_title": "Survival Analysis Methods",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 22 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "**Permission of Instructor or BIOS ADAP required**",
+    "course_description": "Prerequisites: BIOS 508, BIOS 509, BIOS 512, and BIOS 513 or permission of instructor. This course aims to develop basic understanding of statistical concepts and methods related to the analysis of survival data. The concepts to be introduced include survival functions, hazard rates, types of censoring and truncation. Methods of focus are life table, Kaplan-Meier and Nelson-Aalen estimates, log-rank tests, Cox regression. models, and parametric regression models. Students will learn how to implement standard survival analysis methods using SAS or R and appropriately interpret results. Examples and homework assignments based on real life data will give students the opportunity to analyze survival data and produce reports of their methods, results and conclusions.",
+    "prerequisites": null,
+    "instructors": "Jose Binongo - Primary Instructor",
+    "schedule_location": "M 10:10am-12pm in Claudia Nance Rollins 1051",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 5063, Section #: 1, Type: LEC, Campus: ATL, Meets: M 10:10a-12p, Instructor: Binongo/Dai, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

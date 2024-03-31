@@ -1,8 +1,8 @@
 {
-    "course_code": "LAW 654",
-    "course_title": "Jury Selection",
+    "course_code": "LAW 640",
+    "course_title": "Federal Income Taxation",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 16",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 33",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-08 through 2024-04-22",
-    "class_notes": "Final Assessment: Scheduled In-Class Exam\nThis course is eligible to be counted towards the requirements for the J.D. concentration in Criminal Litigation.",
-    "course_description": "Students will learn by doing the art and social science of jury selection. The primary focus of this class will be weekly workshops where four students will be advocates, and the remaining students will serve as the venire. There will also be a weekly topical lecture focusing on current issues in jury selection related to implicit bias, using peremptory challenges, and other current related issues.",
+    "class_notes": "Final Assessment: Scheduled In-Class Exam",
+    "course_description": "This is an introductory course on the federal income taxation of individuals. The course provides an overview of the basic legal doctrine with an emphasis on statutory interpretation and income-tax policy. Topics include: (1) Taxable income (forms of receipt, fringe benefits, gifts and bequests, basis recovery, the realization requirement, borrowing, and individual tax shelters); (2) Deductions and credits (business expenses, capital expenditures, depreciation, and losses); (3) Assignment of income; and (4) Capital gains and losses.",
     "prerequisites": null,
-    "instructors": "Annie Deets - Primary Instructor",
-    "schedule_location": "M 5pm-8pm",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_654_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5285, Section #: 001, Type: LEC, Campus: ATL, Meets: M 5-8p, Instructor: A. Deets, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Alex Zhang - Primary Instructor",
+    "schedule_location": "MW 1:30pm-3pm in Gambrell Hall 5C",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_640_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4150, Section #: 001, Type: LEC, Campus: ATL, Meets: MW 1:30-3p, Instructor: A. Zhang, Status: Open",
+    "date_accessed": "2024-03-30"
 }

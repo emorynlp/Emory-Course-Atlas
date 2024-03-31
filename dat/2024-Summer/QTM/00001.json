@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 100",
+    "course_title": "Intro to Stat Inference",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "Varies by section",
+    "class_notes": "Varies by section",
+    "course_description": "Intro to descriptive and inferential stats with emphasis on practice and implementation. Introduces basic statistical concepts and encourages critical thinking about data. A primary focus of the course is on implementation of appropriate statistical analysis and interpretation of results.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1200, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 9:45-11:15a, Instructor: D. Cordeiro Moreira, Status: Open\nClass Nbr: 1201, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-1p, Instructor: H. Kim, Status: Open\nClass Nbr: 1470, Section #: 3, Type: LAB, Campus: ATL, Meets: F 9:45-10:45a, Instructor: D. Cordeiro Moreira, Status: Open\nClass Nbr: 1475, Section #: 4, Type: LAB, Campus: ATL, Meets: F 11:30a-12:30p, Instructor: H. Kim, Status: Open",
+    "date_accessed": "2024-03-29"
+}

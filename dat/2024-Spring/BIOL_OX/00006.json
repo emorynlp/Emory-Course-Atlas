@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 4475, Section #: 1, Type: RSC, Campus: OXF, Meets: Does Not Meet, Instructor: E. Mclean, Status: Open\nClass Nbr: 4476, Section #: 2, Type: RSC, Campus: OXF, Meets: Does Not Meet, Instructor: L. Taliaferro-Smith, Status: Open\nClass Nbr: 4477, Section #: 3, Type: RSC, Campus: OXF, Meets: Does Not Meet, Instructor: S. Lawrence, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 4475, Section #: 1, Type: RSC, Campus: OXF, Meets: Does Not Meet, Instructor: E. Mclean, Status: Closed\nClass Nbr: This section is full 4476, Section #: 2, Type: RSC, Campus: OXF, Meets: Does Not Meet, Instructor: L. Taliaferro-Smith, Status: Closed\nClass Nbr: This section is full 4477, Section #: 3, Type: RSC, Campus: OXF, Meets: Does Not Meet, Instructor: S. Lawrence, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

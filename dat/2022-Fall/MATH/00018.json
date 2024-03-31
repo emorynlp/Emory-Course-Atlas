@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 351",
+    "course_title": "Partial Differential Equations",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 45 / Seats Avail: 26Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "PDEs and their origin, classification of PDEs, analytical methods for the solution of PDEs, qualitative properties of the solutions, eigenvalue problems and introduction to numerical methods.",
+    "prerequisites": "(MATH 211 or MATH_OX 211 or MATH 276) and (MATH 212 or MATH_OX 212) and (MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) or equivalent transfer credit as prerequisite.",
+    "instructors": "Maja Taskovic - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Math & Science Center - W201",
+    "course_resources": null,
+    "sections": "Class Nbr: 3808, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: M. Taskovic, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOL 301",
+    "course_title": "Biochemistry I",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Science, Nature, Technology",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "The cell is an amazing network of self-organizing machinery that drives life in all its forms.  This course begins by defining the molecular wheels and cogs of the cell's machines and how their capabilities are defined by their chemistries.  The chemistries of each component are then explored to understand how they contribute to the operation and control of the cellular machinery.  We will further explore how all of the cellular components are governed, by kinetic and non-kinetic controls, to produce a coherent and responsive metabolism that efficiently creates and utilizes the energy stored in chemical compounds, such as glucose and fats.  Human metabolic disorders such as diabetes will provide models of how metabolism is controlled at the systematic level in complex organisms using biochemical signaling pathways to coordinate metabolic pathways in different tissues.  Prerequisites:  Biology 142, 142L, and Chemistry 203.  This course will fulfill elective credit for the Biology major and should provide students with a firm foundation in Biochemistry.",
+    "course_description": "An integrated approach to the synthesis, structure, and function of macromolecular biomolecules, including proteins, carbohydrates, DNA, and RNA.",
+    "prerequisites": "[(BIOL 142 and BIOL 142L) or (BIOL_OX 142)] and (CHEM 203 or CHEM 203Z or CHEM_OX 203 or CHEM 221 or CHEM_OX 221 or CHEM 221Z) or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1074, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: A. Escobar, Status: Open\nClass Nbr: 1076, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: W. Kelly, Status: Open",
+    "date_accessed": "2024-03-30"
+}

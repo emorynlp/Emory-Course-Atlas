@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 590R",
+    "course_title": "EPI Seminar: R Bootcamp for Epidemiology",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 100 / Seats Avail: 49",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-19 through 2024-08-23",
+    "class_notes": "R Bootcamp: Pre-requisite: EPI 534, BIOS 544, or similar R course.  This course introduces best practices for conducting reproducible epidemiologic analyses in R. Topics include the R project and package management system, reproducible tables and statistical output, writing reports or manuscripts in quarto, developing a workflow using the targets package, and version control using Git/GitHub. This fast-paced course will intersperse short lectures with activities in R, building up to a full-blown reproducible project. This is a pre-term class that will meet August 14th and 15th, 9am-5pm.",
+    "course_description": "Various topics by Epi faculty. Check OPUS/Atlas for current topics and descriptions.",
+    "prerequisites": null,
+    "instructors": "Louisa Smith - Secondary Instructor",
+    "schedule_location": "MT 8am-5pm",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_EPI_590R_3_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1390, Section #: 3, Type: SEM, Campus: ATL, Meets: MT 8a-5p, Instructor: L. Smith, Status: Open",
+    "date_accessed": "2024-03-28"
+}

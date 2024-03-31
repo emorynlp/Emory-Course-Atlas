@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Individual Causal Effects",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 25Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": "(Permission Required Prior to Enrollment)\nPrerequisites: [QTM 220 or ECON 320], QTM 110, QTM 150, [QTM 210 or ECON 220 or MATH 362], [MATH 210 or MATH 211], and MATH 221.\nPermission code request form (same for all QTM courses: https://forms.office.com/r/UhnG2BB437\n\n\nModern approaches to causal inference focus on estimating average treatment effects, but in everyday life and in fields like business, the social sciences, and medicine, we are interested in treatment effects for individuals. This course surveys estimation and inference techniques for individual treatment effects from the classical (Mill's methods) to the modern (synthetic control type methods). Topics covered include a review of methods for average treatment effects, frequentist and Bayesian approaches, prediction intervals, and permutation methods.",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Elisha Cohen - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Tarbutton Hall 218",
+    "course_resources": null,
+    "sections": "Class Nbr: 2915, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: Glynn/Cohen, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 502",
+    "course_title": "Statistical Methods III",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 19",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Pre-requisites: BIOS 500 & 501, or permission of the instructor.",
+    "course_description": "Prerequisites: BIOS 500 & BIOS 501 or permission of instructor.We start with data analytic methods not covered in BIOS 500 & BIOS 501 (Statistical Methods I & II). We then focus on multilevel modeling of intra- and inter-individual change. Other hierarchical models will also be examined to analyze other types of clustered data. As in the prerequisite courses, we will learn how to specify an appropriate model so that specific research questions of interest can be addressed in a methodologically sound way. Students will use SAS to perform the statistical analyses.",
+    "prerequisites": null,
+    "instructors": "Jose Binongo - Primary Instructor",
+    "schedule_location": "TTh 10:30am-11:50am in Claudia Nance Rollins 1051",
+    "course_resources": null,
+    "sections": "Class Nbr: 1760, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10:30-11:50a, Instructor: Binongo/He, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 210",
+    "course_title": "Advanced Calculus for Data Sciences",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 8Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": "Varies by section",
+    "permission": null,
+    "dates": "2023-06-26 through 2023-08-02",
+    "class_notes": null,
+    "course_description": "This course is a short treatment of MATH 112 and 211 with a lab component. It is not appropriate for students who have taken MATH 211. Topics include: advanced integration, Taylor series; and multivariable differentiation, optimization and integration; and applications to statistics and science.",
+    "prerequisites": "MATH 111 or MATH 111L or MATH_OX 111 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1453, Section #: 1, Type: LEC, Campus: ATL, Meets: MWF 10:30-11:30a, Instructor: N. Gupta, Status: Open\nClass Nbr: 1455, Section #: 3, Type: LAB, Campus: ATL, Meets: F 11:45a-12:45p, Instructor: Gupta/LEE, Status: Open",
+    "date_accessed": "2024-03-30"
+}

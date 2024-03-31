@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 480",
+    "course_title": "Computing Methods in Economics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 3",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "This course introduces students to the use of advanced computer science techniques for the economic analysis of observational data. It covers multi-processing programming for economic policy simulation, web scraping for sentiment analysis,  and network data and social interaction models.",
+    "prerequisites": "ECON 320 & CS 334 or equivalent transfer credit as prerequisites.",
+    "instructors": "Juan Rubio Ramirez - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - E301A",
+    "course_resources": null,
+    "sections": "Class Nbr: 6090, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: J. Rubio Ramirez, Status: Open",
+    "date_accessed": "2024-03-30"
+}

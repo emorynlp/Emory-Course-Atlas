@@ -1,0 +1,22 @@
+{
+    "course_code": "APHI 585D",
+    "course_title": "Informatics Solutions for Public Health Decision Making",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-08 through 2021-04-11",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership.",
+    "course_description": "The purpose of this course is to provide students an exploration of classic data warehouse and data fusion methods along with developing an understanding of the variability of data structures that support knowledge derivation and decision support in public health. The course will extend into new areas of knowledge and decision support methods and systems by exploring \"big data\" concepts and approaches to systems that support these new architectures. Another critical area for decision-making is the visualization of data. Data visualization, data reporting, and active data manipulation approaches and tools will be explored. This will include advanced tools like GIS, OLTP, and dashboard systems.\nThe introduction of concepts around data having the characteristics 'velocity', 'variability', and 'volume' is discussed and how they change a decision support system. Also the three stages of data evolution being dependent, independent, and now interdependent is explored to gain a clear understanding where data analytics and knowledge derivation for decision making is progressing. These concepts evolve beyond a classic understanding of using primary and secondary data sources for descriptive analytics and data mining, which are explored in contrast in the course. Further exploration in how structured and unstructured data sources can work together to create a robust decision support infrastructure meeting challenges we are facing in today's public health practice.\nConsistent with previous courses the methods taught will be driven from a derivation of the outcome-based or practice intent requirements to drive a decision support solution.\nThe students will extend their skills gained in precursor courses with the data life-cycle process to derive and deploy more complex technology solutions targeting the decision making and analytic processes in public health. The deployment of systems and tools that enable decision-making and data mining is very different than the basic data collection and aggregation systems previous examined in other courses where this course draws a distinction between the two ways of using data.",
+    "prerequisites": null,
+    "instructors": "Paula Edwards - Primary Instructor",
+    "schedule_location": "FSa 8:30am-11:30am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 4571, Section #: 901, Type: SEM, Campus: ATL, Meets: FSa 8:30-11:30a, Instructor: P. Edwards, Status: Open",
+    "date_accessed": "2024-03-30"
+}

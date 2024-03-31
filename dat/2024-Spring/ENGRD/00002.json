@@ -2,7 +2,7 @@
     "course_code": "ENGRD 123R",
     "course_title": "Communicative Grammar",
     "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 2",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "Varies by section",
+    "class_notes": "ENGRD 123 is an intensive grammar course designed specifically to prepare students for whom English is an additional language for the communicative expectations and challenges they may encounter over the course of their academic careers. This course will focus on researching, analyzing, and practicing English grammar to develop students' knowledge of form, meaning and usage, while providing continuous and responsive feedback.  Through a variety of activities and texts we will study, practice, and refine grammatical accuracy for the purpose of expressing clear and precise meanings.  At times I will use lecture and focused activities to introduce specific grammar points that are important for additional language learners; in other lessons, students will discover the nuances of grammar usage by reading texts or using corpus linguistics; additionally, students will have ample opportunity to practice and apply what they have learned to revise and refine their own academic writing. We will look at both more serious \"global\" concerns that can affect a reader's general comprehension of the work (such as verb tense) and less serious \"local\" concerns that can result in an impreciseness of meaning (such as verb form).  What are the choices we make as we construct meaning and how can different choices affect meaning? \nPermission only from Jane O'Connor.  Class to be taken with English Language Learning sections of ENGRD 101.  Other students may request the class.",
     "course_description": "Students who speak English as an additional language will research, analyze, and practice English Grammar to develop their knowledge of form, meaning, and usage in a communicative context.",
     "prerequisites": null,
     "instructors": "Jane O'Connor - Primary Instructor",
-    "schedule_location": "Varies by section",
-    "course_resources": null,
-    "sections": "Class Nbr: 3961, Section #: 1, Type: LEC, Campus: ATL, Meets: T 10-11:15a, Instructor: J. O'Connor, Status: Open\nClass Nbr: 5263, Section #: 2, Type: LEC, Campus: ATL, Meets: Th 1-2:15p, Instructor: J. O'Connor, Status: Open",
-    "date_accessed": "2023-10-31"
+    "schedule_location": "Th 1pm-2:15pm in MODERN LANGUAGE_219",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENGRD_123R_2_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5263, Section #: 2, Type: LEC, Campus: ATL, Meets: Th 1-2:15p, Instructor: J. O'Connor, Status: Open",
+    "date_accessed": "2024-03-30"
 }

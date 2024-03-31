@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 210",
+    "course_title": "Advanced Calculus for Data Sciences",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "This course is a short treatment of MATH 112 and 211 with a lab component. It is not appropriate for students who have taken MATH 211. Topics include: advanced integration, Taylor series; and multivariable differentiation, optimization and integration; and applications to statistics and science.",
+    "prerequisites": "MATH 111 or MATH 111L or MATH_OX 111 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1258, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: M. Carr, Status: Open\nClass Nbr: 5712, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: M. Carr, Status: Open\nClass Nbr: 1259, Section #: LAB1, Type: LAB, Campus: ATL, Meets: F 1-1:50p, Instructor: Carr/Newton, Status: Open\nClass Nbr: This section is full 1260, Section #: LAB2, Type: LAB, Campus: ATL, Meets: F 2:30-3:20p, Instructor: Carr/Newton, Status: Wait List\nClass Nbr: 5747, Section #: LAB3, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Carr/Auerbach, Status: Open\nClass Nbr: 5751, Section #: LAB4, Type: LAB, Campus: ATL, Meets: F 11-11:50a, Instructor: Carr/Auerbach, Status: Open",
+    "date_accessed": "2024-03-30"
+}

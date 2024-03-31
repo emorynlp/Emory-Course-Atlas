@@ -2,7 +2,7 @@
     "course_code": "BIOL 386",
     "course_title": "Special Topics with Laboratory: Molecular Biol./Biotech.LAB",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 10Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 7Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 3258, Section #: 1, Type: LEC, Campus: ATL, Meets: T 9a-12p, Instructor: S. Comstra, Status: Open\nClass Nbr: 4095, Section #: LAB, Type: LAB, Campus: ATL, Meets: Th 9a-12p, Instructor: S. Comstra, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 710",
+    "course_title": "Probability Theory II",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Pre-Requisites BIOS 512 & BIOS 513 or Permission from Instructor only",
+    "course_description": "Axioms of probability, univariate and multivariate distributions, convergence of sequences of random variables, Markov chains, random processes, martingales.",
+    "prerequisites": "BIOS 512 and BIOS 513 or equivalent transfer credit as prerequisites.",
+    "instructors": "Limin Peng - Primary Instructor",
+    "schedule_location": "TTh 10am-11:50am in Grace Crum Rollins P41",
+    "course_resources": null,
+    "sections": "Class Nbr: 4709, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:50a, Instructor: Peng/Yu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

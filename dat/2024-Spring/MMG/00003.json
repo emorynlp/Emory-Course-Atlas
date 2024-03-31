@@ -1,10 +1,10 @@
 {
-    "course_code": "MMG 790R",
-    "course_title": "Advanced Graduate Seminar",
-    "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 39",
+    "course_code": "MMG 699R",
+    "course_title": "Advanced Graduate Research",
+    "credit_hours": "1-9",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 10",
     "waitlist_total": null,
-    "grading_mode": "Satisfactory/Unsatisfactory",
+    "grading_mode": "Graded",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": null,
+    "course_description": "Advanced Graduate Research",
     "prerequisites": null,
     "instructors": "Shonna McBride - Primary Instructor",
-    "schedule_location": "M 3:45pm-4:45pm in Whitehead Auditorium",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MMG_790R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5657, Section #: 1, Type: SEM, Campus: ATL, Meets: M 3:45-4:45p, Instructor: S. McBride, Status: Open",
-    "date_accessed": "2023-10-31"
+    "schedule_location": null,
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MMG_699R_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5622, Section #: 1, Type: RSC, Campus: ATL, Meets: Does Not Meet, Instructor: S. McBride, Status: Open",
+    "date_accessed": "2024-03-31"
 }

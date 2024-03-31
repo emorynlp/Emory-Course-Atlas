@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 234",
+    "course_title": "Digit Electr/Microprocessor W/Lab",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Science, Nature, Technology",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Introduction to combinational and sequential logic circuits, and microprocessor hardware. Topics include transistors, gates, flipflops, counters, clocks, decoders, displays, microprocessors, memory, input/output circuits, and device interfacing.",
+    "prerequisites": "This course requires PHYS 142/PHYS_OX 142 OR PHYS 152/PHYS_OX152 or equivalent transfer credit as prerequisites",
+    "instructors": "Jed Brody - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2189, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: J. Brody, Status: Open\nClass Nbr: 2191, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: J. Brody, Status: Open",
+    "date_accessed": "2024-03-30"
+}

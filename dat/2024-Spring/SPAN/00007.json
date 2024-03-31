@@ -2,8 +2,8 @@
     "course_code": "SPAN 217R",
     "course_title": "Spanish for the Professions: Spanish for Bus. Communication",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 1",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 1Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -18,5 +18,5 @@
     "schedule_location": "TTh 4pm-5:15pm in Candler Library 122",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_SPAN_217R_3_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 4120, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: C. Gomez, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

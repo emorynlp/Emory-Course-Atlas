@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 512",
+    "course_title": "Analysis II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 12",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "Topics will include: Measure and integration theory on the real line as well as on a general measure space, Bounded linear functionals on L^p spaces. If time permits, Sobolev spaces and Fourier transforms will be introduced.",
+    "prerequisites": null,
+    "instructors": "David Borthwick - Primary Instructor",
+    "schedule_location": "TTh 9:40am-10:55am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1939, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 9:40-10:55a, Instructor: D. Borthwick, Status: Open",
+    "date_accessed": "2024-03-30"
+}

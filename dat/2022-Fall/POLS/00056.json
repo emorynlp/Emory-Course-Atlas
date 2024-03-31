@@ -1,0 +1,22 @@
+{
+    "course_code": "POLS 585",
+    "course_title": "Variable Topics Seminar: Election Data Science",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 7 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "Blended/Hybrid",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "This course provides students with the tools necessary to locate, compile, visualize, analyze, forecast, and interpret election-related data. Emphasis will be placed on applying theories of electoral institutions and behavior to polling data and election results in real time, as would be the case in a data journalism or public-facing scholarship context. Students will learn to use the programming language R to conduct their own novel analyses, with scheduled instructional time split between demonstration sessions led by the instructor and self-directed lab time. For Fall 2022, the course will focus on analyzing election data from concurrent Georgia elections. Student collaboration and the production of public-facing research will be key goals of the course. Undergraduates should enroll in POLS 494, Graduate students in POLS 585.",
+    "course_description": null,
+    "prerequisites": null,
+    "instructors": "Bernard Fraga - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Math & Science Center - E301A",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2721, Section #: 2, Type: SEM, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: B. Fraga, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

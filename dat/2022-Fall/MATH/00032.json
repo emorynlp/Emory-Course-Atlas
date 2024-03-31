@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 535",
+    "course_title": "Combinatorics I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 8Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "This is the first course of a 2-course sequence on combinatorial mathematics. We shall focus on mostly introductory material on enumeration, relational structures [graphs, directed graphs, partially ordered sets, hypergraphs, matroids], and configurations [designs, codes, permutation groups].",
+    "prerequisites": null,
+    "instructors": "Liana Yepremyan - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Math & Science Center - E406",
+    "course_resources": null,
+    "sections": "Class Nbr: 3835, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: L. Yepremyan, Status: Open",
+    "date_accessed": "2024-03-30"
+}

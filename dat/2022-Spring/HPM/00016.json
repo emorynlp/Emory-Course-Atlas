@@ -1,0 +1,22 @@
+{
+    "course_code": "HPM 586",
+    "course_title": "Quantitative Methods II (Stata)",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 2",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": "HPM MSPH students only.",
+    "course_description": "Prerequisite: HPM 585 and BIOS 500. This course introduces student the STATA software with a focus on using the software for statistical analysis for data which has been organized using the SAS software. The course builds on the concepts intro in BIOS 500 and concludes with regression analysis. Enrollment is limited to students admitted to the HPM MSPH program or permission of the instructor is required.",
+    "prerequisites": "This class is for HPMMSPH students only.",
+    "instructors": "Puneet Chehal - Primary Instructor",
+    "schedule_location": "Th 9am-11:50am in Grace Crum Rollins P39",
+    "course_resources": null,
+    "sections": "Class Nbr: 3227, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 9-11:50a, Instructor: P. Chehal, Status: Open",
+    "date_accessed": "2024-03-30"
+}

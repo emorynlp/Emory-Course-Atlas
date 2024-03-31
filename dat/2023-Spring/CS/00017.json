@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 456",
+    "course_title": "Compiler Construction",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Syntax, semantics and pragmatics of computer programming languages, lexical analysis and parsing, code generation, and optimization. Design and implementation of a semester-long compiler project for a simple imperative language.",
+    "prerequisites": "CS 326 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 6852, Section #: 9000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

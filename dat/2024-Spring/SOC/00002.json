@@ -2,8 +2,8 @@
     "course_code": "SOC 150",
     "course_title": "Great Works in Social Thought",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 2",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 19 / Seats Avail: 6Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -18,5 +18,5 @@
     "schedule_location": "TTh 2:30pm-3:45pm in Tarbutton Hall 111",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_SOC_150_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 3164, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: F. Lechner, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

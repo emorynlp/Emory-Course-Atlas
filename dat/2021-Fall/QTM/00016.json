@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Elements of Data Sci: Python",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "(Complete Topic - Elements of Data Sci: Python, SQL, and Advanced R)\n(Prerequisites: [QTM 220 or ECON 320], QTM 110, QTM 150, [QTM 210 or ECON 220 or MATH 362], [MATH 210 or MATH 211], and MATH 221)\n(Permission Required Prior to Enrollment)\n(Permission code request form (same for all QTM courses): http://bit.ly/Fall2021-QTM)\n(This class will advance the skills required for the student for successful data analytics. We will cover Python from elementary to advanced programming skills and data wrangling in the first half. In the second half, we will introduce relational databases, provide an overview of SQL (Structured Query Language), and discuss advanced topics in R, such as data scraping and data wrangling. This class's successful completion will qualify the students to solve complex programming and data processing problems, getting their data ready for advanced machine learning.)",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Umberto Mignozzetti - Primary Instructor",
+    "schedule_location": "TTh 7pm-8:15pm in White Hall 103",
+    "course_resources": null,
+    "sections": "Class Nbr: 1487, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 7-8:15p, Instructor: U. Mignozzetti, Status: Open",
+    "date_accessed": "2024-03-30"
+}

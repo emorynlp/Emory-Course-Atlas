@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Physical Education(*)",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "This course is an introduction to golf fundamentals. All aspects of the rules and golf swing techniques are covered. Driving range, classroom and course time are part of this class.",
     "prerequisites": null,
-    "instructors": "John Sjoberg - Primary Instructor",
+    "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: This section is full 5292, Section #: 1, Type: PE, Campus: ATL, Meets: TTh 10-11:15a, Instructor: J. Sjoberg, Status: Wait List\nClass Nbr: This section is full 5293, Section #: 2, Type: PE, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: J. Sjoberg, Status: Wait List",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5292, Section #: 1, Type: PE, Campus: ATL, Meets: TTh 10-11:15a, Instructor: Sjoberg/Ridgway, Status: Wait List\nClass Nbr: 6191, Section #: 3, Type: PE, Campus: ATL, Meets: T 8:30-9:45a, Instructor: Hickton/Ridgway, Status: Open\nClass Nbr: 6192, Section #: 4, Type: PE, Campus: ATL, Meets: Th 8:30-9:45a, Instructor: Hickton/Ridgway, Status: Open",
+    "date_accessed": "2024-03-30"
 }

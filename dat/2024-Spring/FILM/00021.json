@@ -2,10 +2,10 @@
     "course_code": "FILM 379RW",
     "course_title": "Advanced Screenwriting",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 9 / Seats Avail: 0Waitlist Total: 2",
-    "waitlist_total": ": 2",
+    "seats": "Seats: Maximum Enrollment: 9 / Seats Avail: 1Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Wait List",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": "Humanities, Arts, Performance with Writing",
@@ -17,6 +17,6 @@
     "instructors": "Joe Conway - Primary Instructor",
     "schedule_location": "TTh 4pm-5:15pm in Woodruff Library 874",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_FILM_379RW_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 3388, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: J. Conway, Status: Wait List",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3388, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: J. Conway, Status: Open",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 526",
+    "course_title": "Statistical Physics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 4",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "Statistical mechanics is a systematic approach to constructing probabilistic descriptions of large numbers of interacting microscopic degrees of freedom in order to understand the macroscopic behavior of equilibrium systems. Topics covered in this course include thermodynamics, probability theory, equilibrium properties of classical and quantum gases, interacting systems, phase transitions, and scaling near critical points.",
+    "prerequisites": null,
+    "instructors": "Daniel Sussman - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Emerson Chemistry Bldg. E101",
+    "course_resources": null,
+    "sections": "Class Nbr: 1163, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: D. Sussman, Status: Open",
+    "date_accessed": "2024-03-30"
+}

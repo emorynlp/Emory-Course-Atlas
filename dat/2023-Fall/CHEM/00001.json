@@ -1,0 +1,22 @@
+{
+    "course_code": "CHEM 150",
+    "course_title": "Structure and Properties",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": "Natural Sciences(*)",
+    "permission": "Varies by section",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "This course will build a strong foundation in atomic and molecular structure. It starts with atomic structure and builds to ionic compounds and molecular structure, including stereochemistry and conformation. Students will interpret experimental data to explain structure, properties relationships.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3166, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: R. Himes, Status: Open\nClass Nbr: 3167, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: J. Kindt, Status: Open\nClass Nbr: 3169, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: K. McKnelly, Status: Open\nClass Nbr: 3170, Section #: 5, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: M. Heaven, Status: Open\nClass Nbr: 3172, Section #: 6, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: J. Kindt, Status: Open\nClass Nbr: 3173, Section #: 7, Type: LEC, Campus: ATL, Meets: MW 10-11:15a; TTh 2:30-3:45p, Instructor: A. Brathwaite, Status: Open",
+    "date_accessed": "2024-03-30"
+}

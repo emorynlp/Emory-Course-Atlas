@@ -2,7 +2,7 @@
     "course_code": "DATA 532",
     "course_title": "Advanced Geographical Information Systems",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 23",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 5",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -17,6 +17,6 @@
     "instructors": "Johnathan Edwards - Primary Instructor",
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DATA_532_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1265, Section #: 2, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: Edwards/Peterson, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1265, Section #: 2, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 531",
+    "course_title": "Graph Theory I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 9",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "I will introduce basic graph-theoretical concepts, graphs, trees, networks, cycles, independence number, chromatic number, planarity and genus, paths and cycles, etc. I will emphasize \"extremal\" problems and counting techniques.",
+    "prerequisites": null,
+    "instructors": "Liana Yepremyan - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in Math & Science Center - E408",
+    "course_resources": null,
+    "sections": "Class Nbr: 1306, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: L. Yepremyan, Status: Open",
+    "date_accessed": "2024-03-30"
+}

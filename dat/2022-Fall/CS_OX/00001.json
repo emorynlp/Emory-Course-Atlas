@@ -1,0 +1,22 @@
+{
+    "course_code": "CS_OX 170Q",
+    "course_title": "Introduction To Computer Science I w/Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Varies by section",
+    "course_description": "An introduction to computer science for the student who needs to be able to program for course work or research. Topics include: fundamental computing concepts, general programming principles, and the Java programming language. Emphasis will be on algorithm development with examples highlighting topics in data structures. Required for beginning computer science majors. Needed for mathematics majors and pre-engineering majors in the 3-2 program with Georgia Tech. Has a one-hour lab.",
+    "prerequisites": null,
+    "instructors": "Vahid Vahidi - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2793, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: V. Vahidi, Status: Open\nClass Nbr: 3323, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: V. Vahidi, Status: Open\nClass Nbr: 4484, Section #: 3, Type: LAB, Campus: OXF, Meets: F 2:30-3:20p, Instructor: V. Vahidi, Status: Open\nClass Nbr: 4683, Section #: 4, Type: LAB, Campus: OXF, Meets: F 1-1:50p, Instructor: V. Vahidi, Status: Open",
+    "date_accessed": "2024-03-30"
+}

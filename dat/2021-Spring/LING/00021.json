@@ -1,0 +1,22 @@
+{
+    "course_code": "LING 446W",
+    "course_title": "Big/Small Data and Visualization",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": "History, Society, Cultures with Writing",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "(Same as SOC 446W 1)\nThis is a demanding 4-credits course fulfilling the writing requirement. There will be heavy homework due every week, with extensive writing (hence the W attached to the course) and a 5,000 final paper, based on those homework assignments. The course will require you to install Python 3 and Java on your laptop, along with a number of other freeware software (e.g, Stanford CoreNLP, Gephi, Google Earth Pro, WordNet, Mallet). Despite this, THE COURSE WILL COME WITH VERY EASY INSTALLATION PACKAGE. And, there is NO programming requirement in any computer language. The NLP Suite that we use (Natural Language Processing, NLP) comes with an easy-to-use Graphical User Interface. A set of txt files ('corpora') on different topics will be distributed for analysis and students can work in teams of 2 people on these corpora for the whole semester. We may be able to overload up to 20 students.",
+    "course_description": "An interdisciplinary exploration of digital tools for analyzing and visualizing data in the humanities and social sciences.",
+    "prerequisites": null,
+    "instructors": "Roberto Franzosi - Primary Instructor",
+    "schedule_location": "TTh 8am-9:15am in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4727, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8-9:15a, Instructor: R. Franzosi, Status: Open",
+    "date_accessed": "2024-03-30"
+}

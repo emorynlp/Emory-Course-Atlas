@@ -2,10 +2,10 @@
     "course_code": "ENGCW_OX 272W",
     "course_title": "Introduction to Fiction Writing",
     "credit_hours": "4",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 0Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Humanities and Arts with Cont.Communication(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4399, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 4-5:15p, Instructor: Staff, Status: Open\nClass Nbr: 4400, Section #: 2, Type: LEC, Campus: OXF, Meets: M 2:30-5:15p, Instructor: T. Cage Conley, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4399, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 4-5:15p, Instructor: D. Denmon, Status: Wait List\nClass Nbr: 4400, Section #: 2, Type: LEC, Campus: OXF, Meets: M 2:30-5:15p, Instructor: T. Cage Conley, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

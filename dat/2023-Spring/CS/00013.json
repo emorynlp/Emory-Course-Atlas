@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 370",
+    "course_title": "Computer Science Practicum",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": null,
+    "course_description": "This course introduces basic concepts and techniques of software engineering, and applies these in the context of a semester-long group programming project.",
+    "prerequisites": "CS 253 or equivalent transfer credit as prerequisite.",
+    "instructors": "Davide Fossati - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3283, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: D. Fossati, Status: Wait List\nClass Nbr: 3322, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 5:30-6:45p, Instructor: D. Fossati, Status: Open",
+    "date_accessed": "2024-03-30"
+}

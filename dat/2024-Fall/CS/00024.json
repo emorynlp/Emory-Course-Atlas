@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 551",
+    "course_title": "Systems Programming",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 9",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Systems programming topics will be illustrated by use of the Unix operating system. Topics include: file i/o, the tty driver, window systems, processes, shared memory, message passing, semaphores, signals, interrupt handlers, network programming and remote procedure calls. Programming examples and assignments will illustrate the system interface on actual computer hardware. All assignments will be in written in C. The department's computing lab will be used in the course to allow students to get hands-on experience with operating system and hardware topics that cannot effectively be pursued on a central timesharing computer.",
+    "prerequisites": null,
+    "instructors": "Kenneth I Mandelberg - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in Math & Science Center - W301",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_551_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3085, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. Mandelberg, Status: Open",
+    "date_accessed": "2024-03-28"
+}

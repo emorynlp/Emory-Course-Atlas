@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "Varies by section",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Janet Gross - Primary Instructor",
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 3863, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Gross/Kempker, Status: Open\nClass Nbr: 3865, Section #: 2, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: Gross/Kempker, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 3863, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Gross/Kempker, Status: Closed\nClass Nbr: 3865, Section #: 2, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: Gross/Kempker, Status: Open",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 328",
+    "course_title": "Number Theory",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "This course introduces the basic concepts of algebraic and analytic number theory.  Topics include: congruence relations, the distribution of prime numbers, quadratic reciprocity, Diophantine equations, continued fractions, and generating functions.",
+    "prerequisites": "MATH 250 or MATH_OX 250 or MATH_OX 250Q or MATH 276 or equivalent transfer credit as prerequisite.",
+    "instructors": "David Zureick-Brown - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Math & Science Center - N301",
+    "course_resources": null,
+    "sections": "Class Nbr: 1327, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: D. Zureick-Brown, Status: Open",
+    "date_accessed": "2024-03-30"
+}

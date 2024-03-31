@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 475",
+    "course_title": "Data Visualization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 5Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "Data Visualization will introduce students to the techniques and tools used to create effective visualizations that clearly and efficiently communicate relationships within data. The field of data visualization combines the art of graphic design with the science of data analytics. Students will learn how to perform exploratory analysis through visualization, how to create professional looking visualizations for use in business reports and presentations, and how to design interactive visualizations and dashboards. The course  will cover the common quantitative messages users attempt to understand or communicate from a set of data and the associated visualizations used to help communicate each message. These include time series, rankings, proportions,deviations, frequencies and distributions, correlations, categorical comparisons, and geo-spatial plots. Students will analyze real data sets and utilize Tableau and other tools to design and prototype their visualizations.",
+    "prerequisites": "This section is reserved for students in the BBA program.",
+    "instructors": "Jesse Bockstedt - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in Goizueta Foundation Ctr W131",
+    "course_resources": null,
+    "sections": "Class Nbr: 5786, Section #: 1101, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: J. Bockstedt, Status: Open",
+    "date_accessed": "2024-03-30"
+}

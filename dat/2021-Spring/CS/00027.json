@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 584",
+    "course_title": "Topics In Computer Science: Biomedical Image Analysis",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 22",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "This course focuses on computational analytic and interpretive approaches to optimize extraction and use of biological and clinical imaging data for diagnostic and therapeutic translational medical applications.",
+    "course_description": null,
+    "prerequisites": null,
+    "instructors": "Imon Banerjee - Primary Instructor",
+    "schedule_location": "MW 2:40pm-3:55pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1902, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 2:40-3:55p, Instructor: I. Banerjee, Status: Open",
+    "date_accessed": "2024-03-30"
+}

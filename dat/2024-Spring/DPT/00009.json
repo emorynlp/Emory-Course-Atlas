@@ -1,10 +1,10 @@
 {
-    "course_code": "DPT 920",
-    "course_title": "Health Promotion Community",
-    "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 100 / Seats Avail: 100",
+    "course_code": "DPT 9000R",
+    "course_title": "Joint GA Tech-Emory DPT/PhD Program",
+    "credit_hours": "1-12",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
     "waitlist_total": null,
-    "grading_mode": "Graded",
+    "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-02 through 2024-05-10",
     "class_notes": null,
-    "course_description": null,
+    "course_description": "Holding course for DPT/PhD requirements in joint program with Georgia Tech",
     "prerequisites": null,
     "instructors": "Marie A Johanson - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_920_0_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1582, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Pullen/Johanson, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_9000R_0_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1637, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: M. Johanson, Status: Open",
+    "date_accessed": "2024-03-30"
 }

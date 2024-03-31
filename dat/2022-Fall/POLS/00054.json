@@ -1,0 +1,22 @@
+{
+    "course_code": "POLS 570",
+    "course_title": "Empirical Methods 2",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "This course provides an introduction to large-sample casual inference using standard techniques: regression (parametric and non-parametric), matching, weighting and doubly robust techniques, instrumental variables, fixed effects and difference-in-differences. The course also covers methods of statistical estimation used for these approaches.",
+    "course_description": "This course provides an introduction to large-sample casual inference using standard techniques: regression (parametric and non-parametric), matching, weighting and doubly robust techniques, instrumental variables, fixed effects and difference-in-differences. The course also covers methods of statistical estimation used for these approaches.",
+    "prerequisites": "POLS 508 and POLS 509 or equivalent transfer credit as prerequisites.",
+    "instructors": "Adam Glynn - Primary Instructor",
+    "schedule_location": "M 2:30pm-5:30pm in Tarbutton Hall 120A",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2731, Section #: 1, Type: LEC, Campus: ATL, Meets: M 2:30-5:30p, Instructor: A. Glynn, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

@@ -2,10 +2,10 @@
     "course_code": "CHEM 190",
     "course_title": "Freshmen Seminar:Chemistry: Chemistry for Green Energy",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "First Year Seminar",
@@ -17,6 +17,6 @@
     "instructors": "Craig L Hill - Primary Instructor",
     "schedule_location": "TTh 5:30pm-6:45pm in Emerson Chemistry Bldg. E363",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CHEM_190_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: This section is full 2991, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 5:30-6:45p, Instructor: C. Hill, Status: Closed",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2991, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 5:30-6:45p, Instructor: C. Hill, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

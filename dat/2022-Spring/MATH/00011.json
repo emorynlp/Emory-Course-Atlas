@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 315",
+    "course_title": "Numerical Analysis",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Solution of linear and nonlinear systems of equations, interpolation, least-squares approximation, numerical integration, and differentiation.",
+    "prerequisites": "(MATH 221 or MATH_OX 221 or MATH 275 or MATH 321) and (CS 170 or CS_OX 170) or equivalent transfer credit as a prerequisite.",
+    "instructors": "Talea L. Mayo - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Math & Science Center - W303\nF 11:30am-12:20pm in Math & Science Center - N304",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2604, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p; F 11:30a-12:20p, Instructor: Mayo/Brown, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

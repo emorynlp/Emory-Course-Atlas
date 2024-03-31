@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 350",
+    "course_title": "Data Science Computing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 75 / Seats Avail: 32Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "This course emphasizes programming for data science, rather than programming for the sake of programming. Students learn essential computer literacy (e.g. shell commands), computing concepts & workflow for reproducible research. Students primarily write Python code and use cloud computing resources.",
+    "prerequisites": "QTM 220  or equivalent transfer credit as prerequisite.",
+    "instructors": "Jeremy Jacobson - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in Math & Science Center - E208",
+    "course_resources": null,
+    "sections": "Class Nbr: 4662, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: J. Jacobson, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "FIN 659",
+    "course_title": "Futures and Options",
+    "credit_hours": "1.5",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 23Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-10-12 through 2022-12-17",
+    "class_notes": "The course presents the primary approach used in the pricing of options and futures contracts.  This utilizes the concept of the relative-value arbitrage argument that forms the basis for trading strategies and risk management.  A major theme is the calculation of the dynamic characteristics of these derivative assets.  Topics include comparisons between statistical and market-based parameter estimators, and between closed-form solutions and numerical methods for valuation.",
+    "course_description": "The course presents the primary approach used in the pricing of options and futures contracts.  This utilizes the concept of the relative-value arbitrage argument that forms the basis for trading strategies and risk management.  A major theme is the calculation of the dynamic characteristics of these derivative assets.  Topics include comparisons between statistical and market-based parameter estimators, and between closed-form solutions and numerical methods for valuation.",
+    "prerequisites": "This section is reserved for students in the MAF program.",
+    "instructors": "Nicholas Valerio III - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Goizueta Foundation Ctr W320",
+    "course_resources": null,
+    "sections": "Class Nbr: 4646, Section #: 4201, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: N. Valerio III, Status: Open",
+    "date_accessed": "2024-03-30"
+}

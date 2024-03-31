@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 340",
+    "course_title": "Approaches to Data Sci.w/Text",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 1Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Teaches common theories & techniques in data science using Python. Focus is text analysis (e.g., text parsing, language models, sequence estimation, vector space models & distributional semantics, cluster analysis, supervised learning). Cloud computing, big data, & data visualization are discussed.",
+    "prerequisites": "QTM 210 or CS 171 or CS 171Z or CS_OX 171 or equivalent transfer credit as prerequisite.",
+    "instructors": "Lauren Klein - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in North Decatur Building 155",
+    "course_resources": null,
+    "sections": "Class Nbr: 4794, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: L. Klein, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 112",
+    "course_title": "Calculus II",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall, Spring, and Summer",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "Techniques of integration, exponential and logarithm functions, sequences and series, polar coordinates.",
+    "prerequisites": "This course requires MATH 111 OR MATH_OX111 OR MATH 115 OR MATH 119 OR MATH_OX119 or equivalent transfer credit as a prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1467, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8-9:15a, Instructor: J. Barlow, Status: Open\nClass Nbr: 1920, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 8-9:15a, Instructor: X. Gao, Status: Open\nClass Nbr: 1921, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 11:20a-12:35p, Instructor: H. Yu, Status: Open\nClass Nbr: 1922, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 11:20a-12:35p, Instructor: Y. Ji, Status: Open\nClass Nbr: This section is full 1924, Section #: 5, Type: LEC, Campus: ATL, Meets: MW 9:40-10:55a, Instructor: M. Sales, Status: Wait List\nClass Nbr: 2002, Section #: 6, Type: LEC, Campus: ATL, Meets: MW 9:40-10:55a, Instructor: R. Huang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,9 +1,9 @@
 {
-    "course_code": "LAW 713",
-    "course_title": "Secured Transactions",
+    "course_code": "LAW 701",
+    "course_title": "Administrative Law",
     "credit_hours": "3",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 84 / Seats Avail: 11Waitlist Total: 0 of 10",
+    "waitlist_total": ": 0 of 10",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -14,9 +14,9 @@
     "class_notes": "Final Assessment: Scheduled In-Class Exam",
     "course_description": null,
     "prerequisites": null,
-    "instructors": null,
-    "schedule_location": "Varies by section",
-    "course_resources": null,
-    "sections": "Class Nbr: 5556, Section #: 001, Type: LEC, Campus: ATL, Meets: TTh 10:15-11:45a, Instructor: M. Sybblis, Status: Open\nClass Nbr: 5557, Section #: 002, Type: LEC, Campus: ATL, Meets: MW 8:30-10a, Instructor: L. Simon, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Paul Koster - Primary Instructor",
+    "schedule_location": "TTh 8:30am-10am in Gambrell Hall 5F",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_701_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2826, Section #: 001, Type: LEC, Campus: ATL, Meets: TTh 8:30-10a, Instructor: P. Koster, Status: Open",
+    "date_accessed": "2024-03-30"
 }

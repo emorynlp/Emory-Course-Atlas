@@ -1,0 +1,22 @@
+{
+    "course_code": "BUS 480",
+    "course_title": "Senior Seminar: Excel for Advanced Users",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Satisfactory/Unsatisfactory",
+    "enrollment_status": "Wait List",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Wednesday, 5:30-8:00 pm - GBS 338\nClass Dates:  10/25, 11/1, 11/8, 11/15, alternate date: 11/29 (this course will be taught on four dates for 2.5 hours).  The alternate date is only used if the school or instructor has to cancel a regularly scheduled class - it is not a makeup session for missed classes.\n\n\nSeminar Description:  The seminar continues the engaging, hands-on format from the intermediate course.  90% of the class consists of students working in small groups, with frequent breaks to review the solution methodology.    \nIt covers what is typically learned in the first three months on the job in consulting and (most) finance jobs.\n- Complex conditional calculations (array formulas, nested if/then statements, and advanced uses of autofilters, sumifs countifs, vlookup vs. xlookup)\n- Intermediate subscription models\n- Advanced techniques for re-usable formulas (input cells, anchoring/dollar-tying, trace precedents), including linking formulas across multiple tabs\n- More extensive coverage of core keyboard shortcuts and alt-key techniques \nSkill level\n- Recommended, but not required to first take the intermediate class\n- Should have working familiarity with countif, sumif, max/min/st dev, pivot tables, filtering and sorting\n- Students with work experience at an investment bank are welcome\n\n\nInstructor:  Sahil Patel is an entrepreneur and current CEO of Spiralyze, a marketing technology company.  Previously, he was the CEO/founder of ER Express, a healthcare software company that he ran for 11 years before selling it in 2021.  He has 23+ years of experience in operations, sales, software development and finance.  He also worked as a consultant for Booz & Company/PWc.  Sahil holds a BBA from Goizueta and an MBA from Harvard Business School.",
+    "course_description": "Senior seminar courses fall outside the scope of traditional academic coursework, and instead allow students to learn from and interact with experienced practitioners, and to develop industry-specific insights, fine-tune career skills, and increase professional exposure.",
+    "prerequisites": "This section is reserved for students in the BBA program.",
+    "instructors": "Andrea Hershatter - Primary Instructor",
+    "schedule_location": "W 5:30pm-8pm in Goizueta Business School 338",
+    "course_resources": null,
+    "sections": "Class Nbr: 6648, Section #: 1102, Type: SEM, Campus: ATL, Meets: W 5:30-8p, Instructor: A. Hershatter, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

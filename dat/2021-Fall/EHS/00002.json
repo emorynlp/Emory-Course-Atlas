@@ -1,0 +1,22 @@
+{
+    "course_code": "EHS 730",
+    "course_title": "Computational Systems Biology: Modeling Biological Responses",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 11",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "(Same as IBS 741 1)",
+    "course_description": "Understanding biological responses to external perturbations, their health outcomes, & risks requires a systems biology approach. Such an approach is necessary to make sense of biological pathways comprising genes, RNAs, proteins, & metabolites, & to understand how they are organized to carry out integrated, systems-level functions & respond to biological, pharmaceutical, & environmental perturbations. This interdisciplinary course introduces the basic concepts in systems biology & numerical simulation techniques for mechanically understand & predict biological responses.EHS 730 crosslisted w IBS 741.",
+    "prerequisites": null,
+    "instructors": "Qiang Zhang - Primary Instructor",
+    "schedule_location": "W 3:10pm-5pm in Claudia Nance Rollins 3001",
+    "course_resources": null,
+    "sections": "Class Nbr: 3690, Section #: 1, Type: LEC, Campus: ATL, Meets: W 3:10-5p, Instructor: Q. Zhang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

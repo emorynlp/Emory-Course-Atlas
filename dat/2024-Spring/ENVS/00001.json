@@ -2,14 +2,14 @@
     "course_code": "ENVS 131",
     "course_title": "Introduction to ENVS Field Studies",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "Varies by section",
     "typically_offered": "Fall",
     "requirement_designation": null,
-    "permission": null,
+    "permission": "Varies by section",
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": "Varies by section",
     "course_description": "Applies and integrates theories and concepts of environmental science through field study.  Introduction to Piedmont geology, water, land and forest use, management and policy. Introduction to ENVS research and community engaged learning.  This course is required for ENVS majors and minors.",
@@ -17,6 +17,6 @@
     "instructors": "Anne M Hall - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 5473, Section #: 1, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: A. Hall, Status: Open\nClass Nbr: 5474, Section #: 2, Type: LAB, Campus: ATL, Meets: T 8:30-11:15a, Instructor: A. Hall, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 5473, Section #: 1, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: A. Hall, Status: Closed\nClass Nbr: This section is full 5474, Section #: 2, Type: LAB, Campus: ATL, Meets: T 8:30-11:15a, Instructor: A. Hall, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 411",
+    "course_title": "Real Analysis I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 39 / Seats Avail: 12Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Analysis of sets and functions in n-space which focuses on basic topological properties of sets as well as continuity and differentiation of functions.&nbsp;Topics: exterme value theorem, chain rule, and inverse function theorem.",
+    "prerequisites": "(MATH 211 or PHYS 211 or MATH_OX 211 or MATH 276) and (MATH 221 or MATH_OX 221 or MATH 321) and (MATH 250 or MATH_OX 250 or MATH 276) or equivalent transfer credit as prerequisite.",
+    "instructors": "Shanshuang Yang - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - W301",
+    "course_resources": null,
+    "sections": "Class Nbr: 1918, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: S. Yang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

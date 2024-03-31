@@ -1,0 +1,22 @@
+{
+    "course_code": "AEPI 565D",
+    "course_title": "Advanced Modeling",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "Blended/Hybrid",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-01-13 through 2023-04-16",
+    "class_notes": "EMPH Students Only; Outside permission to enroll in course must be approved by EMPH leadership. An additional session will be held on Saturday, January, from 4:30-6:30pm. EMPH Opening Weekend is January 13-15 and Closing Weekend is April 14-16.",
+    "course_description": "Advanced Modeling will cover multivariate methods for analyzing epidemiologic data that involve examining associations between exposures and outcomes for which the outcome data are the time to an event, event rates, or a count of events. The course covers survival analysis and Poisson regression.",
+    "prerequisites": "AEPI 530D and AEPI 534D and AEPI 536D and BIOS 516D and BIOS 517D and BIOS 518D as prerequisites or special permission required to enroll.",
+    "instructors": "Jose Binongo - Primary Instructor",
+    "schedule_location": "F 12:30pm-3:30pm in R. Randall Rollins Bldg. R345\nSa 1pm-4pm in R. Randall Rollins Bldg. R345\nSa 4:30pm-6:30pm in R. Randall Rollins Bldg. R345",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2813, Section #: 901, Type: LEC, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p; Sa 4:30-6:30p, Instructor: J. Binongo, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

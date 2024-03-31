@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 170",
+    "course_title": "Intro.Scientific Computing",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 25Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Natural Sciences(*)",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "The course is directed to first- and second-year students interested in learning Python for\ncomplex projects (in upper-level courses), in particular math, computer science, physics, and\npotentially, biology and chemistry. However, it can also be taken by junior and senior students\nof other disciplines who want to learn Python for AI-oriented projects.\nNo prerequisites, all interested students are welcome!",
+    "course_description": "The course introduces Python for Scientific Computing for students who will likely use it in upper-level courses. Students will know how to algorithmically formulate a mathematical problem, solve simple scientific computing problems, visualize data, and consider different programming paradigms.",
+    "prerequisites": null,
+    "instructors": "Alessandro Veneziani - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in Math & Science Center - W301",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MATH_170_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5323, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: A. Veneziani, Status: Open",
+    "date_accessed": "2024-03-29"
+}

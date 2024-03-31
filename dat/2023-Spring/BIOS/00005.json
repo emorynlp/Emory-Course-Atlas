@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 511",
+    "course_title": "Introduction to Statistical Inference",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 6",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Blended/Hybrid",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": "This is an ONLINE course. \nNon-BIOS Students must get permission of the Instructor or BIOS ADAP required.",
+    "course_description": "Prerequisites: BIOS 510 or permission of instructor. Fundamental concepts in statistical inference will be covered including: statistical models, sampling distributions, standard errors, mean square errors, method of moments, maximum likelihood estimation, asymptotic normality, confidence intervals, hypothesis tests, Wald tests, likelihood ratio tests, power analysis, p-values, multiple comparisons. Common frameworks for inference will be discussed including: parametric/non-parametric/Bayesian  inference, the delta method, bootstrap, permutation tests.",
+    "prerequisites": null,
+    "instructors": "Michael J Haber - Primary Instructor",
+    "schedule_location": "MW 1pm-2:50pm in Grace Crum Rollins L35\nMW 1pm-2:50pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 2759, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:50p, Instructor: Haber/Mao, Status: Open",
+    "date_accessed": "2024-03-30"
+}

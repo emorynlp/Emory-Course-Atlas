@@ -2,8 +2,8 @@
     "course_code": "CHN 336",
     "course_title": "Introduction to Translation",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 4",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 1Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -11,12 +11,12 @@
     "requirement_designation": "Intercultural Communication(*)",
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "Same as SPAN 336-1 and ITAL 336-2",
+    "class_notes": "(Same as SPAN 336-1 and ITAL 336-2)\n\n\nThis course introduces students to translation studies and the hands-on practice of translation. The process of translation is a re-creation that requires intercultural as well as interlingual expertise. To this end, we will engage in identifying and translating genre and register; intralingual translation; comparing source texts to multiple translated texts; inverse translation; group translations and workshops; and editing, revising, reflection, analysis and commentary on their own translations. Classes meet once a week in English (together with students from ITAL and CHN) and once a week in language-specific workshops.\nPREREQUISITE: One course at the 300 level or explicit permission from the professor.\nInterested students must contact:\nsharlene.arruda.mendes@emory.edu for the enrollment permission number for SPAN 336\nlaura.a.hunt@emory.edu for the enrollment permission number for CHN 336\nlhartne@emory.edu for the enrollment permission number for ITAL 336",
     "course_description": "This course introduces translation theory and hands-on practice in multiple contexts. It is theoretical, methodological, creative. Students engage in multiple forms of translation (inverse, intra and inter-lingual) and meet regularly both as a whole class and in individual language-specific groups.",
     "prerequisites": null,
     "instructors": "Lisa Dillman - Primary Instructor",
-    "schedule_location": "TTh 11:30am-12:45pm in Ignatius Few Building_131",
+    "schedule_location": "TTh 11:30am-12:45pm in COX 230A",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CHN_336_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 4661, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: Team, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

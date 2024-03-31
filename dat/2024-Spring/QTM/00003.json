@@ -2,7 +2,7 @@
     "course_code": "QTM 150",
     "course_title": "Introduction to Statistical Computing I",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 120 / Seats Avail: 87Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 120 / Seats Avail: 2Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "TTh 4pm-4:50pm in Math & Science Center - E208",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_150_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 2346, Section #: 1, Type: LAB, Campus: ATL, Meets: TTh 4-4:50p, Instructor: H. Yoo, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": "Varies by section",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 1823, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: W. Benalcazar, Status: Open\nClass Nbr: 3728, Section #: LAB1, Type: LAB, Campus: ATL, Meets: T 2:30-5:15p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3729, Section #: LAB2, Type: LAB, Campus: ATL, Meets: T 6-8:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: This section is full 3730, Section #: LAB3, Type: LAB, Campus: ATL, Meets: W 2:30-5:15p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3732, Section #: LAB4, Type: LAB, Campus: ATL, Meets: W 6-8:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3733, Section #: LAB5, Type: LAB, Campus: ATL, Meets: Th 2:30-5:15p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3735, Section #: LAB6, Type: LAB, Campus: ATL, Meets: Th 6-8:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3736, Section #: LAB7, Type: LAB, Campus: ATL, Meets: F 10a-12:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3738, Section #: LAB8, Type: LAB, Campus: ATL, Meets: F 2:30-5:15p, Instructor: Donofrio/Bing, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1823, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: W. Benalcazar, Status: Open\nClass Nbr: 3728, Section #: LAB1, Type: LAB, Campus: ATL, Meets: T 2:30-5:15p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3729, Section #: LAB2, Type: LAB, Campus: ATL, Meets: T 6-8:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: This section is full 3730, Section #: LAB3, Type: LAB, Campus: ATL, Meets: W 2:30-5:15p, Instructor: Donofrio/Bing, Status: Closed\nClass Nbr: 3732, Section #: LAB4, Type: LAB, Campus: ATL, Meets: W 6-8:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3733, Section #: LAB5, Type: LAB, Campus: ATL, Meets: Th 2:30-5:15p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3735, Section #: LAB6, Type: LAB, Campus: ATL, Meets: Th 6-8:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3736, Section #: LAB7, Type: LAB, Campus: ATL, Meets: F 10a-12:45p, Instructor: Donofrio/Bing, Status: Open\nClass Nbr: 3738, Section #: LAB8, Type: LAB, Campus: ATL, Meets: F 2:30-5:15p, Instructor: Donofrio/Bing, Status: Open",
+    "date_accessed": "2024-03-31"
 }

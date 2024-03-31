@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOL 450",
+    "course_title": "Computational Neuroscience",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 3Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "(Also offered as IBS 534). The goal of this course is to provide students with a broad outline of ideas and current research areas in computational neuroscience, ranging from ion channels and the biophysics of single neurons up to brain-wide neural dynamics and organismal behavior. Class meetings will consist of a combination of lectures and in-class computational exercises. Prerequisites: Biology 360/NBB 301, or IBS 514. Having a broad familiarity with neuroscience and possessing some basic knowledge of linear algebra and programming will likely prove useful. This course may be taken as elective credit for the Biology major.",
+    "course_description": "Intro to computational neuroscience with an emphasis on biophysical neuronal modeling of single neurons and small networks. Other topics include spike train analysis, dynamical systems analysis, and dimensionality reductions methods. Some Matlab and general programming skills are required.",
+    "prerequisites": "This course requires BIOL 360 or NBB 301 or IBS 514 or equivalent transfer credit as a prerequisite.",
+    "instructors": "Gordon Berman - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in 1462 Clifton Rd 109",
+    "course_resources": null,
+    "sections": "Class Nbr: 3287, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: G. Berman, Status: Open",
+    "date_accessed": "2024-03-30"
+}

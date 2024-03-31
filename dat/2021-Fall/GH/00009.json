@@ -1,0 +1,22 @@
+{
+    "course_code": "GH 523",
+    "course_title": "Quantitative Data Analysis",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 15",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "Prerequisites: EPI 530 and BIOS 500. EPI 531, BIOS 501, and GH 503 strongly recommended. This course provides an introduction to the process of addressing research questions using quantitative data. The course emphasizes the technical skills required to transform a quantitative data set (exemplars: NHANES and Demographic and Health Surveys) into a reproducible analysis for global health applications. Students will receive guided, structured experience with quantitatively operationalizing research questions, data acquisition and management, data exploration, formal data description, conceptualization and construction of composite variables, analysis of statistical associations, and addressing common threats to valid inference. Exercises will be completed using SAS software with an emphasis on programming specific to complex survey designs. Students must register for both lecture and lab components.",
+    "prerequisites": null,
+    "instructors": "Shivani A Patel - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 5006, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 10:10-11:30a, Instructor: S. Patel, Status: Open\nClass Nbr: 5676, Section #: LAB, Type: LAB, Campus: ATL, Meets: Th 5:30-6:50p, Instructor: S. Patel, Status: Open",
+    "date_accessed": "2024-03-30"
+}

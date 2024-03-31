@@ -1,0 +1,22 @@
+{
+    "course_code": "SOC 506",
+    "course_title": "Applied Regression",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 4",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "This course builds upon the statistical toolkit from SOC 500 Linear Regressions and provides a foundation for conducting and evaluating regression-based works in the social sciences. The first part of the course will cover the topics in conducting transparent and reproducible research. Students will be expected to adopt these research practices throughout the semester. The second part of the course will cover generalized linear models (GLM) that examine non-linear outcome variables. The readings, lectures, and in-class discussion will address each method's mathematical justification, execution, and interpretation using statistical software and application in published articles. The third component of the course will focus on students' in-class presentations and discussions of their research projects. \nThis course's primary goal is for students to gain fluency in the foundational statistical methods in the social sciences. Fluency denotes the ability to 1) assess the methods' appropriateness to address sociological questions, 2) provide thoughtful reviews to works using these methods, and 3) actively engage in collaborations that use statistical methods. This course aims to provide a broad survey of the most commonly used generalized linear models rather than expert knowledge in any particular approach; each topic is worthy of its own semester-long course.\n\n\nThe success of this course depends critically on active participation. As such, students will be evaluated on their intellectual engagement during class discussions and presentations. Please complete the assigned readings before class. This course also requires students to complete an extended abstract or a preliminary analysis of an empirical paper. The final project will be evaluated on its transparency and reproducibility rather than its methodological sophistication.  Stage assignments throughout the semester will allow for opportunities for feedback and revision. \nLastly, the primary focus of this course is not statistical programming. I do not expect you to memorize the commands and options for all the statistical methods that we will cover in this course. Instead, I expect you to understand the theory and assumptions behind the methods so that you will be able to figure out the programming part in the future. We will still heavily rely on software for analysis and documentation throughout the course. I will provide support for Stata and R.\n\n\nRequired textbook and readings\nISBN: 9780520296954 Christensen, G., J. Freese and E. Miguel. 2019. Transparent and Reproducible Social Science Research: How to Do Open Science: University of California Press.\nISBN: 9780520289291 Hoffmann, J.P. 2016. Regression Models for Categorical, Count, and Related Variables: An Applied Approach: University of California Press.\nISBN: 978-0761916727 Allison, P. D. 2002. Missing data. SAGE Publications, Inc.",
+    "course_description": "This course covers the topic of regression analysis in sociology. This includes the basics of diagnostics, errors, and dealing with collinearity. After covering ordinary least squares, the class moves into nonlinear dependent variables, including regression models for categorical dependent variables like logistic regression and Poisson regression. The course focuses on the interpretation of results, with particular emphasis on visualization to aid understanding of complex statistical models and nonlinear relationships.",
+    "prerequisites": null,
+    "instructors": "Heeju Sohn - Primary Instructor",
+    "schedule_location": "W 2:30pm-5:15pm in Tarbutton Hall 206",
+    "course_resources": null,
+    "sections": "Class Nbr: 3626, Section #: 1, Type: SEM, Campus: ATL, Meets: W 2:30-5:15p, Instructor: H. Sohn, Status: Open",
+    "date_accessed": "2024-03-30"
+}

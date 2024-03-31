@@ -2,10 +2,10 @@
     "course_code": "MD 710",
     "course_title": "Application: Internal Medicine",
     "credit_hours": "8",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 25",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Audrey B. Jernigan - Primary Instructor",
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 1454, Section #: 01, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open\nClass Nbr: 1455, Section #: 02, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open\nClass Nbr: 1508, Section #: 03, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open\nClass Nbr: 1519, Section #: 04, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open\nClass Nbr: 1509, Section #: 05, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 1454, Section #: 01, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Closed\nClass Nbr: 1455, Section #: 02, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open\nClass Nbr: 1508, Section #: 03, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open\nClass Nbr: 1519, Section #: 04, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open\nClass Nbr: 1509, Section #: 05, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-31"
 }

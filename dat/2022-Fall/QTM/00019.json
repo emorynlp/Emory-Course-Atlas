@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Mach. Learning &Non-Param Est.",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 19",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "(Permission Required Prior to Enrollment)\nPrerequisites: [QTM 220 or ECON 320], QTM 110, QTM 150, [QTM 210 or ECON 220 or MATH 362], [MATH 210 or MATH 211], and MATH 221)\nSYLLABUS: https://davidahirshberg.bitbucket.io/teaching/nonparametrics/fall2022/syllabus.html\nWhen we teach statistics, we often act as if simple models were right. We might find the line that best fits the data, then act as if that line were a useful description of reality. With the right blend of intuition and luck, this can work -we can get by with a model that is wrong but not too wrong -but it's often helpful to have a more nuanced perspective. This class is an introduction to the theory and practice of doing statistics without simplistic modeling assumptions. In short, we will talk about how to answer questions about the world, like whether a treatment helps patients or a policy has the intended effect, by fitting flexible models to data.",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "David Hirshberg - Primary Instructor",
+    "schedule_location": "MW 4pm-5:15pm in New Psyc Bldg 250 (36 Eagle Ro",
+    "course_resources": null,
+    "sections": "Class Nbr: 6206, Section #: 7, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: D. Hirshberg, Status: Open",
+    "date_accessed": "2024-03-30"
+}

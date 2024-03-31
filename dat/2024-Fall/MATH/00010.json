@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 221",
+    "course_title": "Linear Algebra",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 25Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Systems of linear equations, matrices, determinants, linear transformations, eigenvalues and eigenvectors, least-squares.",
+    "prerequisites": "MATH 111 or MATH_OX 111 or MATH 112 or MATH_OX 112 or MATH 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3267, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a; F 8:30-9:20a, Instructor: Xu/Milnes, Status: Open\nClass Nbr: 3273, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 10-11:15a; F 10-10:50a, Instructor: Xu/Milnes, Status: Open\nClass Nbr: 3279, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p; F 11:30a-12:20p, Instructor: Xi/Allen, Status: Open\nClass Nbr: 3281, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p; F 1-1:50p, Instructor: Xi/Allen, Status: Open\nClass Nbr: 3289, Section #: 5, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 1-1:50p, Instructor: Chung/Dobak, Status: Open\nClass Nbr: 3294, Section #: 6, Type: LEC, Campus: ATL, Meets: MW 1-2:15p; F 2:30-3:20p, Instructor: Chung/Dobak, Status: Open\nClass Nbr: 3337, Section #: 7, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 11:30a-12:20p, Instructor: Yang/Solomon, Status: Open\nClass Nbr: 3339, Section #: 8, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p; F 1-1:50p, Instructor: Yang/Solomon, Status: Open",
+    "date_accessed": "2024-03-29"
+}

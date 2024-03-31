@@ -1,6 +1,6 @@
 {
-    "course_code": "PSYC 599R",
-    "course_title": "Master Thesis Research",
+    "course_code": "PSYC 597R",
+    "course_title": "Directed Study",
     "credit_hours": "1-12",
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 3664, Section #: 1, Type: THE, Campus: ATL, Meets: Does Not Meet, Instructor: J. Manns, Status: Open\nClass Nbr: 3665, Section #: 2, Type: THE, Campus: ATL, Meets: Does Not Meet, Instructor: P. Brennan, Status: Open\nClass Nbr: 3666, Section #: 3, Type: THE, Campus: ATL, Meets: Does Not Meet, Instructor: A. Tasimi, Status: Open\nClass Nbr: 3667, Section #: 4, Type: THE, Campus: ATL, Meets: Does Not Meet, Instructor: R. Hampton, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3653, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: P. Kragel, Status: Open\nClass Nbr: 3654, Section #: 2, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: P. Palmer, Status: Open\nClass Nbr: 3655, Section #: 3, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: A. Cohen, Status: Open\nClass Nbr: 3656, Section #: 4, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: S. Lourenco, Status: Open\nClass Nbr: 3657, Section #: 5, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: R. Hampton, Status: Open\nClass Nbr: 3658, Section #: 6, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: A. Kelly, Status: Open\nClass Nbr: 3659, Section #: 7, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: P. Brennan, Status: Open\nClass Nbr: 3660, Section #: 8, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: D. Dilks, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 221",
+    "course_title": "Linear Algebra",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "Varies by section",
+    "class_notes": null,
+    "course_description": "Systems of linear equations, matrices, determinants, linear transformations, eigenvalues and eigenvectors, least-squares.",
+    "prerequisites": "MATH 111 or MATH_OX 111 or MATH 112 or MATH_OX 112 or MATH 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1342, Section #: 1, Type: LEC, Campus: ATL, Meets: MTWTh 10:30-11:30a, Instructor: C. Lee, Status: Open\nClass Nbr: 1343, Section #: 2, Type: LEC, Campus: ATL, Meets: MTWThF 11:30a-12:50p, Instructor: B. Frederickson, Status: Open",
+    "date_accessed": "2024-03-30"
+}

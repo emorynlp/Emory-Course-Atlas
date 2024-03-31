@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 485",
+    "course_title": "Topics in Computer Science: Spatial Computing",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Prerequisite: CS 253\n\n\nDepartment permission required, please email bnflood@emory.edu\n\n\nSpatial data is ubiquitous in many applications, e.g., map applications, agriculture, health, and transportation, and in different scientific disciplines, e.g., geographic information sciences, environmental sciences, and behavioral sciences. This course covers the main concepts behind the existing technologies in spatial computing and explores future directions where spatial data is driving innovations. The course starts by introducing spatial computing and geometric algorithms to handle spatial data including points, lines, and polygons. Then, the course further covers solutions for indexing, querying, and mining spatial data. Finally, spatial network algorithms and trends and innovations in spatial computing will also be covered.",
+    "course_description": "May be repeated for credit when topic varies. Pre/co-requisites vary with topic.",
+    "prerequisites": null,
+    "instructors": "Andreas Zufle - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Math & Science Center - W303",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_485_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3080, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: A. Zufle, Status: Open",
+    "date_accessed": "2024-03-28"
+}

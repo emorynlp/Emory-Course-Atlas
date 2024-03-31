@@ -1,11 +1,11 @@
 {
-    "course_code": "HIST 599R",
-    "course_title": "Research",
+    "course_code": "HIST 597R",
+    "course_title": "Directed Reading",
     "credit_hours": "1-9",
-    "seats": "Seats: Maximum Enrollment: 1 / Seats Avail: 1",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
-    "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Open",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 5549, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: T. Andrade, Status: Open\nClass Nbr: 5550, Section #: 2, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Eckert/Vick, Status: Open\nClass Nbr: 5551, Section #: 3, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: W. Rucker, Status: Open\nClass Nbr: 5552, Section #: 4, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: C. Suddler, Status: Open\nClass Nbr: 5553, Section #: 5, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Dudziak/LaChance, Status: Open\nClass Nbr: 5554, Section #: 6, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: G. Pandey, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 3756, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: C. Crais, Status: Closed\nClass Nbr: This section is full 6232, Section #: 2, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: A. Chira, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

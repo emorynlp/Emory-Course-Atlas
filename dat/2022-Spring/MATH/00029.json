@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 532",
+    "course_title": "Graph Theory II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 14",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Topics include: independence of vertices and edges (matchings), factorizations and decompositions, coloring (both vertices and edges), and classic external theory.",
+    "prerequisites": null,
+    "instructors": "Liana Yepremyan - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Math & Science Center - E408",
+    "course_resources": null,
+    "sections": "Class Nbr: 2677, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: L. Yepremyan, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 220",
+    "course_title": "Regression Analysis",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 65 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Introduces students to widely used procedures for regression analysis, and provides intuitive, applied, and formal foundations for regression and more advanced methods treated later in the major course sequence.",
+    "prerequisites": "(QTM 110 or QTM_OX 110) and (QTM 150 or QTM_OX 150) and (QTM 120 or MATH 210 or MATH_OX 210)  and [QTM 210 or QTM_OX 210 or (MATH 361 and MATH 362)] and (MATH 221 or MATH_OX 221) or equivalent transfer credit as prerequisite.",
+    "instructors": "Seunghwa Rho - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2086, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: S. Rho, Status: Open\nClass Nbr: 2087, Section #: 2, Type: LAB, Campus: ATL, Meets: F 4-4:50p, Instructor: S. Rho, Status: Open",
+    "date_accessed": "2024-03-30"
+}

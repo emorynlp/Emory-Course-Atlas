@@ -1,8 +1,8 @@
 {
     "course_code": "HIST 585",
-    "course_title": "Special Topics in History: Global History",
+    "course_title": "Special Topics in History: After Empire",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 11",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 2",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "Content:  \nThis course is an introduction to global history designed for Ph.D. students. Global history focuses on connections and comparisons between societies, starting from the premise that bringing disparate histories and historiographies into closer dialogue sheds light not just on the history of humankind in the aggregate but also on the history of particular regions themselves. The course introduces students to global history¿s innovative historiography and seeks to help students consider their own research in the light of comparative and global approaches. The course also focuses on teaching and professional development and is intended explicitly to qualify students to obtain positions in a challenging academic job market. Formal training in global history provides a significant benefit because there is an intense and growing demand for instructors who can teach world history, a demand evident in job postings.\nAssignments:\nThere will likely be two main assignments for this course. The first is a research proposal that conceives of a large-scale project (ideally a dissertation project) in global perspective. (Students may substitute a more standard research paper for this assignment if they wish.) The second assignment is a world history syllabus for an introductory world history course at the undergraduate level. Students will also write a book review and make several oral presentations during the course of the semester.",
+    "class_notes": "(Same as ANT 585 6)\n\n\nDecolonization was a global process that defined and shaped not only imperial territories but also imperial metropoles and the international order. This course will ask how far the history of Europe was shaped and is still shaped by decolonization. From international law to tax heavens, the welfare state to neoliberal and racialized capitalism, we will consider the role of decolonization in shaping European society, economy and politics in the second half of the twentieth century.",
     "course_description": null,
     "prerequisites": null,
-    "instructors": "Tonio Andrade - Primary Instructor",
-    "schedule_location": "W 6pm-9pm in MODERN LANGUAGE_219",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_HIST_585_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3752, Section #: 1, Type: SEM, Campus: ATL, Meets: W 6-9p, Instructor: T. Andrade, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Tehila Sasson - Primary Instructor",
+    "schedule_location": "M 9am-12pm in Bowden Hall 323",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_HIST_585_3_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3754, Section #: 3, Type: SEM, Campus: ATL, Meets: M 9a-12p, Instructor: T. Sasson, Status: Open",
+    "date_accessed": "2024-03-30"
 }

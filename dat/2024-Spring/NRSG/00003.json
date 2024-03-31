@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "Varies by section",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 2432, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: J. Clark, Status: Open\nClass Nbr: 2983, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: D. Lewis, Status: Open\nClass Nbr: 2433, Section #: LAB1, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: D. Lewis, Status: Open\nClass Nbr: 2984, Section #: LAB2, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: C. Tower-Gilchrist, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2432, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: J. Clark, Status: Open\nClass Nbr: This section is full 2983, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: D. Lewis, Status: Closed\nClass Nbr: 2433, Section #: LAB1, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: D. Lewis, Status: Open\nClass Nbr: This section is full 2984, Section #: LAB2, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: C. Tower-Gilchrist, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

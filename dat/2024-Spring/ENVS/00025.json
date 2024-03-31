@@ -1,9 +1,9 @@
 {
-    "course_code": "ENVS 372",
-    "course_title": "Ecology of the Tropics Field Course",
+    "course_code": "ENVS 371",
+    "course_title": "Ecology of the Tropics",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 6",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 12 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "(Same as BIOL 372 1)\n[This 2-credit hour field course is part of the Office of International and Summer Programs (OISP) and will be taught during Spring Break week (March _____, 2024) in the Amazon River lowland rainforests of southern Peru (Tambopata Research Station), famous for its huge flocks of colorful Macaws. This field course will give the student a real hands-on rainforest experience complete with bromeliads, toucans, sloths, and the sounds of the night. Graduating Seniors and students who have previously completed BIOL 371/ENVS 371 have priority for this course. Cost for the trip is approximately $3200 (depending on airfare prices). Permission of instructor is required. This course is taught by Dr. Lawrence Wilson (lwilso3@emory.edu; adjunct faculty), is SHARED by the Biology and Environmental Science Departments, and may be taken as elective and upper-level laboratory credit for the biology major. Biology majors may submit an application to Barbara Shannon at barbara.shannon@emory.edu. Selected students will be notified and will have additional requirements by OISP. See the OISP website for additional information.  Financial Aid scholarships from the Biology Department are available to eligible students who submit an application for the aid.]",
-    "course_description": "Permission required. This is the field course to accompany the lecture course on tropical ecology. Field trip will take place during the spring recess.",
-    "prerequisites": "This course requires ENVS 371 or BIOL 371 as a prerequisite OR permission of instructor.",
+    "class_notes": "(Same as BIOL 371 1)\n[This 2-credit hour lecture course will explore the diverse biomes of the tropics. The focus will be on tropical forests and grasslands, with an emphasis on ecological processes, biodiversity, human impact on the tropics, indigenous peoples, and ethnobotany. Prerequisites: Biology 142 and Biology 142L (for Biology 371). This course is taught by Dr. Larry Wilson (adjunct faculty), is SHARED by the Biology and Environmental Science Departments, and may be taken as elective credit for the biology major. There is also an optional field course/lab associated with this course that travels to Peru during Spring Break (see BIOL 372/ENVS 372).]",
+    "course_description": "Explores the diverse biomes of the tropics. Focus will be on tropical forests and grasslands, with an emphasis on ecological processes, biodiversity, human impact in the tropics, indigenous peoples, and ethnobotany.",
+    "prerequisites": "ENVS 120 or ENVS 130 or ENVS 131 or ENVS_OX 131 or ENVS 140 or (BIOL 142 and BIOL 142L) or BIOL_OX 142 or equivalent transfer credit as prerequisite.",
     "instructors": "Lawrence Wilson - Primary Instructor",
-    "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENVS_372_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4570, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: L. Wilson, Status: Open",
-    "date_accessed": "2023-10-31"
+    "schedule_location": "T 2:30pm-4:30pm in 1462 Clifton Rd 100C",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ENVS_371_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4569, Section #: 1, Type: LEC, Campus: ATL, Meets: T 2:30-4:30p, Instructor: L. Wilson, Status: Open",
+    "date_accessed": "2024-03-30"
 }

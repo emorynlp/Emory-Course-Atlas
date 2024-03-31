@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 377",
+    "course_title": "Database Systems",
+    "credit_hours": "Varies by section",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Introduction to storage hierarchies, database models, consistency, reliability, and security issues. Query languages and their implementations, efficiency considerations, and compression and encoding techniques.",
+    "prerequisites": "CS 253 or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3310, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: N. El-Sayed, Status: Open\nClass Nbr: This section is full 6627, Section #: 9000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

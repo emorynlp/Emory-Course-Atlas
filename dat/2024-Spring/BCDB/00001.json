@@ -1,8 +1,8 @@
 {
-    "course_code": "BCDB 699R",
-    "course_title": "Advanced Graduate Research",
-    "credit_hours": "1-9",
-    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 30",
+    "course_code": "BCDB 502",
+    "course_title": "Foundations in BCDB II",
+    "credit_hours": "10",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 10",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "Advanced Graduate Research",
+    "course_description": null,
     "prerequisites": null,
-    "instructors": "Lawrence Boise - Primary Instructor",
-    "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BCDB_699R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5629, Section #: 1, Type: RSC, Campus: ATL, Meets: Does Not Meet, Instructor: L. Boise, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Michael Koval - Primary Instructor",
+    "schedule_location": "MTWThF 8am-10am",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BCDB_502_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5834, Section #: 1, Type: LEC, Campus: ATL, Meets: MTWThF 8-10a, Instructor: Koval/Moberg, Status: Open",
+    "date_accessed": "2024-03-30"
 }

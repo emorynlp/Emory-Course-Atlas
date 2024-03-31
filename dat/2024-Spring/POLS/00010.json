@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": "Social Sciences(*)",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "Fundamental concepts and quantitative techniques of empirical political inquiry. Introduction to concepts of measurement, parametric, and non-parametric statistics. Basic bivariate and univariate statistics used in political science.",
     "prerequisites": "QTM 100 or QTM_OX 100 or MATH_OX 117 or MATH_OX 117Q or QTM 220 or ECON 220 or ECON_OX 220 or POLS 310 or POLS 310W or ISOM 350 or BUS 350 or BUS_OX 350 or equivalent transfer credit as prerequisite.",
-    "instructors": "Matthew Baker - Primary Instructor",
+    "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 1984, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: M. Baker, Status: Open\nClass Nbr: 1985, Section #: 2, Type: DIS, Campus: ATL, Meets: F 10-10:50a, Instructor: M. Baker, Status: Open\nClass Nbr: 2042, Section #: 3, Type: DIS, Campus: ATL, Meets: F 11-11:50a, Instructor: M. Baker, Status: Open\nClass Nbr: 2043, Section #: 4, Type: DIS, Campus: ATL, Meets: F 11-11:50a, Instructor: M. Baker, Status: Open\nClass Nbr: 2044, Section #: 5, Type: DIS, Campus: ATL, Meets: F 1-1:50p, Instructor: M. Baker, Status: Open\nClass Nbr: 2045, Section #: 6, Type: DIS, Campus: ATL, Meets: F 1-1:50p, Instructor: M. Baker, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1984, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: Team, Status: Open\nClass Nbr: This section is full 1985, Section #: 2, Type: DIS, Campus: ATL, Meets: F 10-10:50a, Instructor: Baker/Russell, Status: Closed\nClass Nbr: This section is full 2042, Section #: 3, Type: DIS, Campus: ATL, Meets: F 11-11:50a, Instructor: Baker/Luongo, Status: Closed\nClass Nbr: 2043, Section #: 4, Type: DIS, Campus: ATL, Meets: F 11-11:50a, Instructor: Baker/Kinnard, Status: Open\nClass Nbr: 2044, Section #: 5, Type: DIS, Campus: ATL, Meets: F 1-1:50p, Instructor: Baker/Yilmaz, Status: Open\nClass Nbr: 2045, Section #: 6, Type: DIS, Campus: ATL, Meets: F 1-1:50p, Instructor: Baker/Erickson, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 573",
+    "course_title": "Data Privacy and Security",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 1",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "This course will introduce students to the legal and ethical issues of data privacy and security and computational technologies for protecting privacy and security while allowing society to collect and share person-specific data for many worthy purposes. The main topics include privacy and anonymity models, data anonymization, privacy preserving data mining, access control, secure computations, privacy in social networks and privacy in clinical and public health research. The foundations are drawn from a number of sub-disciplines of Computer Science including: database systems, data mining, computer security, cryptography, and statistics.",
+    "prerequisites": null,
+    "instructors": "Li Xiong - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - W303",
+    "course_resources": null,
+    "sections": "Class Nbr: 2642, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Xiong, Status: Open",
+    "date_accessed": "2024-03-30"
+}

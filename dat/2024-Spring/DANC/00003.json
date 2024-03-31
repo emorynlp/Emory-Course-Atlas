@@ -2,8 +2,8 @@
     "course_code": "DANC 124R",
     "course_title": "Jazz Dance I (Introduction)",
     "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 9",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 23 / Seats Avail: 6Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -18,5 +18,5 @@
     "schedule_location": "TTh 1pm-2:15pm in Woodruff PE - Dance",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DANC_124R_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 3427, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: T. Myers, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

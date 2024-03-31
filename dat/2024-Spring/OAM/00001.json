@@ -4,8 +4,8 @@
     "credit_hours": "3",
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
-    "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "grading_mode": "Varies by section",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4741, Section #: 1128, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: E. Bianchi, Status: Open\nClass Nbr: 4742, Section #: 1129, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: E. Bianchi, Status: Open\nClass Nbr: 5318, Section #: 1138, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Dittmann, Status: Open\nClass Nbr: 4743, Section #: 1180, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. Kuhnert, Status: Open\nClass Nbr: 4744, Section #: 1428, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: E. Bianchi, Status: Open\nClass Nbr: 4745, Section #: 1429, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: E. Bianchi, Status: Open\nClass Nbr: 5319, Section #: 1438, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Dittmann, Status: Open\nClass Nbr: 4746, Section #: 1480, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. Kuhnert, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 6635, Section #: 1109, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Clear, Status: Open\nClass Nbr: 4741, Section #: 1128, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: E. Bianchi, Status: Open\nClass Nbr: 4742, Section #: 1129, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: E. Bianchi, Status: Open\nClass Nbr: 5318, Section #: 1138, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Dittmann, Status: Open\nClass Nbr: 4743, Section #: 1180, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. Kuhnert, Status: Open\nClass Nbr: This section is full 4744, Section #: 1428, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: E. Bianchi, Status: Closed\nClass Nbr: This section is full 4745, Section #: 1429, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: E. Bianchi, Status: Closed\nClass Nbr: This section is full 5319, Section #: 1438, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Dittmann, Status: Closed\nClass Nbr: This section is full 4746, Section #: 1480, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. Kuhnert, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

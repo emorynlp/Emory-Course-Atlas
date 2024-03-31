@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 533",
+    "course_title": "Programming In Sas",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 50 / Seats Avail: 19",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-01-10 through 2022-02-28",
+    "class_notes": "This course meets during the first half of the semester.  Students who have previously completed or will complete EPI 534 should not enroll.  This is a 7 Week 1 Session Course.  Please see RSPH Academic Calendar for condensed A/D/S and Grading Status Change Deadlines.",
+    "course_description": "Provides an introduction to SAS programming environment and instructs students in the techniques needed to create, organize, and edit data into a final dataset that is ready for epidemiologic analysis.",
+    "prerequisites": null,
+    "instructors": "Vijaya Kancherla - Primary Instructor",
+    "schedule_location": "M 5pm-6:50pm in Claudia Nance Rollins 1051",
+    "course_resources": null,
+    "sections": "Class Nbr: 3282, Section #: 1, Type: LEC, Campus: ATL, Meets: M 5-6:50p, Instructor: Kancherla/Liu, Status: Open",
+    "date_accessed": "2024-03-30"
+}

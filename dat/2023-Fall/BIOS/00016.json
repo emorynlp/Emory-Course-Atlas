@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 534",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Cross-listed with CS 534.  Please email Melissa Sherrer at msherre@emory.edu regarding enrollment.",
+    "course_description": "Prerequisites: Multivariate Calculus (Calculus III), Linear Algebra, and Python programming. This course covers fundamental machine learning theory and techniques. The topics include basic theory, classification methods, model generalization, clustering, and dimension reduction. The material will be conveyed by a series of lectures, homeworks, and projects.",
+    "prerequisites": null,
+    "instructors": "Joyce Ho - Teaching Assistant",
+    "schedule_location": "TTh 11:30am-12:45pm in Math & Science Center - W201",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 1653, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: J. Ho, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

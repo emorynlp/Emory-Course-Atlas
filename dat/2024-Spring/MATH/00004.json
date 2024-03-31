@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": "Quantitative Reasoning(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3112, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: M. Carr, Status: Open\nClass Nbr: 3114, Section #: 2, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Carr/Molnar, Status: Open\nClass Nbr: 3115, Section #: 3, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Carr/Molnar, Status: Open\nClass Nbr: 3117, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Kobin, Status: Open\nClass Nbr: 3118, Section #: 5, Type: LAB, Campus: ATL, Meets: F 8:30-9:20a, Instructor: Kobin/Brarda, Status: Open\nClass Nbr: 3120, Section #: 6, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Kobin/Brarda, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3112, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 8:30-9:45a, Instructor: M. Carr, Status: Open\nClass Nbr: 3114, Section #: 2, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Carr/Molnar, Status: Open\nClass Nbr: 3115, Section #: 3, Type: LAB, Campus: ATL, Meets: F 11:30a-12:20p, Instructor: Carr/Molnar, Status: Open\nClass Nbr: 3117, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 10-11:15a, Instructor: A. Kobin, Status: Wait List\nClass Nbr: 3118, Section #: 5, Type: LAB, Campus: ATL, Meets: F 8:30-9:20a, Instructor: Kobin/Itkyal, Status: Wait List\nClass Nbr: 3120, Section #: 6, Type: LAB, Campus: ATL, Meets: F 10-10:50a, Instructor: Kobin/Itkyal, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

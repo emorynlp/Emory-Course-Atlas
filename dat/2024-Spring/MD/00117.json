@@ -1,8 +1,8 @@
 {
     "course_code": "MD 920",
-    "course_title": "Translation: Elective: Rheumatology-Immunology",
+    "course_title": "Translation: Elective: Research",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": "Department Consent Required",
     "dates": "2024-01-02 through 2024-05-10",
-    "class_notes": "(Permission Required Prior to Enrollment)(School of Medicine Students Only)",
+    "class_notes": "Varies by section",
     "course_description": "Innovations in clinical care are increasingly impacted by the development and implementation of machine learning (ML) and artificial intelligence (AI). As future clinicians, medical students should be informed and prepared for technological changes that will affect how they provide care for their patients. The goals of this senior elective are to demystify AI and ML in healthcare, enabling students to have informed conversations about these technologies and participate in their clinical advancement.",
     "prerequisites": null,
-    "instructors": "Prateek C. Gandiga - Primary Instructor",
+    "instructors": "Stacy M Higgins - Primary Instructor",
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MD_920_NaN_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1379, Section #: R01, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Gandiga/Tsagaris, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 1401, Section #: APR, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open\nClass Nbr: 1399, Section #: FEB, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open\nClass Nbr: 1398, Section #: JAN, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open\nClass Nbr: 1400, Section #: MAR, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open\nClass Nbr: 1402, Section #: MAY, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open\nClass Nbr: 1303, Section #: RSCH, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open\nClass Nbr: 1431, Section #: RSH1, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open\nClass Nbr: 1515, Section #: RSH2, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open\nClass Nbr: 1516, Section #: RSH3, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: S. Higgins, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 524",
+    "course_title": "Big Data Econometrics",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Students must have completed Econ 520 or approved equivalent. The course aims to provide modern skills in analyzing data and discover potential relations and assoc. Modern methods of data sciences and computing techniques are introduced. Data analysis is placed on a sound basis with understanding of the algorithms and their meaning. You will cover the key concepts of machine learning, including classification, regression analysis, clustering, and dimensionality reduction. The topics provide students with modern skills for robust model discovery and latest advances in prediction.",
+    "prerequisites": "ECON 520 and ECON 526 and ECON 725 or equivalent transfer credits as prerequisites.",
+    "instructors": "Zheng Fang - Primary Instructor",
+    "schedule_location": "MW 10am-11:15am in Woodruff Library 214\nF 10am-10:50am in Woodruff Library 214",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_ECON_524_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2780, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:15a; F 10-10:50a, Instructor: Z. Fang, Status: Open",
+    "date_accessed": "2024-03-28"
+}

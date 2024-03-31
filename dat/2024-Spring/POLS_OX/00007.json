@@ -1,11 +1,11 @@
 {
     "course_code": "POLS_OX 397R",
     "course_title": "Directed Study",
-    "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 1 / Seats Avail: 1",
+    "credit_hours": "1-4",
+    "seats": "Seats: Maximum Enrollment: 1 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": "Irregularly",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Salmon Shomade - Primary Instructor",
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_POLS_OX_397R_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4560, Section #: 1, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: S. Shomade, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 4560, Section #: 1, Type: SUP, Campus: OXF, Meets: Does Not Meet, Instructor: S. Shomade, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

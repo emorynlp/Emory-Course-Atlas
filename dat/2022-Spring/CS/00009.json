@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 350",
+    "course_title": "Systems Programming",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "System programming topics are illustrated by the POSIX API to the Linux operating system. Topics include: file i/o, the TTY driver, window systems, processes, shared memory, message passing, semaphores, signals, and interrupt handlers.",
+    "prerequisites": "CS 253 and CS 255 or equivalent transfer credit as prerequisites.",
+    "instructors": "Dorian Arnold - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2660, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: D. Arnold, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

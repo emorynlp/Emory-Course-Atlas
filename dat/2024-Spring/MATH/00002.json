@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall, Spring, and Summer",
     "requirement_designation": "Quantitative Reasoning(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3067, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: M. Auerbach, Status: Open\nClass Nbr: 3070, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: J. Camero, Status: Open\nClass Nbr: 3073, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: V. Rodl, Status: Open\nClass Nbr: 3078, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: V. Rodl, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3067, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: M. Auerbach, Status: Open\nClass Nbr: 3070, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: J. Camero, Status: Wait List\nClass Nbr: 3073, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: V. Rodl, Status: Open\nClass Nbr: 3078, Section #: 4, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: V. Rodl, Status: Open\nClass Nbr: 5800, Section #: 5, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: S. MANDAL, Status: Open\nClass Nbr: 6231, Section #: 6, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: A. Newton, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -2,7 +2,7 @@
     "course_code": "CPTS 501",
     "course_title": "Translational to Clinical Med.",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 20",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 10",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": null,
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CPTS_501_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 3823, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: M. Collins, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

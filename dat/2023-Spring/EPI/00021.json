@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 565",
+    "course_title": "Data Sources and Methods for MCH EPI",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 7",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": "Prerequisite: EPI 530 and BIOS 500.",
+    "course_description": "Prerequisites: EPI 530 or EPI 504, BIOS 500 and knowledge of SAS.  This course introduces students to data sources and methods commonly used by epidemiologists in state or provincial health departments. Data sources include websites, census, vital statistics, surveys (PRAMS). Methods include record linkage, questionnaire design, mapping, trend analysis, perinatal periods of risk, cluster investigation, small number analysis and secondary data analysis.",
+    "prerequisites": null,
+    "instructors": "Vijaya Kancherla - Primary Instructor",
+    "schedule_location": "M 10am-11:50am in Grace Crum Rollins 119",
+    "course_resources": null,
+    "sections": "Class Nbr: 2829, Section #: 1, Type: LEC, Campus: ATL, Meets: M 10-11:50a, Instructor: Kancherla/Anand, Status: Open",
+    "date_accessed": "2024-03-30"
+}

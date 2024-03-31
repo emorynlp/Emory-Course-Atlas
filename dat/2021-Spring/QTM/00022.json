@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 491",
+    "course_title": "Design / Analysis Experiments",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 6 / Seats Avail: 4Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "This course will be taught entirely online and will meet synchronously on Mondays; remaining course content will be delivered asynchronously.\nThe use of experiments has grown notably across the social sciences, with the promise of delivering simple, transparent, and replicable causal inference. This course will discuss the design, analysis, and interpretation of introductory and advanced experimental designs. The first part of the course covers the theory and logic of experiments. The second part covers issues and challenges in implementing experiments that deliver on their promises. Topics include: models of potential outcomes, blocking and covariate adjustment, non-compliance, attrition, heterogeneous treatment effects, interference, mediation, and ethics. Assignments will focus on developing practical skills for the implementation of experiments in real research settings.\n\n\n(Permission Required Prior to Enrollment)",
+    "course_description": "The first part of the course introduces the logic of experimentation and discusses various methodological issues in the design and analysis of experiments. The second part builds on this foundation to discuss some practical issues and ethical considerations in designing and implementing experiments.",
+    "prerequisites": null,
+    "instructors": "Natalia Bueno - Primary Instructor",
+    "schedule_location": "MW 2:40pm-3:55pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 5673, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:40-3:55p, Instructor: Bueno/Schiff, Status: Open",
+    "date_accessed": "2024-03-30"
+}

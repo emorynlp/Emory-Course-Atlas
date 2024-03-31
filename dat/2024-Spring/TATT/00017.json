@@ -1,11 +1,11 @@
 {
-    "course_code": "TATT 605NS",
+    "course_code": "TATT 605HIST",
     "course_title": "Teaching Assistantship",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "seats": "Seats: Maximum Enrollment: 1 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Open",
+    "enrollment_status": "Closed",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "The nature of a teaching assistantship varies from department to department. The defining characteristic of this position across all departments and programs is a controlled, carefully monitored initial teaching opportunity. A teaching assistant may be responsible for 10 to 12 hours per week of discussion or laboratory supervision.",
     "prerequisites": "TATT 600 or equivalent transfer credit as prerequisite.",
-    "instructors": "Nicole Marie Gerardo - Primary Instructor",
+    "instructors": null,
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_TATT_605NS_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5667, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: N. Gerardo, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 6122, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: T. Andrade, Status: Closed\nClass Nbr: This section is full 6123, Section #: 2, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: C. Crais, Status: Closed\nClass Nbr: This section is full 6124, Section #: 3, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: I. Rodriguez, Status: Closed\nClass Nbr: This section is full 6125, Section #: 4, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: T. Rogers, Status: Closed\nClass Nbr: This section is full 6126, Section #: 5, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: T. Sasson, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

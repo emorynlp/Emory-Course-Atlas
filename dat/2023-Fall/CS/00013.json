@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 370",
+    "course_title": "Computer Science Practicum",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "This course introduces basic concepts and techniques of software engineering, and applies these in the context of a semester-long group programming project.",
+    "prerequisites": "CS 253 or equivalent transfer credit as prerequisite.",
+    "instructors": "Jeff Epstein - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2875, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: J. Epstein, Status: Open\nClass Nbr: 6275, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 5:30-6:45p, Instructor: J. Epstein, Status: Open",
+    "date_accessed": "2024-03-30"
+}

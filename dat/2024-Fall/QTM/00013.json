@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 340",
+    "course_title": "Approaches to Data Sci.w/Text",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 30Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Teaches common theories & techniques in data science using Python. Focus is text analysis (e.g., text parsing, language models, sequence estimation, vector space models & distributional semantics, cluster analysis, supervised learning). Cloud computing, big data, & data visualization are discussed.",
+    "prerequisites": "(QTM 150 and QTM 151) or CS 170  or equivalent transfer credit as prerequisite.",
+    "instructors": "Sandeep Soni - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in White Hall 206",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_QTM_340_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2126, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: S. Soni, Status: Open",
+    "date_accessed": "2024-03-29"
+}

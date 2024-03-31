@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 531",
+    "course_title": "SAS Programming",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 60 / Seats Avail: 1",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "**Laptop Required for class**",
+    "course_description": "Prerequisites: BIOS 500 & BIOS 501 or permission of instructor. This class is designed to help students master statistical programming in SAS. Students in this class will develop programming style and skills for data manipulation, report generation, simulation and graphing. This class does not directly satisfy any competencies as defined by the Department of Biostatistics and Bioinformatics, the Rollins School of Public Health or the Council on Education for Public Health (CEPH). That being said, SAS is a primary data analysis and data management software system in use worldwide, particularly in public health settings. Students who master the skills offered in this course will have a much easier time completing the work for their thesis and will find themselves more ready for a public health career with a more analytical bent.",
+    "prerequisites": null,
+    "instructors": "George A Cotsonis - Primary Instructor",
+    "schedule_location": "M 1pm-2:50pm in Grace Crum Rollins RAR",
+    "course_resources": null,
+    "sections": "Class Nbr: 3112, Section #: 1, Type: LEC, Campus: ATL, Meets: M 1-2:50p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

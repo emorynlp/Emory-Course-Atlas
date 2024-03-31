@@ -1,8 +1,8 @@
 {
-    "course_code": "NRSG 469D",
-    "course_title": "Mental Health Nursing",
+    "course_code": "NRSG 468D",
+    "course_title": "Maternity and Reproductive Health Nursing",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 10",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 4",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-03-18 through 2024-05-08",
     "class_notes": "This class is for D-ABSN semester 2 students only. Exam on Fridays. Online with synchronous sessions via zoom.",
-    "course_description": "Utilizing diverse concepts and principles synthesized from the sciences and humanities, students develop knowledge and skills to provide psychiatric mental health nursing to care for patients¿ mental health across the lifespan.",
+    "course_description": "Students examine reproductive health and maternal nursing care of women across the continuum from preconception, antepartum, intra-partum, through postpartum. A global perspective frames health promotion and disease prevention emphasizing maternal-newborn dyads and their families.",
     "prerequisites": null,
     "instructors": "Angela Haynes Ferere - Primary Instructor",
-    "schedule_location": "TTh 12:30pm-2:30pm in ONLINE",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_469D_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2516, Section #: 1, Type: SEM, Campus: ONLIN, Meets: TTh 12:30-2:30p, Instructor: Pfeiffer/Haynes Ferere, Status: Open",
-    "date_accessed": "2023-10-31"
+    "schedule_location": "TTh 10am-12pm in ONLINE",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_NRSG_468D_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2515, Section #: 1, Type: LEC, Campus: ONLIN, Meets: TTh 10a-12p, Instructor: Womack/Haynes Ferere, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -2,10 +2,10 @@
     "course_code": "ENGCW_OX 270W",
     "course_title": "Intro to Creative Writing",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 14Waitlist Total: 0 of 6",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 0Waitlist Total: 0 of 6",
     "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Irregularly",
     "requirement_designation": "Humanities and Arts with Cont.Communication(*)",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "Introductory workshop in creative writing. Normally covers two genres, most often fiction and poetry. Not designed as a sequential prerequisite for other creative writing courses. May not be repeated for credit.",
     "prerequisites": null,
-    "instructors": null,
-    "schedule_location": "TTh 1pm-2:15pm in Johnson Hall 102",
+    "instructors": "Drue Denmon - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Pierce Hall 228",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_ENGCW_OX_270W_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4353, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4353, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: D. Denmon, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

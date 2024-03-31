@@ -1,7 +1,7 @@
 {
-    "course_code": "MATH 590",
-    "course_title": "Teaching Seminar",
-    "credit_hours": "1",
+    "course_code": "MATH 522",
+    "course_title": "Algebra II",
+    "credit_hours": "3",
     "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 11",
     "waitlist_total": null,
     "grading_mode": "Student Option",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "This seminar will concentrate on effective teaching techniques in mathematics. Topics included will include: General advice for new TA's. General advice for International TA's. Students will present several practice lectures over different levels of material. They will receive practice on quiz and test preparation. Syllabus information on courses most likely to be taught by new TA's will be supplied. General professional development information will also be included.",
+    "course_description": "Continuation of MATH 521. Topics: Modules, especially modules over a principal ideal domain, fields, Galois theory, representation of finite groups, Commutative algebra.",
     "prerequisites": null,
-    "instructors": "Bree Ettinger - Primary Instructor",
-    "schedule_location": "F 11am-12pm in Math & Science Center - W303",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MATH_590_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3222, Section #: 1, Type: SEM, Campus: ATL, Meets: F 11a-12p, Instructor: B. Ettinger, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Parimala Raman - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Math & Science Center - E406",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MATH_522_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3218, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: P. Raman, Status: Open",
+    "date_accessed": "2024-03-31"
 }

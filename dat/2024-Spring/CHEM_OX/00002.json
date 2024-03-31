@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Science, Nature and Technology with Lab",
@@ -17,6 +17,6 @@
     "instructors": "Erica Oduaran - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4494, Section #: 1, Type: LAB, Campus: OXF, Meets: Th 2:30-5:15p, Instructor: E. Oduaran, Status: Open\nClass Nbr: 4495, Section #: 2, Type: LAB, Campus: OXF, Meets: Th 10a-12:45p, Instructor: E. Oduaran, Status: Open\nClass Nbr: 4496, Section #: 3, Type: LAB, Campus: OXF, Meets: W 2:30-5:15p, Instructor: E. Oduaran, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 4494, Section #: 1, Type: LAB, Campus: OXF, Meets: Th 2:30-5:15p, Instructor: E. Oduaran, Status: Closed\nClass Nbr: 4495, Section #: 2, Type: LAB, Campus: OXF, Meets: Th 10a-12:45p, Instructor: E. Oduaran, Status: Open\nClass Nbr: 4496, Section #: 3, Type: LAB, Campus: OXF, Meets: W 2:30-5:15p, Instructor: E. Oduaran, Status: Open",
+    "date_accessed": "2024-03-30"
 }

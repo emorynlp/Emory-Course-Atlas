@@ -1,8 +1,8 @@
 {
-    "course_code": "NRSG 394",
-    "course_title": "Clinical Practicum: Pediatrics",
+    "course_code": "NRSG 391",
+    "course_title": "Clinical Practicum: Adult Medical Surgical Care",
     "credit_hours": "1.5",
-    "seats": "Seats: Maximum Enrollment: 75 / Seats Avail: 75",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "Varies by section",
     "class_notes": "Varies by section",
-    "course_description": "This course provides clinical experience with children who have acute health problems and chronic condition exacerbations. Students provide patient and family centered care with emphasis on evidence-based intervention implementation, outcome documentation, collaboration, and communication.",
+    "course_description": "This course provides clinical experience with adults who have acute health problems and chronic condition exacerbations. Students provide patient and family centered care with emphasis on evidence-based intervention implementation, outcome documentation, collaboration, and communication.",
     "prerequisites": null,
-    "instructors": null,
+    "instructors": "Tamikka Young - Primary Instructor",
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 2459, Section #: 101, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Open\nClass Nbr: 2460, Section #: 102, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2457, Section #: 101, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: T. Young, Status: Open\nClass Nbr: 2458, Section #: 102, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: T. Young, Status: Open",
+    "date_accessed": "2024-03-31"
 }

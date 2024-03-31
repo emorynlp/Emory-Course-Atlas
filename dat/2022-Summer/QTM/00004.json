@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 151",
+    "course_title": "Introduction to Statistical Computing II",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 35 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-07-18 through 2022-08-03",
+    "class_notes": "QTM 151-1 will meet in Session 2 from July 18-August 3, 2022. Please note the drop/add date that applies is June 29th, 2022.\n\n\nThis is an online course. Emory College Online summer courses have required synchronous/live sessions every week. Students must be available to sign into and virtually attend the course online during those times (noted as the course meeting times- all times listed are local to Atlanta). Each course will also involve significant asynchronous material that you access on your own time in addition to standard amounts of readings and course assignments. Students should plan to spend 5-10 hours/week on this course. Please also be aware that faculty will begin corresponding with students during Week Zero of the course (one week before the official start date of the course), and that some interaction with the course may be required at that time. Students should begin checking the Canvas course site regularly one week prior to the official start of the term.",
+    "course_description": "This course provides a practicum of skills for data science and an introduction to how to do data science with R. Material is selected to enable you to get data into the most useful structure, transform it, visualize it, and model it. This will require you to practice the material outside of class.",
+    "prerequisites": "QTM 150 or QTM_OX 150 as co-requisite for Summer only.",
+    "instructors": "Umberto Mignozzetti - Primary Instructor",
+    "schedule_location": "MWF 7:15pm-8:15pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 1379, Section #: 1, Type: LAB, Campus: ATL, Meets: MWF 7:15-8:15p, Instructor: U. Mignozzetti, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

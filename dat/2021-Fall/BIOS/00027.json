@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 735",
+    "course_title": "Estimating Function Theory",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 6",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "Examines topics in the theory of estimating functions. This course presents measures of efficiency of estimating functions; methods to produce efficient estimating functions using orthogonal projection theory; modern methods to reduce the sensitivity of an estimating function to nuisance parameters; artificial likelihood functions to accompany estimating functions; and model selection issues. Applications from biomedical studies are used to illustrate the concepts discussed in class. Prerequisites: BIOS 711 or permission of instructor; some knowledge of statistical computing will be needed to complete the final project.",
+    "prerequisites": null,
+    "instructors": "John Hanfelt - Primary Instructor",
+    "schedule_location": "T 3:10pm-5pm in Grace Crum Rollins 105",
+    "course_resources": null,
+    "sections": "Class Nbr: 5117, Section #: 1, Type: LEC, Campus: ATL, Meets: T 3:10-5p, Instructor: J. Hanfelt, Status: Open",
+    "date_accessed": "2024-03-30"
+}

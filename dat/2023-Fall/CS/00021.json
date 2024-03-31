@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 534",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 52 / Seats Avail: 2",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "This course covers fundamental machine learning theory and techniques. The topics include basic theory, classification methods, model generalization, clustering, and dimension reduction. The material will be conveyed by a series of lectures, homeworks, and projects.",
+    "prerequisites": null,
+    "instructors": "Joyce Ho - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Math & Science Center - W201",
+    "course_resources": null,
+    "sections": "Class Nbr: 2883, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: J. Ho, Status: Open",
+    "date_accessed": "2024-03-30"
+}

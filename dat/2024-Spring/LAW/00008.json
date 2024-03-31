@@ -1,8 +1,8 @@
 {
-    "course_code": "LAW 560",
-    "course_title": "Am Legal Writing, Analysis & Research",
-    "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 16Waitlist Total: 0 of 2",
+    "course_code": "LAW 560B",
+    "course_title": "American Legal Writing, Analysis & Research II",
+    "credit_hours": "1",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 15Waitlist Total: 0 of 2",
     "waitlist_total": ": 0 of 2",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-08 through 2024-04-22",
-    "class_notes": "Graduate students only.",
-    "course_description": "ALWAR I introduces students to the concepts of legal analysis and the techniques and strategies for legal research, as well as the requirements and analytical structures for legal writing in the American common law legal system.",
-    "prerequisites": "LLM & MCL Students ONLY",
+    "class_notes": "Final Assessment: Paper/Project\nGraduate students only.",
+    "course_description": "This course continues the study of legal analysis, research, and writing for practice in the American common law system. The topics covered include client letters, pleadings, and persuasive writing, along with enhanced instruction covering legal citation and advanced legal research sources and techniques. Note: International LLM students who want to sit for the Georgia bar exam must take this class.",
+    "prerequisites": "LLM Students ONLY",
     "instructors": "Nancy Daspit - Primary Instructor",
-    "schedule_location": "MW 9am-10:15am",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_560_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2694, Section #: 001, Type: LEC, Campus: ATL, Meets: MW 9-10:15a, Instructor: N. Daspit, Status: Open",
-    "date_accessed": "2023-10-31"
+    "schedule_location": "M 3:45pm-5pm in Gambrell Hall 5D",
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_560B_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2706, Section #: 001, Type: LEC, Campus: ATL, Meets: M 3:45-5p, Instructor: N. Daspit, Status: Open",
+    "date_accessed": "2024-03-30"
 }

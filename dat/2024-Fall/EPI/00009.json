@@ -1,0 +1,22 @@
+{
+    "course_code": "EPI 534",
+    "course_title": "Statistical Programming",
+    "credit_hours": "2",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Varies by section",
+    "course_description": "Provides an introduction to the SAS and R programming environments and instructs students in the techniques needed to create, organize, and edit data into a final dataset that is ready for epidemiologic analysis.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1441, Section #: 1, Type: LEC, Campus: ATL, Meets: W 5-6:50p, Instructor: N. Luisi, Status: Open\nClass Nbr: 1442, Section #: 2, Type: LEC, Campus: ATL, Meets: M 5-6:50p, Instructor: N. Luisi, Status: Open\nClass Nbr: 1533, Section #: 3, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: V. Kancherla, Status: Open",
+    "date_accessed": "2024-03-28"
+}

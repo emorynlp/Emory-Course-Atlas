@@ -2,10 +2,10 @@
     "course_code": "ENVS_OX 131QE",
     "course_title": "Introduction to Environmental Studies",
     "credit_hours": "5",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 0",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 1",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Closed",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": "Natural Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": "Heather Black - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: This section is full 4486, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: H. Black, Status: Open\nClass Nbr: This section is full 4487, Section #: 2, Type: LAB, Campus: OXF, Meets: W 2:30-5:15p, Instructor: H. Black, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4486, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: H. Black, Status: Open\nClass Nbr: 4487, Section #: 2, Type: LAB, Campus: OXF, Meets: W 2:30-5:15p, Instructor: H. Black, Status: Open",
+    "date_accessed": "2024-03-30"
 }

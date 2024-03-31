@@ -1,8 +1,8 @@
 {
-    "course_code": "LAW 729",
-    "course_title": "State & Local Govt",
+    "course_code": "LAW 713",
+    "course_title": "Secured Transactions",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 20",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": null,
     "dates": "2024-01-08 through 2024-04-22",
-    "class_notes": "Final Assessment: Take-Home Final",
-    "course_description": "This course will cover various aspects of state and local government, including: creation, financing, and dissolution of municipalities; political participation; the relationship between local, state, and federal governments and the courts; governmental interests, powers, functions and liability; roles in economic development and public-private partnerships. Significant themes include: democracy, land use, race, class, and federalism.",
+    "class_notes": "Final Assessment: Scheduled In-Class Exam",
+    "course_description": null,
     "prerequisites": null,
-    "instructors": "Terri Montague - Primary Instructor",
-    "schedule_location": "TTh 2pm-3:30pm",
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_LAW_729_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5591, Section #: 001, Type: LEC, Campus: ATL, Meets: TTh 2-3:30p, Instructor: T. Montague, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 5556, Section #: 001, Type: LEC, Campus: ATL, Meets: TTh 10:15-11:45a, Instructor: M. Sybblis, Status: Open\nClass Nbr: 5557, Section #: 002, Type: LEC, Campus: ATL, Meets: MW 8:30-10a, Instructor: L. Simon, Status: Open",
+    "date_accessed": "2024-03-30"
 }

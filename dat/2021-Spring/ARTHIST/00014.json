@@ -1,0 +1,22 @@
+{
+    "course_code": "ARTHIST 393R",
+    "course_title": "Special Studies History of Art: Intro.3D Visualization& Inter.",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Humanities, Arts, Performance",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "This course will introduce the concepts of 3D modeling, texturing, and visualization using real-time game engines such as UnityTM. For the first half of the course, we will go through hands-on assignments to learn and practice developing/modifying 3D assets. For the second half of the course, we will focus on real-time rendering game engines and its various applications. We shall learn (see demos) about various 3D visualization paradigms such as Virtual Reality (VR) and Augmented Reality (AR). This course will introduce the concepts of basic interactive programming via scripting using the C# programming language. We shall implement basic 3D asset manipulation using the scripting language mentioned above. Finally, we shall learn about various application (immersive) deployment strategies that real-time game engines have to offer.Art History major/minor: makers & materials course\nArchitectural Studies minor: may be substituted for Art History 210 requirement",
+    "course_description": "Advanced seminars dealing with various specialized problems in the history of art from antiquity to modern times, such as individual artists, genres (e.g. portraiture, landscape); themes (e.g. theory, iconography); artistic movements and museum studies. May be repeated for credit when topic varies.",
+    "prerequisites": null,
+    "instructors": "Aryabrata Basu - Primary Instructor",
+    "schedule_location": "MW 4:20pm-5:35pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 2798, Section #: 1, Type: SEM, Campus: ATL, Meets: MW 4:20-5:35p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -2,7 +2,7 @@
     "course_code": "MATH 276",
     "course_title": "Honors Vector Calculus",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 16Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 2Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3103, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Ruthotto, Status: Open\nClass Nbr: 3104, Section #: 2, Type: LAB, Campus: ATL, Meets: F 1-1:50p, Instructor: S. Chaudhury, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3103, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: L. Ruthotto, Status: Open\nClass Nbr: 3104, Section #: 2, Type: LAB, Campus: ATL, Meets: F 1-1:50p, Instructor: S. Chaudhury, Status: Open",
+    "date_accessed": "2024-03-31"
 }

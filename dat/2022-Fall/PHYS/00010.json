@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 361",
+    "course_title": "Classical Mechanics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 40 / Seats Avail: 9",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Science, Nature, Technology",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Newton's laws, energy, momentum, angular momentum, conservation laws, many-particle systems, oscillations, planetary motion and Kepler's laws, Lagrange's and Hamiltonian formalisms, non-inertial reference frames, rotation and tensor of inertia, non-linear dynamics and chaos.",
+    "prerequisites": "(PHYS 142 or PHYS_OX 142 or PHYS 152 or PHYS_OX 152) as prerequisite and (PHYS 220 or MATH 212 or MATH_OX 212) as co-requisite or equivalent transfer credit.",
+    "instructors": "Minsu Kim - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - N306",
+    "course_resources": null,
+    "sections": "Class Nbr: 2105, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: M. Kim, Status: Open",
+    "date_accessed": "2024-03-30"
+}

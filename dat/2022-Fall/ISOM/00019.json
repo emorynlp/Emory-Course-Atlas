@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 575",
+    "course_title": "Data Visualization",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 76 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": null,
+    "course_description": "Data Visualization will introduce students to the techniques and tools used to create effective visualizations that clearly and efficiently communicate relationships within data. The field of data visualization combines the art of graphic design with the science of data analytics. Students will learn how to perform exploratory analysis through visualization, how to create professional looking visualizations for use in business reports and presentations, and how to design interactive visualizations and dashboards that include time series, rankings, proportions, deviations, frequencies and distributions, correlations, categorical comparisons, and geospatial plots. Students will analyze real data sets and utilize R, Python, Tableau, and other tools to design and prototype their visualizations. \nThis course is for MBA students only.",
+    "prerequisites": "This section is reserved for students in the One-Year or Two-Year MBA program.",
+    "instructors": "Jesse Bockstedt - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Goizueta Business School 208",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2135, Section #: 3201, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: J. Bockstedt, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

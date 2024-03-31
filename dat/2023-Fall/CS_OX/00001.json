@@ -1,0 +1,22 @@
+{
+    "course_code": "CS_OX 170",
+    "course_title": "Introduction To Computer Science I w/Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Varies by section",
+    "course_description": "An introduction to computer science for the student who needs to be able to program for course work or research. Topics include: fundamental computing concepts, general programming principles, and the Java programming language. Emphasis will be on algorithm development with examples highlighting topics in data structures. Required for beginning computer science majors. Needed for mathematics majors and pre-engineering majors in the 3-2 program with Georgia Tech. Has a one-hour lab.",
+    "prerequisites": null,
+    "instructors": "Hai Le - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 4302, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: H. Le, Status: Open\nClass Nbr: 4553, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: H. Le, Status: Open\nClass Nbr: 4304, Section #: 3, Type: LEC, Campus: OXF, Meets: TTh 10-11:15a, Instructor: H. Le, Status: Wait List\nClass Nbr: 4554, Section #: 4, Type: LAB, Campus: OXF, Meets: F 2:30-3:20p, Instructor: H. Le, Status: Open\nClass Nbr: 4306, Section #: 5, Type: LAB, Campus: OXF, Meets: F 1-1:50p, Instructor: H. Le, Status: Open\nClass Nbr: 4308, Section #: 6, Type: LAB, Campus: OXF, Meets: F 10-10:50a, Instructor: H. Le, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

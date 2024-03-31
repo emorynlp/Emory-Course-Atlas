@@ -1,0 +1,22 @@
+{
+    "course_code": "BSHES 730",
+    "course_title": "Hierarchical Linear Modeling",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": "INSTRUCTOR APPROVAL IS REQUIRED\nPlease contact Dr. Haardoerfer at: regine.haardoerfer@emory.edu",
+    "course_description": "This course is designed to provide doctoral students with theoretical and applied knowledge of hierarchical linear modeling (HLM). Foundational knowledge of HLM is taught by extending knowledge of regression analysis to designs involving a nested data structure. This course also includes instruction in programming in and interpretation of the output for computer software for conducting HLM. Furthermore, advanced topics such as HLM for ordinal outcome variables and dyadic data will be presented.",
+    "prerequisites": null,
+    "instructors": "Regine Haardoerfer - Primary Instructor",
+    "schedule_location": "Th 1pm-4pm in Grace Crum Rollins P45",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3186, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 1-4p, Instructor: R. Haardoerfer, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

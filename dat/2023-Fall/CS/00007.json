@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 255",
+    "course_title": "Computer Architecture/Machine Level Programming",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 100 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Wait List",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Introductory systems course in Computer Science, with a focus on high level computer architecture and assembler programming. Emphasis is on comprehension of von Neumann computer architecture, information encoding and data representation, and assembler equivalents of high level programming constructs.",
+    "prerequisites": "This course requires CS 171 or  CS 171Z or CS_OX 171 or equivalent transfer credit as a prerequisite.",
+    "instructors": "Shun Cheung - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in White Hall 208",
+    "course_resources": null,
+    "sections": "Class Nbr: 2860, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. Cheung, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 534",
+    "course_title": "Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Cross-listed with CS 534.  Please email Melissa Sherrer at msherre@emory.edu regarding enrollment.",
+    "course_description": "Prerequisites: Multivariate Calculus (Calculus III), Linear Algebra, and Python programming. This course covers fundamental machine learning theory and techniques. The topics include basic theory, classification methods, model generalization, clustering, and dimension reduction. The material will be conveyed by a series of lectures, homeworks, and projects.",
+    "prerequisites": null,
+    "instructors": "Eugene Agichtein - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Grace Crum Rollins TBA",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 3028, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: Agichtein/He, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 312",
+    "course_title": "Computing, AI, Ethics, and Soc",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 30Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "Understanding ethical and societal concerns introduced by computing and AI into human life, including privacy, online influence and disinformation, information ownership and responsibility, fairness and bias in computer and AI technologies such as facial recognition and robotic systems.",
+    "prerequisites": "CS 211 or CS 323 or CS 325 or CS 334 or CS 470 or equivalent transfer credit as prerequisite.",
+    "instructors": "Joyce Ho - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Math & Science Center - N302",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_CS_312_1_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 3108, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: J. Ho, Status: Open",
+    "date_accessed": "2024-03-28"
+}

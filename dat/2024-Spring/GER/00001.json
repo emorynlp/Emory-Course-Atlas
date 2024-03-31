@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": "Intercultural Communication(*)",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 1727, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 10-11:15a; F 10-10:50a, Instructor: R. Embeywa, Status: Open\nClass Nbr: 1728, Section #: 2, Type: SEM, Campus: ATL, Meets: TTh 11:30a-12:45p; F 11:30a-12:20p, Instructor: J. Ruck, Status: Open\nClass Nbr: 1729, Section #: 3, Type: SEM, Campus: ATL, Meets: TTh 1-2:15p; F 1-1:50p, Instructor: J. Ruck, Status: Open\nClass Nbr: 1730, Section #: 4, Type: SEM, Campus: ATL, Meets: MW 10-11:15a; F 10-10:50a, Instructor: A. Kofler, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 1727, Section #: 1, Type: SEM, Campus: ATL, Meets: TTh 10-11:15a; F 10-10:50a, Instructor: R. Embeywa, Status: Closed\nClass Nbr: 1728, Section #: 2, Type: SEM, Campus: ATL, Meets: TTh 11:30a-12:45p; F 11:30a-12:20p, Instructor: J. Ruck, Status: Open\nClass Nbr: 1729, Section #: 3, Type: SEM, Campus: ATL, Meets: TTh 1-2:15p; F 1-1:50p, Instructor: J. Ruck, Status: Open\nClass Nbr: 1730, Section #: 4, Type: SEM, Campus: ATL, Meets: MW 10-11:15a; F 10-10:50a, Instructor: A. Kofler, Status: Open",
+    "date_accessed": "2024-03-30"
 }

@@ -4,8 +4,8 @@
     "credit_hours": "3",
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
-    "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "grading_mode": "Varies by section",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -13,10 +13,10 @@
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
     "course_description": "To solve business problems in various domains including marketing, finance, healthcare and sports, students will develop expertise in coding with Python and build data management skills using SQL. This course will equip students with applied data analysis and practical programming skills that are essential for a career in any data intensive organization, including data ingestion, processing, analysis, and presentation using tools that are in high demand in the industry (e.g., SQL, coding with Python, spreadsheets). No prior programming or analytics experience is required.",
-    "prerequisites": "BUS 350 as co-requisite or  ISOM 350 or MATH_OX 117 or QTM XFR or QTM_OX ELEC as prerequisite, or equivalent transfer credit.This section is reserved for students in the BBA program.",
-    "instructors": "Wen Gu - Primary Instructor",
+    "prerequisites": "Varies by section",
+    "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4925, Section #: 1101, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: W. Gu, Status: Open\nClass Nbr: 4926, Section #: 1102, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: W. Gu, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4925, Section #: 1101, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: W. Gu, Status: Open\nClass Nbr: 4926, Section #: 1102, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: W. Gu, Status: Wait List\nClass Nbr: 6618, Section #: 1109, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Clear, Status: Open",
+    "date_accessed": "2024-03-30"
 }

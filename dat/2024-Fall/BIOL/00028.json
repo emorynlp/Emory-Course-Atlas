@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOL 385",
+    "course_title": "Special Topics in Biology: AnalyzingData inMany Dimension",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "(Same as QTM 385 4)\nA modern truism is that we are now awash in data, with petabytes flowing onto hard disks at a remarkable pace across fields, from genomics to particle physics and neuroscience to economics and sports to political science and more.  In response, the yet ill-defined field of 'data science' or 'big data' has emerged, attempting to collate a set of skills that can be applied across disciplines.  Most data sets classified as big data are high dimensional, meaning that they involve measuring many variables at the same time.  There could be a few dozen observational variables, or there could be millions.  The goal for this course is to provide students with a theoretical and practical basis for modeling high-dimensional data.  This aim will be accomplished through a combination of lectures, in-class data analysis projects, and a semester-long project that focuses on a topic that is of particular interest.  The data analysis project will involve real-world noisy data, spanning disciplines as varied as those described at the beginning of the paragraph.  More informally, the goal for the course is that if you encounter a high-dimensional data set in the wild, you will know what to do!  Prerequisites:  QTM 220 and MATH 221.",
+    "course_description": "A course on topics of special biological interest, designed for Biology majors elective credit. This course is repeatable when the topic varies.",
+    "prerequisites": "(BIOL 142 and BIOL 142L) or BIOL_OX 142WE or equivalent transfer credit as a prerequisite.",
+    "instructors": "Gordon Berman - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in New Psyc Bldg 220 (36 Eagle Ro",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BIOL_385_2_F24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4477, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: G. Berman, Status: Open",
+    "date_accessed": "2024-03-28"
+}

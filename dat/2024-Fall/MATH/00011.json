@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 250",
+    "course_title": "Foundations of Mathematics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 19 / Seats Avail: 19Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Quantitative Reasoning(*)",
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "An introduction to theoretical mathematics. Logic and proofs, operations on sets, induction, relations, functions.",
+    "prerequisites": "This course requires MATH 111 as prerequisite AND MATH 112 or MATH_OX112 or MATH 112Z or MATH_OX112Z or equivalent transfer credit.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2964, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: Y. Wang, Status: Open\nClass Nbr: 2983, Section #: 2, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: J. Villeta-García, Status: Open\nClass Nbr: 2991, Section #: 3, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: J. Villeta-García, Status: Open\nClass Nbr: 3104, Section #: 4, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: L. Nurbekyan, Status: Open",
+    "date_accessed": "2024-03-29"
+}

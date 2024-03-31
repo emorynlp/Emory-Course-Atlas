@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 501",
+    "course_title": "Statistical Methods II with Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-01-09 through 2023-04-24",
+    "class_notes": "Varies by section",
+    "course_description": "Prerequisites: BIOS 500 or permission of instrcutor. This course is the follow-up to Biostatistical Methods I (BIOS 500).  Students will apply many of the concepts learned in BIOS 500 in a broader field of statistical analysis: model construction.  Topics covered include Linear Regression, Analysis of Variance, Logistic Regression and Survival Analysis.  Students who successfully complete this course will have a deep understanding of many analytical methods used by public health researchers in daily life. BIOS 501 Lab is a component of this course.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2659, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:50a, Instructor: G. Cotsonis, Status: Open\nClass Nbr: 2758, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 5:30-6:50p, Instructor: J. Edwards, Status: Open\nClass Nbr: 2662, Section #: L1, Type: LAB, Campus: ATL, Meets: T 5-6:50p, Instructor: Robichaux/Sun, Status: Open\nClass Nbr: 2664, Section #: L2, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -1,0 +1,22 @@
+{
+    "course_code": "CS_OX 171",
+    "course_title": "Introduction to Computer Science II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 6Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "CS 170Q or equivalent transfer credit as the pre-requisite.",
+    "course_description": "This course is a continuation of CS 170. Emphasis is on the use and implementation of data structures, fundamental algorithms with introductory algorithm analysis, and object oriented design and programming with Java.",
+    "prerequisites": null,
+    "instructors": "Ting Li - Primary Instructor",
+    "schedule_location": "TTh 8:30am-9:45am in Pierce Hall 104",
+    "course_resources": null,
+    "sections": "Class Nbr: 3431, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: T. Li, Status: Open",
+    "date_accessed": "2024-03-30"
+}

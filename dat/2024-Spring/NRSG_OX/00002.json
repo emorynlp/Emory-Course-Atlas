@@ -2,7 +2,7 @@
     "course_code": "NRSG_OX 205",
     "course_title": "Fundamentals of Microbiology with Lab",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 24",
+    "seats": "Seats: Maximum Enrollment: 24 / Seats Avail: 2",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 4522, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 11:30a-12:45p, Instructor: C. Tower-Gilchrist, Status: Open\nClass Nbr: 4523, Section #: 2, Type: LAB, Campus: OXF, Meets: Meets Online, Instructor: C. Tower-Gilchrist, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

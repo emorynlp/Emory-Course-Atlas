@@ -1,0 +1,22 @@
+{
+    "course_code": "ECON 722",
+    "course_title": "Time Series Econometrics",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": null,
+    "course_description": "This course covers traditional methods of time series analysis and inference in dynamic models as the starting point. These include ARIMA, distributed lag, dynamic and ARCH models. The course also covers dynamic simultaneous equation and VAR models. Other topics include recent developments in time series econometrics, emphasizing non-stationarity.",
+    "prerequisites": null,
+    "instructors": "Elena Pesavento - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Callaway Center S103",
+    "course_resources": null,
+    "sections": "Class Nbr: 1143, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: E. Pesavento, Status: Open",
+    "date_accessed": "2024-03-30"
+}

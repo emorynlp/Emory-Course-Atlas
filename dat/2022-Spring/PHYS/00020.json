@@ -1,0 +1,22 @@
+{
+    "course_code": "PHYS 511A",
+    "course_title": "Electrodynamics I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 16 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "Electrodynamics is introduced as a general relativistic theory of a vector field coupled to particles in Minkowski¿s space-time; important limiting cases are analyzed, including statics, waves, and electromagnetic fields in matter. Other topics include Maxwell's Equations; Variational Principles; Conservation Laws; Green's Functions; Retarded Green's Functions; Radiation-Field and Source Viewpoints; Models of Antennas; Spectral Distribution of Radiation; Cerenkov Radiation; Synchrotron Radiation; Propagation in Dielectric Media; Waveguides; Scattering by Small Obstacles; Diffraction.",
+    "prerequisites": null,
+    "instructors": "Sergei Urazhdin - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Math & Science Center - N301",
+    "course_resources": null,
+    "sections": "Class Nbr: 1415, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: S. Urazhdin, Status: Open",
+    "date_accessed": "2024-03-30"
+}

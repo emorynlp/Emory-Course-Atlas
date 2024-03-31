@@ -2,8 +2,8 @@
     "course_code": "ECON_OX 101",
     "course_title": "Principles Of Microeconomics",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 28 / Seats Avail: 26Waitlist Total: 0 of 6",
-    "waitlist_total": ": 0 of 6",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -18,5 +18,5 @@
     "schedule_location": "Varies by section",
     "course_resources": null,
     "sections": "Class Nbr: 4229, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 1-2:15p, Instructor: F. Hasin, Status: Open\nClass Nbr: 4230, Section #: 2, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: F. Hasin, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

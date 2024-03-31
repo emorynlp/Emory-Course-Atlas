@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 516",
+    "course_title": "Numerical Analysis, II",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 19",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": null,
+    "course_description": "This course covers fundamental concepts of numerical analysis and scientific computing. Material includes numerical methods for curve fitting (interpolation, splines, least squares), differentiation, integration, and differential equations. It is assumed that students have a strong background in numerical linear algebra.",
+    "prerequisites": null,
+    "instructors": "Talea L. Mayo - Primary Instructor",
+    "schedule_location": "T 11:20am-12:35pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 1945, Section #: 1, Type: LEC, Campus: ATL, Meets: T 11:20a-12:35p, Instructor: T. Mayo, Status: Open",
+    "date_accessed": "2024-03-30"
+}

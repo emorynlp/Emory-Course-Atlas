@@ -1,8 +1,8 @@
 {
-    "course_code": "TATT 610BIOS",
-    "course_title": "Teaching Associateship",
+    "course_code": "TATT 605NHS",
+    "course_title": "Teaching Assistantship",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 9",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 12",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": null,
-    "course_description": "The teaching associateship advances the graduate student to a teaching opportunity with greater responsibility than the teaching assistantship. Most often the teaching associate will co-teach a course with a faculty member. In many departments, the graduate student and faculty cooperate on all aspects of a course, from syllabus design to final grading. Occasionally, a teaching associate takes full responsibility for an entire class. Students fulfill teaching associate duties as the final mandatory stage of TATTO.",
-    "prerequisites": "TATT 605 or equivalent transfer credit as prerequisite.",
-    "instructors": "Robert Lyles - Primary Instructor",
+    "class_notes": "(S/U Only)",
+    "course_description": "The nature of a teaching assistantship varies from department to department. The defining characteristic of this position across all departments and programs is a controlled, carefully monitored initial teaching opportunity. A teaching assistant may be responsible for 10 to 12 hours per week of discussion or laboratory supervision.",
+    "prerequisites": "TATT 600 or equivalent transfer credit as prerequisite.",
+    "instructors": "Mary Beth Weber - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_TATT_610BIOS_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5314, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: R. Lyles, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_TATT_605NHS_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2170, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: M. Weber, Status: Open",
+    "date_accessed": "2024-03-31"
 }

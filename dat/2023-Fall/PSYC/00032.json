@@ -1,0 +1,22 @@
+{
+    "course_code": "PSYC 471",
+    "course_title": "Seminar in Cognitive Processes",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 10",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "(Topic - How do we Learn and Decide?)( No textbook required)\n(How do we convert the information arriving through our senses into learned information to guide our decisions-from when to get out of bed to whether to have children? This course focuses on computational models aimed at unraveling the cognitive and neural bases of learning and decision-making, and pinpointing the mechanisms of neurological disease and poor mental health. In particular, we will focus on how verbal descriptions can be translated into formal computational models written in terms of simple algebraic expressions. These formalisms offer a powerful bridge between psychological theories and findings in cognitive science, neuroscience, and AI. The course will mostly focus on discussing research articles and there will also be a small hands-on component that involves working with code. Students of all backgrounds are welcome to join; no coding or mathematical experience is necessary.)",
+    "course_description": "Selected contemporary problems in memory, language, learning, and thinking.",
+    "prerequisites": null,
+    "instructors": "Peter Hitchcock - Primary Instructor",
+    "schedule_location": "T 1pm-3:45pm in New Psyc Bldg 493 (36 Eagle Ro",
+    "course_resources": null,
+    "sections": "Class Nbr: 6271, Section #: 2, Type: SEM, Campus: ATL, Meets: T 1-3:45p, Instructor: P. Hitchcock, Status: Open",
+    "date_accessed": "2024-03-30"
+}

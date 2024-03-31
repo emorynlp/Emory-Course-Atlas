@@ -1,0 +1,22 @@
+{
+    "course_code": "CHEM 533",
+    "course_title": "Thermodynamics, Kinetics, and Modeling",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 3",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "The first part of this course will cover the factors that determine the rates of chemical reactions as well as mass and thermal transport rates in gases and in solution, including the Marcus theory for electron transfer reactions and the RRKM theory for unimolecular decomposition. Students will use molecular simulation to determine rate constants for elementary energy transfer processes in a computer lab exercise. The course will conclude with an overview of thermodynamics, with applications to phase transitions.",
+    "prerequisites": null,
+    "instructors": "Lili Wang - Primary Instructor",
+    "schedule_location": "TTh 8:30am-9:45am in Emerson Chemistry Bldg. E363",
+    "course_resources": null,
+    "sections": "Class Nbr: 4046, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: L. Wang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

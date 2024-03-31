@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Varies by section",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Richard Himes - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: This section is full 3897, Section #: 1, Type: LAB, Campus: ATL, Meets: M 4-5:15p; W 4-6:45p, Instructor: R. Himes, Status: Wait List\nClass Nbr: 3898, Section #: 2, Type: LAB, Campus: ATL, Meets: M 4-5:15p; Th 4-6:45p, Instructor: R. Himes, Status: Open\nClass Nbr: 3899, Section #: 3, Type: LAB, Campus: ATL, Meets: M 4-5:15p; F 1-3:45p, Instructor: R. Himes, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3897, Section #: 1, Type: LAB, Campus: ATL, Meets: M 4-5:15p; W 4-6:45p, Instructor: R. Himes, Status: Open\nClass Nbr: 3898, Section #: 2, Type: LAB, Campus: ATL, Meets: M 4-5:15p; Th 4-6:45p, Instructor: R. Himes, Status: Open\nClass Nbr: 3899, Section #: 3, Type: LAB, Campus: ATL, Meets: M 4-5:15p; F 1-3:45p, Instructor: R. Himes, Status: Open",
+    "date_accessed": "2024-03-30"
 }

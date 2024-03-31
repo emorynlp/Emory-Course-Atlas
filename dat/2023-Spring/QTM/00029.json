@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 491",
+    "course_title": "Design / Analysis Experiments",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 3 / Seats Avail: 2Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-01-10 through 2023-04-24",
+    "class_notes": "(Permission Required Prior to Enrollment) \nPrerequisites: [QTM 220 or ECON 320], QTM 110, QTM 150, [QTM 210 or ECON 220 or MATH 362], [MATH 210 or MATH 211], and MATH 221.\nPermission Code request form (same for all QTM courses): https://forms.office.com/r/bq8grdpG25\nThe use of experiments has grown notably across the social sciences, with the promise of delivering simple, transparent, and replicable causal inference. This course will discuss the design, analysis, and interpretation of introductory and advanced experimental designs. The first part of the course covers the theory and logic of experiments. The second part covers issues and challenges in implementing experiments that deliver on their promises. Topics include: models of potential outcomes, blocking and covariate adjustment, non-compliance, attrition, heterogeneous treatment effects, interference, mediation, and ethics. Assignments will focus on developing practical skills for the implementation of experiments in real research settings.",
+    "course_description": "The first part of the course introduces the logic of experimentation and discusses various methodological issues in the design and analysis of experiments. The second part builds on this foundation to discuss some practical issues and ethical considerations in designing and implementing experiments.",
+    "prerequisites": null,
+    "instructors": "Nahomi Ichino - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Tarbutton Hall 120A",
+    "course_resources": null,
+    "sections": "Class Nbr: 5618, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: N. Ichino, Status: Open",
+    "date_accessed": "2024-03-30"
+}

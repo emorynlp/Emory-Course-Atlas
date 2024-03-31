@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": "Natural Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": "Rick Thompson - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4299, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: R. Thompson, Status: Open\nClass Nbr: 4300, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 4-5:15p, Instructor: R. Thompson, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4299, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 2:30-3:45p, Instructor: R. Thompson, Status: Open\nClass Nbr: 4300, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 4-5:15p, Instructor: R. Thompson, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Varies by section",
+    "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": "Intercultural Communication(*)",
@@ -17,6 +17,6 @@
     "instructors": "Katherine Ostrom - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: This section is full 2961, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. Ostrom, Status: Open\nClass Nbr: 2962, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: K. Ostrom, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2961, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: K. Ostrom, Status: Open\nClass Nbr: 2962, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: K. Ostrom, Status: Open",
+    "date_accessed": "2024-03-31"
 }

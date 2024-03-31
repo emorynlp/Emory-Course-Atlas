@@ -1,9 +1,9 @@
 {
-    "course_code": "OAM 734",
-    "course_title": "Research Seminar in Organization & Management III",
+    "course_code": "OAM 661",
+    "course_title": "Applied  Entrepreneurship",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 64",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 13 / Seats Avail: 1Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Graded",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "This course explores the domain of micro-level research, also known as organizational behavior (OB), which includes the study of individuals and groups within organizations. The disciplinary foundations for the body of research reflected in this course are psychology, social-psychology and sociology. We will review classics and contemporaries, theories and empirics, and interesting contradictions and consistencies.",
-    "prerequisites": "This section is reserved for students in the PhD program.",
-    "instructors": "Jill Perry-Smith - Primary Instructor",
-    "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_OAM_734_5101_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4896, Section #: 5101, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: J. Perry-Smith, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_description": "Class focuses on the following essential business and entrepreneurial concepts, and learn how to:\n- Determine if a business opportunity is worth pursuing;\n- Find the next big opportunity;\n- Understand how buyers really make decisions;\n- Design products the market \"\"really\"\" wants, quicker, less expensively and with lower risk;\n- Generate significant market interest for your products and services on a small budget;\n- Create tactics that are high impact, and easy to implement;\n- Develop strategies that have a significantly greater likelihood for success;\n- Improve your management skills to increase your odds of achieving your business objectives;\n- Leverage the effectiveness of working with partners and minimize the risks associated with partnering;\n- Negotiate more effectively with an investor (or as an investor);\n- Deal with the reality of business when it deviates from your business plan (as it inevitably will);\n- Create a business environment second to none;\n- Buy a business without over paying; and\n- Recognize if and when to sell your business and how much it's really worth.",
+    "prerequisites": "This section is reserved for students in the One-Year or Two-Year MBA program.",
+    "instructors": "Charles Goetz - Primary Instructor",
+    "schedule_location": "TTh 2:30pm-3:45pm in Goizueta Business School 130",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_OAM_661_3267_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4922, Section #: 3267, Type: LEC, Campus: ATL, Meets: TTh 2:30-3:45p, Instructor: C. Goetz, Status: Open",
+    "date_accessed": "2024-03-31"
 }

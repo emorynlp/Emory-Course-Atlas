@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 674",
+    "course_title": "AI & Machine Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 0 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Masters Non-MBA",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "This course will introduce the basic concepts of machine learning. Both supervised and unsupervised learning will be covered, although most of the course will be focused on supervised learning. Supervised learning will be examined for both classification and prediction problems. The basic ideas of neural networks will be presented. Machine learning from data streams (online learning) using stochastic gradient descent will also be covered.",
+    "prerequisites": "This section is reserved for students in the MSBA program.",
+    "instructors": "George Easton - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4813, Section #: 4101, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: G. Easton, Status: Closed\nClass Nbr: This section is full 4814, Section #: 4102, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: G. Easton, Status: Closed\nClass Nbr: This section is full 6160, Section #: 4103, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: G. Easton, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

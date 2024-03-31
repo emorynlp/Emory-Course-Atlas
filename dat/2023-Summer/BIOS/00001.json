@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 518D",
+    "course_title": "Applied Biostatistics III",
+    "credit_hours": "2",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 4",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Summer",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-05-12 through 2023-07-30",
+    "class_notes": "Permission Only - Program Approval to Take Courses Required.",
+    "course_description": "BIOS 518D is the follow-up to BIOS 517D. This course starts with ANOVA and ANACOVA and post-ANOVA multiple comparison procedures for cross-sectional data. It then introduces students to longitudinal data analysis. As in previous courses, students first learn to create descriptive and graphical summaries appropriate to longitudinal data prior to conducting formal inference. Students are introduced to multilevel models and extend the methods to more complex analytic situations that involve curvilinear and discontinuous growth trajectories and complex risk profiles, the inclusion of time-varying covariates, and the testing of complex interactions among time-invariant and time-varying predictors.",
+    "prerequisites": "BIOS 516D and BIOS 517D as prerequisites or special permission required to enroll.",
+    "instructors": "Jose Binongo - Primary Instructor",
+    "schedule_location": "F 12:30pm-3:30pm in R. Randall Rollins Bldg. R345\nSa 1pm-4pm in R. Randall Rollins Bldg. R345",
+    "course_resources": null,
+    "sections": "Class Nbr: 1017, Section #: 901, Type: LEC, Campus: ATL, Meets: F 12:30-3:30p; Sa 1-4p, Instructor: J. Binongo, Status: Open",
+    "date_accessed": "2024-03-30"
+}

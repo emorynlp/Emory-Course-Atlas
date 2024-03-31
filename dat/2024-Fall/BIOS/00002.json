@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 500L",
+    "course_title": "Statistical Methods I (Laboratory)",
+    "credit_hours": "1",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": "Varies by section",
+    "course_description": "The lab portion of BIOS 500 is designed with two purposes in mind: 1) to illustrate concepts and methods presented in the lectures using hands-on demonstrations and 2) to introduce SAS, a widely used statistical software package, as a data analysis tool. By the end of the semester, you should be able to produce and interpret statistical output for methods learned in BIOS 500 lecture.",
+    "prerequisites": "Varies by section",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 1501, Section #: 1, Type: LAB, Campus: ATL, Meets: T 3-4:50p, Instructor: Staff, Status: Open\nClass Nbr: 1502, Section #: 10, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: Staff, Status: Open\nClass Nbr: 1503, Section #: 11, Type: LAB, Campus: ATL, Meets: Meets Online, Instructor: J. Binongo, Status: Open\nClass Nbr: 1426, Section #: 2, Type: LAB, Campus: ATL, Meets: Th 3-4:50p, Instructor: C. Robichaux, Status: Open\nClass Nbr: 1428, Section #: 3, Type: LAB, Campus: ATL, Meets: T 8-9:50a, Instructor: C. Robichaux, Status: Open\nClass Nbr: 1508, Section #: 4, Type: LAB, Campus: ATL, Meets: T 5-6:50p, Instructor: G. Cotsonis, Status: Open\nClass Nbr: 1509, Section #: 5, Type: LAB, Campus: ATL, Meets: W 8-9:50a, Instructor: G. Cotsonis, Status: Open\nClass Nbr: 1510, Section #: 6, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: G. Cotsonis, Status: Open\nClass Nbr: 1511, Section #: 7, Type: LAB, Campus: ATL, Meets: W 5-6:50p, Instructor: Staff, Status: Open\nClass Nbr: 1512, Section #: 8, Type: LAB, Campus: ATL, Meets: W 3-4:50p, Instructor: Staff, Status: Open\nClass Nbr: 1513, Section #: 9, Type: LAB, Campus: ATL, Meets: Th 5-6:50p, Instructor: Staff, Status: Open",
+    "date_accessed": "2024-03-28"
+}

@@ -2,7 +2,7 @@
     "course_code": "BIOS 505",
     "course_title": "Statistics For Experimental Biolog",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 6",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -15,8 +15,8 @@
     "course_description": "Students outside of Biological and Biomedical Sciences must get permission from the instructor. Intended for PhD candidates in the biological and biomedical sciences. Introduces the most frequently used statistical methods in those fields, including linear regression, ANOVA, logistic regression, and nonparametric methods. Students learn the statistical skills necessary to read scientific articles in their fields, do simple analyses on their own, and be good consumers of expert statistical advice.",
     "prerequisites": null,
     "instructors": "Christina Mehta - Primary Instructor",
-    "schedule_location": "TTh 8:30am-9:50am",
+    "schedule_location": "TTh 8:30am-9:50am in 1462 Clifton Rd 230",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BIOS_505_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 1050, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:50a, Instructor: C. Mehta, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

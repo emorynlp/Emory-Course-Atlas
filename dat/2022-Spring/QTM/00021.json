@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 385",
+    "course_title": "Special Topics: QTM: Intro.to Statistical Learning",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 15Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": "(Permission Required Prior to Enrollment)\nPrerequisites: [QTM 220 or ECON 320], QTM 110, QTM 150, [QTM 210 or ECON 220 or MATH 362], [MATH 210 or MATH 211], and MATH 221)\nPermission code request form (same for all QTM courses): https://forms.office.com/r/UhnG2BB437\n\n\nThis course is designed to introduce students to the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance to marketing to astrophysics in the past twenty years.  This class will present a number of important modeling and prediction techniques that are staples in the fields of machine learning, artificial intelligence, and data science (more broadly).  Unlike a standalone machine learning class, special attention will be given to the statistical underpinnings of common methods.  This class will consist of 4 parts: \nA review of probability theory and an introduction to maximum likelihood estimation: probability theory review, Bayes' rule, maximum likelihood estimation, model fitting, model comparison, predictive accuracy, overfitting \nRegression as a predictive task and general model fitting: review of linear regression, cross validation and leave-one-out cross validation, bootstrapping, alternative prediction methods for continuous outcomes, sparse regression (Ridge, LASSO, and Elastic Net), non-linear methods, tree-based methods\n\n\nClassification methods: K-nearest neighbors, naïve Bayes classifiers, linear discriminants, logistic regression, support vector machines, deep learning \nUnsupervised methods: Principal components analysis, clustering (generative and geometric), hierarchical clustering, factor analyzers, semi-supervised methods \nTo get the most out of this class, students should be comfortable with multivariable calculus and linear algebra.  Students should also have strong background knowledge of probability and a working knowledge of regression models.  As computing is a large part of this course, students should have experience programming in R and/or Python at the level of writing their own functions and working with potentially messy data.",
+    "course_description": "Special Topics Courses. Includes Game Theory I/II, Maximum Likelihood Estimation, Longitudinal Data Analysis, Experimental Methods, Survey Research Methods, Computational Modeling, and Advanced Topics: Bayesian Statistics.",
+    "prerequisites": "QTM 110 and QTM 120 and QTM 210 or equivalent transfer credit as prerequisite.",
+    "instructors": "Kevin McAlister - Primary Instructor",
+    "schedule_location": "W 6pm-9pm in New Psyc Bldg 220 (36 Eagle Ro",
+    "course_resources": null,
+    "sections": "Class Nbr: 2919, Section #: 6, Type: LEC, Campus: ATL, Meets: W 6-9p, Instructor: K. McAlister, Status: Open",
+    "date_accessed": "2024-03-30"
+}

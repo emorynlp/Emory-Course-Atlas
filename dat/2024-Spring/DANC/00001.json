@@ -2,8 +2,8 @@
     "course_code": "DANC 121R",
     "course_title": "Ballet Dance I (Introduction)",
     "credit_hours": "1",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 23 / Seats Avail: 5Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "This course is designed for students with no or very minimal experience in ballet technique. Ballet I introduces students to the basic skills and terminology of ballet. The course includes barre exercises with an emphasis on alignment. Center work will include adagio, tendu, basic turns, petite allegro, and grande allegro in simple combinations. The course is designed to develop individual body awareness, strength, flexibility, and an appreciation of the art of ballet. May be taken up to three times for credit. Students are required to take this course at least two times before progressing to the next level and should secure the permission of the instructor before doing so.",
     "prerequisites": null,
-    "instructors": "Angela Harris - Primary Instructor",
+    "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 3424, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Harris, Status: Open\nClass Nbr: 3426, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: A. Harris, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3424, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: Harris/Radell, Status: Open\nClass Nbr: 3426, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: Harris/Radell, Status: Open",
+    "date_accessed": "2024-03-30"
 }

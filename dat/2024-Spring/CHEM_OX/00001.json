@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Natural Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": "Lloyd R Parker - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4491, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: L. Parker, Status: Open\nClass Nbr: 4492, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: L. Parker, Status: Open\nClass Nbr: 4493, Section #: 3, Type: LEC, Campus: OXF, Meets: MW 8:30-9:45a, Instructor: L. Parker, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: This section is full 4491, Section #: 1, Type: LEC, Campus: OXF, Meets: TTh 8:30-9:45a, Instructor: L. Parker, Status: Closed\nClass Nbr: This section is full 4492, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: L. Parker, Status: Closed\nClass Nbr: 4493, Section #: 3, Type: LEC, Campus: OXF, Meets: MW 8:30-9:45a, Instructor: L. Parker, Status: Open",
+    "date_accessed": "2024-03-30"
 }

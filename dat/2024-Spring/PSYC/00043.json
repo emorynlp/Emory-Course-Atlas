@@ -1,8 +1,8 @@
 {
     "course_code": "PSYC 750R",
-    "course_title": "Clinical Supervision: Therapy",
+    "course_title": "Clinical Supervision: Assessment",
     "credit_hours": "1-12",
-    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 15",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": null,
     "course_resources": null,
-    "sections": "Class Nbr: 3782, Section #: 5, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: A. Abramowitz, Status: Open\nClass Nbr: 3783, Section #: 6, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: C. Messina, Status: Open\nClass Nbr: 3784, Section #: 7, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: S. Snow, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3779, Section #: 2, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: A. Abramowitz, Status: Open\nClass Nbr: 3780, Section #: 3, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: C. Messina, Status: Open\nClass Nbr: 3781, Section #: 4, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: S. Snow, Status: Open",
+    "date_accessed": "2024-03-31"
 }

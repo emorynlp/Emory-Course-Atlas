@@ -2,7 +2,7 @@
     "course_code": "BIOS 530",
     "course_title": "Applied and Advanced Statistics in Observational Studies",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 19",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 12",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -15,8 +15,8 @@
     "course_description": "This class is designed to cover the concepts and implementations of up-to-date analytic methodologies and strategies in observational studies, and to equip the students with the mindset and essential tools to handle data from observational research either for prediction (statistical learning) or causal inference. Propensity score methods, establishing/validating prediction models, risk stratification, the guidance of Good Research Practice, etc. will be illustrated along with real-life projects and backed up by the recent literatures.",
     "prerequisites": "BIOS 500 or BIOS 506 or equivalent transfer credit as prerequisite.",
     "instructors": "Yuan Liu - Primary Instructor",
-    "schedule_location": "Th 1pm-2:50pm in Grace Crum Rollins TBA",
+    "schedule_location": "Th 1pm-2:50pm in R. Randall Rollins Bldg. R102",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_BIOS_530_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 2152, Section #: 1, Type: LEC, Campus: ATL, Meets: Th 1-2:50p, Instructor: Y. Liu, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-30"
 }

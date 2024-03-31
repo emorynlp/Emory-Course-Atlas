@@ -2,7 +2,7 @@
     "course_code": "MUS_OX 300VE",
     "course_title": "Oxford Chamber Ensemble",
     "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 29",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 10",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": "TTh 5:30pm-7:30pm in FEW Music",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_MUS_OX_300VE_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 4357, Section #: 1, Type: MUS, Campus: OXF, Meets: TTh 5:30-7:30p, Instructor: M. McNeill, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

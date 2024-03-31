@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 485",
+    "course_title": "Topics in Computer Science: Computer Vision",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 0Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Wait List",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Prerequisite: CS 334 or CS 534\n\n\nDepartment permission required, please email bnflood@emory.edu\n\n\nThis class will be co-taught by Dr. Meera Hahn (Emory alumna), Research Scientist at Google Research in Atlanta.\n\n\nThis course is an introduction to concepts and applications in computer vision. The course will start with discussing cameras and projection models. We will then learn about the core computer vision applications of visual recognition tasks such as image classification, localization and detection. We will examine the low-level image processing methods such as filtering and edge detection and the current deep learning methods for solving these tasks. We will end the course by giving an overview of the current cutting edge topics being studied in the field today - generative visual models, 3D reconstruction via NERF and more. Students can expect the course to contain quizzes and homework assignments per topic as well as a course project in which they will get the chance to deep dive into their preferred area of vision applications or research.",
+    "course_description": "May be repeated for credit when topic varies. Pre/co-requisites vary with topic.",
+    "prerequisites": null,
+    "instructors": "Jinho Choi - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Math & Science Center - E406",
+    "course_resources": null,
+    "sections": "Class Nbr: 6681, Section #: 3, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: J. Choi, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

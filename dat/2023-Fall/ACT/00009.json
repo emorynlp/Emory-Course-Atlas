@@ -1,0 +1,22 @@
+{
+    "course_code": "ACT 420",
+    "course_title": "Accounting Analytics: Insights for Actions",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 18 / Seats Avail: 3Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "This course teaches students how to use analytics on financial data to make better, data informed decisions. This course is an overview course and is designed to expose students to the many different ways in which data analytic tools can be used in accounting settings. To teach students how to successfully combine their understanding of accounting concepts with data analytics skills and tools, this course focuses on:\n1. Reframing business issues that require the use of accounting knowledge into specific analytical questions\n2. Manipulating data and calculating answers to the above framed questions\n3. Communicating results with appropriate context in a meaningful and easy to understand manner\nBy the end of the course students will have intermediate Python coding skills and most importantly, an ability to apply those coding skills to analyze and solve business problems. No prior coding experience is needed.",
+    "course_description": "This course teaches students how to use analytics with financial data to make better, data informed decisions. This course is an overview course and is designed to expose students to the many different ways in which data analytic tools can be used in accounting settings. To teach students how to successfully combine their understanding of accounting concepts with data analytics skills and tools, this course focuses on:\n1. Reframing business issues that require the use of accounting knowledge into specific analytical questions\n2. Manipulating data and calculating answers to the above framed questions\n3. Communicating results with appropriate context in a meaningful and easy to understand manner",
+    "prerequisites": "(ACT 200 or ACT_OX 200 or ACT 210 or ACT_OX 210) and (BUS 350 or BUS_OX 350) and BUS 390A or equivalent transfer credit as prerequisites.This section is reserved for students in the BBA program.",
+    "instructors": "Allison Kays - Primary Instructor",
+    "schedule_location": "TTh 10am-11:15am in Goizueta Business School 421",
+    "course_resources": null,
+    "sections": "Class Nbr: 6316, Section #: 1160, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: A. Kays, Status: Open",
+    "date_accessed": "2024-03-30"
+}

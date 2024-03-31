@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 707",
+    "course_title": "Advanced Linear Models",
+    "credit_hours": "4",
+    "seats": "Seats: Maximum Enrollment: 15 / Seats Avail: 9",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Generalized inverse of a matrix; vectors of random variables; multivariate normal distribution; distribution theory for quadratic forms of normal random variable; fitting the general linear models by least squares; design matrix of less than full rank; estimation with linear restrictions; estimable functions; hypothesis testing in linear regression; and simultaneous interval estimation. Prerequisites: BIOS 507, BIOS 511, and a course in matrix algebra.",
+    "prerequisites": null,
+    "instructors": "Amita Manatunga - Primary Instructor",
+    "schedule_location": "MW 1pm-2:50pm in Grace Crum Rollins P41",
+    "course_resources": null,
+    "sections": "Class Nbr: 2499, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:50p, Instructor: A. Manatunga, Status: Open",
+    "date_accessed": "2024-03-30"
+}

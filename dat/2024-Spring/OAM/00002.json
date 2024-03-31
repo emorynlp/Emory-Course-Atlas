@@ -4,8 +4,8 @@
     "credit_hours": "3",
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
-    "grading_mode": "Graded",
-    "enrollment_status": "Open",
+    "grading_mode": "Varies by section",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": null,
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4747, Section #: 1181, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Thomas, Status: Open\nClass Nbr: 4748, Section #: 1182, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. Kaplan, Status: Open\nClass Nbr: 4749, Section #: 1183, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: S. Kaplan, Status: Open\nClass Nbr: 4750, Section #: 1481, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Thomas, Status: Open\nClass Nbr: 4751, Section #: 1482, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. Kaplan, Status: Open\nClass Nbr: 4752, Section #: 1483, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: S. Kaplan, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 6636, Section #: 1109, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Clear, Status: Open\nClass Nbr: 4747, Section #: 1181, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Thomas, Status: Open\nClass Nbr: 4748, Section #: 1182, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. Kaplan, Status: Open\nClass Nbr: 4749, Section #: 1183, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: S. Kaplan, Status: Open\nClass Nbr: This section is full 4750, Section #: 1481, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: L. Thomas, Status: Closed\nClass Nbr: This section is full 4751, Section #: 1482, Type: LEC, Campus: ATL, Meets: TTh 10-11:15a, Instructor: S. Kaplan, Status: Closed\nClass Nbr: This section is full 4752, Section #: 1483, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: S. Kaplan, Status: Closed",
+    "date_accessed": "2024-03-31"
 }

@@ -2,7 +2,7 @@
     "course_code": "MSCR 536",
     "course_title": "Analysis and Presentation of Clinical Research Data",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 30",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 9",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -15,8 +15,8 @@
     "course_description": "Provides hands-on experience in the analysis, interpretation, and presentation of clinical research data. Topics covered include methods for data collection, data management and data cleaning in SAS, overview of descriptive and multivariable analysis techniques, strategies for addressing missing data, and the writing and communication of science in the format of a peer-reviewed manuscript and an oral, in-class scientific presentation.",
     "prerequisites": null,
     "instructors": "Jessica Harding - Primary Instructor",
-    "schedule_location": null,
+    "schedule_location": "M 1pm-2:50pm in Claudia Nance Rollins 1034",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MSCR_536_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3843, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: J. Harding, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3843, Section #: 1, Type: LEC, Campus: ATL, Meets: M 1-2:50p, Instructor: J. Harding, Status: Open",
+    "date_accessed": "2024-03-30"
 }

@@ -5,7 +5,7 @@
     "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Michael McCormick - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 2997, Section #: 1, Type: LAB, Campus: ATL, Meets: W 10-11:15a; W 11:15a-1:20p, Instructor: M. McCormick, Status: Open\nClass Nbr: 2998, Section #: 2, Type: LAB, Campus: ATL, Meets: W 2:30-3:45p; W 3:45-5:50p, Instructor: M. McCormick, Status: Open\nClass Nbr: 2999, Section #: 3, Type: LAB, Campus: ATL, Meets: Th 1-2:15p; Th 2:15-4:20p, Instructor: M. McCormick, Status: Open\nClass Nbr: 3000, Section #: 4, Type: LAB, Campus: ATL, Meets: Th 4-5:15p; Th 5:15-7:20p, Instructor: M. McCormick, Status: Open\nClass Nbr: 3001, Section #: 5, Type: LAB, Campus: ATL, Meets: F 10-11:15a; F 11:15a-1:20p, Instructor: M. McCormick, Status: Open\nClass Nbr: 3002, Section #: 6, Type: LAB, Campus: ATL, Meets: F 2:30-3:45p; F 3:45-5:50p, Instructor: M. McCormick, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2997, Section #: 1, Type: LAB, Campus: ATL, Meets: W 10-11:15a; W 11:15a-1:20p, Instructor: M. McCormick, Status: Open\nClass Nbr: 2998, Section #: 2, Type: LAB, Campus: ATL, Meets: W 2:30-3:45p; W 3:45-5:50p, Instructor: M. McCormick, Status: Open\nClass Nbr: 2999, Section #: 3, Type: LAB, Campus: ATL, Meets: Th 1-2:15p; Th 2:15-4:20p, Instructor: M. McCormick, Status: Wait List\nClass Nbr: 3000, Section #: 4, Type: LAB, Campus: ATL, Meets: Th 4-5:15p; Th 5:15-7:20p, Instructor: M. McCormick, Status: Open\nClass Nbr: 3001, Section #: 5, Type: LAB, Campus: ATL, Meets: F 10-11:15a; F 11:15a-1:20p, Instructor: M. McCormick, Status: Wait List\nClass Nbr: 3002, Section #: 6, Type: LAB, Campus: ATL, Meets: F 2:30-3:45p; F 3:45-5:50p, Instructor: M. McCormick, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH_OX 117Q",
+    "course_title": "Introduction to Probability and Statistics with Inference",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-08-24 through 2022-12-06",
+    "class_notes": "Varies by section",
+    "course_description": "Basic concepts in counting, probability, hypothesis testing, linear regression and correlation, ANOVA, plus several nonparametric models. Statistical analysis using both R and Excel will also be addressed. Calculator is required. The class consists of lectures and a weekly lab.",
+    "prerequisites": null,
+    "instructors": "Karen M Rogers - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3325, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 1-2:15p, Instructor: K. Rogers, Status: Open\nClass Nbr: 3326, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 2:30-3:45p, Instructor: K. Rogers, Status: Open\nClass Nbr: 4557, Section #: 3, Type: LAB, Campus: OXF, Meets: F 1-1:50p, Instructor: K. Rogers, Status: Open\nClass Nbr: 4765, Section #: 4, Type: LAB, Campus: OXF, Meets: F 2:30-3:20p, Instructor: K. Rogers, Status: Open",
+    "date_accessed": "2024-03-30"
+}

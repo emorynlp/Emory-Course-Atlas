@@ -1,8 +1,8 @@
 {
-    "course_code": "TATT 605PSYC",
+    "course_code": "TATT 605IMP",
     "course_title": "Teaching Assistantship",
     "credit_hours": "2",
-    "seats": "Seats: Varies by section",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 8",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -11,12 +11,12 @@
     "requirement_designation": null,
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
-    "class_notes": "(S/U Only)\n\n\n(Permission Required Prior to Enrollment)",
+    "class_notes": null,
     "course_description": "The nature of a teaching assistantship varies from department to department. The defining characteristic of this position across all departments and programs is a controlled, carefully monitored initial teaching opportunity. A teaching assistant may be responsible for 10 to 12 hours per week of discussion or laboratory supervision.",
     "prerequisites": "TATT 600 or equivalent transfer credit as prerequisite.",
-    "instructors": null,
+    "instructors": "Nicole Marie Gerardo - Primary Instructor",
     "schedule_location": null,
-    "course_resources": null,
-    "sections": "Class Nbr: 3944, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: T. Nicol, Status: Open\nClass Nbr: 3953, Section #: 10, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Dilks, Status: Open\nClass Nbr: 3954, Section #: 11, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: P. Palmer, Status: Open\nClass Nbr: 3956, Section #: 12, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: J. Barber, Status: Open\nClass Nbr: 3957, Section #: 13, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: B. Yamasaki, Status: Open\nClass Nbr: 3958, Section #: 14, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: I. Waldman, Status: Open\nClass Nbr: 3945, Section #: 2, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: P. Moon, Status: Open\nClass Nbr: 3946, Section #: 3, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: E. Johnson, Status: Open\nClass Nbr: 3947, Section #: 4, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: E. Respress, Status: Open\nClass Nbr: 3948, Section #: 5, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: S. Botto, Status: Open\nClass Nbr: 3949, Section #: 6, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: O. Medina, Status: Open\nClass Nbr: 3950, Section #: 7, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: V. Brown, Status: Open\nClass Nbr: 3951, Section #: 8, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: P. Brennan, Status: Open\nClass Nbr: 3952, Section #: 9, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: D. Ren, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_TATT_605IMP_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 5664, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: N. Gerardo, Status: Open",
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 661",
+    "course_title": "Technology Bootcamp",
+    "credit_hours": "0",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 66Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Satisfactory/Unsatisfactory",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2024-08-28 through 2024-12-10",
+    "class_notes": null,
+    "course_description": "This course refreshes the students' knowledge of programming for data manipulation and analysis.  built upon a prior knowledge of programming, the course will conduct exercises in R, Python, SQL and other languages.  students will also be using a variety of unix tools, file-transfer methods, etc. Course may also employ cloud-based services such as AWS and/or Azure.",
+    "prerequisites": null,
+    "instructors": "Ramnath Chellappa - Primary Instructor",
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: 4821, Section #: 4101, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: R. Chellappa, Status: Open\nClass Nbr: 4822, Section #: 4102, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: R. Chellappa, Status: Open",
+    "date_accessed": "2024-03-29"
+}

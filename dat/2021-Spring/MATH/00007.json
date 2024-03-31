@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 221",
+    "course_title": "Linear Algebra",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "Varies by section",
+    "course_description": "Systems of linear equations, matrices, determinants, linear transformations, eigenvalues and eigenvectors, least-squares.",
+    "prerequisites": "MATH 111 or MATH_OX 111 or MATH 112 or MATH_OX 112 or MATH 112Z or equivalent transfer credit as prerequisite.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 1470, Section #: 1, Type: LEC, Campus: ATL, Meets: M 11:20a-12:35p; F 9:40-10:30a, Instructor: Chen/Li, Status: Wait List\nClass Nbr: This section is full 1995, Section #: 10, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p; F 1-1:50p, Instructor: D. Pittman, Status: Wait List\nClass Nbr: 1927, Section #: 2, Type: LEC, Campus: ATL, Meets: M 11:20a-12:35p; F 11:20a-12:10p, Instructor: Chen/Li, Status: Open\nClass Nbr: 1949, Section #: 5, Type: LEC, Campus: ATL, Meets: W 4:20-5:35p; F 2:40-3:30p, Instructor: Peters/Chang, Status: Open\nClass Nbr: This section is full 1950, Section #: 6, Type: LEC, Campus: ATL, Meets: W 4:20-5:35p; F 4:20-5:10p, Instructor: Peters/Chang, Status: Wait List\nClass Nbr: 1992, Section #: 7, Type: LEC, Campus: ATL, Meets: MW 11:20a-12:35p; F 9:40-10:30a, Instructor: M. Khaqan, Status: Open\nClass Nbr: This section is full 1993, Section #: 8, Type: LEC, Campus: ATL, Meets: TTh 8-9:15a; F 9:40-10:30a, Instructor: J. Tariq, Status: Wait List\nClass Nbr: This section is full 1994, Section #: 9, Type: LEC, Campus: ATL, Meets: TTh 9:40-10:55a; F 11:20a-12:10p, Instructor: A. Clifton, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

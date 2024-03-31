@@ -2,10 +2,10 @@
     "course_code": "ASTR_OX 116",
     "course_title": "Introductory Astronomy, With Lab.",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 15Waitlist Total: 0 of 6",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 0Waitlist Total: 0 of 6",
     "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Natural Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": "Phil Segre - Primary Instructor",
     "schedule_location": "MW 10am-11:15am in Oxford Science Bldg. 217",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_ASTR_OX_116_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4426, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: P. Segre, Status: Open\nClass Nbr: 4427, Section #: 2, Type: LAB, Campus: OXF, Meets: Th 2:30-5:15p, Instructor: P. Segre, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4426, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: P. Segre, Status: Wait List\nClass Nbr: 4427, Section #: 2, Type: LAB, Campus: OXF, Meets: Th 2:30-5:15p, Instructor: P. Segre, Status: Wait List",
+    "date_accessed": "2024-03-30"
 }

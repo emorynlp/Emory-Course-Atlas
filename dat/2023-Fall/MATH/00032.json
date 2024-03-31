@@ -1,0 +1,22 @@
+{
+    "course_code": "MATH 545",
+    "course_title": "Intro to Differential Geometry I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 2",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "An introduction to Riemannian geometry. The main goal is an understanding of the nature and uses of curvature, which is the local geometric invariant that measures the departure from Euclidean geometry. No previous experience in differential geometry is assumed, and we will rely heavily on pictures of surfaces in 3-space to illustrate key concepts.",
+    "prerequisites": null,
+    "instructors": "Yiran Wang - Primary Instructor",
+    "schedule_location": "MW 1pm-2:15pm in Math & Science Center - N301",
+    "course_resources": null,
+    "sections": "Class Nbr: 1926, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 1-2:15p, Instructor: Y. Wang, Status: Open",
+    "date_accessed": "2024-03-30"
+}

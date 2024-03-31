@@ -2,13 +2,13 @@
     "course_code": "AFS_OX 270R",
     "course_title": "Topic Seminar: Social Protest in Africa",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 24",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 20",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
     "typically_offered": "Irregularly",
-    "requirement_designation": "Humanities, Arts, Performance",
+    "requirement_designation": "HAP w/Race & Ethnicity Req.",
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
@@ -18,5 +18,5 @@
     "schedule_location": "TTh 10am-11:15am in Library Rm 201",
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=Oxford%20College%20Bookstore_AFS_OX_270R_1_W24&utm_source=wcs&utm_medium=registration_integration",
     "sections": "Class Nbr: 4407, Section #: 1, Type: SEM, Campus: OXF, Meets: TTh 10-11:15a, Instructor: B. Ndiaye, Status: Open",
-    "date_accessed": "2023-10-30"
+    "date_accessed": "2024-03-30"
 }

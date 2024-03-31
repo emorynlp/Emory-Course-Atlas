@@ -1,0 +1,22 @@
+{
+    "course_code": "INFO 532",
+    "course_title": "Advanced Geographical Information Systems",
+    "credit_hours": "2",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-02-28 through 2023-04-24",
+    "class_notes": "Varies by section",
+    "course_description": "Prerequisites: INFO 530 or permission of the instructor. The course continues the use of geographic information systems (GIS) in the analysis of public health data and adds more advanced features. We develop GIS skills through homework, quizzes and a final project, and particularly build upon the skills learned in INFO 530 such as map layouts, visualization, basic spatial statistics, and basic GIS operations such as buffering, layering, summarizing, geocoding, digitizing and spatial queries. We add new topics such as raster analysis open source GIS, (qgis), geo databases, story maps, and making maps in R.",
+    "prerequisites": null,
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 2873, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 10-11:50a, Instructor: Team, Status: Open\nClass Nbr: 2696, Section #: 2, Type: LEC, Campus: ATL, Meets: Meets Online, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

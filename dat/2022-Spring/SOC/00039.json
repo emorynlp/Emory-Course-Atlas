@@ -1,0 +1,22 @@
+{
+    "course_code": "SOC 508",
+    "course_title": "Advanced Network Analysis",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 0",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": "Department Consent Required",
+    "dates": "2022-01-10 through 2022-04-25",
+    "class_notes": "Interest in network analysis has EXPLODED in the past few years, partly due to the latest advancements in statistical modeling and the rapid availability of network data and partly due to the recognition that many analytical problems can be re-cast as a network problem. Aiming to examine social connections and interactions quantitatively, network analysis has become an essential method and tool for studying a variety of issues in social and natural sciences. This course covers the major methods to collect, represent, and analyze network data. Selected topics include centrality analysis, positional analysis, clustering analysis, the exponential random graph model for modeling network formations, the stochastic actor-oriented model for dynamic network analysis, meta network analysis, weighted network analysis, text network analysis, causal analysis of network effects, and social network-based predictions and interventions. Examples are drawn from a wide range of disciplines including business, economics, education, political science, public health, and sociology. Students will learn hands-on skills to conduct their own research by using mainstream network packages in R such as 'statnet' and 'RSiena'. This course requires a basic knowledge of logistic regression and basic programming skills in R.",
+    "course_description": "This course covers the major methods to collect, represent, and analyze network data.",
+    "prerequisites": null,
+    "instructors": "Weihua An - Primary Instructor",
+    "schedule_location": "MW 2:30pm-3:45pm in Rich Building 104",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 2880, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:30-3:45p, Instructor: W. An, Status: Closed",
+    "date_accessed": "2024-03-30"
+}

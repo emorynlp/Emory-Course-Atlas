@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 347",
+    "course_title": "Machine Learning I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 3Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Introduces students to the field of machine learning, an essential toolset for making sense of the vast and complex data sets that have emerged in the past 20 years. Presents modeling/prediction techniques that are staples in the fields of machine learning, artificial intelligence, and data science.",
+    "prerequisites": "(QTM 220 or ECON 320) and (QTM 110 or QTM_OX 110) and (QTM 150 or QTM_OX 150) and (QTM 210 or QTM_OX 210 or ECON 220 or ECON_OX 220 or MATH 361) and (MATH 210 or MATH_OX 210 or MATH 211 or MATH_OX 211) and (MATH 211 or MATH_OX 211) or transfer credit.",
+    "instructors": "Ruoxuan Xiong - Primary Instructor",
+    "schedule_location": "MW 4pm-5:15pm in Math & Science Center - N302",
+    "course_resources": null,
+    "sections": "Class Nbr: 3595, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 4-5:15p, Instructor: R. Xiong, Status: Open",
+    "date_accessed": "2024-03-30"
+}

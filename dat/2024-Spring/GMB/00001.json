@@ -2,7 +2,7 @@
     "course_code": "GMB 502",
     "course_title": "Foundations in Genetics and Molecular Biology II",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 4",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": "Graduate level course intended to prepare GMB students with a necessary background in Genetics and Molecular Biology through exposure to review and primary literature.",
     "prerequisites": null,
-    "instructors": null,
-    "schedule_location": null,
+    "instructors": "Andreas Fritz - Primary Instructor",
+    "schedule_location": "WF 8am-10am in 1462 Clifton Rd 123",
     "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_GMB_502_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 5494, Section #: 1, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5494, Section #: 1, Type: LEC, Campus: ATL, Meets: WF 8-10a, Instructor: A. Fritz, Status: Open",
+    "date_accessed": "2024-03-30"
 }

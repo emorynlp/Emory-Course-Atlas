@@ -1,0 +1,22 @@
+{
+    "course_code": "QTM 345",
+    "course_title": "Causal Designs and Inference I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 30 / Seats Avail: 28Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": null,
+    "course_description": "Explore the fundamentals of causality. You will be introduced to 2 commonly used approaches to studying causality: Directed Acyclic Graph approach and Potential Outcome approach. Each module will expose you to a particular method and three components: intuition, formalization, and application.",
+    "prerequisites": "QTM 220 or ECON 320 or equivalent transfer credit as prerequisites.",
+    "instructors": "Abhishek Ananth - Primary Instructor",
+    "schedule_location": "TTh 1pm-2:15pm in Tarbutton Hall 106",
+    "course_resources": null,
+    "sections": "Class Nbr: 3586, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 1-2:15p, Instructor: A. Ananth, Status: Open",
+    "date_accessed": "2024-03-30"
+}

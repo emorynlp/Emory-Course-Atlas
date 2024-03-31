@@ -1,0 +1,22 @@
+{
+    "course_code": "LING 329",
+    "course_title": "Computational Linguistics",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 8 / Seats Avail: 6Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "Distance Learning",
+    "typically_offered": "Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-03",
+    "class_notes": "(Same as CS 329 1, QTM 329 1)  CS majors/minors must take CS 329 and NOT QTM/LING 329 for it to counts towards CS major/minor. Please see advisor with questions.",
+    "course_description": "This course will focus on the analysis of syntactic and semantic structures, ontologies and taxonomies, distributional semantics and discourse, as well as their applications in computational linguistics. Assignments will include advanced programming implementations.",
+    "prerequisites": null,
+    "instructors": "Jinho Choi - Primary Instructor",
+    "schedule_location": "MW 2:40pm-3:55pm in ONLINE",
+    "course_resources": null,
+    "sections": "Class Nbr: 5222, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 2:40-3:55p, Instructor: J. Choi, Status: Open",
+    "date_accessed": "2024-03-30"
+}

@@ -2,7 +2,7 @@
     "course_code": "BL 512",
     "course_title": "Introduction to Biblical Hebrew II",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 27 / Seats Avail: 27",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -14,9 +14,9 @@
     "class_notes": "Varies by section",
     "course_description": "Continuation of BL511, with an emphasis on reading the Old Testament in Hebrew. Standard reference works for biblical exegesis will be presented. The course will culminate in extended reading, with some exegetical treatment, of small books in the Old Testament.",
     "prerequisites": "This requirement mandates BL511 as a prerequisite.",
-    "instructors": null,
+    "instructors": "Ian MacGillivray - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 5361, Section #: 1, Type: LEC, Campus: ATL, Meets: WF 9:30-10:50a, Instructor: Staff, Status: Open\nClass Nbr: 5362, Section #: 2, Type: LEC, Campus: ATL, Meets: WF 9:30-10:50a, Instructor: Staff, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 5361, Section #: 1, Type: LEC, Campus: ATL, Meets: WF 9:30-10:50a, Instructor: I. MacGillivray, Status: Open\nClass Nbr: 5362, Section #: 2, Type: LEC, Campus: ATL, Meets: WF 9:30-10:50a, Instructor: I. MacGillivray, Status: Open",
+    "date_accessed": "2024-03-30"
 }

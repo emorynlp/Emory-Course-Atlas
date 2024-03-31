@@ -2,10 +2,10 @@
     "course_code": "SOC 489",
     "course_title": "Special Topics in Sociology: Historical and Archival Method",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 3Waitlist Total: 0",
+    "seats": "Seats: Maximum Enrollment: 5 / Seats Avail: 0Waitlist Total: 0",
     "waitlist_total": ": 0",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Spring",
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Karida Brown - Primary Instructor",
     "schedule_location": "T 2:30pm-5:15pm in Tarbutton Hall 206",
     "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_SOC_489_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3561, Section #: 2, Type: LEC, Campus: ATL, Meets: T 2:30-5:15p, Instructor: K. Brown, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 3561, Section #: 2, Type: LEC, Campus: ATL, Meets: T 2:30-5:15p, Instructor: K. Brown, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }

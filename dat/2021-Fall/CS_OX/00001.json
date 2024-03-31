@@ -1,0 +1,22 @@
+{
+    "course_code": "CS_OX 170Q",
+    "course_title": "Introduction To Computer Science I w/Laboratory",
+    "credit_hours": "4",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Student Option",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "Varies by section",
+    "course_description": "An introduction to computer science for the student who needs to be able to program for course work or research. Topics include: fundamental computing concepts, general programming principles, and the Java programming language. Emphasis will be on algorithm development with examples highlighting topics in data structures. Required for beginning computer science majors. Needed for mathematics majors and pre-engineering majors in the 3-2 program with Georgia Tech. Has a one-hour lab.",
+    "prerequisites": null,
+    "instructors": "Ting Li - Primary Instructor",
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: 3424, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: T. Li, Status: Open\nClass Nbr: 3283, Section #: 2, Type: LAB, Campus: OXF, Meets: F 10-10:50a, Instructor: T. Li, Status: Open\nClass Nbr: This section is full 3286, Section #: 3, Type: LEC, Campus: OXF, Meets: MW 8:30-9:45a, Instructor: T. Li, Status: Wait List\nClass Nbr: This section is full 3425, Section #: 4, Type: LAB, Campus: OXF, Meets: F 8:30-9:20a, Instructor: T. Li, Status: Wait List",
+    "date_accessed": "2024-03-30"
+}

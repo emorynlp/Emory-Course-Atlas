@@ -1,8 +1,8 @@
 {
     "course_code": "MUS 320R",
-    "course_title": "Applied Music: Majors: Strings",
+    "course_title": "Applied Music: Winds and Percussion",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 20",
+    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 11",
     "waitlist_total": null,
     "grading_mode": "Student Option",
     "enrollment_status": "Open",
@@ -16,7 +16,7 @@
     "prerequisites": null,
     "instructors": "Paul Bhasin - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MUS_320R_2_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4033, Section #: 2, Type: MUS, Campus: ATL, Meets: Does Not Meet, Instructor: P. Bhasin, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MUS_320R_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4032, Section #: 1, Type: MUS, Campus: ATL, Meets: Does Not Meet, Instructor: P. Bhasin, Status: Open",
+    "date_accessed": "2024-03-31"
 }

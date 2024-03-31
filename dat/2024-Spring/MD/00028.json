@@ -2,7 +2,7 @@
     "course_code": "MD 906",
     "course_title": "TRANS: Sr Surg Sub-Internship",
     "credit_hours": "4",
-    "seats": "Seats: Maximum Enrollment: 20 / Seats Avail: 20",
+    "seats": "Seats: Varies by section",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
     "enrollment_status": "Open",
@@ -18,5 +18,5 @@
     "schedule_location": null,
     "course_resources": null,
     "sections": "Class Nbr: 1523, Section #: 01, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Meisel/Baker, Status: Open\nClass Nbr: 1524, Section #: 02, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Meisel/Baker, Status: Open\nClass Nbr: 1478, Section #: 03, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Meisel/Baker, Status: Open\nClass Nbr: 1479, Section #: 04, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Meisel/Baker, Status: Open\nClass Nbr: 1491, Section #: 05, Type: CLN, Campus: ATL, Meets: Does Not Meet, Instructor: Meisel/Baker, Status: Open",
-    "date_accessed": "2023-10-31"
+    "date_accessed": "2024-03-31"
 }

@@ -1,0 +1,22 @@
+{
+    "course_code": "BIOS 591P",
+    "course_title": "Biostatistics Methods II",
+    "credit_hours": "3",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Varies by section",
+    "instruction_method": "Varies by section",
+    "typically_offered": "Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-01-25 through 2021-05-05",
+    "class_notes": "Varies by section",
+    "course_description": "Prerequisites: BIOS 500 or permission of the instructor. For EPI students Only taken in the spring semester of their first year. The course covers fundamental concepts in applied simple and multiple linear regression analyses, one- and two-way analysis of variance and binary logistic regression. Concepts in survival analysis will also be introduced. Students will learn when and how to apply these methods. The emphasis will be on practical data analysis skills rather than statistical theory; however, wherever possible and feasible, mathematical details of regression models will be presented. In-class data analysis examples will employ SAS and R software. Homework assignments, quizzes and exams will include data analyses using SAS and R, as well as other questions designed to reinforce concepts and assess foundational competencies. Teaching assistant office hours will consist of organized review/recitation sessions, and will also include opportunities for student questions.",
+    "prerequisites": "BIOS 500 or equivalent transfer credit as prerequisite.This class is for students enrolled in the EPI, GLEPI, or EH-EPI programs only.",
+    "instructors": null,
+    "schedule_location": "Varies by section",
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 4448, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 3:15-4:35p, Instructor: Team, Status: Closed\nClass Nbr: 4449, Section #: 2, Type: LEC, Campus: ATL, Meets: TTh 3:15-4:35p, Instructor: Team, Status: Open",
+    "date_accessed": "2024-03-30"
+}

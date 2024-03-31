@@ -1,0 +1,22 @@
+{
+    "course_code": "ISOM 674",
+    "course_title": "Machine Learning I",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 12Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Masters Non-MBA",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": null,
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2021-08-25 through 2021-12-07",
+    "class_notes": "The delivery format listed for this class is based on current university guidelines.  However, if there are further changes to the COVID19 guidelines for Fall 2021 or other acts beyond our control, the school reserves the right the modify the delivery method for this class.",
+    "course_description": "This course will introduce the basic concepts of machine learning. Both supervised and unsupervised learning will be covered, although most of the course will be focused on supervised learning. Supervised learning will be examined for both classification and prediction problems. The basic ideas of neural networks will be presented. Machine learning from data streams (online learning) using stochastic gradient descent will also be covered.",
+    "prerequisites": "This section is reserved for students in the MSBA program.",
+    "instructors": "George Easton - Primary Instructor",
+    "schedule_location": "TTh 11:30am-12:45pm in Goizueta Foundation Ctr W131",
+    "course_resources": null,
+    "sections": "Class Nbr: 2814, Section #: 4101, Type: LEC, Campus: ATL, Meets: TTh 11:30a-12:45p, Instructor: G. Easton, Status: Open",
+    "date_accessed": "2024-03-30"
+}

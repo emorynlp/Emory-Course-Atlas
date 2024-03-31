@@ -1,0 +1,22 @@
+{
+    "course_code": "CS 224",
+    "course_title": "Foundations of Computer Science",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 85 / Seats Avail: 6Waitlist Total: 0",
+    "waitlist_total": ": 0",
+    "grading_mode": "Student Option",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": "Mathematics and Quantitative Reasoning",
+    "permission": null,
+    "dates": "2022-01-11 through 2022-04-25",
+    "class_notes": null,
+    "course_description": "An introductory course in the theory of Computer Science, focusing on analysis of discrete structures with applications. Emphasis is on developing familiarity with notation, computational acuity and creative problem solving skills.",
+    "prerequisites": "(CS 170 or CS_OX 170) and (MATH 111 or MATH_OX 111) or equivalent transfer credit as prerequisites.",
+    "instructors": "Amin Pouriyeh - Primary Instructor",
+    "schedule_location": "TTh 8:30am-9:45am in White Hall 206",
+    "course_resources": null,
+    "sections": "Class Nbr: 2590, Section #: 1, Type: LEC, Campus: ATL, Meets: TTh 8:30-9:45a, Instructor: A. Pouriyeh, Status: Open",
+    "date_accessed": "2024-03-30"
+}

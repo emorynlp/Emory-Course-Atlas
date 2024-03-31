@@ -1,9 +1,9 @@
 {
-    "course_code": "MKT 743",
-    "course_title": "Customer Behavior",
+    "course_code": "MKT 542",
+    "course_title": "Data-driven MKT Intelligence",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 66",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 66 / Seats Avail: 46Waitlist Total: 0",
+    "waitlist_total": ": 0",
     "grading_mode": "Graded",
     "enrollment_status": "Open",
     "instruction_method": "In Person",
@@ -12,11 +12,11 @@
     "permission": null,
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "Course objectives are to help students: become familiar with important topics in consumer behavior research; become familiar with the common methodology of consumer behavior research; learn how to evaluate cvonsumer behavior research; develop a consumer bejavior research idea that would contribute to the corpus of knowledge and design an experiment to test the theory; and practice academic presentation and writing skills.",
-    "prerequisites": "This section is reserved for students in the PhD program.",
-    "instructors": "Ryan Hamilton - Primary Instructor",
-    "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MKT_743_5101_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 4901, Section #: 5101, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Hamilton/Ward, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_description": "This course will help you make better business decisions by giving you the tools to analyze marketplace data and to understand how data analysis tools can be used to guide and inform corporate direction. While the course provides insight into how to actually conduct research, its focus is on providing the needed background for future managers who will be the ultimate users of the data, and who will determine the scope and direction of research conducted.",
+    "prerequisites": "This section is reserved for students in the One-Year or Two-Year MBA program.",
+    "instructors": "Douglas Bowman - Primary Instructor",
+    "schedule_location": "TTh 4pm-5:15pm in Goizueta Business School 231",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MKT_542_3201_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 4828, Section #: 3201, Type: LEC, Campus: ATL, Meets: TTh 4-5:15p, Instructor: Bowman/Vastani, Status: Open",
+    "date_accessed": "2024-03-30"
 }

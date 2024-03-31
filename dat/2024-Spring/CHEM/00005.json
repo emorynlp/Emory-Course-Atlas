@@ -2,10 +2,10 @@
     "course_code": "CHEM 203ZL",
     "course_title": "Advanced Reactivity Lab",
     "credit_hours": "2",
-    "seats": "Seats: Maximum Enrollment: 14 / Seats Avail: 14Waitlist Total: 0",
-    "waitlist_total": ": 0",
+    "seats": "Seats: Varies by section",
+    "waitlist_total": null,
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Varies by section",
     "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
@@ -17,6 +17,6 @@
     "instructors": "Jose Soria - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 2057, Section #: 1, Type: LAB, Campus: ATL, Meets: T 2:30-3:20p; T 3:20-5:50p, Instructor: J. Soria, Status: Open\nClass Nbr: 3004, Section #: 2, Type: LAB, Campus: ATL, Meets: W 2:30-3:20p; W 3:20-5:50p, Instructor: J. Soria, Status: Open\nClass Nbr: 3005, Section #: 3, Type: LAB, Campus: ATL, Meets: Th 2:30-3:20p; Th 3:20-5:50p, Instructor: J. Soria, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 2057, Section #: 1, Type: LAB, Campus: ATL, Meets: T 2:30-3:20p; T 3:20-5:50p, Instructor: J. Soria, Status: Open\nClass Nbr: 3004, Section #: 2, Type: LAB, Campus: ATL, Meets: W 2:30-3:20p; W 3:20-5:50p, Instructor: J. Soria, Status: Wait List\nClass Nbr: 3005, Section #: 3, Type: LAB, Campus: ATL, Meets: Th 2:30-3:20p; Th 3:20-5:50p, Instructor: J. Soria, Status: Open",
+    "date_accessed": "2024-03-30"
 }

@@ -1,6 +1,6 @@
 {
-    "course_code": "DPT 996",
-    "course_title": "Preceptorship: General Medical Conditions",
+    "course_code": "DPT 994",
+    "course_title": "Service Learning",
     "credit_hours": "3",
     "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
     "waitlist_total": null,
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": "Kathy Lee Bishop - Primary Instructor",
+    "instructors": "Marie A Johanson - Primary Instructor",
     "schedule_location": null,
-    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_996_0_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 1542, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Bishop/Sharp, Status: Open",
-    "date_accessed": "2023-10-31"
+    "course_resources": "https://emory.bncollege.com/course-material/course-finder?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_DPT_994_0_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 1541, Section #: 000, Type: LEC, Campus: ATL, Meets: Does Not Meet, Instructor: Pullen/Johanson, Status: Open",
+    "date_accessed": "2024-03-30"
 }

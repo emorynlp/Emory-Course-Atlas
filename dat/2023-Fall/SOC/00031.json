@@ -1,0 +1,22 @@
+{
+    "course_code": "SOC 508",
+    "course_title": "Advanced Network Analysis",
+    "credit_hours": "3",
+    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 5",
+    "waitlist_total": null,
+    "grading_mode": "Graded",
+    "enrollment_status": "Open",
+    "instruction_method": "In Person",
+    "typically_offered": "Fall and Spring",
+    "requirement_designation": null,
+    "permission": null,
+    "dates": "2023-08-23 through 2023-12-05",
+    "class_notes": "Description:\nNetwork analysis shifts the research focus from individual units to their connections and so brings both theoretical and methodological innovations. Interest in network analysis has EXPLODED in the past few years, due to new advancements in statistical modeling and the rapid availability of network data. This course covers the major methods to collect, represent, and analyze network data. Selected topics include centrality analysis, positional analysis, clustering analysis, the exponential random graph model for modeling network formations, the stochastic actor-oriented model for dynamic network analysis, meta network analysis, weighted network analysis, text network analysis, causal analysis of network effects, and social network-based predictions and interventions. Examples are drawn from a wide range of disciplines. Students will learn hands-on skills to conduct their own research by using R packages. This course requires a basic knowledge of logistic regression and basic programming skills in R.",
+    "course_description": "This course covers the major methods to collect, represent, and analyze network data.",
+    "prerequisites": null,
+    "instructors": "Weihua An - Primary Instructor",
+    "schedule_location": "MW 11:30am-12:45pm in Tarbutton Hall 106",
+    "course_resources": null,
+    "sections": "Class Nbr: 3953, Section #: 1, Type: LEC, Campus: ATL, Meets: MW 11:30a-12:45p, Instructor: W. An, Status: Open",
+    "date_accessed": "2024-03-30"
+}

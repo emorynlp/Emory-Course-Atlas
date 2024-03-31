@@ -1,8 +1,8 @@
 {
-    "course_code": "MDP 507",
-    "course_title": "Interdisciplinary Field Seminar I",
+    "course_code": "MDP 510",
+    "course_title": "Gender and Development",
     "credit_hours": "3",
-    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 14",
+    "seats": "Seats: Maximum Enrollment: 25 / Seats Avail: 4",
     "waitlist_total": null,
     "grading_mode": "Graded",
     "enrollment_status": "Open",
@@ -12,11 +12,11 @@
     "permission": "Department Consent Required",
     "dates": "2024-01-17 through 2024-04-29",
     "class_notes": null,
-    "course_description": "This seminar prepares MDP's aspiring development professionals for their summer field practicum, during which they work as \"embedded practitioners\" with ongoing projects at organizations like CARE, UNICEF, TNC, FAO, etc. Through this course, students prepare by examining several case studies of major development interventions and the very different kinds of impacts the same intervention may have according to the context in which it is implemented. Through extensive use of case studies, this course exposes students to broad-ranging discussion and debate about the effectiveness of the most important forms of development intervention that are and have been employed around the world by major development organizations. The examination of distinct cases brings out the importance of issues of scale, both spatial and temporal, in understanding the impact of development interventions. A primary goal of the course is to provide students with conceptual frameworks that allow them to identify the context-specific factors that affect the on-the-ground implementation of general development plans and strategies. The focus on context, scale, and on the factors that shape both, compels students to school themselves in the broad, interdisciplinary approach to development upon which the MDP program is based.",
+    "course_description": "MDP 510 is designed to familiarize students with approaches to gender in development practice. This requires an understanding of how gender serves as a vector of difference that shapes people's access to and use of power in different settings and to examine how and why this matters in \"doing development.\" The course will consider gender analyses from both within and outside of development literature. The purpose of this course is to familiarize students with the history of gender and development; prominent tensions that continue to impact and shape the field; theoretical and practical approaches to understanding gender and development; an array of institutions, approaches and people addressing these issues in specific ways. The course is divided into three sections. During the first section, we examine the history of gender and development, including major conceptual shifts in approach, institutional interventions and national and international agreements that have sought to address gender concerns. The second section uses sector-based case studies and guest experts to examine specific ways that gender analyses have been adopted and the kinds of insights that such analysis has provided in varied development sectors. In the final section of the course, we draw on additional feminist critiques to examine how different development actors are pushing beyond institutionalized tools of gender analysis to address critiques from within and outside of development organizations.",
     "prerequisites": null,
-    "instructors": "Hilary King - Primary Instructor",
-    "schedule_location": "T 2:30pm-5:30pm in Registrar Room Pool",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MDP_507_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 2379, Section #: 1, Type: SEM, Campus: ATL, Meets: T 2:30-5:30p, Instructor: H. King, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": "Alyssa Bovell - Primary Instructor",
+    "schedule_location": "W 4pm-7pm in New Psyc Bldg 225 (36 Eagle Ro",
+    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_MDP_510_1_W24&utm_source=wcs&utm_medium=registration_integration",
+    "sections": "Class Nbr: 2377, Section #: 1, Type: LEC, Campus: ATL, Meets: W 4-7p, Instructor: A. Bovell, Status: Open",
+    "date_accessed": "2024-03-30"
 }

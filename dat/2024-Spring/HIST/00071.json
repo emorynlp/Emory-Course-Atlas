@@ -1,12 +1,12 @@
 {
-    "course_code": "HIST 790B",
-    "course_title": "Professionalization Seminars",
-    "credit_hours": "1",
-    "seats": "Seats: Maximum Enrollment: 10 / Seats Avail: 10",
+    "course_code": "HIST 599R",
+    "course_title": "Research",
+    "credit_hours": "1-9",
+    "seats": "Seats: Maximum Enrollment: 1 / Seats Avail: 0",
     "waitlist_total": null,
     "grading_mode": "Satisfactory/Unsatisfactory",
-    "enrollment_status": "Open",
-    "instruction_method": "Distance Learning",
+    "enrollment_status": "Closed",
+    "instruction_method": "In Person",
     "typically_offered": null,
     "requirement_designation": null,
     "permission": "Department Consent Required",
@@ -14,9 +14,9 @@
     "class_notes": null,
     "course_description": null,
     "prerequisites": null,
-    "instructors": "Jason Ward - Primary Instructor",
-    "schedule_location": "Th 12pm-2pm in ONLINE",
-    "course_resources": "https://emory.bncollege.com/course-material-listing-page?utm_campaign=storeId=65062_langId=-1_courseData=BN%20at%20Emory_HIST_790B_1_W24&utm_source=wcs&utm_medium=registration_integration",
-    "sections": "Class Nbr: 3757, Section #: 1, Type: SEM, Campus: ONLIN, Meets: Th 12-2p, Instructor: J. Ward, Status: Open",
-    "date_accessed": "2023-10-31"
+    "instructors": null,
+    "schedule_location": null,
+    "course_resources": null,
+    "sections": "Class Nbr: This section is full 5549, Section #: 1, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: T. Andrade, Status: Closed\nClass Nbr: This section is full 5550, Section #: 2, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Eckert/Vick, Status: Closed\nClass Nbr: This section is full 5551, Section #: 3, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: W. Rucker, Status: Closed\nClass Nbr: This section is full 5552, Section #: 4, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: C. Suddler, Status: Closed\nClass Nbr: This section is full 5553, Section #: 5, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: Dudziak/LaChance, Status: Closed\nClass Nbr: This section is full 5554, Section #: 6, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: G. Pandey, Status: Closed\nClass Nbr: This section is full 6387, Section #: 7, Type: SUP, Campus: ATL, Meets: Does Not Meet, Instructor: M. Lowery, Status: Closed",
+    "date_accessed": "2024-03-30"
 }

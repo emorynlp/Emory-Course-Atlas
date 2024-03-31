@@ -2,10 +2,10 @@
     "course_code": "PSYC_OX 111",
     "course_title": "Introduction to Psychology II:  Development, Social Behavior and Individual Differences",
     "credit_hours": "3",
-    "seats": "Seats: Varies by section",
-    "waitlist_total": null,
+    "seats": "Seats: Maximum Enrollment: 28 / Seats Avail: 0Waitlist Total: 0 of 6",
+    "waitlist_total": ": 0 of 6",
     "grading_mode": "Student Option",
-    "enrollment_status": "Open",
+    "enrollment_status": "Wait List",
     "instruction_method": "In Person",
     "typically_offered": "Fall and Spring",
     "requirement_designation": "Social Sciences(*)",
@@ -17,6 +17,6 @@
     "instructors": "Leyla Eghbalzad - Primary Instructor",
     "schedule_location": "Varies by section",
     "course_resources": null,
-    "sections": "Class Nbr: 4282, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: L. Eghbalzad, Status: Open\nClass Nbr: 4283, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: L. Eghbalzad, Status: Open",
-    "date_accessed": "2023-10-31"
+    "sections": "Class Nbr: 4282, Section #: 1, Type: LEC, Campus: OXF, Meets: MW 11:30a-12:45p, Instructor: L. Eghbalzad, Status: Wait List\nClass Nbr: 4283, Section #: 2, Type: LEC, Campus: OXF, Meets: MW 10-11:15a, Instructor: L. Eghbalzad, Status: Wait List",
+    "date_accessed": "2024-03-31"
 }
